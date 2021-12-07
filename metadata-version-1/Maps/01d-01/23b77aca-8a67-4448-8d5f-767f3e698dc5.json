@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "23b77aca-8a67-4448-8d5f-767f3e698dc5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hoosier National Forest Indiana: Tell City Ranger District",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "23b77aca-8a67-4448-8d5f-767f3e698dc5",
+  "solr_geom": "ENVELOPE(-86.86,-86.28,39,37.81)",
+  "solr_year_i": "1958",
+  "dc_description_s": "Blue line print.; This map was compiled by the U.S. Forest Service, Milwaukee, Wis. 1956 by photographic reproduction of Indiana State Highway Commission county maps.; Shaded areas show National forest lands as of January, 1958.; J-2-43. Scale approximately 1:126,720",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00015\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00015\"}",
+  "dct_spatial_sm": [
+    "Hoosier National Forest, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Forest Service?",
+  "dct_temporal_sm": [
+    "1958?"
+  ]
+}

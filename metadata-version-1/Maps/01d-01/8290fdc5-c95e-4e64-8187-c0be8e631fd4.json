@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8290fdc5-c95e-4e64-8187-c0be8e631fd4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of flood-prone areas :Greencastle Quadrangle, Indiana-Putnam Co. /United States, Department of the Interior, Geological Survey.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "8290fdc5-c95e-4e64-8187-c0be8e631fd4",
+  "solr_geom": "ENVELOPE(-86.86,-86.75,39.75,39.61)",
+  "solr_year_i": "1970",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.), cartographer."
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights.; 7.5 U.S. topographic map with flood-prone areas designated north and northeast of Greencastle, Indiana.; Base map: Indiana, 7.5 minute series USGS topo sheet Greencastle Ind.,1958.; At bottom left: The purpose of the flood-prone area maps is to show to administrators, planners, and engineers concerned with future land developments those areas that are subject to flooding.; At foot of map: This map is not intended to show the limits of the flood plain over which state or local agencies have regulatory authority.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00867\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00867\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Greencastle, Indiana",
+    "Putnam County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "United States, Department of the Interior, Geological Survey",
+  "dct_temporal_sm": [
+    "1970"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6158f628-52e6-487f-9bb8-b49598fa1148",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bicycle map, City of Bloomington /prepared by the Bloomington Bicycle & Pedestrian Safety Commission.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "6158f628-52e6-487f-9bb8-b49598fa1148",
+  "solr_geom": "ENVELOPE(-86.54,-86.5,39.18,39.14)",
+  "solr_year_i": "1998",
+  "dc_creator_sm": [
+    "Bloomington Bicycle & Pedestrian Safety Commission (Bloomington, Ind.)"
+  ],
+  "dc_description_s": "Fall 1998--Panel.; Includes list of agencies to contact for further information and area bicycle shops.; On verso: Downtown Bloomington bicycle map. Scale [ca. 10,800], bicycle and motorist safety rules, and illustrations of some of the safety rules.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00133\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00133\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Bloomington, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ]
+}

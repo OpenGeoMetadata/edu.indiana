@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000613",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-78-Б Волма (Volma, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000613",
+  "solr_geom": "ENVELOPE(27,26.75,54,53.833)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Modern area represented: Volma, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/bnds0dt2uq5fy43hzjxkqa3vleb2pvkm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000613\"}",
+  "dct_spatial_sm": [
+    "Volma, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:15Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1908",
+  "dct_temporal_sm": [
+    "1908-1933"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002708",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-33-81 Високе Мито (Vysoké Mýto, Czech Republic)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002708",
+  "solr_geom": "ENVELOPE(16.5,16,50,49.667)",
+  "solr_year_i": "1869",
+  "dc_description_s": "Modern area represented: Vysoké Mýto, Pardubice region, Czech Republic; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/po5kc0q4bacze7ar8qc2d5ys7qlns3qg\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002708\"}",
+  "dct_spatial_sm": [
+    "Vysoké Mýto, Czech Republic",
+    "Czech Republic"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:33Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1869",
+  "dct_temporal_sm": [
+    "1869-1941"
+  ]
+}

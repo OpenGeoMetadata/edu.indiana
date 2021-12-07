@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "844957eb-ded3-4af5-be27-58f0515df5fb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Geist Reservoir, showing depth contours, Marion and Hamilton County",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "844957eb-ded3-4af5-be27-58f0515df5fb",
+  "solr_geom": "ENVELOPE(-85.98,-85.88,39.95,39.8801)",
+  "solr_year_i": "1959",
+  "dc_description_s": "Black line print.; Relief shown by contours.; Map adapted from a map furnished by the Indianapolis Water Company.; 1959. Scale approximately 1:13,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00169\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00169\"}",
+  "dct_spatial_sm": [
+    "Geist Reservoir, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Division",
+  "dct_temporal_sm": [
+    "1959"
+  ]
+}

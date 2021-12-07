@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001379",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-65-Б Рудня (Rudnya, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001379",
+  "solr_geom": "ENVELOPE(32.5,32.25,54.3333,54.1667)",
+  "solr_year_i": "1924",
+  "dc_description_s": "Modern area represented: Rudnya, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/zdpjhu6pqfin06d31rca0i85potxqyee\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001379\"}",
+  "dct_spatial_sm": [
+    "Rudnya, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:27Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Военно-топографическое управление",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924-1926"
+  ]
+}

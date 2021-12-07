@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002371",
+  "dc_rights_s": "Public",
+  "dc_title_s": "P-35-86 Луопиойнен (Luopioinen, Finland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002371",
+  "solr_geom": "ENVELOPE(25,24.5,61.667,61.333)",
+  "solr_year_i": "1917",
+  "dc_description_s": "Modern area represented: Luopioinen, Finland; Scale =1:100,000; Временное издание Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/x0skr5u4ju69nb24l8nd08q3b4y36wgd\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002371\"}",
+  "dct_spatial_sm": [
+    "Luopioinen, Finland",
+    "Finland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:55Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1917",
+  "dct_temporal_sm": [
+    "1917"
+  ]
+}

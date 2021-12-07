@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "422cc470-50a0-45af-b7fd-f49ef435ae2f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Survey of the mouth of Trail Creek, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "422cc470-50a0-45af-b7fd-f49ef435ae2f",
+  "solr_geom": "ENVELOPE(-86.9101,-86.8001,41.75,41.6501)",
+  "solr_year_i": "1834",
+  "dc_creator_sm": [
+    "Berrien,  John Macpherson, -1876, cartographer."
+  ],
+  "dc_description_s": "Relief shown by hachures.; Profile: Section of the proposed breakwater.; Probably detached from a document in the congressional series, doc. 194. Scale approximately 1:1,520,640. 24 inches to 1 mile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00024\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00024\"}",
+  "dct_spatial_sm": [
+    "Trail Creek, Indiana",
+    "Michigan City, Indiana",
+    "Indiana",
+    "LaPorte County, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Army Corps Of Engineers",
+  "dct_temporal_sm": [
+    "1834"
+  ]
+}

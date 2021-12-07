@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3658d2c3-04d7-4ffb-8ae3-bc4b0b42472c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "War Department installations :Fifth Service Command : a section of the strategic map of the United States reduced in scale /War Department, Fifth Service Command, Corps of Engineers.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "3658d2c3-04d7-4ffb-8ae3-bc4b0b42472c",
+  "solr_geom": "ENVELOPE(-90,-77,41,36)",
+  "solr_year_i": "1943",
+  "dc_creator_sm": [
+    "United States.Army Service Forces.Service Command, 5th."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights.; First revision March 1, 1943.; Map extends from Springfield, Ill. on the west to Martinsburg, W. Va. on the east and Chicago on the north to the Kentucky-Tennessee border on the south.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00672\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00672\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Fifth Service Command",
+  "dct_temporal_sm": [
+    "1943"
+  ]
+}

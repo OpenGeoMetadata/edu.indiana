@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5be50a66-cb6b-4745-a7b9-0220dadd296b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Area map: Nashville and park entrance.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "5be50a66-cb6b-4745-a7b9-0220dadd296b",
+  "solr_geom": "ENVELOPE(-86.2301,-86.2,39.2,39.18)",
+  "solr_year_i": "1970",
+  "dc_description_s": "Blue line print.; Shows corporate limits of Nashville Indiana, roads, some buildings, Salt Creek, the north entrance to Brown County State Park and distances to Bloomington, Indianapolis, and Columbus. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00225\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00225\"}",
+  "dct_spatial_sm": [
+    "Nashville, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1970?"
+  ]
+}

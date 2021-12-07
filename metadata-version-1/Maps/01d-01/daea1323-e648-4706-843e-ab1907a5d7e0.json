@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "daea1323-e648-4706-843e-ab1907a5d7e0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the city of Terre Haute, Indiana, 1927",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "daea1323-e648-4706-843e-ab1907a5d7e0",
+  "solr_geom": "ENVELOPE(-87.46,-87.2601,39.5101,39.4)",
+  "solr_year_i": "1927",
+  "dc_description_s": "Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00379\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00379\"}",
+  "dct_spatial_sm": [
+    "Terre Haute, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Moore-Langen Ptg. & Pub. Co.",
+  "dct_temporal_sm": [
+    "1927"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00695",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Clark County Indiana, from the latest official surveys & records",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00695",
+  "solr_geom": "ENVELOPE(-86,-85.41,38.6,38.26)",
+  "solr_year_i": "1875",
+  "dc_creator_sm": [
+    "Davis, George W. (Civil Engineer)"
+  ],
+  "dc_description_s": "Cadastral map showing landowners. Originally printed in 3 sheets. Insets: Geological map of Clark County, Indiana -- Map of Indiana. Includes statistical tables for the county, lists of county officials, references and explanations, and scenes around the county. Scale 1:31,680. 40 chains to the inch. Drawn and compiled by George W. Davis.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00695\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00695\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Clark County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Chas. A. McCann & David S. Koons",
+  "dct_issued_s": "1875",
+  "dct_temporal_sm": [
+    "1875"
+  ]
+}

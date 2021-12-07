@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b03c56a3-e079-49bc-a51a-9cea1cac2be8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing oil and gas fields in Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "b03c56a3-e079-49bc-a51a-9cea1cac2be8",
+  "solr_geom": "ENVELOPE(-88,-84.75,41.75,37.75)",
+  "solr_year_i": "1962",
+  "dc_creator_sm": [
+    "Dawson,  T. A.(Thomas Albert), 1916-cartographer."
+  ],
+  "dc_description_s": "Compilation complete to April 1960.; Includes list of Names and locations of oil and gas fields and Index map showing sources used in compilation. Scale 1:500,000. Approximately 1 inch equals 8 miles; Lambert conformal conic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00419\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00419\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Dept. of Conservation, Geological Survey",
+  "dct_temporal_sm": [
+    "1962"
+  ]
+}

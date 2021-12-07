@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002804",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-35-81-Г Псков (Pskov, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002804",
+  "solr_geom": "ENVELOPE(28.5,28.25,57.833,57.667)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Modern area represented: Псков (Pskov), Псковская область (Pskovskaya oblast), Russia; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/cqk111oe834hljwegrq0arefr0d62yrh\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002804\"}",
+  "dct_spatial_sm": [
+    "Pskov, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:42Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

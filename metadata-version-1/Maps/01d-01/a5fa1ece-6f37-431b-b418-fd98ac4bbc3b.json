@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a5fa1ece-6f37-431b-b418-fd98ac4bbc3b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Greater Indianapolis ;: with adjoining sections of Boone, Hamilton, Morgan, and Johnson Counties, with accompanying book index.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "a5fa1ece-6f37-431b-b418-fd98ac4bbc3b",
+  "solr_geom": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
+  "solr_year_i": "1976",
+  "dc_description_s": "Shows radial distances. Scale approximately 1:27,500.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00127\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00127\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ]
+}

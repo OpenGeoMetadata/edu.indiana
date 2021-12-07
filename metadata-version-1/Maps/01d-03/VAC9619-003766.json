@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003766",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-56-Б-в Дидлаккен (Tel’manovo, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003766",
+  "solr_geom": "ENVELOPE(21.875,21.75,54.5833,54.5)",
+  "solr_year_i": "1921",
+  "dc_description_s": "Modern area represented: Тельманово (Tel’manovo), Kaliningradskaya oblast, Russia; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/p0yx2gfuv8rh3w16l9mt4yioicz48tta\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003766\"}",
+  "dct_spatial_sm": [
+    "Tel’manovo, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:59Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921-1940"
+  ]
+}

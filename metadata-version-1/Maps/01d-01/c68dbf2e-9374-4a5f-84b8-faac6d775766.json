@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c68dbf2e-9374-4a5f-84b8-faac6d775766",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Precinct map of Dubois County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "c68dbf2e-9374-4a5f-84b8-faac6d775766",
+  "solr_geom": "ENVELOPE(-87.06,-86.68,38.53,38.2)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Wilson,  George R., 1863-1941, cartographer."
+  ],
+  "dc_description_s": "Scale approximately 1:150,000. each square = 1 mile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00424\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00424\"}",
+  "dct_spatial_sm": [
+    "Dubois County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Birdseye News",
+  "dct_temporal_sm": [
+    "1900"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00785",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Vermillion County, Indiana with principal towns",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00785",
+  "solr_geom": "ENVELOPE(-87.53,-87.38,40.15,39.61)",
+  "solr_year_i": "1872",
+  "dc_creator_sm": [
+    "Tarrance, James"
+  ],
+  "dc_description_s": "Cadastral map showing landowners. Shows Commissioners Districts. Includes maps of Perrysville, Eugene, Newport, railroads of Indiana, and Clinton and drawing of Court House. Scale 1:42,240. 1 mile to 1 1/2 inches. Compiled and drafted from original surveys and records of the county by Jas. Tarrance.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00785\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00785\"}",
+  "dct_spatial_sm": [
+    "Perrysville, Indiana",
+    "Vermillion County, Indiana",
+    "Newport, Indiana",
+    "Clinton, Indiana",
+    "Eugene, Indiana",
+    "Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1872",
+  "dct_temporal_sm": [
+    "1872"
+  ]
+}

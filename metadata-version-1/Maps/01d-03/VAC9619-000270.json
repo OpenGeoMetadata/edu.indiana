@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000270",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-22-В Скаудвиле (Skaudvilė, Lithuania)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000270",
+  "solr_geom": "ENVELOPE(22.75,22.5,55.5,55.3333)",
+  "solr_year_i": "1893",
+  "dc_description_s": "Modern area represented: Skaudvilė, Lithuania; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/w2h5kazshug0tc001m5ryzy7hp8exwfn\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000270\"}",
+  "dct_spatial_sm": [
+    "Skaudvilė, Lithuania",
+    "Lithuania"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:52Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893-1940"
+  ]
+}

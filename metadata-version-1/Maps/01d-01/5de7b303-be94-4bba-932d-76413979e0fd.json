@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5de7b303-be94-4bba-932d-76413979e0fd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Railroad distance & township map of Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "5de7b303-be94-4bba-932d-76413979e0fd",
+  "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "solr_year_i": "1871",
+  "dc_creator_sm": [
+    "Bridgman,  E. C., cartographer."
+  ],
+  "dc_description_s": "Shows railroads, counties, townships, cities, towns, and railroad stations.; Includes Description on Indiana; 1870 census figures for counties, cities, and larger towns; Laws of Indiana; and Literary Institutions of the state along both sides of the map.; W. Roberts, sc, NY.; Entered according to Act of congress, by E.C. Bridgman, in the year 1871, in the Office of the Librarian of Congress, at Washington. Scale approximately 1:675,000.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074244/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00153\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "E.C. Bridgman",
+  "dct_temporal_sm": [
+    "1871"
+  ]
+}

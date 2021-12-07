@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003828",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-76-Г-в Биберсвальде (Liwa, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003828",
+  "solr_geom": "ENVELOPE(19.875,19.75,53.75,53.667)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Modern area represented: Liwa, Poland; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/fcvcemp8m1uklvie1q56497htug241zi\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003828\"}",
+  "dct_spatial_sm": [
+    "Liwa, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:02Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910-1941"
+  ]
+}

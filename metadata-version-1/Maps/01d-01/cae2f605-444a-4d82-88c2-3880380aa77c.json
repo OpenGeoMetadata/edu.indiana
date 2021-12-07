@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "cae2f605-444a-4d82-88c2-3880380aa77c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Washington County [Indiana] land use map: preliminary",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "cae2f605-444a-4d82-88c2-3880380aa77c",
+  "solr_geom": "ENVELOPE(-86.3001,-85.8301,38.78,38.41)",
+  "solr_year_i": "1940",
+  "dc_description_s": "Includes chart showing type of land use, acreage, and recommended use. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Land use"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00034\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00034\"}",
+  "dct_spatial_sm": [
+    "Washington County, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-08T19:42:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Committee",
+  "dct_temporal_sm": [
+    "1940?"
+  ]
+}

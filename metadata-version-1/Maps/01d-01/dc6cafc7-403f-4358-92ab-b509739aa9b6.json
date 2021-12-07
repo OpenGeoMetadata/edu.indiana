@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dc6cafc7-403f-4358-92ab-b509739aa9b6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "1937 map of La Porte County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "dc6cafc7-403f-4358-92ab-b509739aa9b6",
+  "solr_geom": "ENVELOPE(-86.93,-86.48,41.7501,41.23)",
+  "solr_year_i": "1936",
+  "dc_creator_sm": [
+    "Kelley,  John A., C.E., cartographer."
+  ],
+  "dc_description_s": "Complements of John A. Kelley, Democratic candidate for Surveyor. Scale approximately 1:120,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074580/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00566\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "LaPorte County, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "John A. Kelley?",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

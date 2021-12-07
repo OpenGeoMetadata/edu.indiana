@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "93bf78c2-46e6-41fe-a319-ba2c2284a59d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Land use map: Real property inventory, 1935: Terre Haute Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "93bf78c2-46e6-41fe-a319-ba2c2284a59d",
+  "solr_geom": "ENVELOPE(-87.46,-87.2601,39.5101,39.4)",
+  "solr_year_i": "1935",
+  "dc_description_s": "Blueline.; Project 84-F2-79.; This map shows the type of use of all land frontage. The depth of structures was disregarded. No attempt was made to distinguish single structures in a series of the same type. Scale approximately 1:18,200.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00366\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00366\"}",
+  "dct_spatial_sm": [
+    "Terre Haute, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T19:42:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Governor's Commission on Unemployment Relief",
+  "dct_temporal_sm": [
+    "1935?"
+  ]
+}

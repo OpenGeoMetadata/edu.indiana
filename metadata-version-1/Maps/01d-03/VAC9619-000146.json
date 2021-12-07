@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000146",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-126-В Модлин (Nowy Dwór Mazowiecki, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000146",
+  "solr_geom": "ENVELOPE(20.6667,20.5,52.5,52.3333)",
+  "solr_year_i": "1890",
+  "dc_description_s": "Modern area represented: Nowy Dwór Mazowiecki, Poland; Scale =1:50,000; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/bzcmuwk2f62occfrfn4wf8v0o1rvu4yq\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000146\"}",
+  "dct_spatial_sm": [
+    "Nowy Dwór Mazowiecki, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:50Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1890",
+  "dct_temporal_sm": [
+    "1890-1941"
+  ]
+}

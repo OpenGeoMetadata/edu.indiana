@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00779",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic map of the Knobstone group, Indiana (Crawfordsville sheet)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00779",
+  "solr_geom": "ENVELOPE(-87.11,-85.86,40.11,39.06)",
+  "solr_year_i": "1901",
+  "dc_creator_sm": [
+    "Newsom, John F. (John Flesher),1869-1928"
+  ],
+  "dc_description_s": "From the 26th Annual report of the Department of Geology and Natural Resources of Indiana, 1901. 'Plate IV.' Scale 1:190,080. 3 miles = 1 in. By J.F. Newsom, director, and assistants.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00779\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00779\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:57:13Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Department of Geology and Natural Resources|William B. Burford",
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1901"
+  ]
+}

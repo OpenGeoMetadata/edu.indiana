@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e015b742-545a-41f5-aba6-e4c9eb060ffe",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Soil map, Indiana, Monroe County sheet",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "e015b742-545a-41f5-aba6-e4c9eb060ffe",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1922",
+  "dc_description_s": "Relief shown by contours.; Shows distribution of soil types by colors and symbols.; In lower margin: Williams & Heintz Co. Washington D.C.; Base map in part from U.S. Geological Survey sheets. Scale approximately 1:63,360.1 inch = 1 mile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00651\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00651\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Bureau",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

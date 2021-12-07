@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1c44c0be-24cb-458d-b5a6-bf6f3dee22be",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Soils: [Indiana]",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "1c44c0be-24cb-458d-b5a6-bf6f3dee22be",
+  "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Blueprint.; Atlas of American agriculture (plate 5, section 7).; 1936. Scale approximately 1:500,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00609\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00609\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Board",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

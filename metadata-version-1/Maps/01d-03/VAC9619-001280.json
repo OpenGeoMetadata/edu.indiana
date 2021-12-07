@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001280",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-32-Г (Sakulino, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001280",
+  "solr_geom": "ENVELOPE(34,33.75,55.167,55)",
+  "solr_year_i": "1939",
+  "dc_description_s": "Modern area represented: Sakulino, Smolensk oblast, Russia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ipvd2sdm7bvf9jdqcqenzz0mydqfv0qm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001280\"}",
+  "dct_spatial_sm": [
+    "Sakulino, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:23Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Главное Управление Геодезии и Картографии при СНК СССР",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939-1941"
+  ]
+}

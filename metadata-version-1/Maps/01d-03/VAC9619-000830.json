@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000830",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-143-Г Калинковичи (Kalinkavichy, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000830",
+  "solr_geom": "ENVELOPE(29.5,29.25,52.1667,52)",
+  "solr_year_i": "1929",
+  "dc_description_s": "Modern area represented: Калинкавичы (Kalinkavichy), Homyel' oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/es9truhpsd781zogbbq0tifws07aasw9\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000830\"}",
+  "dct_spatial_sm": [
+    "Kalinkavichy, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:09Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

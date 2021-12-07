@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000221",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-35-54-B Кривин (Staryi Kryvyn, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000221",
+  "solr_geom": "ENVELOPE(26.75,26.5,50.5,50.333)",
+  "solr_year_i": "1889",
+  "dc_description_s": "Modern area represented: Staryi Kryvyn, Khmelnytskyi oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/tanr5zy68xp8rypihqocw4kntpp533a9\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000221\"}",
+  "dct_spatial_sm": [
+    "Staryi Kryvyn, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:41Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1889",
+  "dct_temporal_sm": [
+    "1889-1937"
+  ]
+}

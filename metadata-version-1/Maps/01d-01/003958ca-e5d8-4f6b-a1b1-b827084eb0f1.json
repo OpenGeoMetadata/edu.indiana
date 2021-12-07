@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "003958ca-e5d8-4f6b-a1b1-b827084eb0f1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Commuting patterns between counties.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "003958ca-e5d8-4f6b-a1b1-b827084eb0f1",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1970",
+  "dc_description_s": "Source: 1970 census.; Counts of under 50 are omitted. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00354\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00354\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Research and Statistics Section, Indiana Employment Security Division",
+  "dct_temporal_sm": [
+    "1970?"
+  ]
+}

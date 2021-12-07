@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "97168d9a-b191-4cb6-8088-a45ad499c1be",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Important farmlands, St. Joseph County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "97168d9a-b191-4cb6-8088-a45ad499c1be",
+  "solr_geom": "ENVELOPE(-86.48,-86.05,41.7501,41.4501)",
+  "solr_year_i": "1986",
+  "dc_description_s": "Shows land use.; Includes vicinity map, text, and sectionalized township.; March 1986.; Base 4-R-39699. Scale approximately 1:50,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00087\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00087\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Saint Joseph County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T19:42:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Service",
+  "dct_temporal_sm": [
+    "1986"
+  ]
+}

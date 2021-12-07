@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003801",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-65-Г-б Лаунау (Łaniewo, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003801",
+  "solr_geom": "ENVELOPE(20.5,20.375,54.167,54.083)",
+  "solr_year_i": "1913",
+  "dc_description_s": "Modern area represented: Łaniewo, Poland; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/bpkve4kp1ubg7sr1tksawf5r63ysm4u0\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003801\"}",
+  "dct_spatial_sm": [
+    "Łaniewo, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:00Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913-1941"
+  ]
+}

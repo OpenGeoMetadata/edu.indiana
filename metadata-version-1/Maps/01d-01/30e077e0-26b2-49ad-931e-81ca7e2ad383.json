@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "30e077e0-26b2-49ad-931e-81ca7e2ad383",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Posey County, Indiana, showing structure on the Springfield coal member of the Petersburg formation (Pennsylvanian)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "30e077e0-26b2-49ad-931e-81ca7e2ad383",
+  "solr_geom": "ENVELOPE(-88.1,-87.68,38.23,37.76)",
+  "solr_year_i": "1997",
+  "dc_creator_sm": [
+    "Ault,  Curtis H., cartographer."
+  ],
+  "dc_description_s": "Relief shown by contours.; Coordinates printed at top and lower margin are incorrect.; Includes index map, text, and sectionized township diagram. Scale approximately 1:66,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00334\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00334\"}",
+  "dct_spatial_sm": [
+    "Posey County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana University, Indiana Geological Survey",
+  "dct_temporal_sm": [
+    "1997"
+  ]
+}

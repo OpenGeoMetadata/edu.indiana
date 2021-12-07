@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001608",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-37-63-А Панковичи (Pankovichi, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001608",
+  "solr_geom": "ENVELOPE(37.25,37,54.3333,54.1667)",
+  "solr_year_i": "1938",
+  "dc_description_s": "Modern area represented: Pankovichi, Tula oblast, Russia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/rmzk1qhkox2p563cqdf1x0ndjzy9jyd6\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001608\"}",
+  "dct_spatial_sm": [
+    "Pankovichi, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:33Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Главное Управление Геодезии и Картографии при СНК СССР",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1938",
+  "dct_temporal_sm": [
+    "1938-1941"
+  ]
+}

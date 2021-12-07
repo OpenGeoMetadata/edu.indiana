@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002358",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L-37-98 Тамань (Taman, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002358",
+  "solr_geom": "ENVELOPE(37,36.5,45.333,45)",
+  "solr_year_i": "1933",
+  "dc_description_s": "Modern area represented: Taman, Russia; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/e2teio3gitycutyvnyep4ujyx8z96bw7\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002358\"}",
+  "dct_spatial_sm": [
+    "Taman, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:28Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1933",
+  "dct_temporal_sm": [
+    "1933-1941"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3ca23d24-2e7f-4e3e-a139-7b94daa82621",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Muncie, Indiana: made especially for the Emerson directory, 1895-6",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "3ca23d24-2e7f-4e3e-a139-7b94daa82621",
+  "solr_geom": "ENVELOPE(-85.45,-85.31,40.23,40.1301)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Hefel,  Toney C., cartographer."
+  ],
+  "dc_description_s": "Includes numbered index to businesses and other points of interest.; Shows street railways and steam railroads. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074563/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00422\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "City of Muncie, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "C. Emerson",
+  "dct_temporal_sm": [
+    "1895"
+  ]
+}

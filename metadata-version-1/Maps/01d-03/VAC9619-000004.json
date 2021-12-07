@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000004",
+  "dc_rights_s": "Public",
+  "dc_title_s": "О-36-1-Г Пушкин (Pushkin, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000004",
+  "solr_geom": "ENVELOPE(30.5,30.25,59.8333,59.6667)",
+  "solr_year_i": "1939",
+  "dc_description_s": "Modern area represented: Pushkin, Russia; Scale =1:50,000; Секретно",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/845b7g7b72z0gbek1q6mhfdvp3ff4tnj\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000004\"}",
+  "dct_spatial_sm": [
+    "Pushkin, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:09Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939-1941"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000443",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-15-Г Лелюны (Leliūnai, Lithuania)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000443",
+  "solr_geom": "ENVELOPE(25.5,25.25,55.5,55.3333)",
+  "solr_year_i": "1900",
+  "dc_description_s": "Modern area represented: Leliūnai, Lithuania; Scale =1:50,000; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ai2ws5im7vofyeyujqve1b47p60h9je2\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000443\"}",
+  "dct_spatial_sm": [
+    "Leliūnai, Lithuania",
+    "Lithuania"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:09Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900-1931"
+  ]
+}

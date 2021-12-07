@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0dd569b5-cb64-4a9e-8ae1-e95a3382ec42",
+  "dc_rights_s": "Public",
+  "dc_title_s": "1936-37 map and business directory of Angola",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "0dd569b5-cb64-4a9e-8ae1-e95a3382ec42",
+  "solr_geom": "ENVELOPE(-85.03,-84.96,41.6601,41.61)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Includes street index and business directory of Angola, Ind. around the maps. Scale approximately 1:8,800.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00593\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00593\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Angola, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "C.W. Chadwick",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

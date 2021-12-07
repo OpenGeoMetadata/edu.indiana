@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002310",
+  "dc_rights_s": "Public",
+  "dc_title_s": "P-34-137 Лемланд (Lemland, Finland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002310",
+  "solr_geom": "ENVELOPE(20.5,20,60.3333,60)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Modern area represented: Lemland, Finland; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/qjpjsp6rz4sp1f1jvsvodtomzs1ss0k4\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002310\"}",
+  "dct_spatial_sm": [
+    "Lemland, Finland",
+    "Finland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:53Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910-1939"
+  ]
+}

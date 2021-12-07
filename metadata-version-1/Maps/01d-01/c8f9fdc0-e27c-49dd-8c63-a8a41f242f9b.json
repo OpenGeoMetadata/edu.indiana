@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c8f9fdc0-e27c-49dd-8c63-a8a41f242f9b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Indianapolis and center township: showing new ward and precinct boundaries, established: Wednesday, June 27th 1906",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "c8f9fdc0-e27c-49dd-8c63-a8a41f242f9b",
+  "solr_geom": "ENVELOPE(-54.71036,-54.559552,-22.161613,-22.355014)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Palmer,  Thos. W.(Thomas W.), cartographer."
+  ],
+  "dc_description_s": "Scale 1:15,840. 4 inches to mile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00411\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00411\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana",
+    "Marion County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-12T21:08:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sentinel Print. Co.",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

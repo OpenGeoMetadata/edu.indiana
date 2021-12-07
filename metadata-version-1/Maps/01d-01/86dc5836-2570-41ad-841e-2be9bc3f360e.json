@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "86dc5836-2570-41ad-841e-2be9bc3f360e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Generalized bedrock map of southern Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "86dc5836-2570-41ad-841e-2be9bc3f360e",
+  "solr_geom": "ENVELOPE(-87.6,-84.78,40.03,37.76)",
+  "solr_year_i": "1951",
+  "dc_creator_sm": [
+    "Patton,  John B.(John Barratt), 1915-cartographer."
+  ],
+  "dc_description_s": "Blue line.; August, 1951.; Not for publication, for correspondence use only--Upper margin. Scale approximately 1:1,500,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00349\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00349\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Dept. of Conservation, Geological Survey",
+  "dct_temporal_sm": [
+    "1951"
+  ]
+}

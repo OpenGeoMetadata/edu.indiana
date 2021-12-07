@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00712",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the city of Gary and vicinity",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00712",
+  "solr_year_i": "1950",
+  "dc_creator_sm": [
+    "Guiney, Donald"
+  ],
+  "dc_description_s": "Lake County - Indiana |Title supplied by cataloger. Produced as a class project in the Indiana University, Geography Department. Land use hand colored in colored pencil. Base map: Gary (Ind.). Dept. of City Engineer. Map of the City of Gary and vicinity. [1950]. Scale approximately 1:29,000. not '1 inch = 1000 feet.' Donald Guiney.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00712\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00712\"}",
+  "dct_spatial_sm": [
+    "Gary, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-27T14:44:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "approximately 1950"
+  ]
+}

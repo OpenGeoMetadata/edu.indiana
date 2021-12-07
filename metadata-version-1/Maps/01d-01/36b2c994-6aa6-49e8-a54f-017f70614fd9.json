@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "36b2c994-6aa6-49e8-a54f-017f70614fd9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The I.U.T. System and connecting lines",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "36b2c994-6aa6-49e8-a54f-017f70614fd9",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1905",
+  "dc_creator_sm": [
+    "Bloomer,  William L.(William Lowe), cartographer."
+  ],
+  "dc_description_s": "Perspective map.; Author and publication information from LC copyright record.; Indiana Union Traction Co., General Offices, Anderson, Ind. Not drawn to scale.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074233/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00143\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "State of Ohio, Ohio"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Wm. L. Bloomer?",
+  "dct_temporal_sm": [
+    "1905"
+  ]
+}

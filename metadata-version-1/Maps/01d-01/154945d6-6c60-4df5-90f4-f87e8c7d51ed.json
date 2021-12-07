@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "154945d6-6c60-4df5-90f4-f87e8c7d51ed",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Adams County Indiana: compiled and drawn from records and surveys",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "154945d6-6c60-4df5-90f4-f87e8c7d51ed",
+  "solr_geom": "ENVELOPE(-85.06,-84.8,40.91,40.56)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Boegley,  Abraham, cartographer."
+  ],
+  "dc_description_s": "Cadastral map showing landowners.; Includes 13 insets of towns in Adams County. Scale approximately 1:31,680. 2 inches to the mile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00403\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00403\"}",
+  "dct_spatial_sm": [
+    "Adams County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Decatur Abstract and Loan Co.",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

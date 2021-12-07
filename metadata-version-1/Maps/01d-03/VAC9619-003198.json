@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003198",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-35-107 Новоржев (Novorzhev, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003198",
+  "solr_geom": "ENVELOPE(29.5,29,57.333,57)",
+  "solr_year_i": "1937",
+  "dc_description_s": "Modern area represented: Новоржев (Novorzhev), Pskovskaya oblast, Russia; Scale =1:100,000; Не подлежит оглашению; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/rkkptj2zjfk4kgijn4rnd2nri6ple2hb\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003198\"}",
+  "dct_spatial_sm": [
+    "Novorzhev, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:37Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1937",
+  "dct_temporal_sm": [
+    "1937"
+  ]
+}

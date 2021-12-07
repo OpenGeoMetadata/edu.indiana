@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3b4ace45-6960-4ca1-99a9-cfa9b2301c71",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New sectional and township map of Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "3b4ace45-6960-4ca1-99a9-cfa9b2301c71",
+  "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "solr_year_i": "1870",
+  "dc_description_s": "Shows sections, townships, counties, populated places, railroads, and canals.; Includes inset showing railroads from Lawrenceburg, Ind. to Cincinnati, charts showing state and county population, Indiana in the 41st Congress, Governors of Indiana, and statistics about education, agriculture and industrial products. Scale approximately 1:380,000",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00039\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00039\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "H.H. Lloyd & Co.",
+  "dct_temporal_sm": [
+    "1870"
+  ]
+}

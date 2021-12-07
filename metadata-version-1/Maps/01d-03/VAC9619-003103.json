@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003103",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-37-42 Зарайск (Zaraysk, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003103",
+  "solr_geom": "ENVELOPE(39,38.5,55,54.667)",
+  "solr_year_i": "1938",
+  "dc_description_s": "Modern area represented: Zaraysk, Russia; Scale =1:100,000; Для служебного пользования Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/9t4bm16wbfjd5kmmgyz4lug1lwpw8sbq\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003103\"}",
+  "dct_spatial_sm": [
+    "Zaraysk, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:32Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1938",
+  "dct_temporal_sm": [
+    "1938-1941"
+  ]
+}

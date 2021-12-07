@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "873be52e-dcc9-4a41-98a5-bbfada5cbbe2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Pike County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "873be52e-dcc9-4a41-98a5-bbfada5cbbe2",
+  "solr_geom": "ENVELOPE(-87.3,-87.06,38.5001,38.2101)",
+  "solr_year_i": "1949",
+  "dc_description_s": "Blueline.; State roads revised to January 1, 1949.; 1937.; Data obtained from State-wide Highway Planning Survey.; Includes location map, chart of Culture in unincorporated places and inset of Original land locations and surveys.; 63. Scale 1:130,000. not 1 inch =1 mile; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00054\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00054\"}",
+  "dct_spatial_sm": [
+    "Pike County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State Highway Commission of Indiana",
+  "dct_temporal_sm": [
+    "1949"
+  ]
+}

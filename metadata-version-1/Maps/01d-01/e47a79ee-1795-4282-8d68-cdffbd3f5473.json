@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e47a79ee-1795-4282-8d68-cdffbd3f5473",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Indiana, base map with highways",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "e47a79ee-1795-4282-8d68-cdffbd3f5473",
+  "solr_geom": "ENVELOPE(-88,-84.75,41.75,37.86)",
+  "solr_year_i": "1977",
+  "dc_description_s": "Shows major highways and railroads. Scale 1:500,000; Lambert conformal conic projection",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00648\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00648\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Survey",
+  "dct_temporal_sm": [
+    "1977"
+  ]
+}

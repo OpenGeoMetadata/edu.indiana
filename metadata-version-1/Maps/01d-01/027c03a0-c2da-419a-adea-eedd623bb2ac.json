@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "027c03a0-c2da-419a-adea-eedd623bb2ac",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Delaware Co.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "027c03a0-c2da-419a-adea-eedd623bb2ac",
+  "solr_geom": "ENVELOPE(-85.58,-85.21,40.38,40.08)",
+  "solr_year_i": "1903",
+  "dc_creator_sm": [
+    "Hefel,  Toney C., cartographer."
+  ],
+  "dc_description_s": "Includes one mile distance circles centered on Muncie. Scale approximately 1:45,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074645/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00625\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Delaware County, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Franklin Co.",
+  "dct_temporal_sm": [
+    "1903"
+  ]
+}

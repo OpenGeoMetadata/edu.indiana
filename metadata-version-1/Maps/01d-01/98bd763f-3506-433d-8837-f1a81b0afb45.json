@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "98bd763f-3506-433d-8837-f1a81b0afb45",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ancient shorelines of southwestern Lake Michigan",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "98bd763f-3506-433d-8837-f1a81b0afb45",
+  "solr_geom": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "Thompson,  Todd A.(Todd Alan), 1959-cartographer."
+  ],
+  "dc_description_s": "Includes ill., text, graphs showing Lake-level fluctuations over the past 4,700 years and a timeline showing historical events since 1166 B.C. tied to specific beach ridges.; Poster 2.1.; The map below was created by tracing beach ridges from a series of aerial photographs of northern Lake and Porter Counties taken in 1938. Scale approximately 1:59,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00193\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00193\"}",
+  "dct_spatial_sm": [
+    "Porter County, Indiana",
+    "Lake County, Indiana",
+    "Lake Michigan",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana University, Indiana Geological Survey",
+  "dct_temporal_sm": [
+    "2000"
+  ]
+}

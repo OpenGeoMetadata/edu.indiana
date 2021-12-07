@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003853",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-79-A-а Кабинен (Kabiny, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003853",
+  "solr_geom": "ENVELOPE(21.125,21,54,53.917)",
+  "solr_year_i": "1915",
+  "dc_description_s": "Modern area represented: Kabiny, Poland; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3kadoz2berpd2gifirh1406c3bqye4rx\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003853\"}",
+  "dct_spatial_sm": [
+    "Kabiny, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:02Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1915",
+  "dct_temporal_sm": [
+    "1915-1941"
+  ]
+}

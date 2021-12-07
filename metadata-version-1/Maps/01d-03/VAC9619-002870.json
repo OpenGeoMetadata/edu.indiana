@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002870",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-34-73 Морав. Острава (Ostrava, Czech Republic)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002870",
+  "solr_geom": "ENVELOPE(18,18.5,50,49.667)",
+  "solr_year_i": "1938",
+  "dc_description_s": "Modern area represented: Ostrava, Moravskoslezský region, Czech Republic; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/76ub125a1x875bvsr92sm3hjna03eqtk\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002870\"}",
+  "dct_spatial_sm": [
+    "Ostrava, Czech Republic",
+    "Czech Republic"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:38Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "1938"
+  ]
+}

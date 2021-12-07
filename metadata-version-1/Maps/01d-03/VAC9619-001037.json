@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001037",
+  "dc_rights_s": "Public",
+  "dc_title_s": "J-38-55 Валдиан (Valdīān, Iran)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001037",
+  "solr_geom": "ENVELOPE(45.5,45,38.6667,38.3333)",
+  "solr_year_i": "1912",
+  "dc_description_s": "Modern area represented: Valdīān, West Azerbaijan, Iran; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/sieoxk8edimnbb8ghu73q8gu8jff9d4g\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001037\"}",
+  "dct_spatial_sm": [
+    "Valdīān, Iran",
+    "Iran"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:17Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1912",
+  "dct_temporal_sm": [
+    "1912-1941"
+  ]
+}

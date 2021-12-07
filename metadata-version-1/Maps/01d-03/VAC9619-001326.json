@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001326",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-50-C (Kozlovichi, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001326",
+  "solr_geom": "ENVELOPE(30.75,30.5,54.5,54.3333)",
+  "solr_year_i": "1923",
+  "dc_description_s": "Modern area represented: Kozlovichi, Vitebsk oblast, Belarus; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/lu39562tnx3l13r62fdofo9m4hbeahin\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001326\"}",
+  "dct_spatial_sm": [
+    "Kozlovichi, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:25Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1923",
+  "dct_temporal_sm": [
+    "1923-1925"
+  ]
+}

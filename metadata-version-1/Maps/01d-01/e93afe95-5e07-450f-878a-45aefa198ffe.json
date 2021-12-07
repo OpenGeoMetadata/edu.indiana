@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e93afe95-5e07-450f-878a-45aefa198ffe",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Marion County, Indiana showing highways & roads",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "e93afe95-5e07-450f-878a-45aefa198ffe",
+  "solr_geom": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
+  "solr_year_i": "1968",
+  "dc_creator_sm": [
+    "Prout,  Joseph E., cartographer."
+  ],
+  "dc_description_s": "January 1, 1968. Scale approximately 1:60,000. Not 1 = 1/2 mile",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00158\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00158\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Marion County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "County Surveyor",
+  "dct_temporal_sm": [
+    "1968?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-004064",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-63 Вороново (Voranava, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-004064",
+  "solr_geom": "ENVELOPE(25.5,25,54.333,54)",
+  "solr_year_i": "1892",
+  "dc_description_s": "Modern area represented: Voranava, Hrodno oblast, Belarus; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/edq57f6qk631qk7uzouhijobwk7guzrx\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004064\"}",
+  "dct_spatial_sm": [
+    "Voranava, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:14Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1892",
+  "dct_temporal_sm": [
+    "1892-1940"
+  ]
+}

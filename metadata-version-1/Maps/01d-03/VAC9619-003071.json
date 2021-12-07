@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003071",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-37-12 Новлянка (Novlyanka, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003071",
+  "solr_geom": "ENVELOPE(42,41.5,56,55.667)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Modern area represented: Novlyanka, Vladimir oblast, Russia; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/lazeqcr62uu69vqaskdqqm8crklfneey\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003071\"}",
+  "dct_spatial_sm": [
+    "Novlyanka, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:31Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-01133",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Monroe County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-01133",
+  "solr_geom": "ENVELOPE(-86.68,-86.31,39.35,38.98)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Fropbenius, Gus",
+    "Van Busklrk, Elmer E."
+  ],
+  "dc_description_s": "Blue line. Cadastral map shwing landowners. Scale approximately 1:32, 000. Compiled from official records by Elmer E. Van Buskirk, County Surveyor, Monroe County, Bloomington, Indiana; drawing by Gus Frobenius.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01133\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01133\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Monroe County Surveyor",
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

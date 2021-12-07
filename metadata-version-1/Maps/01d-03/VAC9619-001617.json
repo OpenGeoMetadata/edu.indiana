@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001617",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-37-93-В",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001617",
+  "solr_geom": "ENVELOPE(40.25,40,53.5,53.3333)",
+  "solr_year_i": "1880",
+  "dc_description_s": "Modern area represented: Russia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/6km6q04af5yassgv7q41vbwhd10oul07\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001617\"}",
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:33Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "between 1880 and 1942"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "642fbb9a-cf98-4723-bb4f-439a17353739",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Steuben County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "642fbb9a-cf98-4723-bb4f-439a17353739",
+  "solr_geom": "ENVELOPE(-85.1801,-84.8,41.7501,41.51)",
+  "solr_year_i": "1899",
+  "dc_creator_sm": [
+    "Rakestraw,  O. F., cartographer."
+  ],
+  "dc_description_s": "Includes text. Scale approximately 1:150,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00011\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00011\"}",
+  "dct_spatial_sm": [
+    "Steuben County, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "O.F. Rakestraw?",
+  "dct_temporal_sm": [
+    "1899"
+  ]
+}

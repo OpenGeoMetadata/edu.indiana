@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "985ec5e6-98db-441c-99ce-d45e8708feee",
+  "dc_rights_s": "Public",
+  "dc_title_s": "[Soil map, Salt Creek Township].",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "985ec5e6-98db-441c-99ce-d45e8708feee",
+  "solr_geom": "ENVELOPE(-86.4501,-86.36,39.1501,39.0601)",
+  "solr_year_i": "1954",
+  "dc_description_s": "Title in manuscript on upper edge of map.; Glossy photograph on photographic paper.; Appears to be photographic enlargement made by James Edward Wrathall for his 1954 master's thesis of the Salt Creek Township portion of the Monroe County Indiana soil map. Scale approximately 1:25,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00647\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00647\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe County, Indiana",
+    "Salt Creek Township, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana University",
+  "dct_temporal_sm": [
+    "1954?"
+  ]
+}

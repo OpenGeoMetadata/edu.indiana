@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003719",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-46-B-а Пилькаллен (Dobrovol'sk, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003719",
+  "solr_geom": "ENVELOPE(22.625,22.5,54.833,54.75)",
+  "solr_year_i": "1916",
+  "dc_description_s": "Modern area represented: Добровольск (Dobrovol'sk), Kaliningradskaya oblast, Russia; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/d6x9kesxvp10330uef4cc2cp10w4nvuk\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003719\"}",
+  "dct_spatial_sm": [
+    "Dobrovol'sk, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:57Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1916",
+  "dct_temporal_sm": [
+    "1916-1940"
+  ]
+}

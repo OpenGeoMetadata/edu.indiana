@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000409",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-7-В Слобудка (Slabodka, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000409",
+  "solr_geom": "ENVELOPE(27.25,27,55.833,55.667)",
+  "solr_year_i": "1913",
+  "dc_description_s": "Modern area represented: Slabodka, Belarus; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mhfh9d75iqpapagm730fr06psw2bm5sw\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000409\"}",
+  "dct_spatial_sm": [
+    "Slabodka, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:15Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913-1938"
+  ]
+}

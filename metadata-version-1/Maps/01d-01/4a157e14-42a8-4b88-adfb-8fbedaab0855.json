@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4a157e14-42a8-4b88-adfb-8fbedaab0855",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Reidel's pocket map of Fort Wayne, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "4a157e14-42a8-4b88-adfb-8fbedaab0855",
+  "solr_geom": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Riedel,  W. P., cartographer."
+  ],
+  "dc_description_s": "Includes distance circles and street index. Scale 1:15,400.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00185\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00185\"}",
+  "dct_spatial_sm": [
+    "Fort Wayne, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "W.P. Riedel?",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

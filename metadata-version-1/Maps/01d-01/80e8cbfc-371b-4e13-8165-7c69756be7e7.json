@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "80e8cbfc-371b-4e13-8165-7c69756be7e7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Kankakee Valley in Lake, Newton and part of Jasper Counties Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "80e8cbfc-371b-4e13-8165-7c69756be7e7",
+  "solr_geom": "ENVELOPE(-87.5101,-87.21,41.3001,41.1101)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Ahlgrim,  M. J., cartographer."
+  ],
+  "dc_description_s": "Blueprint. Scale approximately 1:32,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00581\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00581\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Kankakee River, Illinois",
+    "State of Illinois, Illinois"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "M J. Ahlgrim?",
+  "dct_temporal_sm": [
+    "1900"
+  ]
+}

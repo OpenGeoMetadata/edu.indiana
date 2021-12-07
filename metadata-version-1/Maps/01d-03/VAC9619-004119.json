@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-004119",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-115 Красная Слобода (Krasnaya Sloboda, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-004119",
+  "solr_geom": "ENVELOPE(27.5,27,53,52.667)",
+  "solr_year_i": "1911",
+  "dc_description_s": "Modern area represented: Krasnaya Sloboda, Belarus; Scale =1:100,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/2ingaeowaqaosw1lkvqgwklm1whwddan\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004119\"}",
+  "dct_spatial_sm": [
+    "Krasnaya Sloboda, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:06Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911-1937"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000084",
+  "dc_rights_s": "Public",
+  "dc_title_s": "J-38-39-Б Агалу",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000084",
+  "solr_geom": "ENVELOPE(47,46.75,39.3333,39.1667)",
+  "solr_year_i": "1875",
+  "dc_description_s": "Scale =1:50,000; Не подлежит оглашению Временное издание",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/c7vz6cvi11531c70v3yfy5h8vben8j58\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000084\"}",
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:17Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1875",
+  "dct_temporal_sm": [
+    "1875"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f9445a4e-116c-41b5-bf19-c2380e929b52",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Warren County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "f9445a4e-116c-41b5-bf19-c2380e929b52",
+  "solr_geom": "ENVELOPE(-87.53,-87.1,40.46,40.11)",
+  "solr_year_i": "1949",
+  "dc_description_s": "Blueline.; State roads revised to January 1, 1949.; 1937.; 86.; Data obtained from State-wide Highway Planning Survey.; Includes chart of Culture in unincorporated places, and location map. Scale 1:130,000. Not 1 inch =1 mile; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00586\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00586\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Warren County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State Highway Commission of Indiana",
+  "dct_temporal_sm": [
+    "1949?"
+  ]
+}

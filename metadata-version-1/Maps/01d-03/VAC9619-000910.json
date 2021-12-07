@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000910",
+  "dc_rights_s": "Public",
+  "dc_title_s": "М-36-13-А Старый Радин (Radzin, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000910",
+  "solr_geom": "ENVELOPE(30.25,30,51.6667,51.5)",
+  "solr_year_i": "1931",
+  "dc_description_s": "Modern area represented: Радзін (Radzin), Homyel' Oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/jzut6abu0asijjirqvez2cdvs448padi\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000910\"}",
+  "dct_spatial_sm": [
+    "Radzin, Belarus",
+    "Гомельская Область, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:12Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ]
+}

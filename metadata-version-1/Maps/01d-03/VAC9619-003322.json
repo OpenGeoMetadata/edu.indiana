@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003322",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-36-28-Г (Sosninskaya Pristan’, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003322",
+  "solr_geom": "ENVELOPE(32,31.75,59.167,59)",
+  "solr_year_i": "1937",
+  "dc_description_s": "Modern area represented: Соснинская Пристань (Sosninskaya Pristan’), Novgorodskaya oblast, Russia; Scale =1:50,000; Для служебного пользования; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/prxo2h969h6q1cs9i2rlh7kzb6bwm7bj\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003322\"}",
+  "dct_spatial_sm": [
+    "Sosninskaya Pristan’, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:48Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Главное управление государственной съемки и картографии НКВД СССР",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1937",
+  "dct_temporal_sm": [
+    "1937-1941"
+  ]
+}

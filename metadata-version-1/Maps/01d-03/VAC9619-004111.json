@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-004111",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-107 Бобруйск (Babruysk, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-004111",
+  "solr_geom": "ENVELOPE(29.5,29,53.333,53)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Modern area represented: Babruysk, Mogilev oblast, Belarus; Scale =1:100,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/rkcbx2tx8u3wqip9qyz09bvuuwg052jc\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004111\"}",
+  "dct_spatial_sm": [
+    "Babruysk, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:05Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

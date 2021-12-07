@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001125",
+  "dc_rights_s": "Public",
+  "dc_title_s": "М-36-124-B Большая Выська (Velyka Vyska, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001125",
+  "solr_geom": "ENVELOPE(32,31.75,48.667,48.5)",
+  "solr_year_i": "1929",
+  "dc_description_s": "Modern area represented: Velyka Vyska, Kirovohrad oblast, Ukraine; Scale =1:50,000; Секретно",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/72oabp4kxa4a5ajj9l92ge94p2li9gb1\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001125\"}",
+  "dct_spatial_sm": [
+    "Velyka Vyska, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:12Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Военно-топографическое управление",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

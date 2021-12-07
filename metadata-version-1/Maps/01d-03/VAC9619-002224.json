@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002224",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-36-115 Селижарово (Selizharovo, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002224",
+  "solr_geom": "ENVELOPE(33.5,33,57,56.6667)",
+  "solr_year_i": "1939",
+  "dc_description_s": "Modern area represented: Селижарово (Selizharovo), Tverskaya oblast, Russia; Scale =1:100,000; Для служебного пользования; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/2meh4q1hvpih0ezzzjssf0rq0jkn1vi1\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002224\"}",
+  "dct_spatial_sm": [
+    "Selizharovo, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:45Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939-1941"
+  ]
+}

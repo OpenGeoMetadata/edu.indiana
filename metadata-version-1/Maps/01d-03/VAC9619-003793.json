@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003793",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-64-B-б Штееген (Stegny, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003793",
+  "solr_geom": "ENVELOPE(19.75,19.625,54.1667,54.0833)",
+  "solr_year_i": "1909",
+  "dc_description_s": "Modern area represented: Stegny, Poland; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/hd28r8fs9xts91p44g0mg583ppzikq0q\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003793\"}",
+  "dct_spatial_sm": [
+    "Stegny, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:00Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1909",
+  "dct_temporal_sm": [
+    "1909-1941"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "71ca570e-7896-4369-9b9a-ec91db189e90",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Porter County Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "71ca570e-7896-4369-9b9a-ec91db189e90",
+  "solr_geom": "ENVELOPE(-87.21,-86.93,41.71,41.23)",
+  "solr_year_i": "1946",
+  "dc_description_s": "Shows Roads, railroads, towns, townships and sections. Scale approximately 1:105,000",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00139\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00139\"}",
+  "dct_spatial_sm": [
+    "Porter County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1946?"
+  ]
+}

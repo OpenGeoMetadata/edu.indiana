@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b8a32bee-273d-4ccd-8d41-901d16f96954",
+  "dc_rights_s": "Public",
+  "dc_title_s": "City of Bloomington (and community) roads and streets",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "b8a32bee-273d-4ccd-8d41-901d16f96954",
+  "solr_geom": "ENVELOPE(-86.58,-86.45,39.21,39.11)",
+  "solr_year_i": "1964",
+  "dc_creator_sm": [
+    "Hornocker,  M., cartographer."
+  ],
+  "dc_description_s": "Blue line print.; 14 February, 1964.; Corporate limits--revised 21 May 1964.; J.H. Hooker--Mayor.; R.E. Long--City Engineer. Scale approximately 1:12,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00159\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00159\"}",
+  "dct_spatial_sm": [
+    "Bloomington, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Engineering Dept.",
+  "dct_temporal_sm": [
+    "1964"
+  ]
+}

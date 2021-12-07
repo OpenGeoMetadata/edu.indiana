@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "01b4f905-0b14-46a9-92d7-43ab49104cb0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Gary and Tolleston Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "01b4f905-0b14-46a9-92d7-43ab49104cb0",
+  "solr_geom": "ENVELOPE(-87.43,-87.21,41.65,41.51)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Moore,  Will H., 1850-cartographer."
+  ],
+  "dc_description_s": "Title devised by cataloger.; Complements of Gary and Tolleston Reality Co. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00562\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00562\"}",
+  "dct_spatial_sm": [
+    "Gary, Indiana",
+    "Indiana",
+    "Tolleston, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Will H. Moore",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

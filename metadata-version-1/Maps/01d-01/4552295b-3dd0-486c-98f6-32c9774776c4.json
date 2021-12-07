@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4552295b-3dd0-486c-98f6-32c9774776c4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Indiana /compiled, edited and published by the Geological Survey.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "4552295b-3dd0-486c-98f6-32c9774776c4",
+  "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
+  "solr_year_i": "1973",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights.; Compiled in 1970.; Includes population key.; Source data U.S Dept. of the interior - Geological Survey topographic maps. U.S Dept. of the Army - Corps of Engineers topographic maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00367\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00367\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "U.S. Geological Survey",
+  "dct_temporal_sm": [
+    "1973"
+  ]
+}

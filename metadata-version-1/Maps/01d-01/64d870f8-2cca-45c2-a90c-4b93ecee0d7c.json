@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "64d870f8-2cca-45c2-a90c-4b93ecee0d7c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of South Whitley, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "64d870f8-2cca-45c2-a90c-4b93ecee0d7c",
+  "solr_geom": "ENVELOPE(-85.63,-85.6001,41.0801,41.06)",
+  "solr_year_i": "1977",
+  "dc_description_s": "Home town of recording artist Janie Fricke.; Oriented with north toward the upper right.; Includes indexes to points of interest and members of the South Whitley Chamber of Commerce. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00408\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00408\"}",
+  "dct_spatial_sm": [
+    "South Whitley, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "South Whitley Chamber of Commerce",
+  "dct_temporal_sm": [
+    "between 1977 and 1982?"
+  ]
+}

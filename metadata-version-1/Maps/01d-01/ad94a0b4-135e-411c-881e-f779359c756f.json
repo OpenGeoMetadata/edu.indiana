@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ad94a0b4-135e-411c-881e-f779359c756f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing oil, gas, and gas storage fields in Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "ad94a0b4-135e-411c-881e-f779359c756f",
+  "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "solr_year_i": "1998",
+  "dc_creator_sm": [
+    "Cazee,  J. T.(James T.), cartographer."
+  ],
+  "dc_description_s": "Compilation complete to December 1998.; Base map digitized from 1978 U.S. Geological Survey map of Indiana. Scale 1:500,000. Scale 1:550,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00237\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00237\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:33Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Geological Survey",
+  "dct_temporal_sm": [
+    "1998"
+  ]
+}

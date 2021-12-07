@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9ec63c94-394e-46f3-b7f2-1516546e4ebb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Fayette County [Indiana] preliminary land use map",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "9ec63c94-394e-46f3-b7f2-1516546e4ebb",
+  "solr_geom": "ENVELOPE(-85.3,-85.03,39.78,39.51)",
+  "solr_year_i": "1940",
+  "dc_description_s": "Includes chart showing type of land use, acreage, and recommended use. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Land use"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00246\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00246\"}",
+  "dct_spatial_sm": [
+    "Fayette County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T19:42:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Committee",
+  "dct_temporal_sm": [
+    "1940?"
+  ]
+}

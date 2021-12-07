@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00989",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geological map of Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00989",
+  "solr_geom": "ENVELOPE(-87,-85,41,38)",
+  "solr_year_i": "1932",
+  "dc_description_s": "Conservation Commission, Stanley Coulter, Chairman.' 'The base used ... is the Ryse map, which has been modified.' Includes geologic cross sections. Scale 1:253,440. 1 inch = 4 miles Division of Geology, W.N. Logan, state geologist.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00989\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00989\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Department of Conservation",
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ]
+}

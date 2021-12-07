@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "580e0e04-cdc2-407a-b56f-b35b101cfc24",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hendricks County, Ind.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "580e0e04-cdc2-407a-b56f-b35b101cfc24",
+  "solr_geom": "ENVELOPE(-86.6801,-86.31,39.91,39.6)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Distributed by James A. Downard, Farm and City Loans. Scale approximately 1:115,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00049\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00049\"}",
+  "dct_spatial_sm": [
+    "Hendricks County, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Shedd & Wright Mfg. Co.",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

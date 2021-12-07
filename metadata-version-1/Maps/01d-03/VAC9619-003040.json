@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003040",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-34-140 Шарош-Патак (Sárospatak, Hungary)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003040",
+  "solr_geom": "ENVELOPE(22,21.5,48.333,48)",
+  "solr_year_i": "1906",
+  "dc_description_s": "Modern area represented: Sárospatak, Borsod-Abaúj-Zemplén county, Hungary; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3cito4zmj2gr9lz06i2s5z4kwvue0bmq\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003040\"}",
+  "dct_spatial_sm": [
+    "Sárospatak, Hungary",
+    "Hungary"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:35Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906-1929"
+  ]
+}

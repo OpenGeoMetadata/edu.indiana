@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e73012a8-1b1c-49a6-9e69-17b6610cf2b9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Distribution of the employees of Bloomington's major industries",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "e73012a8-1b1c-49a6-9e69-17b6610cf2b9",
+  "solr_geom": "ENVELOPE(-87.56,-85.86,39.8001,38.28)",
+  "solr_year_i": "1950",
+  "dc_description_s": "Blue line print.; Shows numbers of employees of Bloomington's major industries by home cities and towns with graduated circles.; Includes graphs. Scale approximately 1:500,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00273\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00273\"}",
+  "dct_spatial_sm": [
+    "Bloomington, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1950 and 1969?"
+  ]
+}

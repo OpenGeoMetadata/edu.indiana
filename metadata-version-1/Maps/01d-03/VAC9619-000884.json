@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000884",
+  "dc_rights_s": "Public",
+  "dc_title_s": "М-35-127-Б м. Калюс (Rudkivtsi, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000884",
+  "solr_geom": "ENVELOPE(27.5,27.25,48.6667,48.5)",
+  "solr_year_i": "1870",
+  "dc_description_s": "Modern area represented: the place was flooded by the Dniester Reservoir due to the construction of the Dniester Hydroelectric Power Plant. The nearest populated place: Рудківці (Rudkivtsi), Khmelnytskyi Oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/v0f586m358v1ma51qw1l2fm8b9qa1st9\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000884\"}",
+  "dct_spatial_sm": [
+    "Rudkivtsi, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:06Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1870",
+  "dct_temporal_sm": [
+    "1870-1932"
+  ]
+}

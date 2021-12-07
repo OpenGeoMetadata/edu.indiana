@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002812",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-35-83-Б Деревково (Derevkovo, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002812",
+  "solr_geom": "ENVELOPE(29.5,29.25,58,57.833)",
+  "solr_year_i": "1924",
+  "dc_description_s": "Modern area represented: Деревково (Derevkovo), Псковская область (Pskovskaya oblast), Russia; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ti0i7suh2jd9ne8m3h4kt0t3w9t5bv3k\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002812\"}",
+  "dct_spatial_sm": [
+    "Derevkovo, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:43Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924-1931"
+  ]
+}

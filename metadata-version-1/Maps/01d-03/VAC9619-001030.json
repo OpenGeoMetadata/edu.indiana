@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001030",
+  "dc_rights_s": "Public",
+  "dc_title_s": "М-36-88-Г Русская Поляна (Rus'ka Polyana, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001030",
+  "solr_geom": "ENVELOPE(32,31.75,49.5,49.3333)",
+  "solr_year_i": "1929",
+  "dc_description_s": "Modern area represented: Руська Поляна (Rus'ka Polyana), Cherkasy oblast, Ukraine; Scale =1:50,000; Секретно (crossed out); Рассекречено",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/frwsdbiz67atqab4ud3g192dd5bthxl4\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001030\"}",
+  "dct_spatial_sm": [
+    "Rus'ka Polyana, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:15Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Военно-топографическое управление",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

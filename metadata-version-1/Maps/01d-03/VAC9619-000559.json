@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000559",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-55-Б Долгинув (Dawhinava, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000559",
+  "solr_geom": "ENVELOPE(27.5,27.25,54.6667,54.5)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Modern area represented: Dawhinava, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/4lwjakzyhpkyq8o586ddzbwnpfi5tc4v\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000559\"}",
+  "dct_spatial_sm": [
+    "Dawhinava, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:13Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910-1938"
+  ]
+}

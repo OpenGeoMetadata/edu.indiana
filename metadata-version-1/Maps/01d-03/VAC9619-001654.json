@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001654",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-39-109-Г (Davydovka, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001654",
+  "solr_geom": "ENVELOPE(48.5,48.25,52.8667,52.6667)",
+  "solr_year_i": "1924",
+  "dc_description_s": "Modern area represented: Davydovka, Samara oblast, Russia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ul65mvjqz242jpwv6nm9uku7j71c62q5\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001654\"}",
+  "dct_spatial_sm": [
+    "Davydovka, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:34Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

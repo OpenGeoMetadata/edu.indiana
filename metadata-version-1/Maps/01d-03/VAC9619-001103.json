@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001103",
+  "dc_rights_s": "Public",
+  "dc_title_s": "М-36-118-А Могилев I (Mohyliv, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001103",
+  "solr_geom": "ENVELOPE(34.75,34.5,49,48.8667)",
+  "solr_year_i": "1938",
+  "dc_description_s": "Modern area represented: Mohyliv, Dnipropetrovsk oblast, Ukraine; Scale =1:50,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mz99dcsffr34ovo0z38cbfiaxe1z6mvh\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001103\"}",
+  "dct_spatial_sm": [
+    "Mohyliv, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:11Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1938",
+  "dct_temporal_sm": [
+    "1938-1942"
+  ]
+}

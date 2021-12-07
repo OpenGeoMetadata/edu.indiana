@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002674",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-33-58 Глатц (Kłodzko, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002674",
+  "solr_geom": "ENVELOPE(17,16.5,50.6667,50.3333)",
+  "solr_year_i": "1881",
+  "dc_description_s": "Modern area represented: Kłodzko, Lower Silesia province, Poland; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/8g84zvcjmpuk4bh7tfzko6hq3qjac1e5\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002674\"}",
+  "dct_spatial_sm": [
+    "Kłodzko, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:33Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1881",
+  "dct_temporal_sm": [
+    "1881-1940"
+  ]
+}

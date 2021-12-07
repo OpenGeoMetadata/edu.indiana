@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0d07f49b-be6a-4f6a-8cc6-ce6f53dee58f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Dearborn County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "0d07f49b-be6a-4f6a-8cc6-ce6f53dee58f",
+  "solr_geom": "ENVELOPE(-85.13,-84.81,39.31,38.7)",
+  "solr_year_i": "1949",
+  "dc_description_s": "Blueline.; State road revised to January 1, 1949.; Data obtained from Statewide Highway Planning Survey.; Includes chart Culture in unincorporated places and location map.; 1937.; 15. Scale approximately 1:130,000. Not 1 inch = 1 mile; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00595\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00595\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Dearborn County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State Highway Commission of Indiana",
+  "dct_temporal_sm": [
+    "1949?"
+  ]
+}

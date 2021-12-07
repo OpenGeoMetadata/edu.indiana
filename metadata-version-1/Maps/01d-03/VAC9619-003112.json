@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003112",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-35-34 Овруч (Ovruch, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003112",
+  "solr_geom": "ENVELOPE(29,28.5,51.333,51)",
+  "solr_year_i": "1932",
+  "dc_description_s": "Modern area represented: Ovruch, Ukraine; Scale =1:100,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/pt7bo2s4904ij45h5e702wbxml7gglyd\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003112\"}",
+  "dct_spatial_sm": [
+    "Ovruch, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:40Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932-1933"
+  ]
+}

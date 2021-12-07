@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a5ad955c-e1ea-49d2-8745-abe6e04ddc9e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Lake County Indiana: compiled for the official records",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "a5ad955c-e1ea-49d2-8745-abe6e04ddc9e",
+  "solr_geom": "ENVELOPE(-87.53,-87.21,41.7,41.16)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Cadastral map showing landowners.; Blackline. Scale approximately 1:40,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00177\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00177\"}",
+  "dct_spatial_sm": [
+    "Lake County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "F.L. Knight & Sons",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

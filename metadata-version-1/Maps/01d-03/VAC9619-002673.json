@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002673",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-33-57 Браунау (Broumov, Czech Republic)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002673",
+  "solr_geom": "ENVELOPE(16.5,16,50.6667,50.3333)",
+  "solr_year_i": "1881",
+  "dc_description_s": "Modern area represented: Broumov, Hradec Králové region, Czech Republic; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/j7vercb8pstoh3co0iknqyqwhbpvtbgu\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002673\"}",
+  "dct_spatial_sm": [
+    "Broumov, Czech Republic",
+    "Czech Republic"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:33Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1881",
+  "dct_temporal_sm": [
+    "1881-1941"
+  ]
+}

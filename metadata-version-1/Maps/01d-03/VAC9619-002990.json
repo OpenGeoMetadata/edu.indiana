@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002990",
+  "dc_rights_s": "Public",
+  "dc_title_s": "P-35-132-A К-ка Муолаа (Pravdino, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002990",
+  "solr_geom": "ENVELOPE(29.75,29.5,60.667,60.5)",
+  "solr_year_i": "1890",
+  "dc_description_s": "Modern area represented: Правдино (Pravdino), Leningradskaya oblast, Russia; Scale =1:50,000; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/52a0z5wuosesjel23aysur0qehrf316q\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002990\"}",
+  "dct_spatial_sm": [
+    "Pravdino, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:54Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1890",
+  "dct_temporal_sm": [
+    "1890-1939"
+  ]
+}

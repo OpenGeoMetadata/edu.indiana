@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001025",
+  "dc_rights_s": "Public",
+  "dc_title_s": "М-36-87-В (Stebliv, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001025",
+  "solr_geom": "ENVELOPE(31.25,31,49.5,49.3333)",
+  "solr_year_i": "1923",
+  "dc_description_s": "Modern area represented: Stebliv, Cherkasy oblast, Ukraine; Scale =1:50,000; Секретно Для служебного пользования Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/tq8r23t3sq5f3stblf93eop0bx1woeuo\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001025\"}",
+  "dct_spatial_sm": [
+    "Stebliv, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:15Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Военно-топографическое управление",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ]
+}

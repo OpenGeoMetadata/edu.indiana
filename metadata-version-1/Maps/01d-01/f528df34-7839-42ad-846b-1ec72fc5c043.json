@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f528df34-7839-42ad-846b-1ec72fc5c043",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Glacial geology of Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "f528df34-7839-42ad-846b-1ec72fc5c043",
+  "solr_geom": "ENVELOPE(-88,-84.75,41.75,37.86)",
+  "solr_year_i": "1958",
+  "dc_creator_sm": [
+    "Wayne,  William J.(William John), 1922-cartographer."
+  ],
+  "dc_description_s": "Base modified from U.S. Geological Survey Base map of Indiana, 1953.; Reprinted with minor modifications, 1963. Scale 1:1,000,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00573\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00573\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Geological Survey",
+  "dct_temporal_sm": [
+    "1958"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003145",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-37-8 Костерево (Kosterevo, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003145",
+  "solr_geom": "ENVELOPE(40,39.5,56,55.667)",
+  "solr_year_i": "1940",
+  "dc_description_s": "Modern area represented: Костерево (Kosterevo), Vladimirskaya oblast, Russia; Scale =1:100,000; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/w6elf8jojel8jbratdp2pwc8648jqzkx\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003145\"}",
+  "dct_spatial_sm": [
+    "Kosterevo, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:33Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1940",
+  "dct_temporal_sm": [
+    "1940-1941"
+  ]
+}

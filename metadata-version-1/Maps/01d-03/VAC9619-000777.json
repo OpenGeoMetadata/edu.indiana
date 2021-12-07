@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000777",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-129-В Витчины (Vyatchyn, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000777",
+  "solr_geom": "ENVELOPE(28.25,28,52.5,52.3333)",
+  "solr_year_i": "1931",
+  "dc_description_s": "Modern area represented: Вятчын (Vyatchyn), Homyel' oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/15dafwfpcb4j3c89uoec6ihyiklqm60t\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000777\"}",
+  "dct_spatial_sm": [
+    "Vyatchyn, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:07Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_temporal_sm": [
+    "1931"
+  ]
+}

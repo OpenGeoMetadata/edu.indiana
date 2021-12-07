@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002850",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-36-107-Б (Bol’shoye Ploskoye, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002850",
+  "solr_geom": "ENVELOPE(35.5,35.25,57.333,57.167)",
+  "solr_year_i": "1938",
+  "dc_description_s": "Modern area represented: Большое Плоское (Bol’shoye Ploskoye), Тверская область (Tverskaya oblast), Russia; Scale =1:50,000; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/r4frf9eujelpw5v03i512kmn2h974d8j\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002850\"}",
+  "dct_spatial_sm": [
+    "Bol’shoye Ploskoye, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:44Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Главное управление геодезии и картографии при СНК СССР",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1938",
+  "dct_temporal_sm": [
+    "1938-1941"
+  ]
+}

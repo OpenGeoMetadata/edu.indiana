@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "efa69f3c-b552-4884-aa58-9202dc321567",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Noble County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "efa69f3c-b552-4884-aa58-9202dc321567",
+  "solr_geom": "ENVELOPE(-85.65,-85.2,41.56,41.26)",
+  "solr_year_i": "1949",
+  "dc_description_s": "Blueline.; State roads revised to January 1, 1949.; 1937.; Data obtained from State-wide Highway Planning Survey.; Includes location map, chart of Culture in unincorporated places and inset map of the Sylvan Lake area.; 57. Scale 1:130,000. not 1 inch =1 mile; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00264\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00264\"}",
+  "dct_spatial_sm": [
+    "Noble County, Indiana",
+    "Sylvan Lake, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State Highway Commission of Indiana",
+  "dct_temporal_sm": [
+    "1949"
+  ]
+}

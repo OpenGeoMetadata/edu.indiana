@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f2530ec3-2049-491d-b3ed-b7dea17b5aad",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Gary and vicinity, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "f2530ec3-2049-491d-b3ed-b7dea17b5aad",
+  "solr_geom": "ENVELOPE(-87.43,-87.21,41.65,41.51)",
+  "solr_year_i": "1963",
+  "dc_description_s": "Relief shown by contours and spot heights. Depths by contours and soundings.; Contour interval 5 and 10 feet.; Red tint indicates areas in which only landmark buildings are shown.; Principal streets and roads names. Scale 1:24,000; polyconic projection.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00008\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00008\"}",
+  "dct_spatial_sm": [
+    "Gary, Indiana",
+    "Indiana",
+    "Lake Erie"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "U.S. Geological Survey",
+  "dct_temporal_sm": [
+    "1963"
+  ]
+}

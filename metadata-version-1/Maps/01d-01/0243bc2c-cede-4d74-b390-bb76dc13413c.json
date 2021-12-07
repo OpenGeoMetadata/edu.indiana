@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0243bc2c-cede-4d74-b390-bb76dc13413c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana industry patterns: leading industries by local office area",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "0243bc2c-cede-4d74-b390-bb76dc13413c",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1953",
+  "dc_description_s": "Lists industries in each local office area in map margin.; Shows Employment Security Division offices and local office area boundaries.; July, 1953.; Shaded counties have less than 1000 in covered manufacturing or fewer than 400 in any extractive, manufacturing or defense industry.; Covered employment based on third quarter, 1952 liability reports. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00099\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00099\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Employment Security Division",
+  "dct_temporal_sm": [
+    "1953"
+  ]
+}

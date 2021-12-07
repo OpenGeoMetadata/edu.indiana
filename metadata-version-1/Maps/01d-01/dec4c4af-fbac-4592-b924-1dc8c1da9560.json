@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dec4c4af-fbac-4592-b924-1dc8c1da9560",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Soil map, Indiana, Hamilton County",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "dec4c4af-fbac-4592-b924-1dc8c1da9560",
+  "solr_geom": "ENVELOPE(-86.25,-85.85,40.21,39.93)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Hurst,  Lewis A.(Lewis Alexander), 1874-cartographer."
+  ],
+  "dc_description_s": "A. Hoen & Co. Lith. Baltimore, Md.; Includes legend in margins. Scale 1:63,360. 1 inch = 1 mile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00216\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00216\"}",
+  "dct_spatial_sm": [
+    "Hamilton County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "U.S. Dept. of Agriculture, Bureau of Soils",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

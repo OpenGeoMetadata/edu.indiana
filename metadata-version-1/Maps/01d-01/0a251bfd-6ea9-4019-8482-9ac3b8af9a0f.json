@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0a251bfd-6ea9-4019-8482-9ac3b8af9a0f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "0a251bfd-6ea9-4019-8482-9ac3b8af9a0f",
+  "solr_geom": "ENVELOPE(-89,-84,42,37)",
+  "solr_year_i": "1994",
+  "dc_description_s": "Relief shown by shading, gradient tints, and spot heights. Scale 1:500,000. 1 in. = approximately 8 miles. 1 centimeter = 5 kilometers.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00323\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00323\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Raven Maps & Images",
+  "dct_temporal_sm": [
+    "1994"
+  ]
+}

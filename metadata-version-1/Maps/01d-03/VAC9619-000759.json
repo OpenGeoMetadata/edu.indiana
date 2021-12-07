@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000759",
+  "dc_rights_s": "Public",
+  "dc_title_s": "K-37-7 Лазаревская (Lazarevskoye, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000759",
+  "solr_geom": "ENVELOPE(39.5,39,44,43.6667)",
+  "solr_year_i": "1905",
+  "dc_description_s": "Modern area represented: Lazarevskoye, Krasnodar kray, Russia; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/tqdd8ytfxj0704t5x9q39epble5lldol\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000759\"}",
+  "dct_spatial_sm": [
+    "Lazarevskoye, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:18Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905-1942"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001671",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-34-35-Г Пасслепа (Paslepa, Estonia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001671",
+  "solr_geom": "ENVELOPE(23.5,23.25,59.1667,59)",
+  "solr_year_i": "1900",
+  "dc_description_s": "Modern area represented: Paslepa, Lääne county, Estonia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/99qjrfzms2z071py8l6edn74cy7t99qc\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001671\"}",
+  "dct_spatial_sm": [
+    "Paslepa, Estonia",
+    "Estonia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:35Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ]
+}

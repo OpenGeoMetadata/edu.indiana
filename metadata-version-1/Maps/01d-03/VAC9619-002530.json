@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002530",
+  "dc_rights_s": "Public",
+  "dc_title_s": "P-36-81 Петрозаводск (Petrozavodsk, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002530",
+  "solr_geom": "ENVELOPE(34.5,34,62,61.667)",
+  "solr_year_i": "1935",
+  "dc_description_s": "Modern area represented: Petrozavodsk, Republic of Karelia, Russia; Scale =1:100,000; Не подлежит оглашению Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3fiuo0wiacvb8twev4pw36r27b7g4bm9\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002530\"}",
+  "dct_spatial_sm": [
+    "Petrozavodsk, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:58Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ]
+}

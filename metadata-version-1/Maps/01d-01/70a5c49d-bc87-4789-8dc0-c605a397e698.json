@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "70a5c49d-bc87-4789-8dc0-c605a397e698",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "70a5c49d-bc87-4789-8dc0-c605a397e698",
+  "solr_geom": "ENVELOPE(-88,-84.16,42,37.83)",
+  "solr_year_i": "1880",
+  "dc_description_s": "Shows railroads and canals.; Compiled according to Census of 1880 and latest surveys.; From: Encyclopaedia Britannica, 9th ed. Vol. XII, plate VII. Scale approximately 1:2,000,000",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074192/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00106\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Scribner",
+  "dct_temporal_sm": [
+    "between 1880 and 1889"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "315cc3ba-6066-4c03-b4d6-f7fc789416b2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mile square--Indianapolis.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "315cc3ba-6066-4c03-b4d6-f7fc789416b2",
+  "solr_geom": "ENVELOPE(-86.16,-86.1301,39.76,39.7501)",
+  "solr_year_i": "1931",
+  "dc_description_s": "Scale 1:2,400. Approximately 1 inch = 200 feet.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00407\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00407\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:33Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "National Map Co.",
+  "dct_temporal_sm": [
+    "1931"
+  ]
+}

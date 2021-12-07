@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d30cba7a-2712-45dd-8e59-eabb175b7a16",
+  "dc_rights_s": "Public",
+  "dc_title_s": "R.C.A., distribution of workers",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "d30cba7a-2712-45dd-8e59-eabb175b7a16",
+  "solr_geom": "ENVELOPE(-87.43,-85.9,39.78,38.3)",
+  "solr_year_i": "1950",
+  "dc_description_s": "Blue line print.; Shows numbers of R.C.A. Bloomington employees by home cities and towns with graduated circles.; Includes graphs. Scale approximately 1:500,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00074\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00074\"}",
+  "dct_spatial_sm": [
+    "Bloomington, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1950 and 1969?"
+  ]
+}

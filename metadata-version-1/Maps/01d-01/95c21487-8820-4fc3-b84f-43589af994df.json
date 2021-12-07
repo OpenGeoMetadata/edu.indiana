@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "95c21487-8820-4fc3-b84f-43589af994df",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "95c21487-8820-4fc3-b84f-43589af994df",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1930",
+  "dc_description_s": "R.; Shows counties, county seats, rivers and railroads. Scale approximately 1:1,000,000.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00010\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00010\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1930?"
+  ]
+}

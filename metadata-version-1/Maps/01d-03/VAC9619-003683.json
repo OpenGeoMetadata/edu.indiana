@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003683",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-44-A-а Клайн Хайнрихсдорф (Rovnoye, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003683",
+  "solr_geom": "ENVELOPE(21.675,21.5,55,54.913)",
+  "solr_year_i": "1914",
+  "dc_description_s": "Modern area represented: Ровное (Rovnoye), Kaliningradskaya oblast, Russia; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/bydacfiem8gxe8csalcupz5nc3f8l1yk\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003683\"}",
+  "dct_spatial_sm": [
+    "Rovnoye, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:56Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914-1941"
+  ]
+}

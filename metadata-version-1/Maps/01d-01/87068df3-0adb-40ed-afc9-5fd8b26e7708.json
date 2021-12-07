@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "87068df3-0adb-40ed-afc9-5fd8b26e7708",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lake Monroe, Indiana's largest lake",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "87068df3-0adb-40ed-afc9-5fd8b26e7708",
+  "solr_geom": "ENVELOPE(-86.5601,-86.18,39.2,38.85)",
+  "solr_year_i": "1966",
+  "dc_description_s": "Includes insets of Bloomington, Indiana University and nine Lake Monroe recreation areas on recto and nine area accommodation and service logomaps on verso. Scale approximately 1:80,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00564\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00564\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe Lake, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Guide Art Co.",
+  "dct_temporal_sm": [
+    "1966"
+  ]
+}

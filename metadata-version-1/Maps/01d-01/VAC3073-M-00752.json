@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00752",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Falls of the Ohio, from actual survey: adapted to the low water of l819",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00752",
+  "solr_geom": "ENVELOPE(-85.8001,-85.71,38.3,38.25)",
+  "solr_year_i": "1967",
+  "dc_creator_sm": [
+    "Flint, J."
+  ],
+  "dc_description_s": "Facsim. of: Cincinnati : E.G. Gridley, c1824. Relief shown by hachures. This is number 109 of an edition limited to 500 copies. Scale 1:18,000. Drawn by J. Flint.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00752\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00752\"}",
+  "dct_spatial_sm": [
+    "Louisville, Kentucky",
+    "Kentucky"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Historic Urban Plans",
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "def3f426-44f1-49fd-868c-8a19def29a5e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Spencer County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "def3f426-44f1-49fd-868c-8a19def29a5e",
+  "solr_geom": "ENVELOPE(-87.26,-86.76,38.2,37.78)",
+  "solr_year_i": "1937",
+  "dc_description_s": "Blackline.; Corrected to January 1, 1937.; 1937.; Data obtained from Statewide Highway Planning Survey.; Includes location map and chart of Culture in unincorporated places.; 74. Scale 1:95,000. Not 1 inch =1 mile; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00610\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00610\"}",
+  "dct_spatial_sm": [
+    "Spencer County, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T19:42:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State Highway Commission of Indiana",
+  "dct_temporal_sm": [
+    "1937"
+  ]
+}

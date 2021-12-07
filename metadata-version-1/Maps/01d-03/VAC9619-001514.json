@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001514",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-106-B Верхополье (Verkhopolye, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001514",
+  "solr_geom": "ENVELOPE(34.75,34.5,53.1667,53)",
+  "solr_year_i": "1930",
+  "dc_description_s": "Modern area represented: Verkhopolye, Bryansk oblast, Russia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/c2urue1jq0v0ku5ufknrgzh2upe5hfwj\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001514\"}",
+  "dct_spatial_sm": [
+    "Verkhopolye, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:18Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930-1934"
+  ]
+}

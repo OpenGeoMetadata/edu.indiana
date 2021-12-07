@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4e02a9d3-1fd6-46a6-8cbd-a50aba7f032a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lowell",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "4e02a9d3-1fd6-46a6-8cbd-a50aba7f032a",
+  "solr_geom": "ENVELOPE(-87.4301,-87.38,41.3001,41.2601)",
+  "solr_year_i": "1909",
+  "dc_description_s": "Blueprint.; Cadastral map showing landowners. Scale 1:1,200. 1 inch = 100 feet.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00384\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00384\"}",
+  "dct_spatial_sm": [
+    "Lake County, Indiana",
+    "Indiana",
+    "Lowell, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "F.L. Knight & Sons",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

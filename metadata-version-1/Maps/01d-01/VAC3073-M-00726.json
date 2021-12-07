@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00726",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Union City, Indiana & Ohio",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00726",
+  "solr_geom": "ENVELOPE(-84.83,-84.8,40.2001,40.18)",
+  "solr_year_i": "1977",
+  "dc_creator_sm": [
+    "Bower, C. W."
+  ],
+  "dc_description_s": "Date 2-10-66.' Indexed for points of interest. Scale not given. Dwg. by C.W. Bower; courtesy of Indiana & Michigan Electric Co.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00726\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00726\"}",
+  "dct_spatial_sm": [
+    "Union City, Indiana",
+    "Indiana",
+    "Union City (Ohio)",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2021-05-18T15:03:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1977",
+  "dct_temporal_sm": [
+    "1977"
+  ]
+}

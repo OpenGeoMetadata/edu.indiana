@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "60547a50-8811-408b-baa9-22bf8fcafa10",
+  "dc_rights_s": "Public",
+  "dc_title_s": "County map of Ohio and Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "60547a50-8811-408b-baa9-22bf8fcafa10",
+  "solr_geom": "ENVELOPE(-87.68,-80.33,42,37.9)",
+  "solr_year_i": "1870",
+  "dc_creator_sm": [
+    "Gamble,  W. H.(William H.), cartographer."
+  ],
+  "dc_description_s": "Prime meridian: top of map is from Greenwich, bottom of map is from Washington.; Hand painted. Scale 1:1,800,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00598\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00598\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "State of Ohio, Ohio"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "S. Augustus Mitchell",
+  "dct_temporal_sm": [
+    "1870"
+  ]
+}

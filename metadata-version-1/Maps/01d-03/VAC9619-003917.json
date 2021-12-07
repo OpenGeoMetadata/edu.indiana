@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003917",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-48 Каунас (Kaunas, Lithuania)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003917",
+  "solr_geom": "ENVELOPE(24,23.5,55,54.667)",
+  "solr_year_i": "1935",
+  "dc_description_s": "Modern area represented: Kaunas, Lithuania; Scale =1:100,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/j2yfp34yaomljho3q6l0hprwuexspm4g\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003917\"}",
+  "dct_spatial_sm": [
+    "Kaunas, Lithuania",
+    "Lithuania"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:57Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935-1940"
+  ]
+}

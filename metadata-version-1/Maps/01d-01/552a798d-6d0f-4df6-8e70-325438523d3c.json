@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "552a798d-6d0f-4df6-8e70-325438523d3c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Your guide to Bloomington, Indiana University, Monroe Reservoir",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "552a798d-6d0f-4df6-8e70-325438523d3c",
+  "solr_geom": "ENVELOPE(-86.56,-86.25,39.18,39)",
+  "solr_year_i": "1965",
+  "dc_description_s": "Includes indexes to buildings and services, some indicated by pictorially. Scales differ.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00229\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00229\"}",
+  "dct_spatial_sm": [
+    "Bloomington, Indiana",
+    "Indiana",
+    "Monroe Lake, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Guide Art",
+  "dct_temporal_sm": [
+    "1965"
+  ]
+}

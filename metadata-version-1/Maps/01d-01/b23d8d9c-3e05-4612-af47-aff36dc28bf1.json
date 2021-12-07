@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b23d8d9c-3e05-4612-af47-aff36dc28bf1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mendenhall's new index map of Greater Indianapolis",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "b23d8d9c-3e05-4612-af47-aff36dc28bf1",
+  "solr_geom": "ENVELOPE(-86.2101,-86.05,39.83,39.6801)",
+  "solr_year_i": "1906",
+  "dc_description_s": "Includes ancillary map Mendenhall's new road map of Marion County, Ind. Scale approximately 1:26,750",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00036\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00036\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana",
+    "Marion County, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "C.S. Mendenhall",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "01ca3a9a-1a54-4077-aec8-c3fbf04dcf92",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Muncie, Delaware County, BSU.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "01ca3a9a-1a54-4077-aec8-c3fbf04dcf92",
+  "solr_geom": "ENVELOPE(-85.45,-85.31,40.23,40.1301)",
+  "solr_year_i": "1992",
+  "dc_description_s": "12/92.; Indexed.; Ancillary maps on verso: Delaware County, Indiana -- Ball State University Campus Map -- Yorktown -- Albany -- Selma -- Eaton -- Gaston -- Cowan -- Royerton. Scale approximately 1:17,600.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00090\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00090\"}",
+  "dct_spatial_sm": [
+    "Muncie, Indiana",
+    "Yorktown, Indiana",
+    "Selma, Indiana",
+    "Albany, Indiana",
+    "Delaware County, Indiana",
+    "Gaston, Indiana",
+    "Eaton, Indiana",
+    "Indiana",
+    "Royerton, Indiana",
+    "Cowan, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Universal Map Enterprises",
+  "dct_temporal_sm": [
+    "1992"
+  ]
+}

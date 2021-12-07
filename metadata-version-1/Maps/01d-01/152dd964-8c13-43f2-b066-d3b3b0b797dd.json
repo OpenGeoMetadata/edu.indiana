@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "152dd964-8c13-43f2-b066-d3b3b0b797dd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Randolph County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "152dd964-8c13-43f2-b066-d3b3b0b797dd",
+  "solr_geom": "ENVELOPE(-85.21,-84.81,40.31,40)",
+  "solr_year_i": "1949",
+  "dc_description_s": "Blueline.; State roads revised to January 1, 1949.; 1937.; Data obtained from Statewide Highway Planning Survey.; Includes location map and chart of Culture in unincorporated places.; 68. Scale 1:130,000. not 1 inch =1 mile.; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00563\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00563\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Randolph County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State Highway Commission of Indiana",
+  "dct_temporal_sm": [
+    "1949"
+  ]
+}

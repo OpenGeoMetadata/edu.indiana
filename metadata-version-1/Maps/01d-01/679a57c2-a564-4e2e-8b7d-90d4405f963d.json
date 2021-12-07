@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "679a57c2-a564-4e2e-8b7d-90d4405f963d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Elkhart [Township].",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "679a57c2-a564-4e2e-8b7d-90d4405f963d",
+  "solr_geom": "ENVELOPE(-85.88,-85.76,41.6,41.51)",
+  "solr_year_i": "1878",
+  "dc_description_s": "Shows roads, railroads, section numbers, lakes, rivers, and towns.; T. 36 N.R. 6. E.; Accompanied by: Index of roads, Elkhart Township, Elkhart County, Indiana, 1 sheet ; 56 x 60 cm. Scale approximately 1:19,600.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00591\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00591\"}",
+  "dct_spatial_sm": [
+    "Elkhart County, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ]
+}

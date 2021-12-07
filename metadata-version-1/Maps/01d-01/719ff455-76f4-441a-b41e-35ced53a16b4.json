@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "719ff455-76f4-441a-b41e-35ced53a16b4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Official Hearne Brothers polyconic projection map of greater Evansville and Vanderburg County",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "719ff455-76f4-441a-b41e-35ced53a16b4",
+  "solr_geom": "ENVELOPE(-87.63,-87.45,38.05,37.93)",
+  "solr_year_i": "1946",
+  "dc_description_s": "Shows radial distances.; Includes insets of Northern half of Vanderburg County and Southern half of Vanderburg County that includes Henderson Kentucky on recto and index to streets and places in Evansville, Henderson, Ky., and Vanderburg County on verso. Scale approximately 1:17,350; Polyconic projection.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00129\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Kentucky",
+    "Henderson, Kentucky",
+    "Evansville, Indiana",
+    "Vanderburgh County, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Hearne Bros.",
+  "dct_temporal_sm": [
+    "1946"
+  ]
+}

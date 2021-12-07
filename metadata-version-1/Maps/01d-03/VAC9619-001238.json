@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001238",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-19-A Волково (Volkovo, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001238",
+  "solr_geom": "ENVELOPE(33.25,33,55.667,55.5)",
+  "solr_year_i": "1927",
+  "dc_description_s": "Modern area represented: Volkovo, Russia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/6k6i1w86g0oxa9yb511bntv3ip8jniw7\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001238\"}",
+  "dct_spatial_sm": [
+    "Volkovo, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:21Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ]
+}

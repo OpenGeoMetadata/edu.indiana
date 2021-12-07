@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00791",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana in 1836",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00791",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1836",
+  "dc_creator_sm": [
+    "Shockley, Ernest V. (Ernest Vivian),1878-1924"
+  ],
+  "dc_description_s": "Negative photostat. Shows roads, railroads, canals, counties and cities. Scale not given. E.V. Shockley.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00791\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00791\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1836",
+  "dct_temporal_sm": [
+    "1836"
+  ]
+}

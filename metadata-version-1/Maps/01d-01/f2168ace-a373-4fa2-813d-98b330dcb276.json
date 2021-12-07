@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f2168ace-a373-4fa2-813d-98b330dcb276",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Fayette County, Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "f2168ace-a373-4fa2-813d-98b330dcb276",
+  "solr_geom": "ENVELOPE(-85.3,-85.03,39.78,39.51)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Scale approximately 1:50,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00386\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00386\"}",
+  "dct_spatial_sm": [
+    "Fayette County, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Scarborough Co.",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

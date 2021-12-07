@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0f899fe1-3b98-4de5-8b5a-9c88dee7fd38",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lake Monroe.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "0f899fe1-3b98-4de5-8b5a-9c88dee7fd38",
+  "solr_geom": "ENVELOPE(-86.5301,-86.2,39.2001,38.96)",
+  "solr_year_i": "1971",
+  "dc_description_s": "Folded title: Tourist guide to Lake Monroe, Indiana's largest lake.; Includes text, recreation information, and 9 recreation area maps.; Advertisements on verso. Scale approximately 1:80,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00207\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00207\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe Lake, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ]
+}

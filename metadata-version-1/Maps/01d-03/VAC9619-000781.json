@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000781",
+  "dc_rights_s": "Public",
+  "dc_title_s": "K-38-6 Моздок (Mozdok, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000781",
+  "solr_geom": "ENVELOPE(45,44.5,44,43.6667)",
+  "solr_year_i": "1927",
+  "dc_description_s": "Modern area represented: Mozdok, North Ossetia – Alania republic, Russia; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ofb2828yqnch370ua2phg0sxd9n5xocv\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000781\"}",
+  "dct_spatial_sm": [
+    "Mozdok, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:18Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1927",
+  "dct_temporal_sm": [
+    "1927-1942"
+  ]
+}

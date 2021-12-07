@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6110b9c2-993e-4382-815d-1382e717bf85",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Road map of Northeastern Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "6110b9c2-993e-4382-815d-1382e717bf85",
+  "solr_geom": "ENVELOPE(-86,-84.8,41.68,41.06)",
+  "solr_year_i": "1947",
+  "dc_creator_sm": [
+    "Mortorff,  H. H., cartographer."
+  ],
+  "dc_description_s": "Blue line. Scale approximately 1:200,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00210\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00210\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "H.H. Mortorff?",
+  "dct_temporal_sm": [
+    "1947"
+  ]
+}

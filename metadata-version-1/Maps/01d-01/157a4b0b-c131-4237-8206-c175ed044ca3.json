@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "157a4b0b-c131-4237-8206-c175ed044ca3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "157a4b0b-c131-4237-8206-c175ed044ca3",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1965",
+  "dc_description_s": "1965 edition.; Distributed by Shell Oil Company.; Includes index to counties, cities and towns.; Public recreational areas chart, Indiana mileage chart and ancillary maps of Chicago and vicinity; South Bend, Indiana; Fort Wayne, Indiana; Indianapolis, Indiana; Terre Haute, Indiana; Evansville, Indiana and Transcontinental road map on verso. Scale 1:760,000. 1 inch = approximately 12 miles.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00428\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00428\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "H.M. Gousha",
+  "dct_temporal_sm": [
+    "1965"
+  ]
+}

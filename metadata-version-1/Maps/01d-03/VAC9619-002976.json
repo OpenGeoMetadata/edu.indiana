@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002976",
+  "dc_rights_s": "Public",
+  "dc_title_s": "P-35-117-Б Вайниккала",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002976",
+  "solr_geom": "ENVELOPE(28.5,28.25,61,60.833)",
+  "solr_year_i": "1891",
+  "dc_description_s": "Scale =1:50,000; Временное издание",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/sa6i89tm2j3rk7x9udhjsh3irheb5weq\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002976\"}",
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:53Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1891",
+  "dct_temporal_sm": [
+    "1891-1939"
+  ]
+}

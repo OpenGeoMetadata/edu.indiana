@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a02ab458-8dd0-4fc6-afbb-9f8ba3ee21ac",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Street map of the City of Fort Wayne, Allen County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "a02ab458-8dd0-4fc6-afbb-9f8ba3ee21ac",
+  "solr_geom": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "solr_year_i": "1947",
+  "dc_creator_sm": [
+    "McAnlis,  C. R., cartographer."
+  ],
+  "dc_description_s": "Includes distance circles, street index and ill. Scale approximately 1:22,600.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00577\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00577\"}",
+  "dct_spatial_sm": [
+    "Fort Wayne, Indiana",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "City Engineer's Office",
+  "dct_temporal_sm": [
+    "1947"
+  ]
+}

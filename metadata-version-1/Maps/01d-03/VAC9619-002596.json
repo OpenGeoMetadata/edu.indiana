@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002596",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L-38-94 Нарын-Худук (Naryn Khuduk, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002596",
+  "solr_geom": "ENVELOPE(47,46.5,45.667,45.333)",
+  "solr_year_i": "1941",
+  "dc_description_s": "Modern area represented: Naryn Khuduk, Kalmykiya Republic, Russia; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/nwy8slw2gn9nn095r6eyuul4r6ejgskn\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002596\"}",
+  "dct_spatial_sm": [
+    "Naryn Khuduk, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:31Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1941",
+  "dct_temporal_sm": [
+    "1941-1942"
+  ]
+}

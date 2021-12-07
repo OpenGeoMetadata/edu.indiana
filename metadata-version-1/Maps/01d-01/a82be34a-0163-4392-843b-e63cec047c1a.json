@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a82be34a-0163-4392-843b-e63cec047c1a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Zoning plan for City of Kendallville, Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "a82be34a-0163-4392-843b-e63cec047c1a",
+  "solr_geom": "ENVELOPE(-85.3,-85.1801,41.46,41.41)",
+  "solr_year_i": "1948",
+  "dc_description_s": "Blueline.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00617\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00617\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Kendallville, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[City of Kendallville?]",
+  "dct_temporal_sm": [
+    "1948?"
+  ]
+}

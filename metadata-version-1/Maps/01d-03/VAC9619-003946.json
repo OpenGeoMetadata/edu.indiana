@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003946",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-79 Зенсбург (Mrągowo, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003946",
+  "solr_geom": "ENVELOPE(21.5,21,54,53.667)",
+  "solr_year_i": "1914",
+  "dc_description_s": "Modern area represented: Mrągowo, Warmia-Masuria, Poland; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/iv7ntt2l3dkmi12g6y48iwol9crebmow\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003946\"}",
+  "dct_spatial_sm": [
+    "Mrągowo, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:02Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914-1929"
+  ]
+}

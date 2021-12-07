@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003383",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-37-34 Таловая (Talovaya, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003383",
+  "solr_geom": "ENVELOPE(41,40.5,51.333,51)",
+  "solr_year_i": "1866",
+  "dc_description_s": "Modern area represented: Talovaya, Voronezh oblast, Russia; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/itzlg3118tmmulwpix38507uavbkc1jl\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003383\"}",
+  "dct_spatial_sm": [
+    "Talovaya, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:46Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1866",
+  "dct_temporal_sm": [
+    "1866-1941"
+  ]
+}

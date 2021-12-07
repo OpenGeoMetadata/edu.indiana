@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000191",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-35-24-В Денисовичи (Denysovychi, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000191",
+  "solr_geom": "ENVELOPE(29.75,29.5,51.5,51.333)",
+  "solr_year_i": "1931",
+  "dc_description_s": "Modern area represented: Denysovychi, Ukraine; abandoned populated place (the residents were resettled as the result of the Chernobyl accident); Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ucoum12br1w12a2tvb8skxkd0gg4uftl\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000191\"}",
+  "dct_spatial_sm": [
+    "Denysovychi, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:39Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1931",
+  "dct_temporal_sm": [
+    "1931-1938"
+  ]
+}

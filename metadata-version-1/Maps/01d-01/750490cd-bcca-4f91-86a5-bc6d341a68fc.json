@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "750490cd-bcca-4f91-86a5-bc6d341a68fc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana, the influence of the Indian upon its history: with Indian and French names for natural and cultural locations",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "750490cd-bcca-4f91-86a5-bc6d341a68fc",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1970",
+  "dc_creator_sm": [
+    "Guernsey,  E. Y., cartographer."
+  ],
+  "dc_description_s": "Blue line print.; Originally published: Indianapolis : Dept. of Conservation, State of Indiana, 1933. Scale not given",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00121\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00121\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Dept. of Conservation",
+  "dct_temporal_sm": [
+    "1970?"
+  ]
+}

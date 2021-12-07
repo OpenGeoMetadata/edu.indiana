@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "74735d00-4b83-4542-a2d8-3001cc18cc70",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Swartz & Tedrowe's map of the City of Indianapolis and Center Township",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "74735d00-4b83-4542-a2d8-3001cc18cc70",
+  "solr_geom": "ENVELOPE(-86.18,-86.11,39.8001,39.73)",
+  "solr_year_i": "1874",
+  "dc_creator_sm": [
+    "Defrees,  Morris M., cartographer."
+  ],
+  "dc_description_s": "Engraved expressly for Swartz & Tedrowe's city directory, by Braden & Burford. Scale 1:15,840. 4 inches per mile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00165\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00165\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana",
+    "Marion County, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Braden & Burford",
+  "dct_temporal_sm": [
+    "1874"
+  ]
+}

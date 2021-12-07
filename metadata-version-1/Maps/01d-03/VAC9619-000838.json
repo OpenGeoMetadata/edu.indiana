@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000838",
+  "dc_rights_s": "Public",
+  "dc_title_s": "М-35-80-Г Мотовыливка (Motovylivka, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000838",
+  "solr_geom": "ENVELOPE(28,27.75,49.833,49.667)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Modern area represented: Мотовилівка (Motovylivka), Zhytomyr Oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/xffy3owx780o4uw1ho7tts79yfwhmn6d\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000838\"}",
+  "dct_spatial_sm": [
+    "Motovylivka, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:07Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1908",
+  "dct_temporal_sm": [
+    "1908-1932"
+  ]
+}

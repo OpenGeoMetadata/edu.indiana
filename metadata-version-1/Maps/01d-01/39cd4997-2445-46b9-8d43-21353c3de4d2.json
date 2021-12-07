@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "39cd4997-2445-46b9-8d43-21353c3de4d2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Conoco official road map, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "39cd4997-2445-46b9-8d43-21353c3de4d2",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1946",
+  "dc_description_s": "Includes index to cities and towns.; Text and ancillary maps of Chicago and vicinity; Hammond, Gary, Michigan City Region; South Bend, Indiana; Indianapolis, Indiana; Fort Wayne, Indiana; and Evansville, Indiana on verso. Scale approximately 1:800,000. 1 inch = approximately 13 miles.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1184655/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00413\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "H.M. Gousha",
+  "dct_temporal_sm": [
+    "1946"
+  ]
+}

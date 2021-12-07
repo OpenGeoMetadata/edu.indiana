@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002229",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-36-125 Андреаполь (Andreapol', Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002229",
+  "solr_geom": "ENVELOPE(32.5,32,56.6667,56.3333)",
+  "solr_year_i": "1939",
+  "dc_description_s": "Modern area represented: Андреаполь (Andreapol'), Tverskaya oblast, Russia; Scale =1:100,000; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3cx8nhxgh11fdcr3k66h00oixmxlquis\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002229\"}",
+  "dct_spatial_sm": [
+    "Andreapol', Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:46Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939-1941"
+  ]
+}

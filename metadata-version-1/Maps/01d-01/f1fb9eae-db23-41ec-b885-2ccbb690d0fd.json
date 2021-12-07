@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f1fb9eae-db23-41ec-b885-2ccbb690d0fd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cities Service road map of Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "f1fb9eae-db23-41ec-b885-2ccbb690d0fd",
+  "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "solr_year_i": "1931",
+  "dc_description_s": "Includes place name index on recto.; Great Lakes mileage chart, Road map of east central United States, and ancillary maps of Indianapolis, Ind., Evansville, Ind., Ft. Wayne, Ind., Gary, Ind., Muncie, Ind., South Bend, Ind., and Terre Haute, Ind. on verso. Scale approximately 1:750,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00145\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00145\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Rand McNally",
+  "dct_temporal_sm": [
+    "1931"
+  ]
+}

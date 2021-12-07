@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "326dad75-9117-4c89-b7c6-5b853d8965f0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the city of Fort Wayne, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "326dad75-9117-4c89-b7c6-5b853d8965f0",
+  "solr_geom": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "solr_year_i": "1889",
+  "dc_creator_sm": [
+    "Huntoon,  L. P., cartographer."
+  ],
+  "dc_description_s": "Partial cadastral map showing landowners. Scale 1:4,800. 400 feet to 1 inch.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00330\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00330\"}",
+  "dct_spatial_sm": [
+    "Fort Wayne, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "L.P. Huntoon",
+  "dct_temporal_sm": [
+    "1889"
+  ]
+}

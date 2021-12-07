@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002279",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-38-142 (Bolshoy Sundyr, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002279",
+  "solr_geom": "ENVELOPE(47,46.5,56.3333,56)",
+  "solr_year_i": "1934",
+  "dc_description_s": "Modern area represented: Bolshoy Sundyr, Russia; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/gg7wvogdtq43fce8a3zz372jud8yhq23\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002279\"}",
+  "dct_spatial_sm": [
+    "Bolshoy Sundyr, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:53Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1934",
+  "dct_temporal_sm": [
+    "1934"
+  ]
+}

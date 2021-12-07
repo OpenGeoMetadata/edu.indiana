@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002133",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-36-31 Неболчи (Nebolchi, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002133",
+  "solr_geom": "ENVELOPE(33.5,33,59.3333,59)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Modern area represented: Неболчи (Nebolchi), Novgorodskaya oblast, Russia; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/crv0tntjbvr5k8llk2ppl6s8r6fwk34n\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002133\"}",
+  "dct_spatial_sm": [
+    "Nebolchi, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:48Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Главное управление геодезии и картографии при СНК СССР",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936-1941"
+  ]
+}

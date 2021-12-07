@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d35d4c46-506b-45eb-99d3-9ed4a90aaff5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of New Albany, Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "d35d4c46-506b-45eb-99d3-9ed4a90aaff5",
+  "solr_geom": "ENVELOPE(-85.8501,-85.7601,38.36,38.25)",
+  "solr_year_i": "1942",
+  "dc_description_s": "Oriented with north toward the upper right. Scale 1:7,200. 1 inch = 600 feet.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00289\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00289\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "New Albany, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Petery-Hedden Print. Co.",
+  "dct_temporal_sm": [
+    "1942"
+  ]
+}

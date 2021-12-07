@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9fcbdf29-879e-4a00-8930-aa971a7af685",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Delaware County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "9fcbdf29-879e-4a00-8930-aa971a7af685",
+  "solr_geom": "ENVELOPE(-85.58,-85.21,40.38,40.08)",
+  "solr_year_i": "1937",
+  "dc_description_s": "Blue line print.; Corrected to January 1, 1937.; Data obtained from Statewide Highway Planning Survey.; Includes chart Culture in unincorporated places and location map.; 18. Scale 1:63,360. 1 inch =1 mile.; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00364\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00364\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Delaware County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Commission",
+  "dct_temporal_sm": [
+    "1937"
+  ]
+}

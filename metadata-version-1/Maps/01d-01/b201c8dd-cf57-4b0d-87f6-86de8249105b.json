@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b201c8dd-cf57-4b0d-87f6-86de8249105b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "b201c8dd-cf57-4b0d-87f6-86de8249105b",
+  "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "solr_year_i": "1929",
+  "dc_description_s": "Shows towns, roads, and counties.; Flags of the 48 states in left and right margins.; On verso: Historical and other points of interest-Indiana, Cram's transcontinental highway map, and Index to Indiana counties and towns. Scale approximately 1:800,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00098\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00098\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Cram",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

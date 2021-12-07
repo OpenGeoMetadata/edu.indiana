@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2bdcd3c9-dd11-4296-9c3e-c1a10dd9477e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Nappanee, Indiana: celebrating its 60th anniversary as a city",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "2bdcd3c9-dd11-4296-9c3e-c1a10dd9477e",
+  "solr_geom": "ENVELOPE(-86.03,-85.9101,41.4501,41.4101)",
+  "solr_year_i": "1985",
+  "dc_creator_sm": [
+    "Clouse,  Jim(Map maker), cartographer."
+  ],
+  "dc_description_s": "7185.; Inset: Nappanee Municipal Airport.; Text, illustrations, and area map on verso.; Advertising matter on borders. Scale not given",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00214\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00214\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Nappanee, Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Napanee Chamber of Commerce",
+  "dct_temporal_sm": [
+    "1985?"
+  ]
+}

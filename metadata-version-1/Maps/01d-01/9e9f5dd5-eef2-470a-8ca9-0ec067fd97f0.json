@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9e9f5dd5-eef2-470a-8ca9-0ec067fd97f0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Dreher's mile square index map of the city of Indianapolis",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "9e9f5dd5-eef2-470a-8ca9-0ec067fd97f0",
+  "solr_geom": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
+  "solr_year_i": "1931",
+  "dc_creator_sm": [
+    "Swinehart,  C. V., cartographer."
+  ],
+  "dc_description_s": "The crossroads of America.; Includes one mile distance circles centered on Monument Circle, street index and advertisements.; Includes Dreher's county, township and 'all the roads' map of Central Indiana : showing all dedicated highways--improved and unimproved--state roads, main inter-county roads, townships, cities, towns and villages of the environs of Indianapolis, indexes and advertisements on verso.; Includes indexes. Scale approximately 1:31,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00147\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00147\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "D. Frank Dreher",
+  "dct_temporal_sm": [
+    "1931"
+  ]
+}

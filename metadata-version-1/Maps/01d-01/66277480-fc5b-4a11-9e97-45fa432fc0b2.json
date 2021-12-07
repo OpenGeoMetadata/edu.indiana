@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "66277480-fc5b-4a11-9e97-45fa432fc0b2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana coal mines: located on railroads",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "66277480-fc5b-4a11-9e97-45fa432fc0b2",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1947",
+  "dc_description_s": "Shows southwestern Indiana from Newport in the north to the Ohio River on the south and from the Wabash River on the west to Morgantown on the east.; Includes index to coal mines with their railroads and and inset of the entire state of Indiana showing Indiana Coal Deposits. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00116\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00116\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T17:18:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Association",
+  "dct_temporal_sm": [
+    "1947?"
+  ]
+}

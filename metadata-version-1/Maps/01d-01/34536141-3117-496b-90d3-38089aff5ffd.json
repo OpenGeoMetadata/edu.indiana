@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "34536141-3117-496b-90d3-38089aff5ffd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Don't let construction make you a wreck!: 1997 Indiana road construction map.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "34536141-3117-496b-90d3-38089aff5ffd",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1997",
+  "dc_description_s": "Please note ... only major highway and interstate improvement projects are included in this brochure. Information is accurate as of February 1, 1997 and is subject to change.; Includes text. Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1559725/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00089\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Indiana Dept. of Transportation",
+  "dct_temporal_sm": [
+    "1997"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00846",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Rome City, cottagers plats and Sylvan Lake",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00846",
+  "solr_geom": "ENVELOPE(-85.38,-85.3101,41.5,41.46)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Owen, M. F. (Millard Fillmore),1851-1932"
+  ],
+  "dc_description_s": "Cadastral map. Blueprint. Originally copied on 4 sheets. Includes text and insets: 'Map of bluffs, bridges, wagon road and banks upon which Northport Feeder Dam was constructed in 1837-38', 'Obsolete town plat of Northprt ... ', 'Sewage ground near Waste Wiers-Rome City' and 'Details of septic tank.' Scale approximately 1:2,700. M.F. Owen.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00846\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00846\"}",
+  "dct_spatial_sm": [
+    "Rome City, Indiana",
+    "Sylvan Lake, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "M.F. Owen",
+  "dct_issued_s": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

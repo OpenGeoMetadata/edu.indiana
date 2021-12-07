@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "366c2ee4-be41-4e45-9b9a-b5189c04f637",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Comprehensive general land use plan, Marion County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "366c2ee4-be41-4e45-9b9a-b5189c04f637",
+  "solr_geom": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
+  "solr_year_i": "1969",
+  "dc_description_s": "Text, ill, statistical chart, and ancillary map Growth trends in the Indianapolis urban area on verso.; November, 1969. Scale approximately 1:50,000.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Land use"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00377\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00377\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana",
+    "Marion County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T19:42:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Dept.",
+  "dct_temporal_sm": [
+    "1969"
+  ]
+}

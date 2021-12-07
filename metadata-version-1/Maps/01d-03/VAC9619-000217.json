@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000217",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-35-51-B м. Берестечко (Berestechko, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000217",
+  "solr_geom": "ENVELOPE(25.25,25,50.5,50.333)",
+  "solr_year_i": "1889",
+  "dc_description_s": "Modern area represented: Berestechko, Ukraine; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/8nwgnyd0g9v8aztcys09swerc5qrwfs1\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000217\"}",
+  "dct_spatial_sm": [
+    "Berestechko, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:41Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1889",
+  "dct_temporal_sm": [
+    "1889-1932"
+  ]
+}

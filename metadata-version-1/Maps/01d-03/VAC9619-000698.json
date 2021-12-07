@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000698",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L-34-1 Комарно (Komárno, Slovakia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000698",
+  "solr_geom": "ENVELOPE(18.5,18,48,47.6667)",
+  "solr_year_i": "1940",
+  "dc_description_s": "Modern area represented: Komárno, Nitriansky region, Slovakia; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/nivv2f0ixc7e578i6j4cif96mhvzgk9z\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000698\"}",
+  "dct_spatial_sm": [
+    "Komárno, Slovakia",
+    "Slovakia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:19Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1940",
+  "dct_temporal_sm": [
+    "1940"
+  ]
+}

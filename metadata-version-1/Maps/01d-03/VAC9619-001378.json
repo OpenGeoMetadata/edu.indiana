@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001378",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-65-A Хиславичи (Khislavichi, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001378",
+  "solr_geom": "ENVELOPE(52.25,32,54.3333,54.1667)",
+  "solr_year_i": "1924",
+  "dc_description_s": "Modern area represented: Khislavichi, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/6tsmi7907z3ujrvddo4dl1h9swy27xnr\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001378\"}",
+  "dct_spatial_sm": [
+    "Khislavichi, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:27Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Военно-топографическое управление",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924-1926"
+  ]
+}

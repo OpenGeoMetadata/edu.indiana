@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003660",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-42-Б-в Постниккен (Zalivnoye, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003660",
+  "solr_geom": "ENVELOPE(20.875,20.75,54.913,54.833)",
+  "solr_year_i": "1906",
+  "dc_description_s": "Modern area represented: Заливное (Zalivnoye), Kaliningradskaya oblast, Russia; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/va6dsr0a5qjx3mm597omeo10fps7w2y8\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003660\"}",
+  "dct_spatial_sm": [
+    "Zalivnoye, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:55Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906-1940"
+  ]
+}

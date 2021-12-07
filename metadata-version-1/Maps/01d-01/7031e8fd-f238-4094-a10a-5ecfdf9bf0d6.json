@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7031e8fd-f238-4094-a10a-5ecfdf9bf0d6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Asher & Adams' Ohio & Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "7031e8fd-f238-4094-a10a-5ecfdf9bf0d6",
+  "solr_geom": "ENVELOPE(-88,-79,42,37)",
+  "solr_year_i": "1872",
+  "dc_description_s": "Detached from an atlas, no. 59-60. Scale 1:1,267,200. 20 miles to an inch",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074432/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00312\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "State of Ohio, Ohio"
+  ],
+  "layer_modified_dt": "2021-05-07T21:52:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Asher & Adams",
+  "dct_temporal_sm": [
+    "1872"
+  ]
+}

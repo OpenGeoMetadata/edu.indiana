@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3f67038b-3a13-4ff5-9f0e-5333ffa36473",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hefel's natural gas map: map of Muncie, Ind.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "3f67038b-3a13-4ff5-9f0e-5333ffa36473",
+  "solr_geom": "ENVELOPE(-85.45,-85.31,40.23,40.1301)",
+  "solr_year_i": "1888",
+  "dc_creator_sm": [
+    "Hefel,  Toney C., cartographer."
+  ],
+  "dc_description_s": "Partial cadastral map showing landowners.; Blueprint. Scale 1:3,960. 330 feet to 1 inch.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00168\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00168\"}",
+  "dct_spatial_sm": [
+    "Muncie, Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Toney C. Hefel",
+  "dct_temporal_sm": [
+    "1888"
+  ]
+}

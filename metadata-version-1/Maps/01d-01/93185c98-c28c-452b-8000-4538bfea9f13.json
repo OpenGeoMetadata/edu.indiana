@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "93185c98-c28c-452b-8000-4538bfea9f13",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Marion County Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "93185c98-c28c-452b-8000-4538bfea9f13",
+  "solr_geom": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
+  "solr_year_i": "1855",
+  "dc_description_s": "Cadastral map showing landowners.; Originally printed in 2 sheets. Scale approximately 1:32,500",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00149\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00149\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Marion County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Condit, Wright & Hayden?",
+  "dct_temporal_sm": [
+    "1855"
+  ]
+}

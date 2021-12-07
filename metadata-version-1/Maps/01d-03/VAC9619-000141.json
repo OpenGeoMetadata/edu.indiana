@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000141",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-36-6-Г Гощин (Goszczyn, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000141",
+  "solr_geom": "ENVELOPE(21,20.75,51.8333,51.6667)",
+  "solr_year_i": "1885",
+  "dc_description_s": "Modern area represented: Goszczyn, Poland; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mhcae8p1r7yk731ivugi7u6wck2j5ubm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000141\"}",
+  "dct_spatial_sm": [
+    "Goszczyn, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:45Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1885",
+  "dct_temporal_sm": [
+    "1885-1941"
+  ]
+}

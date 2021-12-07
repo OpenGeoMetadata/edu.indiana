@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "18084cda-70bf-4fe1-b1ef-bea6be41fb10",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General highway and transportation map, Tipton County, Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "18084cda-70bf-4fe1-b1ef-bea6be41fb10",
+  "solr_geom": "ENVELOPE(-86.25,-85.86,40.41,40.21)",
+  "solr_year_i": "1949",
+  "dc_description_s": "Blueline.; State roads revised January 1, 1949.; 1937.; 80.; Data obtained from State-wide Highway Planning Survey.; Includes chart of Culture in unincorporated places, and location map. Scale 1:130,000. Not 1 inch =1 mile; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074640/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00621\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Tipton County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State Highway Commission of Indiana",
+  "dct_temporal_sm": [
+    "1949?"
+  ]
+}

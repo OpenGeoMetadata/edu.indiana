@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001829",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-35-27-С Куймэтса (Estonia, Estonia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001829",
+  "solr_geom": "ENVELOPE(25.25,25,59.167,59)",
+  "solr_year_i": "1898",
+  "dc_description_s": "Modern area represented: Estonia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/0fjb7wexd9hgfek5snpgjvexadqwjrns\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001829\"}",
+  "dct_spatial_sm": [
+    "Estonia, Estonia",
+    "Estonia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:39Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1898",
+  "dct_temporal_sm": [
+    "1898-1899"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003398",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-37-108 Боковская (Bokovskaya, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003398",
+  "solr_geom": "ENVELOPE(42,41.5,49.333,49)",
+  "solr_year_i": "1939",
+  "dc_description_s": "Modern area represented: Bokovskaya, Rostov oblast, Russia; Scale =1:100,000; Для служебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/l5jbi90c9j1rndovutu9gybisefkun1s\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003398\"}",
+  "dct_spatial_sm": [
+    "Bokovskaya, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:45Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939-1941"
+  ]
+}

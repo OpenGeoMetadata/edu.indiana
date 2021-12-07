@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-004033",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-30 Поставы (Pastavy, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-004033",
+  "solr_geom": "ENVELOPE(27,26.5,55.333,55)",
+  "solr_year_i": "1903",
+  "dc_description_s": "Modern area represented: Pastavy, Vileyka oblast, Belarus; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/sx5g0f6vwh5y0cx44uu8uij7emfiyhkc\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004033\"}",
+  "dct_spatial_sm": [
+    "Pastavy, Belarus",
+    "Belarus"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:11Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903-1936"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ac1d39e8-7b58-4825-8b5d-00fc79cc697e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Drainage map, Cass County, Indiana: prepared from 1938 AAA aerial photographs",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "ac1d39e8-7b58-4825-8b5d-00fc79cc697e",
+  "solr_geom": "ENVELOPE(-86.58,-86.16,40.91,40.56)",
+  "solr_year_i": "1948",
+  "dc_description_s": "Blue line print.; Prepared under the supervision of: M. Parvis.; Report discrepancies found on this map to Joint Highway Research Project, Purdue University. Scale 1:63,360. 1 inch = 1 mile; Polyconic projection",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00132\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00132\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Cass County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Project",
+  "dct_temporal_sm": [
+    "1948"
+  ]
+}

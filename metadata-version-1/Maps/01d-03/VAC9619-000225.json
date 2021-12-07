@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000225",
+  "dc_rights_s": "Public",
+  "dc_title_s": "M-35-56-A Новоград-Волынск (Novohrad-Volynskyi, Ukraine)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000225",
+  "solr_geom": "ENVELOPE(27.75,27.5,50.667,50.5)",
+  "solr_year_i": "1909",
+  "dc_description_s": "Modern area represented: Novohrad-Volynskyi, Zhytomyr oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/vkl1tkwpt0lkjcrzluqom0mfdmb4bd4u\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000225\"}",
+  "dct_spatial_sm": [
+    "Novohrad-Volynskyi, Ukraine",
+    "Ukraine"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:41Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1909",
+  "dct_temporal_sm": [
+    "1909-1932"
+  ]
+}

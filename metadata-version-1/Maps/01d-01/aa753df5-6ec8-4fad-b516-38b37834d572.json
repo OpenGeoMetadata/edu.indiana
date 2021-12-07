@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "aa753df5-6ec8-4fad-b516-38b37834d572",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geological Map: Bloomington Quadrangle Indiana.",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "aa753df5-6ec8-4fad-b516-38b37834d572",
+  "solr_geom": "ENVELOPE(-86.75,-86.5,39.25,39)",
+  "solr_year_i": "1914",
+  "dc_description_s": "Relief shown by contours and spot heights.; 39th Annual report Indiana Department of Geology.; Base map: Bloomington Quadrangle Indiana : Topography /U.S.G.S. 1909.; J.W. Beede, in charge of field work. Scale 1:62,500",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00351\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00351\"}",
+  "dct_spatial_sm": [
+    "Greene County, Indiana",
+    "Indiana",
+    "Monroe County, Indiana",
+    "Owen County, Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T21:52:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Dept.",
+  "dct_temporal_sm": [
+    "1914?"
+  ]
+}

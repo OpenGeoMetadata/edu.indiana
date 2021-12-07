@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-001336",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-52-B Досугово (Dosugovo, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001336",
+  "solr_geom": "ENVELOPE(31.75,31.5,54.5,54.3333)",
+  "solr_year_i": "1924",
+  "dc_description_s": "Modern area represented: Dosugovo, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/6d4jdegn27pv1soh07egpys8wyfuieal\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001336\"}",
+  "dct_spatial_sm": [
+    "Dosugovo, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:13:25Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Военно-топографическое управление",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

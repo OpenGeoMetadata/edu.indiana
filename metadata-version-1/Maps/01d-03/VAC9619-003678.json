@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-003678",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-43-Г-а Альт Гертлаукен (Novaya Derevnya, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003678",
+  "solr_geom": "ENVELOPE(21.375,21.25,54.833,54.75)",
+  "solr_year_i": "1913",
+  "dc_description_s": "Modern area represented: part of Новая Деревня (Novaya Derevnya), Kaliningradskaya oblast, Russia; Scale =1:25,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/r75v7hcereycakbqvtag4h320prkrnzf\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003678\"}",
+  "dct_spatial_sm": [
+    "Novaya Derevnya, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:55Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-25k"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913-1941"
+  ]
+}

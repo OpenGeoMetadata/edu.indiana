@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-002216",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L-38-129 Оз. Бол. Маныч (Big Manych lake, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002216",
+  "solr_geom": "ENVELOPE(46.5,46,44.6667,44.3333)",
+  "solr_year_i": "1935",
+  "dc_description_s": "Modern area represented: Озеро Большой Маныч (Big Manych lake), Dagestan, Russia; Scale =1:100,000; Для cлужебного пользования",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/jzyw114661iroumea8ba3fsvpgw2lyjs\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002216\"}",
+  "dct_spatial_sm": [
+    "Big Manych Lake, Russia",
+    "Dagestan, Russia",
+    "Russia"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:28Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-100k"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935-1942"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC9619-000386",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-34-143-В Бяла Подляска (Biała Podlaska, Poland)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000386",
+  "solr_geom": "ENVELOPE(23.25,23,52.1667,52)",
+  "solr_year_i": "1881",
+  "dc_description_s": "Modern area represented: Biała Podlaska, Poland; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ypk43zabiad3i4nsknlth8hbjlnt5gfj\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000386\"}",
+  "dct_spatial_sm": [
+    "Biała Podlaska, Poland",
+    "Poland"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-14T22:12:51Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_isPartOf_sm": [
+    "01d-03-50k"
+  ],
+  "dct_issued_s": "1881",
+  "dct_temporal_sm": [
+    "1881-1941"
+  ]
+}

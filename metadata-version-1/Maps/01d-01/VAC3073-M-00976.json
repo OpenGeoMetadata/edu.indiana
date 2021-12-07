@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "VAC3073-M-00976",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC3073-M-00976",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Coffman, Lotus Delta,1875-1938"
+  ],
+  "dc_description_s": "Shows county boundaries. Title supplied by cataloger. Place of publication from U.S. Copyright Office. Catalogue of title entries of books and other articles. 1904. Includes text in left margin. Scale not given. Lotus D. Coffman.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "County boundaries"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00976\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00976\"}",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-08T19:27:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Lotus D. Coffman",
+  "dct_issued_s": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}
