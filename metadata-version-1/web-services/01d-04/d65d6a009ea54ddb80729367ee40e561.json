@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://iu.maps.arcgis.com/home/item.html?id=d65d6a009ea54ddb80729367ee40e561",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Overall Social Vulnerability: State of Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "d65d6a009ea54ddb80729367ee40e561",
+  "solr_geom": "ENVELOPE(-88.096,-84.6883,41.7579,37.7705)",
+  "solr_year_i": "2013",
+  "dc_creator_sm": [
+    "Environmental Resilience Institute"
+  ],
+  "dc_description_s": "Ranked percentile of social vulnerability (e.g. inability to prevent human suffering and financial loss in the event of a disaster) per Indiana census tract for years 2013 - 2017.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/tKsJAIiLjd90D5q2/arcgis/rest/services/RPL_THEMES/FeatureServer/1\",\"http://schema.org/url\":\"https://iu.maps.arcgis.com/home/item.html?id=d65d6a009ea54ddb80729367ee40e561\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T20:43:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2019-10-29",
+  "dct_temporal_sm": [
+    "2013-2017"
+  ]
+}

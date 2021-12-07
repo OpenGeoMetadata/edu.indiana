@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://iu.maps.arcgis.com/home/item.html?id=496e9733ff2b447187cc75d216a89df7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Socioeconomic Vulnerability: State of Indiana",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "496e9733ff2b447187cc75d216a89df7",
+  "solr_geom": "ENVELOPE(-88.096,-84.6883,41.7579,37.7705)",
+  "solr_year_i": "2013",
+  "dc_creator_sm": [
+    "Environmental Resilience Institute"
+  ],
+  "dc_description_s": "Ranked percentile of socioeconomic vulnerability (e.g. persons below poverty line / persons unemployed / per capita income / persons older than 25 with less than a 12th grade education) per Indiana census tract for years 2013 - 2017.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/tKsJAIiLjd90D5q2/arcgis/rest/services/RPL_THEME1/FeatureServer/1\",\"http://schema.org/url\":\"https://iu.maps.arcgis.com/home/item.html?id=496e9733ff2b447187cc75d216a89df7\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T20:43:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2019-10-16",
+  "dct_temporal_sm": [
+    "2013-2017"
+  ]
+}
