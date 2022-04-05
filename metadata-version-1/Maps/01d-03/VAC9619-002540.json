@@ -14,16 +14,11 @@
     "Shet District, Kazakhstan",
     "Kazakhstan"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:12:32Z",
+  "layer_modified_dt": "2022-04-01T15:31:13Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Главное управление государственной съемки и картографии НКВД СССР",
-  "dct_isPartOf_sm": [
-    "01d-03-100k"
-  ],
   "dct_issued_s": "1932",
   "dct_temporal_sm": [
     "1932-1938"

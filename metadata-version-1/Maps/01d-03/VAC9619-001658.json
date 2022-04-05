@@ -10,14 +10,9 @@
   "dc_description_s": "Modern area represented: Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
   "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/c7pjkkgv5rar84edbje3u982kujwfgya\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001658\"}",
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:13:34Z",
+  "layer_modified_dt": "2022-04-01T15:23:20Z",
   "dc_language_sm": [
     "rus"
-  ],
-  "dct_isPartOf_sm": [
-    "01d-03-50k"
   ],
   "dct_issued_s": "1939",
   "dct_temporal_sm": [

@@ -14,16 +14,11 @@
     "Shamraivka, Ukraine",
     "Ukraine"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:12:08Z",
+  "layer_modified_dt": "2022-04-01T15:33:10Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Управление военных топографов РККА",
-  "dct_isPartOf_sm": [
-    "01d-03-50k"
-  ],
   "dct_issued_s": "1908",
   "dct_temporal_sm": [
     "1908-1937"

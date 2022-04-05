@@ -3,7 +3,7 @@
   "dc_identifier_s": "https://iu.maps.arcgis.com/home/item.html?id=2ca611c9b08a462c8d040ef2de53a1ea",
   "dc_rights_s": "Public",
   "dc_title_s": "Extreme Precipitation Events, Current: State of Indiana",
-  "dct_provenance_s": "Indiana University",
+  "dct_provenance_s": "Hoosier Resilience Index: Indiana",
   "layer_slug_s": "2ca611c9b08a462c8d040ef2de53a1ea",
   "solr_geom": "ENVELOPE(-88.0953,-84.6882,41.7579,37.7705)",
   "solr_year_i": "1971",
@@ -16,8 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2021-12-07T20:43:18Z",
+  "layer_modified_dt": "2022-04-01T15:27:15Z",
   "dc_language_sm": [
     "eng"
   ],

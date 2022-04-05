@@ -14,16 +14,11 @@
     "Selo Gora, Russia",
     "Russia"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:13:49Z",
+  "layer_modified_dt": "2022-04-01T15:30:05Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Главное управление государственной съемки и картографии НКВД СССР",
-  "dct_isPartOf_sm": [
-    "01d-03-50k"
-  ],
   "dct_issued_s": "1937",
   "dct_temporal_sm": [
     "1937-1940"

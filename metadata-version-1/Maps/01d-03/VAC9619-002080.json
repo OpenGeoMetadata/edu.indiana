@@ -10,14 +10,9 @@
   "dc_description_s": "Modern area represented:; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
   "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/6xdrj1bkhrx97vw6jv7kov2zn9n3joh9\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002080\"}",
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:12:30Z",
+  "layer_modified_dt": "2022-04-01T15:23:42Z",
   "dc_language_sm": [
     "rus"
-  ],
-  "dct_isPartOf_sm": [
-    "01d-03-100k"
   ],
   "dct_issued_s": "1933",
   "dct_temporal_sm": [

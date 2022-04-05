@@ -14,16 +14,11 @@
     "Katino, Russia",
     "Russia"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:13:33Z",
+  "layer_modified_dt": "2022-04-01T15:23:20Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Главное управление геодезии и картографии при СНК СССР",
-  "dct_isPartOf_sm": [
-    "01d-03-100k"
-  ],
   "dct_issued_s": "1939",
   "dct_temporal_sm": [
     "1939-1941"

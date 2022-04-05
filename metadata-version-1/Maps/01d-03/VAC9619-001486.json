@@ -14,16 +14,11 @@
     "Zhuravichy, Belarus",
     "Belarus"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:13:30Z",
+  "layer_modified_dt": "2022-04-01T15:29:47Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Управление военных топографов РККА",
-  "dct_isPartOf_sm": [
-    "01d-03-50k"
-  ],
   "dct_issued_s": "1926",
   "dct_temporal_sm": [
     "1926"

@@ -13,13 +13,17 @@
   ],
   "dc_description_s": "Shows dispossession of Native American communities in Indiana, 1783-1840. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 7. Scale approximately 1:1,950,000",
   "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Indigenous people",
+    "American Indians",
+    "Treaties",
+    "Colonization"
+  ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00758\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00758\"}",
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-05-07T21:52:31Z",
+  "layer_modified_dt": "2022-04-01T15:23:49Z",
   "dc_language_sm": [
     "eng"
   ],

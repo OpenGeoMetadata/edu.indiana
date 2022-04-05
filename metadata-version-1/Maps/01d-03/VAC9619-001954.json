@@ -15,16 +15,11 @@
     "Republic Of Crimea, Ukraine",
     "Ukraine"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:12:24Z",
+  "layer_modified_dt": "2022-04-01T15:23:10Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Генеральный штаб Красной Армии",
-  "dct_isPartOf_sm": [
-    "01d-03-100k"
-  ],
   "dct_issued_s": "1934",
   "dct_temporal_sm": [
     "1934-1941"

@@ -14,16 +14,11 @@
     "Starie Peski, Belarus",
     "Belarus"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:13:07Z",
+  "layer_modified_dt": "2022-04-01T15:23:24Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Генеральный штаб РККА",
-  "dct_isPartOf_sm": [
-    "01d-03-100k"
-  ],
   "dct_issued_s": "1898",
   "dct_temporal_sm": [
     "1898-1930"

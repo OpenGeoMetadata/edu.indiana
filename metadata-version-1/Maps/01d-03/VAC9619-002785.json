@@ -14,16 +14,11 @@
     "Częstochowa, Poland",
     "Poland"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:12:36Z",
+  "layer_modified_dt": "2022-04-01T15:33:08Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Генеральный штаб Красной Армии",
-  "dct_isPartOf_sm": [
-    "01d-03-100k"
-  ],
   "dct_issued_s": "1896",
   "dct_temporal_sm": [
     "1896-1940"

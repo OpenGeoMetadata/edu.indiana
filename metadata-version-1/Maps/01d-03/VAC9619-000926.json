@@ -14,16 +14,11 @@
     "Krupets, Russia",
     "Russia"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:12:12Z",
+  "layer_modified_dt": "2022-04-01T15:28:50Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Генеральный штаб Красной Армии",
-  "dct_isPartOf_sm": [
-    "01d-03-50k"
-  ],
   "dct_temporal_sm": [
     "1942"
   ]

@@ -2,7 +2,7 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "VAC3073-M-00654",
   "dc_rights_s": "Public",
-  "dc_title_s": "Warrick and Spencer counties soil map test",
+  "dc_title_s": "Warrick and Spencer counties soil map",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "VAC3073-M-00654",
   "solr_geom": "ENVELOPE(-87.46,-86.7501,38.2301,37.7601)",
@@ -22,9 +22,7 @@
     "Warrick County, Indiana",
     "Indiana"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-11-21T20:50:48Z",
+  "layer_modified_dt": "2022-04-01T15:22:46Z",
   "dc_language_sm": [
     "eng"
   ],

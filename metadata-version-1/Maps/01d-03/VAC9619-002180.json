@@ -14,16 +14,11 @@
     "Semenovshchina, Russia",
     "Russia"
   ],
-  "layer_geom_type_s": "Image",
-
-  "layer_modified_dt": "2021-07-14T22:13:51Z",
+  "layer_modified_dt": "2022-04-01T15:32:15Z",
   "dc_language_sm": [
     "rus"
   ],
   "dc_publisher_s": "Главное управление геодезии и картографии при СНК СССР",
-  "dct_isPartOf_sm": [
-    "01d-03-100k"
-  ],
   "dct_issued_s": "1938",
   "dct_temporal_sm": [
     "1938-1941"
