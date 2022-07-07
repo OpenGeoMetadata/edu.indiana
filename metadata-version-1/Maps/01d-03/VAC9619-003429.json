@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003429",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003429|G7000 s100 .S7 sheet M-38-114",
   "dc_rights_s": "Public",
   "dc_title_s": "M-38-114 Сталинград (Volgograd, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Volgograd, Volgograd oblast, Russia; Scale =1:100,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/oo2vrc87y9j05dkj87f6acni21ndfl6w\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003429\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003429\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1go7bpmdEY3S-ODa3M9wK2CTPCdGJZeVD/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Volgograd, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:06Z",
+  "layer_modified_dt": "2022-07-06T01:39:18Z",
   "dc_language_sm": [
     "rus"
   ],

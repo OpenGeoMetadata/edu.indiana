@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002718",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002718|G7000 s100 .S7 sheet M-33-143",
   "dc_rights_s": "Public",
   "dc_title_s": "M-33-143 Братислава (Bratislava, Slovakia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Bratislava, Slovakia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/q381thjcgdpqe1avm0rg3fitivjy7sdw\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002718\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002718\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1qkLEW6VJRlWM8g26sbI-6pLFN3_P5o_N/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Bratislava, Slovakia",
     "Slovakia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:50Z",
+  "layer_modified_dt": "2022-07-06T01:38:54Z",
   "dc_language_sm": [
     "rus"
   ],

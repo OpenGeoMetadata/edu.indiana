@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001075",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001075|G7000 s50 .S68 М-36-104-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-104-Г Пригаривка (Prigarovka, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Prigarovka, Poltava oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/v4dws1j3b7m12ddcdfqevt58ojjal4um\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001075\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001075\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1f6wjuPrc3Ux9DrlosAXfFGB4gFxqmSmk\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Prigarovka, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:15Z",
+  "layer_modified_dt": "2022-07-06T01:37:58Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002330",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002330|G7000 s100 .S7 sheet L-37-68",
   "dc_rights_s": "Public",
   "dc_title_s": "L-37-68 Павловская (Pavlovskaya, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Pavlovskaya, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/twxc1z3s7d6vj592j0eshigjp3a1zciy\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002330\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002330\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1xbqEApJ5hSLMPVxfU-oodDof-dkkXh20/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Pavlovskaya, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:21Z",
+  "layer_modified_dt": "2022-07-06T01:38:40Z",
   "dc_language_sm": [
     "rus"
   ],

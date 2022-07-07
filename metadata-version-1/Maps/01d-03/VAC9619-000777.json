@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000777",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000777|G7000 s50 .s68 sheet N-35-129-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-129-В Витчины (Vyatchyn, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Вятчын (Vyatchyn), Homyel' oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/15dafwfpcb4j3c89uoec6ihyiklqm60t\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000777\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000777\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1Wy2eQiNbjL8lZq3PjZXx2evEU7SSk205\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Vyatchyn, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:12Z",
+  "layer_modified_dt": "2022-07-06T01:37:47Z",
   "dc_language_sm": [
     "rus"
   ],

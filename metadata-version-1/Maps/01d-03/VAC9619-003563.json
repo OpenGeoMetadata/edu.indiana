@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003563",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003563|G7000 s100 .S7 sheet N-33-57",
   "dc_rights_s": "Public",
   "dc_title_s": "N-33-57 Рюгенвальде (Darłowo, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1890",
   "dc_description_s": "Modern area represented: Darłowo, West Pomerania province, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/xhdts4lf2jetllfu22robitv548f2xcy\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003563\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003563\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1nkgJQP1YCZZMvFiZpCeeWK15exzGHer4/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Darłowo, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:11Z",
+  "layer_modified_dt": "2022-07-06T01:39:22Z",
   "dc_language_sm": [
     "rus"
   ],

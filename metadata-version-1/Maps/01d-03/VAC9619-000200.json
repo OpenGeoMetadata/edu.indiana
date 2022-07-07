@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000200",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000200|G7000 s50 .S68 sheet M-35-26-D",
   "dc_rights_s": "Public",
   "dc_title_s": "M-35-26-Г м. Иезежаны (Ozeryany, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1888",
   "dc_description_s": "Modern area represented: Ozeryany, Volyn oblast, Ukraine; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/tug2p4dx1jv1sanycpt59h5nr5o0sk6x\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000200\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000200\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1xvQ1oGG9QUdFXISUnTLyFKRdTn7A3o4R\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ozeryany, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:10Z",
+  "layer_modified_dt": "2022-07-06T01:37:15Z",
   "dc_language_sm": [
     "rus"
   ],

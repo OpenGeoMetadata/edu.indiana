@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003943",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003943|G7000 s100 .S7 sheet N-34-75",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-75 Ризенбург (Prabuty, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1909",
   "dc_description_s": "Modern area represented: Prabuty, Pomerania, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/cz6upg5n5rxfpsbrnd3qoeg6vy0v8a6n\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003943\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003943\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/11wrXv_QkIHayrpXhFrfMGiRwtV1AXijK/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Prabuty, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:55Z",
+  "layer_modified_dt": "2022-07-06T01:39:35Z",
   "dc_language_sm": [
     "rus"
   ],

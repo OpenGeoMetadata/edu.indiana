@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000609",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000609|G7000 s50 .S68 sheet N-35-72-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-72-В Шепелевичи (Shapyalyevichy, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Шапялевічы (Shapyalyevichy), Mogilev Oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/o5ejkmlo90jd369idhnfktj7h2d6r3hg\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000609\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000609\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/o5ejkmlo90jd369idhnfktj7h2d6r3hg\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Shapyalyevichy, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:57Z",
+  "layer_modified_dt": "2022-07-06T01:37:38Z",
   "dc_language_sm": [
     "rus"
   ],

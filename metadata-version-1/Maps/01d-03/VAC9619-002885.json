@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002885",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002885|GM G7000 s50 .S68 sheet O-36-112-A",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-112-A (Bologovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1941",
   "dc_description_s": "Modern area represented: Бологово (Bologovo), Tverskaya oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/1ju7rf60k6uu7r0vp9o4qtpty3mcty3z\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002885\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002885\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1juqVJbGoU8Zx3SQ43V0pO0g0oCsviapa/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Bologovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:40Z",
+  "layer_modified_dt": "2022-07-06T01:38:59Z",
   "dc_language_sm": [
     "rus"
   ],

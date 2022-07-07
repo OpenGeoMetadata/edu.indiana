@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001948",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001948|G7000 s100 .S7 sheet L-36-91",
   "dc_rights_s": "Public",
   "dc_title_s": "L-36-91 Сачал (Krasnoyars'ke, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,13 +9,13 @@
   "solr_year_i": "1898",
   "dc_description_s": "Modern area represented: Красноярське (Krasnoyars'ke), Republic of Crimea, Ukraine; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/qzh87nhvhyd62mt0rbf3k1quzq6y45vj\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001948\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001948\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1_OvVcz79LJgoJVCaS7m7OxWPt6RbjXde\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Krasnoyars'ke, Ukraine",
     "Republic Of Crimea, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:49Z",
+  "layer_modified_dt": "2022-07-06T01:38:26Z",
   "dc_language_sm": [
     "rus"
   ],

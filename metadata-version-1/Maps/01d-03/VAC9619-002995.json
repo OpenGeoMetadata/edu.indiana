@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002995",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002995|G7000 s50 .S68 sheet P-35-144-B",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-144-Б Куоккала (Repino, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1898",
   "dc_description_s": "Modern area represented: Репино (Repino), Leningradskaya oblast, Russia; Scale =1:50,000; Не подлежит оглашению; Временное издание; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mefgbxpnff811kphn4dbs5satj5s3ckp\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002995\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002995\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1nU3giLml2CU_BSpsj3LPAVG8xEGYYhTB/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Repino, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:32Z",
+  "layer_modified_dt": "2022-07-06T01:39:03Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000718",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000718|G7000 s100 .S7 sheet K-38-1",
   "dc_rights_s": "Public",
   "dc_title_s": "K-38-1 Джегутинский (Dzheguta, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Dzheguta, Karachayevo-Cherkesiya Republic, Russia; Scale =1:100,000; Временное издание Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/8ue4xzgb0955i8m5wxluk78fs2j0t3wj\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000718\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000718\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1kp0kGErywYJdw2pwrWDo3C-X9cu0C8Xk\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Dzheguta, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:46Z",
+  "layer_modified_dt": "2022-07-06T01:37:44Z",
   "dc_language_sm": [
     "rus"
   ],

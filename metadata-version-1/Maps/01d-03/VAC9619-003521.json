@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003521",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003521|GM G7000 s50 .S68 sheet O-37-95-A",
   "dc_rights_s": "Public",
   "dc_title_s": "O-37-95-A Чернопенье (Chernopenye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1932",
   "dc_description_s": "Modern area represented: Chernopenye, Kostroma oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ppn35q8u63v3whz2lwr5fp8ckb6zbcx4\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003521\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003521\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1CbNxFdBQATCSF-pVZsCwyDuXH5qsSM5f/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Chernopenye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:10Z",
+  "layer_modified_dt": "2022-07-06T01:39:21Z",
   "dc_language_sm": [
     "rus"
   ],

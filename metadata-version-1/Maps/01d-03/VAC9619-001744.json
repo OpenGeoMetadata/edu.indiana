@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001744",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001744|G7000 s50 .S68 sheet O-34-131-C",
   "dc_rights_s": "Public",
   "dc_title_s": "О-34-131-C Жагарэ (Žagarė, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1897",
   "dc_description_s": "Modern area represented: Žagarė, Joniškis district, Lithuania; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/47cac6866idtoom0clk9wfrztomyiq3s\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001744\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001744\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1dy-Du-fXv4uWDGOzK_z_Ade1D5-obnUv\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Žagarė, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:09Z",
+  "layer_modified_dt": "2022-07-06T01:38:19Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001413",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001413|GM G7000 S50 .S68 N-36-78-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-78-A Криволес (Krivoles, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Krivoles, Smolensk oblast, Russia; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/r4yl4np5b97jsn685ceg1ftdyiyjdg2p\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001413\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001413\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1G_o1rg9pqVL7KfGLi_tmCMD2EHLl0PBF\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Krivoles, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:25Z",
+  "layer_modified_dt": "2022-07-06T01:38:09Z",
   "dc_language_sm": [
     "rus"
   ],

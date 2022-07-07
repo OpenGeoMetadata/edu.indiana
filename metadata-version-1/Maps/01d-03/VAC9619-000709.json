@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000709",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000709|G7000 s100 .S7 sheet J-39-13",
   "dc_rights_s": "Public",
   "dc_title_s": "J-39-13 Белясувар (Bilyasuvar, Azerbaijan)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Bilyasuvar, Bilǝsuvar district, Azerbaijan; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ap8pqrldauem1wjgfrre2rrwvk9kl354\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000709\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000709\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1tcLGn63XjKgWqnsnezfGB1KJJiUl79pr\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Bilyasuvar, Azerbaijan",
     "Azerbaijan"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:37Z",
+  "layer_modified_dt": "2022-07-06T01:37:44Z",
   "dc_language_sm": [
     "rus"
   ],

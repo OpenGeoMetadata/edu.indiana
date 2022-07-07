@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002693",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002693|GM G7000 s50 .S68 sheet O-35-62-D",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-62-Г Килинги-Нымме (Kilingi-Nõmme, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1905",
   "dc_description_s": "Modern area represented: Kilingi-Nõmme, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/hopvt4mfam9o5rpkx0khvy5ossk8re45\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002693\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002693\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1mhXB3QKLXGCb0MmMQfpxjEn3Um0meISm/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Kilingi-Nõmme, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:34Z",
+  "layer_modified_dt": "2022-07-06T01:38:53Z",
   "dc_language_sm": [
     "rus"
   ],

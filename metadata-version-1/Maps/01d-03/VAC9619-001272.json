@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001272",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001272|GM G7000 S50 .S68 N-36-30-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-30-B Ярцево (Yartsevo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Yartsevo, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/n5qoepi56hawsm35zilt70gb6aybf28v\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001272\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001272\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1soFnKL7cacQduQagvw9AqQ6tvBIh1rQt\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Yartsevo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:48Z",
+  "layer_modified_dt": "2022-07-06T01:38:05Z",
   "dc_language_sm": [
     "rus"
   ],

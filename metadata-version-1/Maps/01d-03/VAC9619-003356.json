@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003356",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003356|G7000 s50 .S68 sheet O-36-43-B",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-43-Б (Vitin Bor, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Витин Бор (Vitin Bor), Novgorodskaya oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3vd9hei0z24xenae1l5mo8esvafqtxtz\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003356\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003356\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1ADMB13mSwRY5xkvUguS1T0Ij0tzXqWGn/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Vitin Bor, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:24Z",
+  "layer_modified_dt": "2022-07-06T01:39:15Z",
   "dc_language_sm": [
     "rus"
   ],

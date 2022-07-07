@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002602",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002602|G7000 s100 .S7 sheet M-33-12",
   "dc_rights_s": "Public",
   "dc_title_s": "M-33-12 Плешев (Pleszew, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1888",
   "dc_description_s": "Modern area represented: Pleszew, Greater Poland province, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/cxz9h40eola80udr9b5t7vp1auptj9vg\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002602\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002602\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1-JMKlL84G9K-S3FaeQfud8YayWmCCVew/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Pleszew, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:17Z",
+  "layer_modified_dt": "2022-07-06T01:38:50Z",
   "dc_language_sm": [
     "rus"
   ],

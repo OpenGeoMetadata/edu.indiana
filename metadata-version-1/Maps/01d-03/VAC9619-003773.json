@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003773",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003773|G7063.K2 s25 .S6 sheet N-34-56-D-c",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-56-Г-в Коваррен (Zaozernoye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: Заозерное (Zaozernoye), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/plhn312pmqchzrxv813jgcyl0qqqewv0\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003773\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003773\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1_-KY0WiD0y2Zy7akIVlDvZVmfepqE6Gq/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Zaozernoye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:55Z",
+  "layer_modified_dt": "2022-07-06T01:39:29Z",
   "dc_language_sm": [
     "rus"
   ],

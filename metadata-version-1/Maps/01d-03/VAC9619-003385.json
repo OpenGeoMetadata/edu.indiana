@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003385",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003385|G7000 s100 .S7 sheet M-37-45",
   "dc_rights_s": "Public",
   "dc_title_s": "M-37-45 Козловка (Kozlovka, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1941",
   "dc_description_s": "Modern area represented: Kozlovka, Voronezh oblast, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ddje0a5nagk5cdsb8mdt5euc2v75j5m7\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003385\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003385\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1hWvnSROOL1RA_xlQgCjrKpD6rtltfTed/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kozlovka, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:20Z",
+  "layer_modified_dt": "2022-07-06T01:39:16Z",
   "dc_language_sm": [
     "rus"
   ],

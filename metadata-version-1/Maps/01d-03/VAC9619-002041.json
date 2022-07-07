@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002041",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002041|G7000 s100 .S7 sheet O-35-54",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-54 Тарту (Tartu, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1900",
   "dc_description_s": "Modern area represented: Tartu, Estonia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/vzirblx6z0me37jlk8ox4m439h53cvdp\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002041\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002041\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1IKv48v3RBeq6FA4JGB6TGvGWeCBlPTGe\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Tartu, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:18Z",
+  "layer_modified_dt": "2022-07-06T01:38:30Z",
   "dc_language_sm": [
     "rus"
   ],

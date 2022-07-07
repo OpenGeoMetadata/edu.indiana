@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003917",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003917|G7000 s100 .S7 sheet N-34-48",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-48 Каунас (Kaunas, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1935",
   "dc_description_s": "Modern area represented: Kaunas, Lithuania; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/j2yfp34yaomljho3q6l0hprwuexspm4g\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003917\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003917\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1bdD856UDYKqiy_u7OBKFqN-xy5ajue5w/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kaunas, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:38Z",
+  "layer_modified_dt": "2022-07-06T01:39:34Z",
   "dc_language_sm": [
     "rus"
   ],

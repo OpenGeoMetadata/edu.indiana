@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000252",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000252|G7000 s50 .S68 N-34-9-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-9-А Телшяй (Telšiai, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1895",
   "dc_description_s": "Modern area represented: Telšiai, Lithuania; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/70kutef6xb9pwijt8onirly76l9tsivq\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000252\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000252\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1ocbujnwIiwWfwWFjqSMijdMQuAyGQfzS\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Telšiai, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:56Z",
+  "layer_modified_dt": "2022-07-06T01:37:18Z",
   "dc_language_sm": [
     "rus"
   ],

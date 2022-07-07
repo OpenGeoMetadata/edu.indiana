@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003728",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003728|G7063.K2 s25 .S6 sheet N-34-52-B-а",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-52-Б-а Леснч. Мёвен-Хакен (Mys Chayachiy, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Мыс Чаячий (Mys Chayachiy), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/r7x4vcaskd3nyutut65p8nnpoc1ml6fq\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003728\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003728\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1pueT3RP8SSWI7N5yNopCvlSuNmtMQizw/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Mys Chayachiy, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:23Z",
+  "layer_modified_dt": "2022-07-06T01:39:28Z",
   "dc_language_sm": [
     "rus"
   ],

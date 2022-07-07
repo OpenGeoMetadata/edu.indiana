@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002716",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002716|G7000 s100 .S7 sheet M-33-118",
   "dc_rights_s": "Public",
   "dc_title_s": "M-33-118 Бржеслав (Břeclav, Czech Republic)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1887",
   "dc_description_s": "Modern area represented: Břeclav, South Moravian region, Czech Republic; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/2nwogwuvngvdr6eeq5alzd7s8e9iy9xh\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002716\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002716\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Xz9QjEJFlda42zTIvCh3f9f004Vs9M1C/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Břeclav, Czech Republic",
     "Czech Republic"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:05Z",
+  "layer_modified_dt": "2022-07-06T01:38:53Z",
   "dc_language_sm": [
     "rus"
   ],

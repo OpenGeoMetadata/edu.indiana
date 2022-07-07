@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000685",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000685|G7000 s50 .S68 sheet N-35-106-D",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-106-Г Глуша (Hlusha, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Глуша (Hlusha), Mogilev oblast, Belarus; Scale =1:50,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/aam62ehabhlo43rec91mrz0naftuv2d6\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000685\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000685\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1EDG31pa9RqCPhd9inRsJmYU84Htl0rNQ\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Hlusha, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:21Z",
+  "layer_modified_dt": "2022-07-06T01:37:43Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000477",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000477|G7000 s50 .S68 sheet N-35-24-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-24-А Селище (Selishcha, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Selishcha, Vitebsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/t7n03mgkt801u7g8n7wx7m0d8n7wr37b\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000477\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000477\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=167Ejg2bjTs21WMgjYEhsbasRwDu3Q2UC\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Selishcha, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:45Z",
+  "layer_modified_dt": "2022-07-06T01:37:31Z",
   "dc_language_sm": [
     "rus"
   ],

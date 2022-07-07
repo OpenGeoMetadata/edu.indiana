@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001217",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001217|GM G7000 S50 .S68 N-36-14-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-14-A Озерки (Ozerki, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1926",
   "dc_description_s": "Modern area represented: Ozerki, Vitebsk oblast, Belarus; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/od940bgmu8thp0e8otcyobtgwm939ru5\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001217\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001217\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1rm4mmqTlGSTbJEDW6rjcYLWCiqkZeYYx\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ozerki, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:12Z",
+  "layer_modified_dt": "2022-07-06T01:38:03Z",
   "dc_language_sm": [
     "rus"
   ],

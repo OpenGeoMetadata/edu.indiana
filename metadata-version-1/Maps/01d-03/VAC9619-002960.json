@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002960",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002960|GM G7000 s50 .S68 sheet P-36-78-A",
   "dc_rights_s": "Public",
   "dc_title_s": "P-36-78-A Посад (Posad, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1934",
   "dc_description_s": "Modern area represented: Posad, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kexu4nz1wkdcgw30ehm0gnervvtdo25e\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002960\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002960\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1NAZaL33KDwAhDWiBjWEBe_NtGsIJw_7C/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Posad, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:55Z",
+  "layer_modified_dt": "2022-07-06T01:39:02Z",
   "dc_language_sm": [
     "rus"
   ],

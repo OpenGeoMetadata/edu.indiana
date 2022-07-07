@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001128",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001128|G7000 s50 .S68 M-36-125-A",
   "dc_rights_s": "Public",
   "dc_title_s": "M-36-125-A Грузкое (Hruzke, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Hruzke, Kirovohrad oblast, Ukraine; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/4yuitm20f3j8mcsrxkhehrsm14m4p1h9\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001128\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001128\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1-TwwL0K3jPC1yfhX9Y1AsRYbZodc2T3h\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Hruzke, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:41Z",
+  "layer_modified_dt": "2022-07-06T01:38:00Z",
   "dc_language_sm": [
     "rus"
   ],

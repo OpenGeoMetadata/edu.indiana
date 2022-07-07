@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000586",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000586|G7000 s50 .S68 sheet N-35-67-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-67-А Красне (Krasnae, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Krasnae, Minsk oblast, Belarus; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/tw2acfulyo556jchang49x9k4cb8o0hw\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000586\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000586\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1JNhwSaZoEnZFjJbe80N_2LmOEG8S1Pnn\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Krasnae, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:50Z",
+  "layer_modified_dt": "2022-07-06T01:37:37Z",
   "dc_language_sm": [
     "rus"
   ],

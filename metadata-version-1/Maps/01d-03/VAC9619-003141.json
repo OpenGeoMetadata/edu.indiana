@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003141",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003141|G7000 s100 .S7 sheet N-37-75",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-75 Плавск (Plavsk, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Plavsk, Tula oblast, Russia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kwoy19ewjcum7uwmy21auirr128j8c04\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003141\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003141\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/12wrrO76R_fxjJIE8eTKpNBmm6fItS4aS/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Plavsk, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:10Z",
+  "layer_modified_dt": "2022-07-06T01:39:08Z",
   "dc_language_sm": [
     "rus"
   ],

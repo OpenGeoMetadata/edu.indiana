@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000136",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000136|G7000 s50 .S68 sheet L-37-101-B",
   "dc_rights_s": "Public",
   "dc_title_s": "L-37-101-Б Ивановская (Ivanovskaya, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1932",
   "dc_description_s": "Modern area represented: Ivanovskaya, Krasnodar kray, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/jnaiybupc72emmef2305wuv4nmhm3a2b\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000136\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000136\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1PT7DJWKnoX18bFhDVpk--LmrcJbl114Z\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ivanovskaya, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:21Z",
+  "layer_modified_dt": "2022-07-06T01:37:12Z",
   "dc_language_sm": [
     "rus"
   ],

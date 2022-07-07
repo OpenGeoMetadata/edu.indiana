@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001687",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001687|G7000 s50 .S68 sheet O-34-48-A",
   "dc_rights_s": "Public",
   "dc_title_s": "O-34-48-А Хапсалу (Haapsalu, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1900",
   "dc_description_s": "Modern area represented: Haapsalu, Lääne county, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/xifc6u2lc1k71zexd7js34zzcr1pt9qt\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001687\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001687\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1wwUJr80MJOSKOJQj4IGMLriXxfgJN9qn\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Haapsalu, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:41Z",
+  "layer_modified_dt": "2022-07-06T01:38:18Z",
   "dc_language_sm": [
     "rus"
   ],

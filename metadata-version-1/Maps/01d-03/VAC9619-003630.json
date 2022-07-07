@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003630",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003630|G7063.K2 s25 .S6 sheet N-34-36-B-d",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-36-Б-г Бучуны (Bučiūnai, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1893",
   "dc_description_s": "Modern area represented: Bučiūnai, Lithuania; Scale =1:25,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/sj36opz2ewzj2i2yu7lclw51d7bkwv4r\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003630\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003630\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1ty7f3T_2lNsTExbr7tcQtOHY_HtYniZa/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Bučiūnai, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:30Z",
+  "layer_modified_dt": "2022-07-06T01:39:24Z",
   "dc_language_sm": [
     "rus"
   ],

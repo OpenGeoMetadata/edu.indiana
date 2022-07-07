@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002979",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002979|GM G7000 s50 .S68 sheet P-35-118-A",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-118-A К-ка Нуйямаа",
   "dct_provenance_s": "Indiana University",
@@ -9,8 +9,8 @@
   "solr_year_i": "1890",
   "dc_description_s": "Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/wmoe80zeqbcyf2uk8wp7yrsgjnx3ypcj\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002979\"}",
-  "layer_modified_dt": "2022-04-01T15:23:56Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002979\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1xyUVOncfV0cc6SBv-hfIlA1dxPGWl-OZ/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "layer_modified_dt": "2022-07-06T01:39:03Z",
   "dc_language_sm": [
     "rus"
   ],

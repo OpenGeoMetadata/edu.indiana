@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001349",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001349|GM G7000 S50 .S68 N-36-55-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-55-Г Устинова (Ustinova, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Ustinova, Smolensk oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/42j2e5xtp5yhvhsefuy1qzgk3h2qt1bg\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001349\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001349\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1DMPS4UD_n6xQ36x0vpvk894TI_AIWgHh\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ustinova, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:24Z",
+  "layer_modified_dt": "2022-07-06T01:38:07Z",
   "dc_language_sm": [
     "rus"
   ],

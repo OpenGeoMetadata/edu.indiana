@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002964",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002964|GM G7000 s50 .S68 sheet P-36-79-B",
   "dc_rights_s": "Public",
   "dc_title_s": "P-36-79-Б Сямозеро (Syamozero, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1934",
   "dc_description_s": "Modern area represented: Syamozero, Republic of Karelia, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/f6hvumcvd454k473pyskbqubz0x9c4ps\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002964\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002964\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/11-d7d0GoeADTs2-jz6P_XFx6qncUf4DR/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Syamozero, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:41Z",
+  "layer_modified_dt": "2022-07-06T01:39:02Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000253",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000253|G7000 s50 .S68 N-34-9-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-9-Б Виешвенай (Viešvėnai, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1895",
   "dc_description_s": "Modern area represented: Viešvėnai, Telsiai, Lithuania; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/htfux80om9rtkcl4f36rv1zqaq82odqb\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000253\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000253\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1G9HQMWSo1S7KWQyCblZ-Z0vdzenGREUh\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Viešvėnai, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:37Z",
+  "layer_modified_dt": "2022-07-06T01:37:19Z",
   "dc_language_sm": [
     "rus"
   ],

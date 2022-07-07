@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002232",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002232|G7000 s100 .S7 sheet O-36-133",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-133 Ст. Опухлики (Opukhliki, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Опухлики (Opukhliki), Pskovskaya oblast, Russia; Scale =1:100,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/n1zrxwn5vzxwaf87wlwkq80ab5rxpk11\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002232\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002232\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1jelKgVqwObM6C8RTDBavZermx70iV60N/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Opukhliki, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:54Z",
+  "layer_modified_dt": "2022-07-06T01:38:36Z",
   "dc_language_sm": [
     "rus"
   ],

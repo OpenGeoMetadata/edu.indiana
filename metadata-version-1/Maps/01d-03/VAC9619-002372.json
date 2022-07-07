@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002372",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002372|G7000 s100 .S7 sheet P-35-87",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-87 Кухмойнен (Kuhmoinen, Finland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1917",
   "dc_description_s": "Modern area represented: Kuhmoinen, Finland; Scale =1:100,000; Временное издание Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/jb17gjyskvzw4w3zmc6rzh37oug1z4ad\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002372\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002372\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1UG-_lj3DryzxIV6mNeXbFjObaR_yopTa/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kuhmoinen, Finland",
     "Finland"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:35Z",
+  "layer_modified_dt": "2022-07-06T01:38:41Z",
   "dc_language_sm": [
     "rus"
   ],

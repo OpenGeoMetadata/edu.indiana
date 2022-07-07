@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002174",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002174|G7000 s100 .S7 sheet L-38-103",
   "dc_rights_s": "Public",
   "dc_title_s": "L-38-103 Перекрестный (Perekrestnyy, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: Perekrestnyy, Kalmykiya Republic, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/qqcqs2eydnd051aeqx0czq6cc0ail2s4\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002174\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002174\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1PufmFUSTdGToOsH9jP81y_oUAmZLg9iD\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Perekrestnyy, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:30Z",
+  "layer_modified_dt": "2022-07-06T01:38:34Z",
   "dc_language_sm": [
     "rus"
   ],

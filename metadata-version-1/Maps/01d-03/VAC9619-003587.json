@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003587",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003587|G7063.K2 s25 .S6 sheet N-34-30-C-b",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-30-B-б Ур. Ной Ляттенвальде (Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,11 +9,11 @@
   "solr_year_i": "1912",
   "dc_description_s": "Modern area represented: Curonian Spit, Kaliningrad oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/b7scqehz84zrl7najxu9oup746w4ftga\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003587\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003587\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1so0g2PTFh3q_dU1hTXnqvi3FX660pmNL/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:39Z",
+  "layer_modified_dt": "2022-07-06T01:39:23Z",
   "dc_language_sm": [
     "rus"
   ],

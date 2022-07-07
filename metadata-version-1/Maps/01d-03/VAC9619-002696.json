@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002696",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002696|GM G7000 s50 .S68 sheet O-35-65-A",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-65-A Ранну (Rannu, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1904",
   "dc_description_s": "Modern area represented: Rannu, Estonia; Scale =1:50,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ovrfcuj8afba3uoomsga5cj3zikyevee\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002696\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002696\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1gzUUqNwOVF41k5U2E728HAt33JM1A28u/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Rannu, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:57Z",
+  "layer_modified_dt": "2022-07-06T01:38:53Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002897",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002897|GM G7000 s50 .S68 sheet О-36-116-C",
   "dc_rights_s": "Public",
   "dc_title_s": "О-36-116-В (Vyshegorod, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Вышегород (Vyshegorod), Tverskaya oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/wde13hmb6ty5q5r0iaj30yls5b0flj05\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002897\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002897\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Yz4ZBUF-IvzvEjei_et63zhO83cB3S2-/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Vyshegorod, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:42Z",
+  "layer_modified_dt": "2022-07-06T01:39:00Z",
   "dc_language_sm": [
     "rus"
   ],

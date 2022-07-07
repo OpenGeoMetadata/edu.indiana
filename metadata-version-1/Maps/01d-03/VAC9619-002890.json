@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002890",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002890|GM G7000 s50 .S68 sheet O-36-113-D",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-113-Г (Okhvat, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Охват (Okhvat), Tverskaya oblast, Russia; Scale =1:50,000; Для служебного пользования; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/rhsjluob7aresy9k4j6he2d19d7cj5qe\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002890\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002890\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/12gpJLt5cYQ-4EyKfpoFZBoYFcmuVjtDC/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Okhvat, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:18Z",
+  "layer_modified_dt": "2022-07-06T01:39:00Z",
   "dc_language_sm": [
     "rus"
   ],

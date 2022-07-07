@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003757",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003757|G7063.K2 s25 .S6 sheet N-34-55-B-c",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-55-Б-в Клайн Нур (Sukhodol’ye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1914",
   "dc_description_s": "Modern area represented: Суходолье (Sukhodol’ye), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/nc7vyntljxoxdkaluqqu1g2dptqt2nh7\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003757\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003757\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/14jGcncKoDrk02oM3Vjf7feRtsNIx-vFJ/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Sukhodol’ye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:31Z",
+  "layer_modified_dt": "2022-07-06T01:39:29Z",
   "dc_language_sm": [
     "rus"
   ],

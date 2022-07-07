@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003349",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003349|G7000 s50 .S68 sheet O-36-40-D",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-40-Г (Radocha, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Радоча (Radocha), Novgorodskaya oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/z0cqsonbsyd7i37d17r6tgvp246618v5\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003349\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003349\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1ZNHMDAQawaHv8k6lAQzvW3K6VJoZr6nP/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Radocha, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:26Z",
+  "layer_modified_dt": "2022-07-06T01:39:15Z",
   "dc_language_sm": [
     "rus"
   ],

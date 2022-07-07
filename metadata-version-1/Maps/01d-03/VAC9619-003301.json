@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003301",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003301|G7000 s100 .S7 sheet M-36-87",
   "dc_rights_s": "Public",
   "dc_title_s": "M-36-87 Корсунь (Korsun-Shevchenkivskyi, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1923",
   "dc_description_s": "Modern area represented: Korsun-Shevchenkivskyi, Cherkasy oblast, Ukraine; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/0ksoi1fik1dlnh9y3rekzan56pbry9ct\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003301\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003301\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1lHWYAPWBnwAvkGXgIXVut3VJBRaI0vGU/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Korsun-Shevchenkivskyi, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:10Z",
+  "layer_modified_dt": "2022-07-06T01:39:13Z",
   "dc_language_sm": [
     "rus"
   ],

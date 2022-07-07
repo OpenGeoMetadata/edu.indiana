@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002229",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002229|G7000 s100 .S7 sheet O-36-125",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-125 Андреаполь (Andreapol', Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Андреаполь (Andreapol'), Tverskaya oblast, Russia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3cx8nhxgh11fdcr3k66h00oixmxlquis\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002229\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002229\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1JY6qAIuOhtzd82vC0HjC9ncpI7iG7zjv/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Andreapol', Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:03Z",
+  "layer_modified_dt": "2022-07-06T01:38:36Z",
   "dc_language_sm": [
     "rus"
   ],

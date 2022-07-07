@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001256",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001256|GM G7000 S50 .S68 N-36-26-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-26-A Яновичи (Yanovichi, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1921",
   "dc_description_s": "Modern area represented: Yanovichi, Vitebsk oblast, Belarus; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/1x33d4xoq99b1lrji5n8wapeons5kczv\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001256\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001256\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1_5GCfvhlNi6nhQfbYEauCBKWA0xqJ8og\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Yanovichi, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:13Z",
+  "layer_modified_dt": "2022-07-06T01:38:04Z",
   "dc_language_sm": [
     "rus"
   ],

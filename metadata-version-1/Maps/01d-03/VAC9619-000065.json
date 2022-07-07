@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000065",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000065|G7000 s50 .S68 sheet P-36-77-B",
   "dc_rights_s": "Public",
   "dc_title_s": "P-36-77-B Колат-Сельга (Kolatselga, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1934",
   "dc_description_s": "Modern area represented: Kolatselga, Republic of Karelia, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/hedf30dhys9lglsxn8icf41n2g60a02f\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000065\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000065\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1JH8SGoiabG5jitcDvA-ayFvLzptmn4nb\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Kolatselga, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:24Z",
+  "layer_modified_dt": "2022-07-06T01:37:08Z",
   "dc_language_sm": [
     "rus"
   ],

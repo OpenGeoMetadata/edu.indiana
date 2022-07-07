@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000479",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000479|G7000 s50 .S68 sheet N-35-24-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-24-В Сиротино (Sirotsina, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Sirotsina, Vitebsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/rswd924kabfbbqt17u170y9cpc3nvmak\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000479\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000479\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1f_I9xcgEk14w7ig4nqBQIxLvvClrqrQi\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Sirotsina, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:36Z",
+  "layer_modified_dt": "2022-07-06T01:37:31Z",
   "dc_language_sm": [
     "rus"
   ],

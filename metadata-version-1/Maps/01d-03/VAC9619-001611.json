@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001611",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001611|G7000 s50 .S68 sheet N-37-65-Б",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-65-Б (Povetkino, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Povetkino, Tula oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/rkyv753oy0deka3oor2q1dsh6wvm7osf\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001611\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001611\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=13nWVQiXLMNySMz02582kJh_gFmnB6Vzj\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Povetkino, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:09Z",
+  "layer_modified_dt": "2022-07-06T01:38:16Z",
   "dc_language_sm": [
     "rus"
   ],

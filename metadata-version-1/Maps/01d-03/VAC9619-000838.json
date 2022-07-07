@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000838",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000838|G7000 s50 .S68 sheet M-35-80-D",
   "dc_rights_s": "Public",
   "dc_title_s": "М-35-80-Г Мотовыливка (Motovylivka, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Мотовилівка (Motovylivka), Zhytomyr Oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/xffy3owx780o4uw1ho7tts79yfwhmn6d\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000838\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000838\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=13HQYDFufOqxSafbpvbBdW8sSY3nvKDTC\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Motovylivka, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:11Z",
+  "layer_modified_dt": "2022-07-06T01:37:50Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000702",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000702|G7000 s100 .S7 sheet J-38-44",
   "dc_rights_s": "Public",
   "dc_title_s": "J-38-44 Джульфа (Culfa, Azerbaijan)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1910",
   "dc_description_s": "Modern area represented: Culfa, Nakhchivan Autonomous Republic, Azerbaijan; Scale =1:100,000; Временное издание Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/gtsxlogfm2d4ss091ihv1t3642cn8mwv\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000702\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000702\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1ciMiII6qDnnJ6WZV49dwofar2Sm3RRBF\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Culfa, Azerbaijan",
     "Azerbaijan"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:14Z",
+  "layer_modified_dt": "2022-07-06T01:37:43Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000648",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000648|G7000 s50 .S68 sheet N-35-92-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-92-А Дудичи (Dudzichy, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1933",
   "dc_description_s": "Modern area represented: Дудзічы (Dudzichy), Minsk Oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mgk2cviuzliueaar6h5j771cwebv4nek\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000648\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000648\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1WfqO5i7HemROeGgX4dqfhQuGvvK_3yVu\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Dudzichy, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:42Z",
+  "layer_modified_dt": "2022-07-06T01:37:40Z",
   "dc_language_sm": [
     "rus"
   ],

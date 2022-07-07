@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002412",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002412|G7000 s100 .S7 sheet P-35-135",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-135 Тапанила (Tapanila, Finland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1873",
   "dc_description_s": "Modern area represented: Tapanila, Finland; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/8fjb86w38pn2wd69d1j0wvfdfm8fsxz9\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002412\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002412\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1iFASd5MYfRFOfLEYYGOm3N-IZUmVhjFw/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Tapanila, Finland",
     "Finland"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:45Z",
+  "layer_modified_dt": "2022-07-06T01:38:43Z",
   "dc_language_sm": [
     "rus"
   ],

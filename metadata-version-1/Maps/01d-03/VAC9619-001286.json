@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001286",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001286|GM G7000 S50 .S68 N-36-34-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-34-Г (Karpovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Karpovo, Smolensk oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kyqt3ckwv11tmheu8ob0iur94sc15plg\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001286\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001286\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1XlcQMtIZuRcF57Sk2_h1eNuLbc0cVF3m\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Karpovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:06Z",
+  "layer_modified_dt": "2022-07-06T01:38:05Z",
   "dc_language_sm": [
     "rus"
   ],

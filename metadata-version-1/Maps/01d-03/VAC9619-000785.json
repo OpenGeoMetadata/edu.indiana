@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000785",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000785|G7000 s50 .s68 sheet N-35-131-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-131-А Волосовичи (Valosavіchy, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Valosavіchy, Homyel oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/g3e5qsuroepo62l9n6eax7cter91hg8p\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000785\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000785\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1-0JtGuoRcAQOMue9zKRY1H90BFVHsJ9M\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Valosavіchy, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:46Z",
+  "layer_modified_dt": "2022-07-06T01:37:47Z",
   "dc_language_sm": [
     "rus"
   ],

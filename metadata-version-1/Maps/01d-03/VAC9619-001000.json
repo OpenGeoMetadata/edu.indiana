@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001000",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001000|G7000 s100 .S7 sheet L-34-75",
   "dc_rights_s": "Public",
   "dc_title_s": "L-34-75 Сомбор (Sombor, Serbia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Sombor, Vojvodina province, Serbia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/vtu7c7by38lx56pthf48tgokmgzumryv\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001000\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001000\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1vXpbAT1tpVWfKTjnf35CvwThcOGi5mrf\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Sombor, Serbia",
     "Serbia"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:45Z",
+  "layer_modified_dt": "2022-07-06T01:37:56Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001225",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001225|GM G7000 S50 .S68 N-36-15-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-15-Г Осиновцы (Osinovitsy, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1926",
   "dc_description_s": "Modern area represented: Osinovitsy, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3klwm22gz6nulgaqtf1gsmp3ee0f9gp3\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001225\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001225\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1H0g9VKnYBI20vGvvKq5_SjO6e7wWyvjY\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Osinovitsy, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:40Z",
+  "layer_modified_dt": "2022-07-06T01:38:03Z",
   "dc_language_sm": [
     "rus"
   ],

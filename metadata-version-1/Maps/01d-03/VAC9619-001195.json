@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001195",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001195|GM G7000 S50 .S68 N-36-4-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-4-Г Евсеевка (Yevseyevka, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: Yevseyevka, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/5av50f4evtvptp26dfy6u583ti7vihd6\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001195\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001195\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1YctSUZL_eIQT7heg0hs29S_d0ro0V5wO\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Yevseyevka, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:32Z",
+  "layer_modified_dt": "2022-07-06T01:38:02Z",
   "dc_language_sm": [
     "rus"
   ],

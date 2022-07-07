@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000472",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000472|G7000 s50 .S68 sheet N-35-23-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-23-А Манулище (Ozero Skobroye, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: abandoned populated place near the lake Skobroye, Vitebsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/57ucnltohe5px4ml0rej6o6naykb5utc\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000472\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000472\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=10D1a0tkqTJ1bCu-PMBvv5C1OsX3xfq0u\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ozero Skobroye, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:37Z",
+  "layer_modified_dt": "2022-07-06T01:37:31Z",
   "dc_language_sm": [
     "rus"
   ],

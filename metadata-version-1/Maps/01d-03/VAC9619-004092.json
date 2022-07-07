@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-004092",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004092|G7000 s100 .S7 sheet N-35-92",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-92 Шацк (Shatsk, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1933",
   "dc_description_s": "Modern area represented: Shatsk, Minsk oblast, Belarus; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/y52j0g0h9lmfplg008e38nrekomox9zz\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004092\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004092\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1W8MNEo5y754eevSB-hwsnv2-f7tD5UaP/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Shatsk, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:41Z",
+  "layer_modified_dt": "2022-07-06T01:39:40Z",
   "dc_language_sm": [
     "rus"
   ],

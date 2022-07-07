@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000192",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000192|G7000 s50 .S68 sheet M-35-24-D",
   "dc_rights_s": "Public",
   "dc_title_s": "M-35-24-Г Толстый Лес (Tovstyi Lis, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Tovstyi Lis, Ukraine; an abandoned populated place (the residents were resettled as the result of the Chernobyl accident); Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/nf9sr5vvep4c3u4g15nbywea2p45m2zk\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000192\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000192\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1VNYar89ax3ofZHmK7pMkpnfLwmpdP3ro\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Tovstyi Lis, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:37Z",
+  "layer_modified_dt": "2022-07-06T01:37:15Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002316",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002316|G7000 s100 .S7 sheet P-35-48",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-48 Контиолахти (Kontiolahti, Finland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1916",
   "dc_description_s": "Modern area represented: Kontiolahti, Finland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3quprqvmdnzjnpgyzklq7my5noflbv5f\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002316\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002316\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/14fyIgZM99qlL1Z5-fbRRUfhycZ23QG6b/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kontiolahti, Finland",
     "Finland"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:37Z",
+  "layer_modified_dt": "2022-07-06T01:38:40Z",
   "dc_language_sm": [
     "rus"
   ],

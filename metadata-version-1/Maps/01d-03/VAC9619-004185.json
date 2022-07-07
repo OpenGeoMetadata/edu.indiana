@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-004185",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004185|G7000 s100 .S7 sheet N-36-45",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-45 Всходы (Vskhody, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Vskhody, Smolensk oblast, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3fuuy3uqj5x4owecrsdykskewoidjcfu\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004185\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004185\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/16jhnEnkfqmB3Uv7hhlZoNJDJPGXACLn7/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Vskhody, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:09Z",
+  "layer_modified_dt": "2022-07-06T01:39:43Z",
   "dc_language_sm": [
     "rus"
   ],

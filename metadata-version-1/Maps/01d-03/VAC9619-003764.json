@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003764",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003764|G7063.K2 s25 .S6 sheet N-34-55-D-b",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-55-Г-б Клайн Гние (Mozyr', Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Мозырь (Mozyr'), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ej4vdff873gr7qlgj2cjqu8xicinvctg\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003764\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003764\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1rzYJ4jELzYhA075PzqMO_6FAlPm9H3TG/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Mozyr', Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:58Z",
+  "layer_modified_dt": "2022-07-06T01:39:29Z",
   "dc_language_sm": [
     "rus"
   ],

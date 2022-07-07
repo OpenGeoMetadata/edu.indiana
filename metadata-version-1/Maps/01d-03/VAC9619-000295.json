@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000295",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000295|G7000 s50 .S68 sheet N-34-42-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-42-А Повунден (Khrabrovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1906",
   "dc_description_s": "Modern area represented: Khrabrovo, Kaliningrad oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/10sfbozrt73t2dt2jilm3hr6qelrjeng\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000295\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000295\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1mE_Zq6yF1U73QesqonB6FpV86Gpr_nWN\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Khrabrovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:16Z",
+  "layer_modified_dt": "2022-07-06T01:37:21Z",
   "dc_language_sm": [
     "rus"
   ],

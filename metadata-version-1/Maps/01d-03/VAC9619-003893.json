@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003893",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003893|G7000 s100 .S7 sheet N-33-143",
   "dc_rights_s": "Public",
   "dc_title_s": "N-33-143 Шрода (Środa Wielkopolska, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1887",
   "dc_description_s": "Modern area represented: Środa Wielkopolska, Greater Poland, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/zb9h86kaoepdzpb3dtwijsjs1yacl53f\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003893\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003893\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1zr42bGMIXuIeutLedZXgZIk58L8iQK-0/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Środa Wielkopolska, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:48Z",
+  "layer_modified_dt": "2022-07-06T01:39:33Z",
   "dc_language_sm": [
     "rus"
   ],

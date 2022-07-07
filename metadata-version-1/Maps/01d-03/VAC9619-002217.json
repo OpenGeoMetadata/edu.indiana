@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002217",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002217|G7000 s100 .S7 sheet L-38-130",
   "dc_rights_s": "Public",
   "dc_title_s": "L-38-130 Черный Рынок (Kochubey, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1935",
   "dc_description_s": "Modern area represented: Kochubey, Stavropol kray, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/g61612aqutdguye2t2cixp7fx1pvumur\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002217\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002217\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1kMnGWdu5v3OOIb0_SLp5E4laknAPtFu7/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kochubey, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:52Z",
+  "layer_modified_dt": "2022-07-06T01:38:36Z",
   "dc_language_sm": [
     "rus"
   ],

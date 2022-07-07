@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000068",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000068|G7000 s50 .S68 sheet P-36-89-B",
   "dc_rights_s": "Public",
   "dc_title_s": "P-36-89-Б Палалахта (Palalakhta, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1934",
   "dc_description_s": "Modern area represented: Palalakhta, Republic of Karelia, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/7hm40hygtixke5glxcrjocgykywatraf\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000068\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000068\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1sIg5wUWBgSKK3BDZC0yTqiIN78_sGLP7\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Palalakhta, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:14Z",
+  "layer_modified_dt": "2022-07-06T01:37:08Z",
   "dc_language_sm": [
     "rus"
   ],

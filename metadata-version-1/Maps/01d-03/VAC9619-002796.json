@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002796",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002796|GM G7000 s50 .S68 sheet O-35-80-A",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-80-A Тростянка (Treski, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1913",
   "dc_description_s": "Modern area represented: Treski, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3c3u08w9p7u53kff7c17i7y54jbz1596\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002796\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002796\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/19RoZEzlF0wGysP5fWmmZyuSIQ05Ntmly/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Treski, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:08Z",
+  "layer_modified_dt": "2022-07-06T01:38:56Z",
   "dc_language_sm": [
     "rus"
   ],

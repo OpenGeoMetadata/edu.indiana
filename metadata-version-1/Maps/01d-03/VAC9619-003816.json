@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003816",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003816|G7063.K2 s25 .S6 sheet N-34-69-D-c",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-69-Г-в Дунайкен (Dunajek, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Dunajek, Poland; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/93uuvme4zl4hb519yygmd9or74tynq4o\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003816\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003816\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/182IRaREw04jeZefLmlaU9qXh1KHE-RAQ/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Dunajek, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:23Z",
+  "layer_modified_dt": "2022-07-06T01:39:31Z",
   "dc_language_sm": [
     "rus"
   ],

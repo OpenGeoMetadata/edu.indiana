@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002591",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002591|G7000 s100 .S7 sheet L-54-25",
   "dc_rights_s": "Public",
   "dc_title_s": "L-54-25 Ахобе (Akhobe, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Akhobe, Primorskiy kray, Russia; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/znhzbrf1caycd225in1avtu8behdw8c7\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002591\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002591\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/11zScXf4PWIJnNDJt2g9dgJ4MeiDc8cwa/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Akhobe, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:16Z",
+  "layer_modified_dt": "2022-07-06T01:38:49Z",
   "dc_language_sm": [
     "rus"
   ],

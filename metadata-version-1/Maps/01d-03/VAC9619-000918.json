@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000918",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000918|G7000 s50 .S68 sheet M-36-13-B1929",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-13-Б Асаревичи (Asarevichy, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Асарэвічы (Asarevichy), Homyel' Oblast, Belarus; Scale =1:50,000; Секретно; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/cpbj6l3k45r7kef1hwn4xzl806o2tijo\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000918\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000918\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1pPk0Bg7kOEhNFIqDsY2MxC_Ku3mG-gFv/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Asarevichy, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:21Z",
+  "layer_modified_dt": "2022-07-06T01:37:54Z",
   "dc_language_sm": [
     "rus"
   ],

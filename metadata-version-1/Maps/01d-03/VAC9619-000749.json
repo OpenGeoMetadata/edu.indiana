@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000749",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000749|G7000 s50 .s68 sheet N-35-126-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-126-Б Вельке Чучевиче (Vyalikiya Chuchavichy, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1911",
   "dc_description_s": "Modern area represented: Вялікія Чучавічы (Vyalikiya Chuchavichy), Brest oblast, Belarus; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/w1cfib8z14a13jvm3m67jud2lgfhu7o2\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000749\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000749\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1iuLgmz8axWKL_dJEIwHocC9p23ZPOVFR\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Vyalikiya Chuchavichy, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:37Z",
+  "layer_modified_dt": "2022-07-06T01:37:46Z",
   "dc_language_sm": [
     "rus"
   ],

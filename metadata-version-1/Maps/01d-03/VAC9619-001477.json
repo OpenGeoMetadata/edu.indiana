@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001477",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001477|G7000 s100 .S7 sheet L-34-50",
   "dc_rights_s": "Public",
   "dc_title_s": "L-34-50 Сексард (Szekszárd, Hungary)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1894",
   "dc_description_s": "Modern area represented: Szekszárd, Tolna county, Hungary; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/qzpkdl6wbugfikm3j3ro4ftsxeiwgo2s\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001477\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001477\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1f6Ue5ljPNCKXFqdhIJsJgaIrBvs_E0iF\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Szekszárd, Hungary",
     "Hungary"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:05Z",
+  "layer_modified_dt": "2022-07-06T01:38:11Z",
   "dc_language_sm": [
     "rus"
   ],

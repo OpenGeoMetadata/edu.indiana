@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002535",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002535|G7000 s100 .S7 sheet L-43-3",
   "dc_rights_s": "Public",
   "dc_title_s": "L-43-3 (Shet district, Kazakhstan)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Shet district, Kazakhstan; Scale =1:100,000; Издание первое",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/h9c64m28zipx48iwlmk28rt53vyq21l2\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002535\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002535\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1tdO-ql_FcKSojxgiQ1T1cG_Uixd8Nggx/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Shet District, Kazakhstan",
     "Kazakhstan"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:53Z",
+  "layer_modified_dt": "2022-07-06T01:38:47Z",
   "dc_language_sm": [
     "rus"
   ],

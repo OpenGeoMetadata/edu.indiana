@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000678",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000678|G7000 s50 .S68 sheet N-35-105-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-105-А Левки (Lyawki, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Lyawki, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/sqihkd8uypjj9akoa55omigmtpcuzjzz\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000678\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000678\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1jRywotG65B62p5tCPO96mb22wd95cH7H\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Lyawki, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:29Z",
+  "layer_modified_dt": "2022-07-06T01:37:42Z",
   "dc_language_sm": [
     "rus"
   ],

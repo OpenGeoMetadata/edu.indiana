@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003487",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003487|G7000 s50 .S68 sheet O-36-134-С",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-134-B Заручевье (Zaruchev’ye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Заручевье (Zaruchev’ye), Pskovskaya oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/gma5x7006793qya5a3jopitz1kf26vic\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003487\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003487\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1sZvT1aSi1X-gztb-fetgX7GjTlx1OctD/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Zaruchev’ye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:59Z",
+  "layer_modified_dt": "2022-07-06T01:39:20Z",
   "dc_language_sm": [
     "rus"
   ],

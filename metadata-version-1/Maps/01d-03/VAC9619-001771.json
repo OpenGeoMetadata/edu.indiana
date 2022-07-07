@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001771",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001771|G7000 s100 .S7 sheet L-35-121",
   "dc_rights_s": "Public",
   "dc_title_s": "L-35-121 Слатина (Slatina, Romania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1916",
   "dc_description_s": "Modern area represented: Slatina, Olt county, Romania; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kc8x7yh8m75b8kgh96vcpa91a7s8lu3g\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001771\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001771\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1LpBoyeFGRJntKJGx2sTa9L30I9l_cfvs\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Slatina, Romania",
     "Romania"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:34Z",
+  "layer_modified_dt": "2022-07-06T01:38:20Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001587",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001587|G7000 s50 .S68 sheet N-37-6-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-6-Г Орехово-Зуево (Orekhovo-Zuyevo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1922",
   "dc_description_s": "Modern area represented: Orekhovo-Zuyevo, Moscow oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kb4rq4msner9mb5sptr5x2g9ncrme3ck\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001587\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001587\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1YSoC4qULp6BdN-5c-DqfZ7rEYz_wNjk4\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Orekhovo-Zuyevo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:42Z",
+  "layer_modified_dt": "2022-07-06T01:38:15Z",
   "dc_language_sm": [
     "rus"
   ],

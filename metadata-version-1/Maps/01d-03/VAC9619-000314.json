@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000314",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000314|G7000 s50 .S68 N-34-45-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-45-В Краупишкен (Ulyanovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1913",
   "dc_description_s": "Modern area represented: Ulyanovo, Kaliningrad oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/iymtxzkt1c9hi7c4211shht8k5j0kqis\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000314\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000314\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1xb7wB_G8fEnaX8Quva_uaDyG8gEPJbZ6\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ulyanovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:46Z",
+  "layer_modified_dt": "2022-07-06T01:37:22Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000869",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000869|G7000 s50 .S68 sheet M-35-88-A",
   "dc_rights_s": "Public",
   "dc_title_s": "М-35-88-А Тарнополь (Ternopil', Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Тернопіль (Ternopil'), Ternopil Oblast, Ukraine; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/i5bod2m75z1g41wbszau9zsx9vo5khrl\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000869\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000869\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1b59BaJ01jjxJDQSasEyKkGWROlwEXjwN\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ternopil', Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:50Z",
+  "layer_modified_dt": "2022-07-06T01:37:51Z",
   "dc_language_sm": [
     "rus"
   ],

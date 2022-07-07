@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000600",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000600|G7000 s50 .S68 sheet N-35-70-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-70-В Гливин (Hlivin, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Hlivin, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/d8rb06yphlcfwoq9vg9o86je7yudar26\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000600\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000600\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1ob-G1IVuBPMFIlgi9jsNnL3gAVRwebQA\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Hlivin, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:21Z",
+  "layer_modified_dt": "2022-07-06T01:37:38Z",
   "dc_language_sm": [
     "rus"
   ],

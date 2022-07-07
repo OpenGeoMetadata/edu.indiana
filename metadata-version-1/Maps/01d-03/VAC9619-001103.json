@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001103",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001103|G7000 s50 .S68 М-36-118-А",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-118-А Могилев I (Mohyliv, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Mohyliv, Dnipropetrovsk oblast, Ukraine; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mz99dcsffr34ovo0z38cbfiaxe1z6mvh\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001103\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001103\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=18FxaTD8QDAJJ62HMsjR_o-qXFZkcSP44\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Mohyliv, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:41Z",
+  "layer_modified_dt": "2022-07-06T01:37:59Z",
   "dc_language_sm": [
     "rus"
   ],

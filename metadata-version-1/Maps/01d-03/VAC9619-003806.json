@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003806",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003806|G7063.K2 s25 .S6 sheet N-34-66-B-а",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-66-Б-а Бартенштайн (Bartoszyce, Poland (North side of the city))",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1913",
   "dc_description_s": "Modern area represented: Bartoszyce, Poland (North side of the city); Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/hhdkt3ug8jtfmy4kslf14awci2d2mdus\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003806\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003806\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1QzOGgwiENbaqrLhOT4VC2tvPpw3Rr0uG/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Bartoszyce, Poland (North Side Of The City)",
     "Poland (North Side Of The City)"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:52Z",
+  "layer_modified_dt": "2022-07-06T01:39:30Z",
   "dc_language_sm": [
     "rus"
   ],

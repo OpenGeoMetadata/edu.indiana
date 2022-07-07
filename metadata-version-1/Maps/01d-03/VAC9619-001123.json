@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001123",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001123|G7000 s50 .S68 М-36-123-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-123-Г Глодосы (Glodosy, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Glodosy, Kirovohrad oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/jvlivbxf2al8v5jvxihek0gisnwgp8ez\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001123\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001123\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1a3gmx3XrXbU9M5dXmll9BdX37lX0Hh9V\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Glodosy, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:48Z",
+  "layer_modified_dt": "2022-07-06T01:38:00Z",
   "dc_language_sm": [
     "rus"
   ],

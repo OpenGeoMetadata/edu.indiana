@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002992",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002992|G7000 s50 .S68 sheet P-35-132-D",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-132-Г Вуоттала (Kirovskoye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1889",
   "dc_description_s": "Modern area represented: Кировское (Kirovskoye), Leningradskaya oblast, Russia; Scale =1:50,000; Временное издание",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/gplpqeus4vlirb429c5i8fg0gkaxocmp\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002992\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002992\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1PUsd3k7EcVyG0GMSQPG2laJ-iO7hhOE1/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Kirovskoye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:03Z",
+  "layer_modified_dt": "2022-07-06T01:39:03Z",
   "dc_language_sm": [
     "rus"
   ],

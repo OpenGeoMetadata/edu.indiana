@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002054",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002054|G7000 s100 .S7 sheet L-38-54",
   "dc_rights_s": "Public",
   "dc_title_s": "L-38-54 Гюрве (Kalmykiya Republic, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Kalmykiya Republic, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/q5cc294tcutgq3j9ifvx8fmdnyp88g76\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002054\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002054\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1x7Lj-GgCMVgbtb3GYkD853_PQG0pCJ0-\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kalmykiya Republic, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:50Z",
+  "layer_modified_dt": "2022-07-06T01:38:30Z",
   "dc_language_sm": [
     "rus"
   ],

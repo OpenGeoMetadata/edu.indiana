@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001118",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001118|G7000 s50 .S68 М-36-122-В",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-122-В Покатилово (Pokotylove, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: Pokotylove, Kirovohrad oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/bm1ptpvabitux2drowok7bnky91po0uf\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001118\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001118\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1N-twWVN0Is5v-9Aot8q6n-SXZrw9AvFP\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Pokotylove, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:27Z",
+  "layer_modified_dt": "2022-07-06T01:37:59Z",
   "dc_language_sm": [
     "rus"
   ],

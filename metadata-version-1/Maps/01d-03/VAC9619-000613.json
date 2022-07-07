@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000613",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000613|G7000 s50 .S68 sheet N-35-78-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-78-Б Волма (Volma, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Volma, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/bnds0dt2uq5fy43hzjxkqa3vleb2pvkm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000613\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000613\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1tJbyl0CQWseddDO75ISYRQUXDEkA9On0\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Volma, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:45Z",
+  "layer_modified_dt": "2022-07-06T01:37:38Z",
   "dc_language_sm": [
     "rus"
   ],

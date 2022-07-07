@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002116",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002116|G7000 s100 .S7 sheet O-35-95",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-95 Славковичи (Slavkovichi, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Славковичи (Slavkovichi), Pskovskaya oblast, Russia; Scale =1:100,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/wzwihnfqtew4h1vq419y8lrnmhhp3oc2\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002116\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002116\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1C7ZrfoLRr4C9G51H5m_r3tuocDH7_OS7\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Slavkovichi, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:21Z",
+  "layer_modified_dt": "2022-07-06T01:38:32Z",
   "dc_language_sm": [
     "rus"
   ],

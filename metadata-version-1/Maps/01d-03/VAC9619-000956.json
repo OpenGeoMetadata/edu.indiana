@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000956",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000956|G7000 s50 .S68 sheet M-36-45-A",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-45-А Толстое (Tovste, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Tovste, Sumy oblast, Ukraine; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/70rpje6a8rhhdl345g50bo3zlu28209o\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000956\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000956\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=18NrtybSlEFYo6Cbg2zvy_2BEv4G6o9PT\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Tovste, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:17Z",
+  "layer_modified_dt": "2022-07-06T01:37:55Z",
   "dc_language_sm": [
     "rus"
   ],

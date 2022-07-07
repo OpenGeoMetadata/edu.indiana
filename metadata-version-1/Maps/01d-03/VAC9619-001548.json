@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001548",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001548|G7000 s50 .S68 sheet N-36-121-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-121-Б Чеботовичи (Chebotovichi, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Chebotovichi, Homyel oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/jrvygf0j7fme0zpzouhjryi5g6pe169x\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001548\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001548\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1hEz-hZWO57SmZPvZbEaBzu7WJ1kcE6kz\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Chebotovichi, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:36Z",
+  "layer_modified_dt": "2022-07-06T01:38:13Z",
   "dc_language_sm": [
     "rus"
   ],

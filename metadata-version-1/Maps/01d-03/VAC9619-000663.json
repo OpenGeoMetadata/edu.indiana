@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000663",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000663|G7000 s50 .S68 sheet N-35-96-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-96-В Борки (Borki, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Borki, Mogilev oblast, Belarus; Scale =1:50,000; Не подлежит оглашению Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/pfejl2l809574r5sok4ejuhhj2tkl4oc\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000663\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000663\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1j1eQx4lz9Gpi5I0vmkJhaZioYJavO2eP\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Borki, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:05Z",
+  "layer_modified_dt": "2022-07-06T01:37:41Z",
   "dc_language_sm": [
     "rus"
   ],

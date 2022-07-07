@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001244",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001244|GM G7000 S50 .S68 N-36-20-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-20-Г (Khmelita, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Khmelita, Smolensk oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/psl5zq70ju0t73elvozx2p98ezkk2l55\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001244\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001244\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1Z8OgOqlKZrkx9eNGf8-JIxhcggW8H4XB\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Khmelita, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:01Z",
+  "layer_modified_dt": "2022-07-06T01:38:04Z",
   "dc_language_sm": [
     "rus"
   ],

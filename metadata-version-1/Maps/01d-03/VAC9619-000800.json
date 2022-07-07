@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000800",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000800|G7000 s100 .S7 sheet K-42-79",
   "dc_rights_s": "Public",
   "dc_title_s": "K-42-79 (Sharapkhana, Kazakhstan)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Sharapkhana, Turkistan region, Kazakhstan; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/goyv5jxmoh81ekfgkou7pnrne2nv8dcm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000800\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000800\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1j5UHu1aPu3VmPh-XlLoPJlRn72rf5TSn\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Sharapkhana, Kazakhstan",
     "Kazakhstan"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:40Z",
+  "layer_modified_dt": "2022-07-06T01:37:48Z",
   "dc_language_sm": [
     "rus"
   ],

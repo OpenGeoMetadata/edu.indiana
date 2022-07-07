@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000526",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000526|G7000 s50 .S68 sheet N-35-42-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-42-В Вишнев (Vishneva, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1904",
   "dc_description_s": "Modern area represented: Вішнева (Vishneva), Hrodna Region, Belarus; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/sc2cqzci6wyczjvj8y3auzl363ga834v\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000526\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000526\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1UPeTy88XhMNRU-LvWTYH08MEkOAJK0Ih\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Vishneva, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:49Z",
+  "layer_modified_dt": "2022-07-06T01:37:34Z",
   "dc_language_sm": [
     "rus"
   ],

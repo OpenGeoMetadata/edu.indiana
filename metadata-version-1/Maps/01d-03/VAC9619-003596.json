@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003596",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003596|G7063.K2 s25 .S6 sheet N-34-31-B-d",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-31-Б-г Шакунен (Levoberezhnoye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1910",
   "dc_description_s": "Modern area represented: Левобережное (Levoberezhnoye), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/7rj624psf1mmy8jow9knszih10gbw5v3\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003596\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003596\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1dvlY0f2u3s9DuxAwvSM6kSiwi08WRsQD/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Levoberezhnoye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:04Z",
+  "layer_modified_dt": "2022-07-06T01:39:23Z",
   "dc_language_sm": [
     "rus"
   ],

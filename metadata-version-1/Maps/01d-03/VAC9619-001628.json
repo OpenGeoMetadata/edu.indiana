@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001628",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001628|G7000 s50 .S68 sheet N-37-111-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-111-В Хомутово (Khomutovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Khomutovo, Oryol oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/efsibggl8ti7tl9yn0r17vvirleifckb\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001628\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001628\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1SIcg4a5irHJ_MFTIR7u4EicOX4Ws3Awe\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Khomutovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:14Z",
+  "layer_modified_dt": "2022-07-06T01:38:16Z",
   "dc_language_sm": [
     "rus"
   ],

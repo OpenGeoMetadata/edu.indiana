@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001072",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001072|G7000 s50 .S68 М-36-104-А",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-104-А С. Манжелия (Manzheliya, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Manzheliya, Poltava oblast,, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/dfxio7w6apwlwcyikngbf5besz1h147c\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001072\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001072\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/dfxio7w6apwlwcyikngbf5besz1h147c\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Manzheliya, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:13Z",
+  "layer_modified_dt": "2022-07-06T01:37:58Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001094",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001094|G7000 s50 .S68 М-36-115-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-115-Г Зыбкое (Zybkove, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Zybkove, Kirovohrad oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/fz1zbng8o3y5es2hzgd2adtz3q9c6gsm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001094\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001094\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1aE2uadlywZNTzYcEC7DpZRlzdnt_EgSI\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Zybkove, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:13Z",
+  "layer_modified_dt": "2022-07-06T01:37:59Z",
   "dc_language_sm": [
     "rus"
   ],

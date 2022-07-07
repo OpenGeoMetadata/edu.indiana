@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000084",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000084|G7000 s50 .S68 sheet J-38-34-B",
   "dc_rights_s": "Public",
   "dc_title_s": "J-38-39-Б Агалу",
   "dct_provenance_s": "Indiana University",
@@ -9,8 +9,8 @@
   "solr_year_i": "1875",
   "dc_description_s": "Scale =1:50,000; Не подлежит оглашению Временное издание",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/c7vz6cvi11531c70v3yfy5h8vben8j58\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000084\"}",
-  "layer_modified_dt": "2022-04-01T15:29:26Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000084\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1D8EHmLP9nyEkneYeZUiU8Gf8mQAwOIua\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "layer_modified_dt": "2022-07-06T01:37:09Z",
   "dc_language_sm": [
     "rus"
   ],

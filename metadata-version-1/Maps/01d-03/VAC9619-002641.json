@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002641",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002641|GM G7000 S50 .S68 sheet O-35-50-B",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-50-Б Вилувэре (Viluvere, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1902",
   "dc_description_s": "Modern area represented: Viluvere, Estonia; Scale =1:50,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/z267nup6vmw8ode57e9sit15etlbhdg6\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002641\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002641\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1IY-JjwCbaGz_i-FrL--wVI-D4nB6Fw5W/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Viluvere, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:53Z",
+  "layer_modified_dt": "2022-07-06T01:38:51Z",
   "dc_language_sm": [
     "rus"
   ],

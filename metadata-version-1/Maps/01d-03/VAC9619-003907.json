@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003907",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003907|G7000 s100 .S7 sheet N-34-32",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-32 Тильзит (Sovetsk, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Sovetsk, Kaliningrad, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/dvp1wr92dwh00y8kh7jse9kqstpw7vyu\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003907\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003907\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1ZE6fpLJNIGxWnUhdWI4cc9N4Uz5qoWyV/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Sovetsk, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:55Z",
+  "layer_modified_dt": "2022-07-06T01:39:34Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000275",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000275|G7000 s50 .S68 N-34-31-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-31-А Нидден (Nida, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1910",
   "dc_description_s": "Modern area represented: Nida, Lithuania; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/cgspcbpuf3bnjstgvtc3wsh8zj16ode7\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000275\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000275\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1isXzZdbkF4WLKPcXk2ouE6tm3Tr4C70F\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Nida, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:10Z",
+  "layer_modified_dt": "2022-07-06T01:37:20Z",
   "dc_language_sm": [
     "rus"
   ],

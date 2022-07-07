@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001996",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001996|G7000 s100 .S7 sheet L-37-10",
   "dc_rights_s": "Public",
   "dc_title_s": "L-37-10 Ниж. Кундрюченская (Nizhnekundryuchenskaya, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,13 +9,13 @@
   "solr_year_i": "1914",
   "dc_description_s": "Modern area represented: Нижнекундрюченская (Nizhnekundryuchenskaya), Rostov Oblast, Russia; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/wx7x6nhmbzebejkdoyagamjssqcg8oh3\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001996\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001996\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1khjISyh7NIt8NJVI07yFSfnxg6paYV-Y\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Nizhnekundryuchenskaya, Russia",
     "Rostov Oblast, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:36Z",
+  "layer_modified_dt": "2022-07-06T01:38:28Z",
   "dc_language_sm": [
     "rus"
   ],

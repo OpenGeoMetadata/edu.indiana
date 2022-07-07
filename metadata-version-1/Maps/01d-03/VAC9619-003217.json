@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003217",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003217|G7000 s100 .S7 sheet O-35-138",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-138 Прейли (Preiļi, Latvia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1913",
   "dc_description_s": "Modern area represented: Прейли (Preiļi), Latvia; Scale =1:100,000; Для служебного пользования; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/73hdqk3hxw84ez9l1zn6zhtrmupt52bo\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003217\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003217\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/122uTDLQNdv52YZhDQXz2EeROojKj5_8Q/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Preiļi, Latvia",
     "Latvia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:07Z",
+  "layer_modified_dt": "2022-07-06T01:39:11Z",
   "dc_language_sm": [
     "rus"
   ],

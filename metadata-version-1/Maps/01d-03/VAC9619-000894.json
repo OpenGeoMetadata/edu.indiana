@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000894",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000894|G7000 s50 .S68 sheet М-36-1-А",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-1-А Велитин (Velitin, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1930",
   "dc_description_s": "Modern area represented: Velitin, Homyel oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/v1hm6fmzuh17kq6m1smrnyy2m5dlmput\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000894\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000894\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=10XslogvoEBnpx6j6XiAIb39Zil6sOvwZ\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Velitin, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:18Z",
+  "layer_modified_dt": "2022-07-06T01:37:53Z",
   "dc_language_sm": [
     "rus"
   ],

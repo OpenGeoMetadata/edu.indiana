@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003547",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003547|G7000 s100 .S7 sheet M-39-3",
   "dc_rights_s": "Public",
   "dc_title_s": "M-39-3 (Lyubitskoye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Lyubitskoye, Saratov oblast, Russia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/uuw4gk7mh1zcpkz9lknfu9jeszjehs8f\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003547\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003547\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1MxdeK4y-EOYPnTNT9BsBj4rXOlYLj0vt/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Lyubitskoye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:18Z",
+  "layer_modified_dt": "2022-07-06T01:39:22Z",
   "dc_language_sm": [
     "rus"
   ],

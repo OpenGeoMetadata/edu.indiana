@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003126",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003126|G7000 s100 .S7 sheet N-37-52",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-52 Лаптево (Yasnogorsk, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Ясногорск (Yasnogorsk), Tulskaya oblast, Russia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/qpko1t12us032vf1dll50bbvg21394g0\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003126\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003126\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/14yz9NxWnlBFIobdr2EFtwERelELXzTzE/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Yasnogorsk, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:24Z",
+  "layer_modified_dt": "2022-07-06T01:39:07Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-004057",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004057|G7000 s100 .S7 sheet N-35-55",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-55 Долгинув (Dolginovo, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1909",
   "dc_description_s": "Modern area represented: Dolginovo, Belarus; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/bw75s5f2an912ao9jagiq5dvzjd9q0v7\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004057\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004057\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1AaQXE20baQzJ9XDGZ41VWaMfJlw8ANcS/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Dolginovo, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:33Z",
+  "layer_modified_dt": "2022-07-06T01:39:39Z",
   "dc_language_sm": [
     "rus"
   ],

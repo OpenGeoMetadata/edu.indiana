@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002164",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002164|G7000 s100 .S7 sheet L-38-90",
   "dc_rights_s": "Public",
   "dc_title_s": "L-38-90 Клх. Красный Маныч",
   "dct_provenance_s": "Indiana University",
@@ -9,8 +9,8 @@
   "solr_year_i": "1927",
   "dc_description_s": "Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/gxvc4ip2vb386j8ejhi3pmjnqhdpll7h\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002164\"}",
-  "layer_modified_dt": "2022-04-01T15:25:10Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002164\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=10x7gtyFMb3-LHQ-wgNBMLfYtkf3w11nn\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "layer_modified_dt": "2022-07-06T01:38:34Z",
   "dc_language_sm": [
     "rus"
   ],

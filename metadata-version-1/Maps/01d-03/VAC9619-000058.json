@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000058",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000058|G7000 s50 .S68 sheet O-36-87-B",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-87-Б Рахлицы (Rakhlitsy, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1932",
   "dc_description_s": "Modern area represented: Rakhlitsy, Novgorod oblast, Russia; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/v1jb3s15zbkjdtkwqzr19ei5wcj3hvjp\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000058\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000058\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1gFvH37OvUPB8JJNlVW7oqBMW0RBOgpl8\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Rakhlitsy, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:55Z",
+  "layer_modified_dt": "2022-07-06T01:37:08Z",
   "dc_language_sm": [
     "rus"
   ],

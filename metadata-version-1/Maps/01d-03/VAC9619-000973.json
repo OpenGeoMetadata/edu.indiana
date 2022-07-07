@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000973",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000973|G7000 s50 .S68 sheet M-36-52-D",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-62-Б Воронкив (Voronkiv, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1923",
   "dc_description_s": "Modern area represented: Voronkiv, Kyiv oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/nbym4if1y1uwhc9ti7alr7z7n7jjcdjw\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000973\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000973\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1Ifue5YSrX3JDshma4femEp2eD86KPf9X\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Voronkiv, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:14Z",
+  "layer_modified_dt": "2022-07-06T01:37:55Z",
   "dc_language_sm": [
     "rus"
   ],

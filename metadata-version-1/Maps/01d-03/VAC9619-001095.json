@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001095",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001095|G7000 s50 .S68 М-36-116-А",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-116-А Каменно-Потоцкое (Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,11 +9,11 @@
   "solr_year_i": "1930",
   "dc_description_s": "Modern area represented: Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mxp1ho1pp3i64won6540a5ttj2juy1ej\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001095\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001095\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1JLV3hDecyJlaCsdEbO7-bXlVlJWjNfGW\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:41Z",
+  "layer_modified_dt": "2022-07-06T01:37:59Z",
   "dc_language_sm": [
     "rus"
   ],

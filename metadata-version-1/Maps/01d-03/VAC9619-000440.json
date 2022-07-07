@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000440",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000440|G7000 s50 .S68 sheet N-35-15-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-15-А Оникшты (Anykščiai, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1900",
   "dc_description_s": "Modern area represented: Anykščiai, Lithuania; Scale =1:50,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ni2rvjqtk569xt3ucl4j2owqm4usi2t0\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000440\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000440\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1jX9R6R-SwuQB4FMpTEjfHdE-0G0CNs2m\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Anykščiai, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:37Z",
+  "layer_modified_dt": "2022-07-06T01:37:29Z",
   "dc_language_sm": [
     "rus"
   ],

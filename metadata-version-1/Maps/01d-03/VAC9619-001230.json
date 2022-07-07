@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001230",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001230|GM G7000 S50 .S68 N-36-17-A",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-17-A Дмитрово (Dmitrovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: Dmitrovo, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/r4qv4ae32th5hn591c4t1lgtwzd1zxbb\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001230\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001230\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1F5r4mLZ-aqG3VLWXHz5LTrKRcdI4Hk5u\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Dmitrovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:20Z",
+  "layer_modified_dt": "2022-07-06T01:38:03Z",
   "dc_language_sm": [
     "rus"
   ],

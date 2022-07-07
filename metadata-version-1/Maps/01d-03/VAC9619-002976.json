@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002976",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002976|GM G7000 s50 .S68 sheet P-35-117-B",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-117-Б Вайниккала",
   "dct_provenance_s": "Indiana University",
@@ -9,8 +9,8 @@
   "solr_year_i": "1891",
   "dc_description_s": "Scale =1:50,000; Временное издание",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/sa6i89tm2j3rk7x9udhjsh3irheb5weq\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002976\"}",
-  "layer_modified_dt": "2022-04-01T15:23:22Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002976\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1vsYPKrG4mz61UzLOmg6u5pgCM-SRGfrO/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "layer_modified_dt": "2022-07-06T01:39:03Z",
   "dc_language_sm": [
     "rus"
   ],

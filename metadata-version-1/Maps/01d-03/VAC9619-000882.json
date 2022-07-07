@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000882",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000882|G7000 s50 .S68 sheet M-35-117-D",
   "dc_rights_s": "Public",
   "dc_title_s": "М-35-117-Г М. Джурин (Dzhuryn, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1910",
   "dc_description_s": "Modern area represented: Джурин (Dzhuryn), Vinnytsia Oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/w2fdcl1uf7a6lve44jtgjckkuxp26dhx\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000882\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000882\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=13yPyN2esBfwsg-I9xVUP_ry01VHpDYhv\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Dzhuryn, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:27Z",
+  "layer_modified_dt": "2022-07-06T01:37:52Z",
   "dc_language_sm": [
     "rus"
   ],

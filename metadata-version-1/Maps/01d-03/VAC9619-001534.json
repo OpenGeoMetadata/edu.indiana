@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001534",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001534|G7000 s50 .S68 sheet N-36-111-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-111-Б Казацкие Болсуны (Kazatskiye Bolsuny, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Kazatskiye Bolsuny, Homyel oblast, Belarus; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/s7m1dwot0fqe86yka678hc1ovly3dk8q\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001534\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001534\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1HkKrlIrLrwWmSzMloRMTx-XUvXR4gx4D\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Kazatskiye Bolsuny, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:34Z",
+  "layer_modified_dt": "2022-07-06T01:38:13Z",
   "dc_language_sm": [
     "rus"
   ],

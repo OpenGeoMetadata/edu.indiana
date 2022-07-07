@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002397",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002397|G7000 s100 .S7 sheet P-35-120",
   "dc_rights_s": "Public",
   "dc_title_s": "P-35-120 Ряйсяля (Mel'nikovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1894",
   "dc_description_s": "Modern area represented: Мельниково (Mel'nikovo), Leningradskaya oblast, Russia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/je2y8jkn1loc4cmlq7k0ojgika8duv6f\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002397\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002397\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1cH4B7-OjHw1cZRzbWauwJ0Ts19OSB0Df/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Mel'nikovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:19Z",
+  "layer_modified_dt": "2022-07-06T01:38:42Z",
   "dc_language_sm": [
     "rus"
   ],

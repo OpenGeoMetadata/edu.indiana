@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003581",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003581|G7063.K2 s25 .S6 sheet N-34-19-C-d",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-19-B-г Станкишкен (Stankiškiai, Lithuania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1910",
   "dc_description_s": "Modern area represented: Stankiškiai, Lithuania; Scale =1:25,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/cgvbf9dv0o5g7b1wh1mwcr1i29leeio3\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003581\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003581\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1WzLj-J4h1Zg1dRJmjt0QaBh4uQl8gFRm/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Stankiškiai, Lithuania",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:19Z",
+  "layer_modified_dt": "2022-07-06T01:39:23Z",
   "dc_language_sm": [
     "rus"
   ],

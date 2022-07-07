@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001518",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001518|G7000 s50 .S68 sheet N-36-107-D",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-107-Г Хотынец (Khotynets, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Khotynets, Oryol oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/u5f4y3i21597p9h7kz04ceaj4ljxk70k\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001518\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001518\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1Isufcm9gef7dUIdR8oxJMpGgL3l2Ti5V\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Khotynets, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:52Z",
+  "layer_modified_dt": "2022-07-06T01:38:12Z",
   "dc_language_sm": [
     "rus"
   ],

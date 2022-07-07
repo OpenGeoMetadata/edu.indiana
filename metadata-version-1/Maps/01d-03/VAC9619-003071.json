@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003071",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003071|G7000 s100 .S7 sheet N-37-12",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-12 Новлянка (Novlyanka, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Novlyanka, Vladimir oblast, Russia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/lazeqcr62uu69vqaskdqqm8crklfneey\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003071\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003071\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1vYAF9-OGoq-YzohM4unbcu0E3ACo48hA/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Novlyanka, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:17Z",
+  "layer_modified_dt": "2022-07-06T01:39:06Z",
   "dc_language_sm": [
     "rus"
   ],

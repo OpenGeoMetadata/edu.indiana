@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003406",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003406|G7000 s100 .S7 sheet M-37-141",
   "dc_rights_s": "Public",
   "dc_title_s": "M-37-141 Каменск (Kamensk-Shakhtinskiy, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1907",
   "dc_description_s": "Modern area represented: Kamensk-Shakhtinskiy, Rostov oblast, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/x7qnmitvgd8flkvobkc3t7jwux85yltk\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003406\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003406\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1n2jN8aP5eSGKDTcV11KUHk6Jyp717mkK/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kamensk-Shakhtinskiy, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:22Z",
+  "layer_modified_dt": "2022-07-06T01:39:17Z",
   "dc_language_sm": [
     "rus"
   ],

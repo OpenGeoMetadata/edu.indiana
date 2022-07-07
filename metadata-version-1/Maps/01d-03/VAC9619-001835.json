@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001835",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001835|G7000 s50 .S68 sheet O-35-28-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-28-Г Ярва-Яни (Järva-Jaani, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1897",
   "dc_description_s": "Modern area represented: Järva-Jaani, Järva county, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ukekesqselq0cdcpqa4kcuoxotgxhjre\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001835\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001835\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1md577QieMXTGM9f89gjO3Hwr8idmUCi4\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Järva-Jaani, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:42Z",
+  "layer_modified_dt": "2022-07-06T01:38:23Z",
   "dc_language_sm": [
     "rus"
   ],

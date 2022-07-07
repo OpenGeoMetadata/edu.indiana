@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000940",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000940|G7000 s100 .S7 sheet M-36-38-A",
   "dc_rights_s": "Public",
   "dc_title_s": "M-36-38-A Чернин (Rovzhi, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1932",
   "dc_description_s": "Modern area represented: the place was flooded by the Kyiv Reservoir. The nearest populated place: Ровжі (Rovzhi), Kyiv oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/cgd787snwt9vmpguxic5es1llaj1ywf1\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000940\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000940\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=16bl70u8wdbvOxIjsxiH8dcqTtqq5GROB\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Rovzhi, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:52Z",
+  "layer_modified_dt": "2022-07-06T01:37:54Z",
   "dc_language_sm": [
     "rus"
   ],

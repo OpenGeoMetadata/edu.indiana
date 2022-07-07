@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001233",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001233|GM G7000 S50 .S68 N-36-17-D",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-17-D Береснево (Beresnevo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: Beresnevo, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/fijox896j1ugaiqa4pjbb8npvu17jxq4\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001233\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001233\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=18cpgXoHmk1SFioC4RSSmRGMt-IIxdnex\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Beresnevo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:23Z",
+  "layer_modified_dt": "2022-07-06T01:38:03Z",
   "dc_language_sm": [
     "rus"
   ],

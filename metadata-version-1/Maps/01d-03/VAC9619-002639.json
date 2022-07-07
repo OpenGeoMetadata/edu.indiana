@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002639",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002639|GM G7000 s50 .S68 sheet M-34-22-A",
   "dc_rights_s": "Public",
   "dc_title_s": "M-34-22-A Лешковице (Leszkowice, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1880",
   "dc_description_s": "Modern area represented: Лешковице (Leszkowice), Poland; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3o3dutm6e4x0nwfmqp31lbptj9danuew\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002639\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002639\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1zxluSGJ01FtlvAWFM_egGfRn0kedbyCP/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Leszkowice, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:47Z",
+  "layer_modified_dt": "2022-07-06T01:38:51Z",
   "dc_language_sm": [
     "rus"
   ],

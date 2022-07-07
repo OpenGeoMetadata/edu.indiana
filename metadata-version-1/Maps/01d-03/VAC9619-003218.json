@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003218",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003218|G7000 s100 .S7 sheet O-35-140",
   "dc_rights_s": "Public",
   "dc_title_s": "O-35-140 Дагда (Dagda, Latvia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1916",
   "dc_description_s": "Modern area represented: Дагда (Dagda), Latvia; Scale =1:100,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/u5zd03uy79fa1qeqqy7ae3u3tcffscbm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003218\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003218\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Eohk0RDJQ4rFPqNs12M05IqYtSnMEJNS/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Dagda, Latvia",
     "Latvia"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:33Z",
+  "layer_modified_dt": "2022-07-06T01:39:11Z",
   "dc_language_sm": [
     "rus"
   ],

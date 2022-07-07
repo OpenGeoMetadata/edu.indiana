@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000141",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000141|G7000 s50 .S68 sheet M-34-6-D",
   "dc_rights_s": "Public",
   "dc_title_s": "M-36-6-Г Гощин (Goszczyn, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1885",
   "dc_description_s": "Modern area represented: Goszczyn, Poland; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mhcae8p1r7yk731ivugi7u6wck2j5ubm\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000141\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000141\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=14eYD8KFaPpQPxRxZAOKR0iJs-BxtncXE\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Goszczyn, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:52Z",
+  "layer_modified_dt": "2022-07-06T01:37:13Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002892",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002892|GM G7000 s50 .S68 sheet O-36-114-D",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-114-Г (Selekhovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Селехово (Selekhovo), Tverskaya oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/zoplih7nv920vk2i8jtswzb8iocnnxue\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002892\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002892\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1zVNUyKVX6m3kJgBmAvRA24cSHh2lwrCl/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Selekhovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:39Z",
+  "layer_modified_dt": "2022-07-06T01:39:00Z",
   "dc_language_sm": [
     "rus"
   ],

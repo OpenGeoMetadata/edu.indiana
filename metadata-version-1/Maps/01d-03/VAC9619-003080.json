@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003080",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003080|G7000 s100 .S7 sheet N-37-18",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-18 Куровское (Kurovskoye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Kurovskoye, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/il4ktkncylbflkvrsf6z1colvd79ck16\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003080\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003080\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1JWJVP_YaBtwsOdzk5bC0kXgFNY7V7rdv/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kurovskoye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:13Z",
+  "layer_modified_dt": "2022-07-06T01:39:06Z",
   "dc_language_sm": [
     "rus"
   ],

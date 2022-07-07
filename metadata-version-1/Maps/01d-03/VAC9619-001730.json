@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001730",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001730|G7000 s100 .S7 sheet L-35-53",
   "dc_rights_s": "Public",
   "dc_title_s": "L-35-53 Мойнешти (Moineşti, Romania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1889",
   "dc_description_s": "Modern area represented: Moineşti, Bacău county, Romania; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/qe9yihrz0qbhx6ekqh2scyas0g5rsbku\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001730\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001730\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1VlE66H8MtUlVaLWqYwvb7RW6QeC07_W5\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Moineşti, Romania",
     "Romania"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:55Z",
+  "layer_modified_dt": "2022-07-06T01:38:19Z",
   "dc_language_sm": [
     "rus"
   ],

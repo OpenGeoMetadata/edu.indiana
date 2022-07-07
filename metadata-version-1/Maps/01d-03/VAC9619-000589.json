@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000589",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000589|G7000 s50 .S68 sheet N-35-67-D",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-67-Заславль (Zaslawye, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Zaslawye, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/buka15in92jz9svi7i3yq52m6t78b0wu\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000589\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000589\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1dVDnePCPrWE320NHIBV0iaO1y0ogwm3L\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Zaslawye, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:57Z",
+  "layer_modified_dt": "2022-07-06T01:37:37Z",
   "dc_language_sm": [
     "rus"
   ],

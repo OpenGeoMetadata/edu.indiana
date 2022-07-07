@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001059",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001059|G7000 s50 .S68 М-36-100-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-100-Г Сердюковка (Serdiukivka, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Serdiukivka, Cherkasy oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ju9yjnldeym2wli9yr5f4b9jzm5tip77\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001059\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001059\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1RSy1XLJ95uJFkdsFwVyoFkaI3ZK0bXKC\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Serdiukivka, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:26Z",
+  "layer_modified_dt": "2022-07-06T01:37:58Z",
   "dc_language_sm": [
     "rus"
   ],

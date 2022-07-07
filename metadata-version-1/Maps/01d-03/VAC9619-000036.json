@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000036",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000036|G7000 s50 .S68 sheet O-36-15-B",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-15-Б (Berezovka, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Berezovka, Russia; Scale =1:50,000; Для служебного пользования Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/yauhe76lawbgumhsxu8aema48vwp9n44\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000036\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000036\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1K-4TaV6ai4Iiu-cWnsRvilhm9aSXLHgI\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Berezovka, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:09Z",
+  "layer_modified_dt": "2022-07-06T01:37:06Z",
   "dc_language_sm": [
     "rus"
   ],

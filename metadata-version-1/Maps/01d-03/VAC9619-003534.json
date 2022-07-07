@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003534",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003534|GM G7000 s50 .S68 sheet O-36-88-D",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-88-Г (Vyshitino, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Вышитино (Vyshitino), Novgorodskaya oblast, Russia; Scale =1:50,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/z2rpglczv23w2hdt7fgwe4s5x1mchqsy\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003534\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003534\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/15fYzUgb8nygu04vteSGvdZHPizVqeb0h/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Vyshitino, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:58Z",
+  "layer_modified_dt": "2022-07-06T01:39:21Z",
   "dc_language_sm": [
     "rus"
   ],

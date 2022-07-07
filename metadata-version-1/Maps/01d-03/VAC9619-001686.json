@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001686",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001686|G7000 s100 .S7 sheet L-35-98",
   "dc_rights_s": "Public",
   "dc_title_s": "L-35-98 Куртя де Арджеш (Curtea de Argeş, Romania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1900",
   "dc_description_s": "Modern area represented: Curtea de Argeş, Argeș county, Romania; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/3i80xc19uezvfdi2bupolml4wqyilq3d\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001686\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001686\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1xKHUf8r5kzgNfr-nYXFiSmBdlkvyDwU8\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Curtea De Argeş, Romania",
     "Romania"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:21Z",
+  "layer_modified_dt": "2022-07-06T01:38:18Z",
   "dc_language_sm": [
     "rus"
   ],

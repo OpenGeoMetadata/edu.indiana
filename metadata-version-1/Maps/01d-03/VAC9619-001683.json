@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001683",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001683|G7000 s50 .S68 sheet O-34-47-Б",
   "dc_rights_s": "Public",
   "dc_title_s": "O-34-47-Б Свибю (Sviby, Estonia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1903",
   "dc_description_s": "Modern area represented: Sviby, Lääne county, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/64txxvoo2etlj5hp54ncyt8zbr21hf8w\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001683\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001683\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=10AwkuMICoqYcaYYwAaBArdDxbON9cUO3\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Sviby, Estonia",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:08Z",
+  "layer_modified_dt": "2022-07-06T01:38:18Z",
   "dc_language_sm": [
     "rus"
   ],

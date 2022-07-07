@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001956",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001956|G7000 s100 .S7 sheet L-36-104",
   "dc_rights_s": "Public",
   "dc_title_s": "L-36-104 Саки (Saki, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,13 +9,13 @@
   "solr_year_i": "1895",
   "dc_description_s": "Modern area represented: Саки (Saki), Republic of Crimea, Ukraine; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/mda4qeiz5v2ve45xkwi727n83baryq8l\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001956\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001956\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1KeZQMnq0svWW8sbbr2gRu_IXfdHE5Zod\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Saki, Ukraine",
     "Republic Of Crimea, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:10Z",
+  "layer_modified_dt": "2022-07-06T01:38:27Z",
   "dc_language_sm": [
     "rus"
   ],

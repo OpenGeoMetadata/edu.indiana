@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002912",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002912|GM G7000 s50 .S68 sheet O-36-73-В",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-73-Б Морино (Morino, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1932",
   "dc_description_s": "Modern area represented: Морино (Morino), Pskovskaya oblast, Russia; Scale =1:50,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/98mb7k1o8o5rkrvtyqx6gfayo12iwu4g\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002912\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002912\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1VqyMek8uZ3cLp6KmwAyeZXulTuWrpsir/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Morino, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:04Z",
+  "layer_modified_dt": "2022-07-06T01:39:00Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001293",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001293|GM G7000 S50 .S68 N-36-37-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-37-Г Стайки (Stayki, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Stayki, Vitebsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/asj71qwibca7fkud1f0fmlrh1fgttsfg\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001293\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001293\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=14v2UcXqN1iogdQG8jGJM3O1uh2TDJoc6\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Stayki, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:33Z",
+  "layer_modified_dt": "2022-07-06T01:38:05Z",
   "dc_language_sm": [
     "rus"
   ],

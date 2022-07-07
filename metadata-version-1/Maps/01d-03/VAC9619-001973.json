@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001973",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001973|G7000 s100 .S7 sheet N-36-97",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-97 Рогачев (Rahachow, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Рагачоў (Rahachow), Gomel district, Belarus; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/0g37nl74wbx382gd5m5g235xi5bg0cyv\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001973\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001973\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1bMZ3KFudtv8I-VO8vcIQIBb-6G2k8dHZ\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Rahachow, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:30Z",
+  "layer_modified_dt": "2022-07-06T01:38:27Z",
   "dc_language_sm": [
     "rus"
   ],

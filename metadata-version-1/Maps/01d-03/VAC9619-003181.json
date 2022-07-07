@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003181",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003181|G7000 s100 .S7 sheet O-34-59",
   "dc_rights_s": "Public",
   "dc_title_s": "O-34-59 Муху",
   "dct_provenance_s": "Indiana University",
@@ -9,8 +9,8 @@
   "solr_year_i": "1903",
   "dc_description_s": "Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/wfflhdakok1bj408yv3c0yh6mozl0syz\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003181\"}",
-  "layer_modified_dt": "2022-04-01T15:29:13Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003181\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1tzDRLaFrXESSYkYAeduJ6j6St01RYx7E/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "layer_modified_dt": "2022-07-06T01:39:09Z",
   "dc_language_sm": [
     "rus"
   ],

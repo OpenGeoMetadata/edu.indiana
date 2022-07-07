@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003145",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003145|G7000 s100 .S7 sheet N-37-8",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-8 Костерево (Kosterevo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Костерево (Kosterevo), Vladimirskaya oblast, Russia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/w6elf8jojel8jbratdp2pwc8648jqzkx\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003145\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003145\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1lXpt435Ace79w-uhu6oJaImsJHOM7lch/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kosterevo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:56Z",
+  "layer_modified_dt": "2022-07-06T01:39:08Z",
   "dc_language_sm": [
     "rus"
   ],

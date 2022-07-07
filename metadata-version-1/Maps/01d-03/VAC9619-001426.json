@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001426",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001426|GM G7000 S50 .S68 N-36-83-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-83-B Чернышино (Chernysheno, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Chernysheno, Kaluga oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/v7jben6a88mq7xvkg8uglonagqppbzsw\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001426\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001426\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1gi0CWp89K3DqiQbjOF08akJ2ZCWIVRCp\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Chernysheno, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:18Z",
+  "layer_modified_dt": "2022-07-06T01:38:09Z",
   "dc_language_sm": [
     "rus"
   ],

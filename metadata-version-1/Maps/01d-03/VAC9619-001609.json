@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001609",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001609|G7000 s50 .S68 sheet N-37-63-C",
   "dc_rights_s": "Public",
   "dc_title_s": "N-37-63-С Слобода (Sloboda, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Sloboda, Tula oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kdkf1dmtnbwagzz5tp9xr3tpre21h8qs\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001609\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001609\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1cZAhz5-Aj9s4fYOpTU40FXCRGHdwEp4S\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Sloboda, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:33Z",
+  "layer_modified_dt": "2022-07-06T01:38:16Z",
   "dc_language_sm": [
     "rus"
   ],

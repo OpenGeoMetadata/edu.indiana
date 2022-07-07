@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001344",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001344|GM G7000 S50 .S68 N-36-54-Г",
   "dc_rights_s": "Public",
   "dc_title_s": "N-36-54-Г Ханино (Khanino, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Khanino, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/9frlaqo4qhmgz4sn6xk7ysuf3e79c5xe\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001344\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001344\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=15_DL34-PBc08Qqo9NoPp03L9il0r8ZPu\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Khanino, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:39Z",
+  "layer_modified_dt": "2022-07-06T01:38:07Z",
   "dc_language_sm": [
     "rus"
   ],

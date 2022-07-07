@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002183",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002183|G7000 s100 .S7 sheet O-36-82",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-82 Копачево (Kopachevo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Копачево (Kopachevo), Tverskaya oblast, Russia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kskfwbfswxeib073rtv5rfvoosvjvjqk\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002183\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002183\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1Y1B9eA03D5XHfDBf2DRH4Aav-g-i6bdl\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kopachevo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:40Z",
+  "layer_modified_dt": "2022-07-06T01:38:35Z",
   "dc_language_sm": [
     "rus"
   ],

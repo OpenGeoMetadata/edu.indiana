@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000103",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000103|G7000 s50 .S68 sheet K-39-125-A",
   "dc_rights_s": "Public",
   "dc_title_s": "К-39-125-А Бузовна (Buzovna, Azerbaijan)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1912",
   "dc_description_s": "Modern area represented: Buzovna, Azerbaijan; Scale =1:50,000; Не подлежит оглашению Captured map Продукция 2-го сорта",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/rctm23zq2vd853tjec67i2exz4uuvo0t\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000103\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000103\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1IgSl9_w5EQD0o1DtUKj2Wf7mUFhFBCi_\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Buzovna, Azerbaijan",
     "Azerbaijan"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:31Z",
+  "layer_modified_dt": "2022-07-06T01:37:10Z",
   "dc_language_sm": [
     "rus"
   ],

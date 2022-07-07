@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-001052",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001052|G7000 s100 .S7 sheet L-34-12",
   "dc_rights_s": "Public",
   "dc_title_s": "L-34-12 Сигет (Sighetu Marmaţiei, Romania)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1894",
   "dc_description_s": "Modern area represented: Sighetu Marmaţiei, Maramureş county, Romania; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/4ph2zt0zp2j64oqlyf98fyr6vpwq1vb0\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001052\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001052\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1YhAH1tPcb68rrVgZ0rbRsmXVdujV5C6C\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Sighetu Marmaţiei, Romania",
     "Romania"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:09Z",
+  "layer_modified_dt": "2022-07-06T01:37:58Z",
   "dc_language_sm": [
     "rus"
   ],

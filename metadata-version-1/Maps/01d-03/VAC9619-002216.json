@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002216",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002216|G7000 s100 .S7 sheet L-38-129",
   "dc_rights_s": "Public",
   "dc_title_s": "L-38-129 Оз. Бол. Маныч (Big Manych lake, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,13 +9,13 @@
   "solr_year_i": "1935",
   "dc_description_s": "Modern area represented: Озеро Большой Маныч (Big Manych lake), Dagestan, Russia; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/jzyw114661iroumea8ba3fsvpgw2lyjs\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002216\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002216\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Bpf6v_qIt4vBHulSs9jLk38dhKwbQ3jw/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Big Manych Lake, Russia",
     "Dagestan, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:14Z",
+  "layer_modified_dt": "2022-07-06T01:38:36Z",
   "dc_language_sm": [
     "rus"
   ],

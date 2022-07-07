@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002674",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002674|G7000 s100 .S7 sheet M-33-58",
   "dc_rights_s": "Public",
   "dc_title_s": "M-33-58 Глатц (Kłodzko, Poland)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1881",
   "dc_description_s": "Modern area represented: Kłodzko, Lower Silesia province, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/8g84zvcjmpuk4bh7tfzko6hq3qjac1e5\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002674\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002674\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1O5qHBrm7cBmiCJ45DWbhDWidRAMOieHm/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Kłodzko, Poland",
     "Poland"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:10Z",
+  "layer_modified_dt": "2022-07-06T01:38:52Z",
   "dc_language_sm": [
     "rus"
   ],

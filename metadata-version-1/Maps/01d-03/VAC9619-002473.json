@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002473",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002473|G7000 s100 .S7 sheet P-36-6",
   "dc_rights_s": "Public",
   "dc_title_s": "P-36-6 Евжозеро (Yevzhozero, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1935",
   "dc_description_s": "Modern area represented: Yevzhozero, Republic of Karelia, Russia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/uco6q6bg1shz4xpzo1su4jarsf66ow1x\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002473\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002473\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1HE4XTpQ9Cmd_SgHBh0J3YdxC4mBmhxBx/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Yevzhozero, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:26Z",
+  "layer_modified_dt": "2022-07-06T01:38:45Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003329",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003329|G7000 s50 .S68 sheet O-36-30-A",
   "dc_rights_s": "Public",
   "dc_title_s": "O-36-30-A (Sredneye Selo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Sredneye Selo, Leningrad oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/br55e38zhjibapnyrc651lobor06pfp4\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003329\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003329\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1VhnDuBTCtvkMD8VKHNNsd3Gkq_RDrh4Y/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Sredneye Selo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:18Z",
+  "layer_modified_dt": "2022-07-06T01:39:14Z",
   "dc_language_sm": [
     "rus"
   ],

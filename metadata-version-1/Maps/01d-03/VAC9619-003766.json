@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003766",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003766|G7063.K2 s25 .S6 sheet N-34-56-B-c",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-56-Б-в Дидлаккен (Tel’manovo, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1921",
   "dc_description_s": "Modern area represented: Тельманово (Tel’manovo), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/p0yx2gfuv8rh3w16l9mt4yioicz48tta\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003766\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003766\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1H2FNsPR9DJfa7zT2eb5RkZ5w1Ee7Q5n8/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Tel’manovo, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:17Z",
+  "layer_modified_dt": "2022-07-06T01:39:29Z",
   "dc_language_sm": [
     "rus"
   ],

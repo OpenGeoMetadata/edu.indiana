@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-002448",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002448|G7000 s100 .S7 sheet L-38-2",
   "dc_rights_s": "Public",
   "dc_title_s": "L-38-2 Н. Курман (Tsimlyansk reservoir, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Tsimlyansk reservoir, Rostov oblast, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/kddepv4l5k0s8eomjfsvlm640m0n00le\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002448\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002448\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1flaDkoDFYPu5gdyxMjKKtvGEH6oQ0_nX/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
   "dct_spatial_sm": [
     "Tsimlyansk Reservoir, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:32Z",
+  "layer_modified_dt": "2022-07-06T01:38:44Z",
   "dc_language_sm": [
     "rus"
   ],

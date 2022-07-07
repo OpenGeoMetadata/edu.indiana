@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000922",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000922|G7000 s50 .S68 sheet M-36-14-D",
   "dc_rights_s": "Public",
   "dc_title_s": "М-36-14-Г Колпыта (Kovpyta, Ukraine)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Ковпита (Kovpyta), Chernihiv Oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/ha5ewh6dep10z36bhfjs8yf8nf81hvdu\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000922\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000922\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1wwFBx8Ytl_OyaIeA8BqneJwwGcqknvXo\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Kovpyta, Ukraine",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:59Z",
+  "layer_modified_dt": "2022-07-06T01:37:54Z",
   "dc_language_sm": [
     "rus"
   ],

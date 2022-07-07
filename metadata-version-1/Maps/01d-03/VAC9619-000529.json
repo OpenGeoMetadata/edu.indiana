@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-000529",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000529|G7000 s50 .S68 sheet N-35-43-B",
   "dc_rights_s": "Public",
   "dc_title_s": "N-35-43-Б Волколата (Valkalata, Belarus)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1913",
   "dc_description_s": "Modern area represented: Валкалата (Valkalata), Vitebsk Region, Belarus; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/x2e7znn03z4wz31x8xxgdav8pumupqzi\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000529\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000529\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1o5fFY5Bw5TriFAFU3BbE_3tV99aUavO1\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
   "dct_spatial_sm": [
     "Valkalata, Belarus",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:58Z",
+  "layer_modified_dt": "2022-07-06T01:37:34Z",
   "dc_language_sm": [
     "rus"
   ],

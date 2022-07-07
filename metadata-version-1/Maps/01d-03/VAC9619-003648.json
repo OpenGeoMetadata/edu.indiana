@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "VAC9619-003648",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003648|G7063.K2 s25 .S6 sheet N-34-41-C-a",
   "dc_rights_s": "Public",
   "dc_title_s": "N-34-41-B-а Гаффкен (Parusnoye, Russia)",
   "dct_provenance_s": "Indiana University",
@@ -9,12 +9,12 @@
   "solr_year_i": "1906",
   "dc_description_s": "Modern area represented: Парусное (Parusnoye), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/downloadUrl\":\"https://iu.box.com/s/2wpjfydiebpjvwkzikibqbd6g9jjnl6s\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003648\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003648\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1E7qWpB33gIGJ7jYIXXLsAn5GpDiK_nG9/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
   "dct_spatial_sm": [
     "Parusnoye, Russia",
     "Russia"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:02Z",
+  "layer_modified_dt": "2022-07-06T01:39:25Z",
   "dc_language_sm": [
     "rus"
   ],
