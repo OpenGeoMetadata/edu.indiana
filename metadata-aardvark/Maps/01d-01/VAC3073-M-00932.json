@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Drainage map, Lawrence County Indiana: prepared from 1938 AAA aerial photographs",
+  "dct_description_sm": [
+    "Blue line print. '1953.' 'Prepared by L.R. Magnusson.' 'Drawn by R. Aretz.' Scale approximately 1:63,360.; Polyconic projection By Joint Highway Research Project at Purdue University."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Magnusson, L. R.",
+    "Aretz, R."
+  ],
+  "dct_publisher_sm": [
+    "Joint Highway Research Project, Purdue University"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "dct_issued_s": "1953",
+  "gbl_indexYear_im": [
+    "1938"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1938]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Lawrence County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.68,-86.28,39,38.68)",
+  "dcat_bbox": "ENVELOPE(-86.68,-86.28,39,38.68)",
+  "dcat_centroid": "38.84,-86.48",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00932\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00932\"}",
+  "id": "VAC3073-M-00932",
+  "dct_identifier_sm": [
+    "VAC3073-M-00932"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:54Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

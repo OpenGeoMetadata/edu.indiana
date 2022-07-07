@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Soil map, Indiana, Scott County sheet",
+  "dct_description_sm": [
+    "Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1904. 'Andrew B. Graham Co. Lithographers Washington DC.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept of Agriculture, Bureau of Soils, soils surveyed by A.W. Mangum and N.P. Neill."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Mangum, A. W.,cartographer,surveyor.",
+    "Neill, N. P. (Nelson Prentice),cartographer,surveyor."
+  ],
+  "dct_publisher_sm": [
+    "The Bureau"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Scott County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-85.9,-85.56,38.83,38.56)",
+  "dcat_bbox": "ENVELOPE(-85.9,-85.56,38.83,38.56)",
+  "dcat_centroid": "38.695,-85.73",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00998\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00998\"}",
+  "id": "VAC3073-M-00998",
+  "dct_identifier_sm": [
+    "VAC3073-M-00998"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:32Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

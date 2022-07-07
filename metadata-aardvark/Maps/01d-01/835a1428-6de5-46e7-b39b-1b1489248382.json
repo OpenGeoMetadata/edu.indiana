@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "General highway and transportation map, Dubois County, Indiana",
+  "dct_description_sm": [
+    "Blueline.; State roads revised to January 1, 1949.; 1937.; Data obtained from Statewide Highway Planning Survey.; Includes location map and chart of Culture in unincorporated places.; 19. Scale approximately 1:130,000. not 1 inch=1 mile; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "State Highway Commission of Indiana"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1949?"
+  ],
+  "gbl_indexYear_im": [
+    "1949"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Dubois County, Indiana",
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-87.06,-86.68,38.53,38.2)",
+  "dcat_bbox": "ENVELOPE(-87.06,-86.68,38.53,38.2)",
+  "dcat_centroid": "38.365,-86.87",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00142\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00142\"}",
+  "id": "835a1428-6de5-46e7-b39b-1b1489248382",
+  "dct_identifier_sm": [
+    "835a1428-6de5-46e7-b39b-1b1489248382"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:12Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

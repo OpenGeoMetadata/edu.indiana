@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Franklin Co., Ind.",
+  "dct_description_sm": [
+    "Scale approximately 1:60,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Scarborough Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "gbl_indexYear_im": [
+    "1908"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Franklin County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-85.2801,-84.8001,39.5101,39.26)",
+  "dcat_bbox": "ENVELOPE(-85.2801,-84.8001,39.5101,39.26)",
+  "dcat_centroid": "39.38505,-85.0401",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00278\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00278\"}",
+  "id": "a391258c-454e-4420-90d9-22b9ee3bfe80",
+  "dct_identifier_sm": [
+    "a391258c-454e-4420-90d9-22b9ee3bfe80"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:23Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

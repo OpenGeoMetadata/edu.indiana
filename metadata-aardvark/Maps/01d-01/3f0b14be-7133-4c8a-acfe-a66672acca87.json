@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Drainage of East Fork of the White River.",
+  "dct_description_sm": [
+    "Shows weather stations and stream gages. Scale approximately 1:250,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    "1959"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1959 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "White River, Indiana",
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-87.73,-85.05,40.2,38.4)",
+  "dcat_bbox": "ENVELOPE(-87.73,-85.05,40.2,38.4)",
+  "dcat_centroid": "39.3,-86.39",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00269\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00269\"}",
+  "id": "3f0b14be-7133-4c8a-acfe-a66672acca87",
+  "dct_identifier_sm": [
+    "3f0b14be-7133-4c8a-acfe-a66672acca87"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:45Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

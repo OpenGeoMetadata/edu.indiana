@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Survey of the mouth of Trail Creek, Indiana",
+  "dct_description_sm": [
+    "Relief shown by hachures.; Profile: Section of the proposed breakwater.; Probably detached from a document in the congressional series, doc. 194. Scale approximately 1:1,520,640. 24 inches to 1 mile."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Berrien,  John Macpherson, -1876, cartographer."
+  ],
+  "dct_publisher_sm": [
+    "Army Corps Of Engineers"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ],
+  "gbl_indexYear_im": [
+    "1834"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1834 TO 1834]"
+  ],
+  "dct_spatial_sm": [
+    "Trail Creek, Indiana",
+    "Michigan City, Indiana",
+    "Indiana",
+    "LaPorte County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.9101,-86.8001,41.75,41.6501)",
+  "dcat_bbox": "ENVELOPE(-86.9101,-86.8001,41.75,41.6501)",
+  "dcat_centroid": "41.700050000000005,-86.8551",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00024\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00024\"}",
+  "id": "422cc470-50a0-45af-b7fd-f49ef435ae2f",
+  "dct_identifier_sm": [
+    "422cc470-50a0-45af-b7fd-f49ef435ae2f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:39Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

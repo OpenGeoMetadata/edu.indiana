@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Indiana",
+  "dct_description_sm": [
+    "Shows county boundaries. Title supplied by cataloger. Place of publication from U.S. Copyright Office. Catalogue of title entries of books and other articles. 1904. Includes text in left margin. Scale not given. Lotus D. Coffman."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Coffman, Lotus Delta,1875-1938"
+  ],
+  "dct_publisher_sm": [
+    "Lotus D. Coffman"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Outline maps"
+  ],
+  "dct_subject_sm": [
+    "County boundaries"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "dcat_bbox": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "dcat_centroid": "39.754999999999995,-86.43",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00976\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00976\"}",
+  "id": "VAC3073-M-00976",
+  "dct_identifier_sm": [
+    "VAC3073-M-00976"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:18Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

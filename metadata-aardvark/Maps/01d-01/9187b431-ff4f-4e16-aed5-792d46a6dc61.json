@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Map of Warrick County Indiana",
+  "dct_description_sm": [
+    "Cadastral map showing landowners.; Based on public and private surveys and records, etc.; Blue line print.; Entered according to Act of Congress, May 10, 1909 by John H. Wilke, in the office of The Librarian of Congress at Washington, D.C. Scale 1:31,680. 2 inches to 1 mile"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Wilke,  John H., cartographer."
+  ],
+  "dct_publisher_sm": [
+    "John H. Wilke"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dcat_keyword_sm": [
+    "Cadastral",
+    "Landowners",
+    "Land ownership",
+    "Real property",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Warrick County, Indiana",
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-87.53,-87.01,38.23,37.86)",
+  "dcat_bbox": "ENVELOPE(-87.53,-87.01,38.23,37.86)",
+  "dcat_centroid": "38.045,-87.27000000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00157\"}",
+  "id": "9187b431-ff4f-4e16-aed5-792d46a6dc61",
+  "dct_identifier_sm": [
+    "9187b431-ff4f-4e16-aed5-792d46a6dc61"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:01Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

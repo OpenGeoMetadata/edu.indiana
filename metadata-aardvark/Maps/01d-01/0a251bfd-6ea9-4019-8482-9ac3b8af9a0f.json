@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Indiana",
+  "dct_description_sm": [
+    "Relief shown by shading, gradient tints, and spot heights. Scale 1:500,000. 1 in. = approximately 8 miles. 1 centimeter = 5 kilometers."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Raven Maps & Images"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Physical maps"
+  ],
+  "dcat_keyword_sm": [
+    "Physical maps",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    "1994"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-89,-84,42,37)",
+  "dcat_bbox": "ENVELOPE(-89,-84,42,37)",
+  "dcat_centroid": "39.5,-86.5",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00323\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00323\"}",
+  "id": "0a251bfd-6ea9-4019-8482-9ac3b8af9a0f",
+  "dct_identifier_sm": [
+    "0a251bfd-6ea9-4019-8482-9ac3b8af9a0f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:15Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

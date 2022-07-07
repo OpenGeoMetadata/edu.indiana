@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Map of Monroe County Indiana",
+  "dct_description_sm": [
+    "Shows townships, sections, drainage, roads, schools, post offices, quarries, and stone mills.; Includes Stone directory listing quarries and the companies that operate them. Scale  approximately 1:31,680"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Siebenthal,  C. E.(Claude Ellsworth), 1869-1930, cartographer."
+  ],
+  "dct_publisher_sm": [
+    "Julius Bien & Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Mine Thematic maps",
+    "Quarries",
+    "Roads",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "gbl_indexYear_im": [
+    "1895"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.68,-86.4001,39.35,38.98)",
+  "dcat_bbox": "ENVELOPE(-86.68,-86.4001,39.35,38.98)",
+  "dcat_centroid": "39.165,-86.54005000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00084\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00084\"}",
+  "id": "ae7597c2-6a69-483c-9c24-86d0cf882c47",
+  "dct_identifier_sm": [
+    "ae7597c2-6a69-483c-9c24-86d0cf882c47"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:49Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

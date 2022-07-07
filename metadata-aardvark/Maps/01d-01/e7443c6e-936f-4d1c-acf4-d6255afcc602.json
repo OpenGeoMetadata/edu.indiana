@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Map of Indiana showing location of active coal mines",
+  "dct_description_sm": [
+    "Shows southwest quadrant of Indiana.; Includes location map and Diagram of township showing arrangement of sections.; 1952. Scale 1:500,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Wier,  Charles E.(Charles Eugene), 1921-cartographer."
+  ],
+  "dct_publisher_sm": [
+    "Indiana Dept. of Conservation, Geological Survey"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Mine maps"
+  ],
+  "dcat_keyword_sm": [
+    "Mine",
+    "Coal mines",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    "1952"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-87.5301,-86.41,40.6101,37.76)",
+  "dcat_bbox": "ENVELOPE(-87.5301,-86.41,40.6101,37.76)",
+  "dcat_centroid": "39.185050000000004,-86.97005",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00414\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00414\"}",
+  "id": "e7443c6e-936f-4d1c-acf4-d6255afcc602",
+  "dct_identifier_sm": [
+    "e7443c6e-936f-4d1c-acf4-d6255afcc602"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:29Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

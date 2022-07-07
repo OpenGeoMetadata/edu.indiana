@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "A new gazetteer map of Monroe County, Indiana: showing the township, range section and quarter section lines, the civil townships, the outlines of each person's tract of land, with the owner's name thereon, the streams, rail roads, state and county roads, towns, villages, post offices, public buildings, churches, school houses, mills &c. &c.",
+  "dct_description_sm": [
+    "Includes 'Statistics for Monroe County for 1856,' advertisements, and views of the county courthouse, Indiana University. and the home of Bloomington resident C. Hunter. Scale not given. By R.S. Davis, civil eng. and surveyor."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Davis, R. S. (Surveyor)"
+  ],
+  "dct_publisher_sm": [
+    "Davis & Kennedy",
+    "Louisville, Kentucky",
+    "Robyn & Company Lithog"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_issued_s": "1856",
+  "gbl_indexYear_im": [
+    "1856"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.68,-86.31,39.35,38.98)",
+  "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,38.98)",
+  "dcat_centroid": "39.165,-86.495",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01195\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01195\"}",
+  "id": "VAC3073-M-01195",
+  "dct_identifier_sm": [
+    "VAC3073-M-01195"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:17Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Map of Indianapolis and center township: showing new ward and precinct boundaries, established: Wednesday, June 27th 1906",
+  "dct_description_sm": [
+    "Scale 1:15,840. 4 inches to mile."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Palmer,  Thos. W.(Thomas W.), cartographer."
+  ],
+  "dct_publisher_sm": [
+    "Sentinel Print. Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Administrative and political divisions",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana",
+    "Marion County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-54.71036,-54.559552,-22.161613,-22.355014)",
+  "dcat_bbox": "ENVELOPE(-54.71036,-54.559552,-22.161613,-22.355014)",
+  "dcat_centroid": "-22.2583135,-54.634956",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00411\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00411\"}",
+  "id": "c8f9fdc0-e27c-49dd-8c63-a8a41f242f9b",
+  "dct_identifier_sm": [
+    "c8f9fdc0-e27c-49dd-8c63-a8a41f242f9b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:01Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

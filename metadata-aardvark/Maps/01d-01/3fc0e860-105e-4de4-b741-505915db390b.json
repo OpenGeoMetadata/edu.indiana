@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Wayne County, Ind.",
+  "dct_description_sm": [
+    "Shows townships.; A. Zeese & Co., Engrs., Chi. Scale approximately 1:158,260."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Wissler,  B. F., cartographer."
+  ],
+  "dct_publisher_sm": [
+    "A. Zeese & Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "gbl_indexYear_im": [
+    "1888"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Wayne County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-85.21,-84.8001,40,39.7001)",
+  "dcat_bbox": "ENVELOPE(-85.21,-84.8001,40,39.7001)",
+  "dcat_centroid": "39.850049999999996,-85.00505",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00376\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00376\"}",
+  "id": "3fc0e860-105e-4de4-b741-505915db390b",
+  "dct_identifier_sm": [
+    "3fc0e860-105e-4de4-b741-505915db390b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:33Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

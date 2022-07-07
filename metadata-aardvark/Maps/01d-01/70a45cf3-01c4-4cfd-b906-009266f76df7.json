@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Standard Oil Company (Indiana) 1933 official road map Indiana",
+  "dct_description_sm": [
+    "Includes Index to cities and towns, with populations.; Standard Oil Company (Indiana) 1933 official road map United States, text, and ill. on verso. Scale approximately 1:800,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "H.M. Gousha"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "gbl_indexYear_im": [
+    "1933"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1933 TO 1933]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "dcat_bbox": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "dcat_centroid": "39.754999999999995,-86.43",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00151\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00151\"}",
+  "id": "70a45cf3-01c4-4cfd-b906-009266f76df7",
+  "dct_identifier_sm": [
+    "70a45cf3-01c4-4cfd-b906-009266f76df7"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:16Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

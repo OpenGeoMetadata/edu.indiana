@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "General highway and transportation map, DeKalb County, Indiana",
+  "dct_description_sm": [
+    "Blue line print.; State roads rev. to Jan. 1949.; Data obtained from Statewide Highway Planning Survey.; Includes chart Culture in unincorporated places and location map.; 1937.; 17. Scale 1:63,360. 1 inch =1 mile.; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "The Commission"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1949?"
+  ],
+  "gbl_indexYear_im": [
+    "1949"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "De Kalb County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-85.2,-84.8,41.53,41.26)",
+  "dcat_bbox": "ENVELOPE(-85.2,-84.8,41.53,41.26)",
+  "dcat_centroid": "41.394999999999996,-85.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00643\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00643\"}",
+  "id": "99da0263-a770-4c5a-b834-378980a8292f",
+  "dct_identifier_sm": [
+    "99da0263-a770-4c5a-b834-378980a8292f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:56Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Indiana",
+  "dct_description_sm": [
+    "Shows towns, roads, and counties.; Flags of the 48 states in left and right margins.; On verso: Historical and other points of interest-Indiana, Cram's transcontinental highway map, and Index to Indiana counties and towns. Scale approximately 1:800,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Cram"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "gbl_indexYear_im": [
+    "1929"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "dcat_bbox": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "dcat_centroid": "39.805,-86.43",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00098\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00098\"}",
+  "id": "b201c8dd-cf57-4b0d-87f6-86de8249105b",
+  "dct_identifier_sm": [
+    "b201c8dd-cf57-4b0d-87f6-86de8249105b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:52Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

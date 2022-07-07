@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Map showing oil, gas, and gas storage fields in Indiana",
+  "dct_description_sm": [
+    "Base modified from U.S. Geological Survey base map of Indiana ; 1950. Compiled from Indiana Geological Survey Petroleum Exploration Maps of Indiana counties.; Includes Names and locations of oil and gas fields, Names and locations of gas storage projects, Underground storage sites for liquified petroleum gas. Scale 1:500,000; Lambert conformal conic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Carpenter,  G. L.(Gerald Leon), 1924-2012, cartographer."
+  ],
+  "dct_publisher_sm": [
+    "State of Indiana, Department of Natural Resources"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Gas fields",
+    "Roads",
+    "Natural gas",
+    "Oil fields",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "gbl_indexYear_im": [
+    "1976"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-88,-85,41.75,38)",
+  "dcat_bbox": "ENVELOPE(-88,-85,41.75,38)",
+  "dcat_centroid": "39.875,-86.5",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00117\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00117\"}",
+  "id": "85576528-1bda-4198-8336-86ad55c8d7de",
+  "dct_identifier_sm": [
+    "85576528-1bda-4198-8336-86ad55c8d7de"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:51Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

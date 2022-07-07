@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "Monroe County Indiana: line index to aerial photography",
+  "dct_description_sm": [
+    "Blue line print.; Base maps: USGS 1:100,000-scale quadrangles for Bloomington, Indiana and Bedford, Indiana.; Project: Monroe County, Indiana (18105) ; Project code: NAPP ; Year of Photography: 1987 ; Film type: Color I.R. Positive, B/W internegative ; Negative scale: 1:40,000 ; Nominal focal length: 6 ; Direction of flight: N-S ; Contractor: Aero-Metric Engineering, Inc.; Shows the center point of each photograph. Scale 1:100,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "U.S. Dept. of Agriculture Aerial Photography Field Office"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Index maps",
+    "Aerial photographs"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "gbl_indexYear_im": [
+    "1987"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Monroe County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.68,-86.31,39.35,39)",
+  "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,39)",
+  "dcat_centroid": "39.175,-86.495",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00653\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00653\"}",
+  "id": "966e74fc-3b5b-4f7c-954a-f11d027a32ad",
+  "dct_identifier_sm": [
+    "966e74fc-3b5b-4f7c-954a-f11d027a32ad"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:33Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

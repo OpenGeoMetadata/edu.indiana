@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Soil map, Indiana, Lake County Sheet",
+  "dct_description_sm": [
+    "Map shows distribution of soil types by color and symbol. Soils surveyed by T.M . Bushnell of the U.S. Department of Agriculture, and Wendell Barret of the Indiana Department of Geology. 'Field operations, Bureau of Soils, 1917.' Scale approximately 1:63,360. 1 inch = 1 mile. U.S. Department of Agriculture, Bureau of Soils, State of Indiana Department of Geology."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Bushnell, T. M. (Thomas Mark),1889-1976",
+    "Barrett, Wendell"
+  ],
+  "dct_publisher_sm": [
+    "The Bureau"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "dct_issued_s": "1917",
+  "gbl_indexYear_im": [
+    "1917"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Indiana",
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-87.51,-87.21,41.16,37.7)",
+  "dcat_bbox": "ENVELOPE(-87.51,-87.21,41.16,37.7)",
+  "dcat_centroid": "39.43,-87.36",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00896\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00896\"}",
+  "id": "VAC3073-M-00896",
+  "dct_identifier_sm": [
+    "VAC3073-M-00896"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:25Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

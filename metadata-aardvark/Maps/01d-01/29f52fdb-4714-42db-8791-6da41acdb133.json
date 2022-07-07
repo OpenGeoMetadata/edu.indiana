@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Topographic map of Indiana University",
+  "dct_description_sm": [
+    "Blue line print.; Date of photography March 1961.; Date of mapping May 1961. Scale 1:1,200. 1 inch = 100 feet."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Indiana Univ. Physical Plant"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1961?"
+  ],
+  "gbl_indexYear_im": [
+    "1961"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.58,-86.46,39.21,39.11)",
+  "dcat_bbox": "ENVELOPE(-86.58,-86.46,39.21,39.11)",
+  "dcat_centroid": "39.16,-86.52",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00178\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00178\"}",
+  "id": "29f52fdb-4714-42db-8791-6da41acdb133",
+  "dct_identifier_sm": [
+    "29f52fdb-4714-42db-8791-6da41acdb133"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:45Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

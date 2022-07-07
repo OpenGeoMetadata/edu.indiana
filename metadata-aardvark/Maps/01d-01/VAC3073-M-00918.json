@@ -1,0 +1,51 @@
+{
+  "dct_title_s": "Polk's map of the city of Fort Wayne Indiana",
+  "dct_description_sm": [
+    "Includes distance circles and street index. Scale approximately 1:10,900. R.L. Polk & Co."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "R.L. Polk & Company"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_issued_s": "1903",
+  "gbl_indexYear_im": [
+    "1903"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Fort Wayne, Indiana",
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "dcat_bbox": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "dcat_centroid": "41.0651,-85.14005",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00918\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00918\"}",
+  "id": "VAC3073-M-00918",
+  "dct_identifier_sm": [
+    "VAC3073-M-00918"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:55Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

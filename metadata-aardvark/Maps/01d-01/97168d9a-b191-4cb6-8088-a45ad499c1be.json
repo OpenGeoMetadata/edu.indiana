@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "Important farmlands, St. Joseph County, Indiana",
+  "dct_description_sm": [
+    "Shows land use.; Includes vicinity map, text, and sectionalized township.; March 1986.; Base 4-R-39699. Scale approximately 1:50,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "The Service"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Agriculture",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "gbl_indexYear_im": [
+    "1986"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Saint Joseph County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.48,-86.05,41.7501,41.4501)",
+  "dcat_bbox": "ENVELOPE(-86.48,-86.05,41.7501,41.4501)",
+  "dcat_centroid": "41.6001,-86.265",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00087\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00087\"}",
+  "id": "97168d9a-b191-4cb6-8088-a45ad499c1be",
+  "dct_identifier_sm": [
+    "97168d9a-b191-4cb6-8088-a45ad499c1be"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:25Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

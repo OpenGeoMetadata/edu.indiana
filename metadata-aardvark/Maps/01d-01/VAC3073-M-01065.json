@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Map of the main Trenton Rock oil field of Indiana",
+  "dct_description_sm": [
+    "Shows good, fair, and light oil territory, gas territory, dry or salt water territory, and pumping stations. Detached from: 28th Annual report of the Department of Geology and Natural Resources of Indiana, 1903. 'January 1, 1904.' Scale 1:126,720. 2 miles = 1 in. By W.S. Blatchley, state geologist."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Blatchley, W. S. (Willis Stanley),1859-1940"
+  ],
+  "dct_publisher_sm": [
+    "Indiana Department of Geology and Natural Resources",
+    "William B. Burford"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Mine maps"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1903"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-85.78,-84.8,40.75,40.15)",
+  "dcat_bbox": "ENVELOPE(-85.78,-84.8,40.75,40.15)",
+  "dcat_centroid": "40.45,-85.28999999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01065\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01065\"}",
+  "id": "VAC3073-M-01065",
+  "dct_identifier_sm": [
+    "VAC3073-M-01065"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:55Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

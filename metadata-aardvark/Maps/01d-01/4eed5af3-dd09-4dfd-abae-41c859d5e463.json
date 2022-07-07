@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Soil map, Indiana, Adams county sheet",
+  "dct_description_sm": [
+    "Shows soil types classification by colors and symbols.; Relief shown by contours and hachures.; Soils surveyed by Grove B. Jones, Mark Baldwin, S.C. Jones, Thomas Jabine and T.M. Bushnell.; Field operations Bureau of Soils 1921. Scale 1:63,360. 1 inch=1 mile"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Jones,  Grove B., 1877-cartographer."
+  ],
+  "dct_publisher_sm": [
+    "The Bureau"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1921?"
+  ],
+  "gbl_indexYear_im": [
+    "1921"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Adams County, Indiana",
+    "Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-85.06,-84.78,40.95,40.56)",
+  "dcat_bbox": "ENVELOPE(-85.06,-84.78,40.95,40.56)",
+  "dcat_centroid": "40.755,-84.92",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00111\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00111\"}",
+  "id": "4eed5af3-dd09-4dfd-abae-41c859d5e463",
+  "dct_identifier_sm": [
+    "4eed5af3-dd09-4dfd-abae-41c859d5e463"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:46Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

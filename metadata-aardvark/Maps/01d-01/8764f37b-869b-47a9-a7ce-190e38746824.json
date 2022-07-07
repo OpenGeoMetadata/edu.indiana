@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Soil map, Indiana, Kosciusko county sheet",
+  "dct_description_sm": [
+    "Shows soil types classification by colors and symbols.; Relief shown by contours and hachures.; Soils surveyed by W.E. Tharp, Earl D. Fowler, L.S. Troth and H.R. Beyer.; Field operations Bureau of Soils 1922. Scale 1:63,360. 1 inch = 1 mile"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Tharp,  W. E.(William Edgar), cartographer."
+  ],
+  "dct_publisher_sm": [
+    "The Bureau"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils",
+    "Indiana Historic Maps"
+  ],
+  "dct_temporal_sm": [
+    "1922?"
+  ],
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Kosciusko County, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-86.08,-85.65,41.45,41.03)",
+  "dcat_bbox": "ENVELOPE(-86.08,-85.65,41.45,41.03)",
+  "dcat_centroid": "41.24,-85.86500000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00585\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00585\"}",
+  "id": "8764f37b-869b-47a9-a7ce-190e38746824",
+  "dct_identifier_sm": [
+    "8764f37b-869b-47a9-a7ce-190e38746824"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:16Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
