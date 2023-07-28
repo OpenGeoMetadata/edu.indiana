@@ -9,12 +9,12 @@
   "solr_year_i": "1898",
   "dc_description_s": "Modern area represented: Panevėžys, Lithuania; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000390\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1kbtGH5uOo9C9HLNFCt_TdX1ml1Izto7-\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000390\"}",
   "dct_spatial_sm": [
-    "Panevėžys, Lithuania",
+    "Lithuania--Panevėžys",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:27Z",
+  "layer_modified_dt": "2023-05-09T06:04:36Z",
   "dc_language_sm": [
     "rus"
   ],

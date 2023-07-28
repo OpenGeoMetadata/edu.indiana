@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Malacky, Záhorie region, Slovakia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002717\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Lk1U7dlD433a8rEUh8knFZx49I4F_AQR/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002717\"}",
   "dct_spatial_sm": [
-    "Malacky, Slovakia",
+    "Slovakia--Malacky",
     "Slovakia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:54Z",
+  "layer_modified_dt": "2023-05-09T06:03:05Z",
   "dc_language_sm": [
     "rus"
   ],

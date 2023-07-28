@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Vanderburgh County, Indiana"
+    "Indiana--Vanderburgh County"
   ],
-  "locn_geometry": "ENVELOPE(-87.7,-87.45,38.16,37.83)",
+  "locn_geometry": "POLYGON((-87.7 38.16, -87.45 38.16, -87.45 37.83, -87.7 37.83, -87.7 38.16))",
   "dcat_bbox": "ENVELOPE(-87.7,-87.45,38.16,37.83)",
   "dcat_centroid": "37.995,-87.575",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00957"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,10 +34,10 @@
     "[1900 TO 1926]"
   ],
   "dct_spatial_sm": [
-    "Kamianets-Podilskyi, Ukraine",
+    "Ukraine--Kamianets-Podilskyi",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(26.75,26.5,48.8333,48.6667)",
+  "locn_geometry": "POLYGON((26.75 48.8333, 26.5 48.8333, 26.5 48.6667, 26.75 48.6667, 26.75 48.8333))",
   "dcat_bbox": "ENVELOPE(26.75,26.5,48.8333,48.6667)",
   "dcat_centroid": "48.75,26.625",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000878\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1d9zmDF1aOMAqfbDt_Z1j4-1yPA9Wetkx\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000878\"}",
   "id": "VAC9619-000878",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000878",
     "G7000 s50 .S68 sheet M-35-114-C"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:52Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

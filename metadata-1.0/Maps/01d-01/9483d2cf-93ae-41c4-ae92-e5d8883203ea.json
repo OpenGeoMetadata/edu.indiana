@@ -11,10 +11,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00597\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00597\"}",
   "dct_spatial_sm": [
-    "Posey County, Indiana",
+    "Indiana--Posey County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:11Z",
+  "layer_modified_dt": "2023-02-03T21:11:40Z",
   "dc_language_sm": [
     "eng"
   ],

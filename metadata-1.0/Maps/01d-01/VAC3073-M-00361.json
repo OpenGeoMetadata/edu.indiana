@@ -8,18 +8,18 @@
   "solr_geom": "ENVELOPE(-85.68,-85.3,39.45,39.13)",
   "solr_year_i": "1919",
   "dc_creator_sm": [
-    "Baldwin, Mark (Cartographer)",
-    "Slipher, J. A.",
-    "Jones, S. C. (Sadocie Conellee),1880-cartographer."
+    "Baldwin, Mark (Soil surveyor)",
+    "Jones, S. C. (Sadocie Conellee),1880-cartographer.",
+    "Slipher, J. A."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols. 'Field operations Bureau of Soils.' Scale 1:63,360. 1 inch = 1 miles. U.S. Dept. of Agriculture, Bureau of Soils; Purdue University, Agricultural Experiment Station; Soils surveyed by Mark Baldwin and J.A. Slipher, U.S. Dept. of Agriculture and S.C. Jones, Purdue University Agricultural Experiment Station.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00361\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00361\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Decatur County, Indiana"
+    "Indiana--Decatur County"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:07Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

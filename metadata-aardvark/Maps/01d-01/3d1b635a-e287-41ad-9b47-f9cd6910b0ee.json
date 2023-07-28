@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Powell,  Richard L., cartographer."
+    "Powell, Richard L., cartographer."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,7 +19,8 @@
   "dcat_keyword_sm": [
     "Watersheds",
     "Karst",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1970?"
@@ -32,10 +33,10 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Van Buren, Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Van Buren",
+    "Indiana--Monroe County"
   ],
-  "locn_geometry": "ENVELOPE(-86.66,-86.63,39.1501,39.1)",
+  "locn_geometry": "POLYGON((-86.66 39.1501, -86.63 39.1501, -86.63 39.1, -86.66 39.1, -86.66 39.1501))",
   "dcat_bbox": "ENVELOPE(-86.66,-86.63,39.1501,39.1)",
   "dcat_centroid": "39.12505,-86.645",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "3d1b635a-e287-41ad-9b47-f9cd6910b0ee"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

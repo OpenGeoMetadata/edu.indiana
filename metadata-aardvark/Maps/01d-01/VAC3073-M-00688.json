@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Henry County, Indiana",
+    "Indiana--Henry County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.6,-85.41,40.08,39.78)",
+  "locn_geometry": "POLYGON((-85.6 40.08, -85.41 40.08, -85.41 39.78, -85.6 39.78, -85.6 40.08))",
   "dcat_bbox": "ENVELOPE(-85.6,-85.41,40.08,39.78)",
   "dcat_centroid": "39.93,-85.505",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00688"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

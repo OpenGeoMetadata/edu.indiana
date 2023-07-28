@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Carpenter,  G. L.(Gerald Leon), 1924-2012, cartographer."
+    "Carpenter, G. L.(Gerald Leon), 1924-2012, cartographer."
   ],
   "dct_publisher_sm": [
     "State of Indiana, Department of Natural Resources"
@@ -24,7 +24,8 @@
     "Roads",
     "Natural gas",
     "Oil fields",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1976"
@@ -38,7 +39,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88,-85,41.75,38)",
+  "locn_geometry": "POLYGON((-88 41.75, -85 41.75, -85 38, -88 38, -88 41.75))",
   "dcat_bbox": "ENVELOPE(-88,-85,41.75,38)",
   "dcat_centroid": "39.875,-86.5",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "85576528-1bda-4198-8336-86ad55c8d7de"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:51Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

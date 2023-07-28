@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Indianapolis, Indiana"
+    "Indiana--Indianapolis"
   ],
-  "locn_geometry": "ENVELOPE(-86.2301,-86.21,39.73,39.71)",
+  "locn_geometry": "POLYGON((-86.2301 39.73, -86.21 39.73, -86.21 39.71, -86.2301 39.71, -86.2301 39.73))",
   "dcat_bbox": "ENVELOPE(-86.2301,-86.21,39.73,39.71)",
   "dcat_centroid": "39.72,-86.22004999999999",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "fd623304-331a-4c8e-aa48-c0043e7ad21b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:53Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

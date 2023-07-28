@@ -9,12 +9,12 @@
   "solr_year_i": "1934",
   "dc_description_s": "Modern area represented: Sergiyev Posad, Moscow oblast, Russia; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002275\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1aNKSAGKcZbYagXzjv_nV-213M8gOpZnt/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002275\"}",
   "dct_spatial_sm": [
-    "Sergiyev Posad, Russia",
+    "Russia--Sergiyev Posad",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:38Z",
+  "layer_modified_dt": "2023-05-09T06:02:22Z",
   "dc_language_sm": [
     "rus"
   ],

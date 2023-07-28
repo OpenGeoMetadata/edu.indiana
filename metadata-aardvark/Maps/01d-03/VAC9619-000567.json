@@ -34,10 +34,10 @@
     "[1936 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Ubarok, Belarus",
+    "Belarus--Ubarok",
     "Belarus"
   ],
-  "locn_geometry": "ENVELOPE(28.5,28.25,54.667,54.5)",
+  "locn_geometry": "POLYGON((28.5 54.667, 28.25 54.667, 28.25 54.5, 28.5 54.5, 28.5 54.667))",
   "dcat_bbox": "ENVELOPE(28.5,28.25,54.667,54.5)",
   "dcat_centroid": "54.5835,28.375",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000567\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1yIx-TM28JTWHuBhMdWOWkQ0Os1GV8Y7K\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000567\"}",
   "id": "VAC9619-000567",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000567",
     "G7000 s50 .S68 sheet N-35-57-B"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:36Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

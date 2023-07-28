@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.68,-86.28,39,38.68)",
   "solr_year_i": "1938",
   "dc_creator_sm": [
-    "Magnusson, L. R.",
-    "Aretz, R."
+    "Aretz, R.",
+    "Magnusson, L. R."
   ],
   "dc_description_s": "Blue line print. '1953.' 'Prepared by L.R. Magnusson.' 'Drawn by R. Aretz.' Scale approximately 1:63,360.; Polyconic projection By Joint Highway Research Project at Purdue University.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00932\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00932\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Lawrence County, Indiana"
+    "Indiana--Lawrence County"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:54Z",
+  "layer_modified_dt": "2023-02-03T21:18:11Z",
   "dc_language_sm": [
     "eng"
   ],

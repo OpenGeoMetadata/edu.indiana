@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Pirevichi, Homyel oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001526\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1SuiL1h908k5bv94WoCYDQGl9cO2COwsi\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001526\"}",
   "dct_spatial_sm": [
-    "Pirevichi, Belarus",
+    "Belarus--Pirevichi",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:13Z",
+  "layer_modified_dt": "2023-05-09T06:05:02Z",
   "dc_language_sm": [
     "rus"
   ],

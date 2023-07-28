@@ -34,10 +34,10 @@
     "[1937 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Orsha, Belarus",
+    "Belarus--Orsha",
     "Belarus"
   ],
-  "locn_geometry": "ENVELOPE(30.5,30.25,54.6667,54.5)",
+  "locn_geometry": "POLYGON((30.5 54.6667, 30.25 54.6667, 30.25 54.5, 30.5 54.5, 30.5 54.6667))",
   "dcat_bbox": "ENVELOPE(30.5,30.25,54.6667,54.5)",
   "dcat_centroid": "54.583349999999996,30.375",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001320\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1KNjjhHafelW_B0_6k_884y6JL4LDhEym\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001320\"}",
   "id": "VAC9619-001320",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001320",
     "GM G7000 S50 .S68 N-36-49-B"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:06Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

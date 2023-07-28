@@ -9,12 +9,12 @@
   "solr_year_i": "1903",
   "dc_description_s": "Modern area represented: Дрысвяты (Drysviaty), Vitebsk District, Belarus; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000452\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1G9utcgmCeg2VAbiVPZi7qnAk6nbD2zPe\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000452\"}",
   "dct_spatial_sm": [
-    "Drysviaty, Belarus",
+    "Belarus--Drysviaty",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:30Z",
+  "layer_modified_dt": "2023-05-09T06:04:25Z",
   "dc_language_sm": [
     "rus"
   ],

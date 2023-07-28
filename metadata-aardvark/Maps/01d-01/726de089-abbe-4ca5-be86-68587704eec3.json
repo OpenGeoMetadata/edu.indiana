@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Morrow,  Jackson, 1849-cartographer."
+    "Morrow, Jackson, 1849-cartographer."
   ],
   "dct_publisher_sm": [
     "M.J. Clancy"
@@ -24,7 +24,8 @@
     "Landowners",
     "Land ownership",
     "Real property",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1889"
@@ -37,9 +38,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Kokomo, Indiana"
+    "Indiana--Kokomo"
   ],
-  "locn_geometry": "ENVELOPE(-86.18,-86.08,40.53,40.41)",
+  "locn_geometry": "POLYGON((-86.18 40.53, -86.08 40.53, -86.08 40.41, -86.18 40.41, -86.18 40.53))",
   "dcat_bbox": "ENVELOPE(-86.18,-86.08,40.53,40.41)",
   "dcat_centroid": "40.47,-86.13",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "726de089-abbe-4ca5-be86-68587704eec3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:37Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

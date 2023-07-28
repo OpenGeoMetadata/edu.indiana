@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.78,-85.76,39.5101,39.5001)",
   "solr_year_i": "1906",
   "dc_creator_sm": [
-    "Kirk,  Fred W., cartographer."
+    "Kirk, Fred W., cartographer."
   ],
   "dc_description_s": "Blue line.; Cadastral map.; Includes 4 insets. Scale approximately 1:24,000. 1 inch = 200 feet.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00059\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00059\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Shelbyville, Indiana"
+    "Indiana--Shelbyville"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:34Z",
+  "layer_modified_dt": "2023-02-03T21:25:00Z",
   "dc_language_sm": [
     "eng"
   ],

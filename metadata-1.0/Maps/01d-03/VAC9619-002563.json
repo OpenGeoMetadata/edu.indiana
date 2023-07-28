@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Верхнее Чалмозеро (Ozero Verkhneye Chalmozero), Мурманская область (Murmanskaya oblast), Russia; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002563\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/16YSbd3h8LxM12c--Fk7Cp2EIaUWy35FL/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002563\"}",
   "dct_spatial_sm": [
-    "Ozero Verkhneye Chalmozero, Russia",
+    "Russia--Ozero Verkhneye Chalmozero",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:48Z",
+  "layer_modified_dt": "2023-05-09T06:02:11Z",
   "dc_language_sm": [
     "rus"
   ],

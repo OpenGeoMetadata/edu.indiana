@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Wabash County, Indiana",
+    "Indiana--Wabash County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.95,-85.63,41.05,40.65)",
+  "locn_geometry": "POLYGON((-85.95 41.05, -85.63 41.05, -85.63 40.65, -85.95 40.65, -85.95 41.05))",
   "dcat_bbox": "ENVELOPE(-85.95,-85.63,41.05,40.65)",
   "dcat_centroid": "40.849999999999994,-85.78999999999999",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "767c1a1d-e86e-4e8a-9a96-9405834b920a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

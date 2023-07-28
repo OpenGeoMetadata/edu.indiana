@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Whippo,  Paul D., cartographer."
+    "Whippo, Paul D., cartographer."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Student housing",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1960"
@@ -30,10 +31,10 @@
     "[1960 TO 1960]"
   ],
   "dct_spatial_sm": [
-    "Bloomington, Indiana",
+    "Indiana--Bloomington",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.5101,-86.5,39.16,39.15)",
+  "locn_geometry": "POLYGON((-86.5101 39.16, -86.5 39.16, -86.5 39.15, -86.5101 39.15, -86.5101 39.16))",
   "dcat_bbox": "ENVELOPE(-86.5101,-86.5,39.16,39.15)",
   "dcat_centroid": "39.155,-86.50505",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "5322c100-7fab-47cd-8f74-a4b1eb007d56"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:51Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

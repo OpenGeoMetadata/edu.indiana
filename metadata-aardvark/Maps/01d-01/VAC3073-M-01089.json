@@ -25,7 +25,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -39,9 +40,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Knox County, Indiana"
+    "Indiana--Knox County"
   ],
-  "locn_geometry": "ENVELOPE(-87.75,-87.08,38.9,38.4001)",
+  "locn_geometry": "POLYGON((-87.75 38.9, -87.08 38.9, -87.08 38.4001, -87.75 38.4001, -87.75 38.9))",
   "dcat_bbox": "ENVELOPE(-87.75,-87.08,38.9,38.4001)",
   "dcat_centroid": "38.65005,-87.41499999999999",
   "pcdm_memberOf_sm": [
@@ -52,11 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01089\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01089\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01089\"}",
   "id": "VAC3073-M-01089",
   "dct_identifier_sm": [
     "VAC3073-M-01089"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:06Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

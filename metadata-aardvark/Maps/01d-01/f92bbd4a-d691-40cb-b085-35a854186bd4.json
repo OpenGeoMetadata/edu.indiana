@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Dempsey,  W. J., cartographer."
+    "Dempsey, W. J., cartographer."
   ],
   "dct_publisher_sm": [
     "For sale by U.S. Geological Survey"
@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Geomagnetism",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -34,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Saint Joseph County, Indiana"
+    "Indiana--Saint Joseph County"
   ],
-  "locn_geometry": "ENVELOPE(-86.51,-86.05,41.7501,41.43)",
+  "locn_geometry": "POLYGON((-86.51 41.7501, -86.05 41.7501, -86.05 41.43, -86.51 41.43, -86.51 41.7501))",
   "dcat_bbox": "ENVELOPE(-86.51,-86.05,41.7501,41.43)",
   "dcat_centroid": "41.590050000000005,-86.28",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "f92bbd4a-d691-40cb-b085-35a854186bd4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:54Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

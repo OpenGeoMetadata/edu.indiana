@@ -33,10 +33,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Spencer County, Indiana",
+    "Indiana--Spencer County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.26,-86.7501,38.2,37.7601)",
+  "locn_geometry": "POLYGON((-87.26 38.2, -86.7501 38.2, -86.7501 37.7601, -87.26 37.7601, -87.26 38.2))",
   "dcat_bbox": "ENVELOPE(-87.26,-86.7501,38.2,37.7601)",
   "dcat_centroid": "37.980050000000006,-87.00505000000001",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "118f9e83-4e40-44ff-a0b6-c98964bc565e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

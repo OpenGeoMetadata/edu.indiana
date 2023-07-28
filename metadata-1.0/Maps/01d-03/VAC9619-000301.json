@@ -9,12 +9,12 @@
   "solr_year_i": "1883",
   "dc_description_s": "Modern area represented: Węgrów, Poland; Scale =1:50,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000301\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1xd4VQXfrD63N3r0xxyb9wRBCV2T1VvhY; https://drive.google.com/open?id=1AstHWpyMNvTtx5Ctj4KwLBTAmsNWn4dd\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000301\"}",
   "dct_spatial_sm": [
-    "Węgrów, Poland",
+    "Poland--Węgrów",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:21Z",
+  "layer_modified_dt": "2023-05-09T06:05:16Z",
   "dc_language_sm": [
     "rus"
   ],

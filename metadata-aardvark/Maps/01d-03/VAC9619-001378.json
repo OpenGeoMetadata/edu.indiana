@@ -21,7 +21,9 @@
     "Military maps"
   ],
   "dcat_keyword_sm": [
-    "Soviet Union"
+    "Soviet Union",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1924-1926"
@@ -34,12 +36,12 @@
     "[1924 TO 1926]"
   ],
   "dct_spatial_sm": [
-    "Khislavichi, Russia",
+    "Russia--Khislavichi",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(52.25,32,54.3333,54.1667)",
-  "dcat_bbox": "ENVELOPE(52.25,32,54.3333,54.1667)",
-  "dcat_centroid": "54.25,42.125",
+  "locn_geometry": "POLYGON((32.11872 54.221466, 32.203899 54.221466, 32.203899 54.159363, 32.11872 54.159363, 32.11872 54.221466))",
+  "dcat_bbox": "ENVELOPE(32.11872,32.203899,54.221466,54.159363)",
+  "dcat_centroid": "54.1904145,32.1613095",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,14 +53,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001378\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1dwujXkvRqxL0gQD7aWD9Re-iazvZ556F\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001378\"}",
   "id": "VAC9619-001378",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001378",
     "GM G7000 S50 .S68 N-36-65-A"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:08Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

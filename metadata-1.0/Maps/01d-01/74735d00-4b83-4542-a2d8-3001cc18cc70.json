@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.18,-86.11,39.8001,39.73)",
   "solr_year_i": "1874",
   "dc_creator_sm": [
-    "Defrees,  Morris M., cartographer."
+    "Defrees, Morris M., cartographer."
   ],
   "dc_description_s": "Engraved expressly for Swartz & Tedrowe's city directory, by Braden & Burford. Scale 1:15,840. 4 inches per mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00165\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00165\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Indianapolis, Indiana",
-    "Marion County, Indiana"
+    "Indiana--Indianapolis",
+    "Indiana--Marion County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:25Z",
+  "layer_modified_dt": "2023-02-03T21:26:01Z",
   "dc_language_sm": [
     "eng"
   ],

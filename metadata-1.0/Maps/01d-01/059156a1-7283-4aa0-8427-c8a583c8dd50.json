@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "solr_year_i": "1963",
   "dc_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dc_description_s": "An Atlas of Indiana features over one hundred maps of the state. The maps are chiefly thematic, featuring \"a broad coverage of both natural conditions and human activities on a state-wide basis\" (Kingsbury, page 3). The atlas covers a little of everything: annual precipitation, bedrock geology, population distribution, income, industry, agriculture, and scheduled airline flights. The atlas sources data from the latest federal census materials available in 1968-69.",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:09Z",
+  "layer_modified_dt": "2023-02-03T21:20:12Z",
   "dc_language_sm": [
     "eng"
   ],

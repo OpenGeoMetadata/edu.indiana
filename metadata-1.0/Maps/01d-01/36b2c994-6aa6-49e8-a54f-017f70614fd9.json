@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
   "solr_year_i": "1905",
   "dc_creator_sm": [
-    "Bloomer,  William L.(William Lowe), cartographer."
+    "Bloomer, William L.(William Lowe), cartographer."
   ],
   "dc_description_s": "Perspective map.; Author and publication information from LC copyright record.; Indiana Union Traction Co., General Offices, Anderson, Ind. Not drawn to scale.",
   "dc_format_s": "JPEG",
@@ -18,9 +18,9 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074233/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00143\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "State of Ohio, Ohio"
+    "Ohio--State of Ohio"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:41Z",
+  "layer_modified_dt": "2023-02-03T21:26:11Z",
   "dc_language_sm": [
     "eng"
   ],

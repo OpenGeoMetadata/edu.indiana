@@ -9,12 +9,12 @@
   "solr_year_i": "1930",
   "dc_description_s": "Modern area represented: Podbuzhye, Kaluga, Russia; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001466\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1Eww5StjrX-Dqvf6ITLq-G9SIVbI7CZbV\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001466\"}",
   "dct_spatial_sm": [
-    "Podbuzhye, Russia",
+    "Russia--Podbuzhye",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:11Z",
+  "layer_modified_dt": "2023-05-09T06:04:21Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-88.11,-84.78,41.75,37.76)",
   "solr_year_i": "1973",
   "dc_creator_sm": [
-    "Keller,  Stanley J., cartographer."
+    "Keller, Stanley J., cartographer."
   ],
   "dc_description_s": "Compilation complete to July 1, 1972.; Base by U.S. Geological Survey; 1950.; Miscellaneous map no. 18.; Includes tables and indexes of underground storage reservoirs and oil refineries and a directory of pipeline companies.; Inset map of Northwestern Lake County, with index and directory, on verso. Scale 1:500,000; Lambert conformal conic projection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00426\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00426\"}",
   "dct_spatial_sm": [
-    "Lake County, Indiana",
+    "Indiana--Lake County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:22Z",
+  "layer_modified_dt": "2023-02-03T21:21:08Z",
   "dc_language_sm": [
     "eng"
   ],

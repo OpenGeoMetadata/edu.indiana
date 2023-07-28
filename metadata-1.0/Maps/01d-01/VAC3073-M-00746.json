@@ -5,6 +5,7 @@
   "dc_title_s": "Indiana, 1950: age-sex pyramids for for places over 10,000 in 1940",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "VAC3073-M-00746",
+  "solr_geom": "ENVELOPE(-88.09776,-84.784579,41.760592,37.771742)",
   "solr_year_i": "1950",
   "dc_creator_sm": [
     "Hart, John Fraser"
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-02-27T01:38:07Z",
+  "layer_modified_dt": "2023-02-03T21:19:54Z",
   "dc_language_sm": [
     "eng"
   ],

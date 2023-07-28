@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hurst,  Lewis A.(Lewis Alexander), 1874-cartographer."
+    "Hurst, Lewis A.(Lewis Alexander), 1874-cartographer."
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Soils",
     "Indiana Historic Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1912"
@@ -36,9 +37,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Tipton County, Indiana"
+    "Indiana--Tipton County"
   ],
-  "locn_geometry": "ENVELOPE(-86.25,-85.86,40.41,40.21)",
+  "locn_geometry": "POLYGON((-86.25 40.41, -85.86 40.41, -85.86 40.21, -86.25 40.21, -86.25 40.41))",
   "dcat_bbox": "ENVELOPE(-86.25,-85.86,40.41,40.21)",
   "dcat_centroid": "40.31,-86.055",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "29fd74cd-6be2-41e6-923b-c5e028d4e987"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

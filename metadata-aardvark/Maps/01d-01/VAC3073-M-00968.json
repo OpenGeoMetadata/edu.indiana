@@ -27,10 +27,10 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Hendricks County, Indiana",
+    "Indiana--Hendricks County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.6801,-86.31,39.91,39.6)",
+  "locn_geometry": "POLYGON((-86.6801 39.91, -86.31 39.91, -86.31 39.6, -86.6801 39.6, -86.6801 39.91))",
   "dcat_bbox": "ENVELOPE(-86.6801,-86.31,39.91,39.6)",
   "dcat_centroid": "39.754999999999995,-86.49504999999999",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00968"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

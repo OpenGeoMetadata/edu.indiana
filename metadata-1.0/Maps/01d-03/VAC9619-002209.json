@@ -9,13 +9,13 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Нагутское (Nagutskoye), Stavropol' Krai, Russia; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002209\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Tq9atQO-c4XkgcnmFpNTo26PfiwGMgzC/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002209\"}",
   "dct_spatial_sm": [
-    "Nagutskoye, Russia",
-    "Stavropol' Krai, Russia",
+    "Russia--Nagutskoye",
+    "Russia--Stavropol' Krai",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:36Z",
+  "layer_modified_dt": "2023-05-09T06:03:31Z",
   "dc_language_sm": [
     "rus"
   ],

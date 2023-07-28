@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003147|G7000 s100 .S7 sheet N-37-85",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-37-85 Болхов (Bolkhov, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-003147",
+  "solr_geom": "ENVELOPE(36.5,36,53.667,53.333)",
+  "solr_year_i": "1937",
+  "dc_description_s": "Modern area represented: Bolkhov, Russia; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003147\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1w9cDkiZnrRF-N2oxwPMUykuP5Ujr-v6d/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_spatial_sm": [
+    "Bolkhov, Russia",
+    "Russia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:39:08Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_issued_s": "1937",
+  "dct_temporal_sm": [
+    "1937-1941"
+  ]
+}

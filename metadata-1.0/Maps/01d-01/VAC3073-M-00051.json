@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "solr_year_i": "1969",
   "dc_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dc_description_s": "Shows number of daily passenger trains on Indiana railways in 1869 and 1969. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 75. Scale approximately 2,880,000",
   "dc_format_s": "JPEG",
@@ -20,7 +20,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:34Z",
+  "layer_modified_dt": "2023-02-03T21:24:14Z",
   "dc_language_sm": [
     "eng"
   ],

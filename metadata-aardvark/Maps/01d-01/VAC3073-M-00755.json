@@ -33,10 +33,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Crawford County, Indiana",
+    "Indiana--Crawford County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.6601,-86.2301,38.41,38.1)",
+  "locn_geometry": "POLYGON((-86.6601 38.41, -86.2301 38.41, -86.2301 38.1, -86.6601 38.1, -86.6601 38.41))",
   "dcat_bbox": "ENVELOPE(-86.6601,-86.2301,38.41,38.1)",
   "dcat_centroid": "38.254999999999995,-86.4451",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00755"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

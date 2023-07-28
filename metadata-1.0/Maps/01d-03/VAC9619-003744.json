@@ -9,12 +9,12 @@
   "solr_year_i": "1906",
   "dc_description_s": "Modern area represented: Гвардейское (Gvardeyskoye), Kaliningradskaya oblast, Russia; Scale =1:25,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003744\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/16H2KWcKXFwzfogLsWcq3HNfR9HkzcQK9/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003744\"}",
   "dct_spatial_sm": [
-    "Gvardeyskoye, Russia",
+    "Russia--Gvardeyskoye",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:28Z",
+  "layer_modified_dt": "2023-05-09T06:02:09Z",
   "dc_language_sm": [
     "rus"
   ],

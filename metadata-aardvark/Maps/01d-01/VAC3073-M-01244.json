@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Vincennes, Indiana"
+    "Indiana--Vincennes"
   ],
-  "locn_geometry": "ENVELOPE(-87.5301,-87.46,38.71,38.6301)",
+  "locn_geometry": "POLYGON((-87.5301 38.71, -87.46 38.71, -87.46 38.6301, -87.5301 38.6301, -87.5301 38.71))",
   "dcat_bbox": "ENVELOPE(-87.5301,-87.46,38.71,38.6301)",
   "dcat_centroid": "38.67005,-87.49504999999999",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-01244"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:15Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Magnusson, L. R.",
-    "Aretz, R."
+    "Aretz, R.",
+    "Magnusson, L. R."
   ],
   "dct_publisher_sm": [
     "Joint Highway Research Project, Purdue University"
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1938"
@@ -35,9 +36,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Lawrence County, Indiana"
+    "Indiana--Lawrence County"
   ],
-  "locn_geometry": "ENVELOPE(-86.68,-86.28,39,38.68)",
+  "locn_geometry": "POLYGON((-86.68 39, -86.28 39, -86.28 38.68, -86.68 38.68, -86.68 39))",
   "dcat_bbox": "ENVELOPE(-86.68,-86.28,39,38.68)",
   "dcat_centroid": "38.84,-86.48",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00932"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:54Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

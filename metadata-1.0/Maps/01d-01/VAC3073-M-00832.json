@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
   "solr_year_i": "1968",
   "dc_creator_sm": [
-    "Webb, William M.",
-    "Ault, Curtis H."
+    "Ault, Curtis H.",
+    "Webb, William M."
   ],
   "dc_description_s": "Includes generalized columnar section, 'Sectionized township,' and index of producers of clay and clay products. 'Base modified from U.S. Geological Survey, Base map of Indiana; 1950.' Scale 1:1,000,000. Compiled by Wiliam M. Webb, March 1967.",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:37Z",
+  "layer_modified_dt": "2023-02-03T21:20:34Z",
   "dc_language_sm": [
     "eng"
   ],

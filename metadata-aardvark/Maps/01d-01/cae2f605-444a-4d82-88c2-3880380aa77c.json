@@ -30,10 +30,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Washington County, Indiana",
+    "Indiana--Washington County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.3001,-85.8301,38.78,38.41)",
+  "locn_geometry": "POLYGON((-86.3001 38.78, -85.8301 38.78, -85.8301 38.41, -86.3001 38.41, -86.3001 38.78))",
   "dcat_bbox": "ENVELOPE(-86.3001,-85.8301,38.78,38.41)",
   "dcat_centroid": "38.595,-86.0651",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "cae2f605-444a-4d82-88c2-3880380aa77c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

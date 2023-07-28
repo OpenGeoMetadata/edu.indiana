@@ -34,10 +34,10 @@
     "[1910 TO 1933]"
   ],
   "dct_spatial_sm": [
-    "Sharhorod, Ukraine",
+    "Ukraine--Sharhorod",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(28.5,28,49,48.667)",
+  "locn_geometry": "POLYGON((28.5 49, 28 49, 28 48.667, 28.5 48.667, 28.5 49))",
   "dcat_bbox": "ENVELOPE(28.5,28,49,48.667)",
   "dcat_centroid": "48.8335,28.25",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003243\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1eXbG8jlG1VAmkShBED_fiZOoPN31kXP8/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003243\"}",
   "id": "VAC9619-003243",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003243",
     "G7000 s100 .S7 sheet M-35-117"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:11Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

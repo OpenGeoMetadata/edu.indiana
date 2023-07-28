@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.05,-85.66,41.76,41.43)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
-    "Jones,  Grove B., 1877-cartographer."
+    "Jones, Grove B., 1877- cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Field Operations Bureau of Soils 1914.; Snyder & Black, N.Y. Scale 1:63,360. 1 inch = 1 mile",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00299\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00299\"}",
   "dct_spatial_sm": [
-    "Elkhart County, Indiana",
+    "Indiana--Elkhart County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:18Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

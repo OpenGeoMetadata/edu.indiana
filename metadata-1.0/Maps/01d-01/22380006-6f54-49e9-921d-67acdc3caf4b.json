@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.1,-86.7,40.21,39.86)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
-    "Jones,  Grove B., 1877-cartographer."
+    "Jones, Grove B., 1877- cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Field Operations, Bureau of Soils, 1912.; A. Hoen & co. Lith. Baltimore, Md. Scale 1:63,360. 1 inch = 1 mile",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00353\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00353\"}",
   "dct_spatial_sm": [
-    "Montgomery County, Indiana",
+    "Indiana--Montgomery County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:37Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

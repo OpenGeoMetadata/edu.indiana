@@ -31,10 +31,10 @@
     "[1903 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Vidzy, Belarus",
+    "Belarus--Vidzy",
     "Belarus"
   ],
-  "locn_geometry": "ENVELOPE(26.75,26.5,55.5,55.3333)",
+  "locn_geometry": "POLYGON((26.75 55.5, 26.5 55.5, 26.5 55.3333, 26.75 55.3333, 26.75 55.5))",
   "dcat_bbox": "ENVELOPE(26.75,26.5,55.5,55.3333)",
   "dcat_centroid": "55.416650000000004,26.625",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000454\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1v0EJxKl5R7B8B8Op5c7TNE6lm1fk68vC\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000454\"}",
   "id": "VAC9619-000454",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000454",
     "G7000 s50 .S68 sheet N-35-18-C"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:30Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

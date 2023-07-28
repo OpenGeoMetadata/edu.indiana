@@ -9,12 +9,12 @@
   "solr_year_i": "1923",
   "dc_description_s": "Modern area represented: Holiaky, Cherkasy oblast, Ukraine; Scale =1:50,000; Секретно Для служебного пользования Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001023\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=16ivYn1q7J_YABL6h_TwzsD9VGIVLFCwZ\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001023\"}",
   "dct_spatial_sm": [
-    "Holiaky, Ukraine",
+    "Ukraine--Holiaky",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:57Z",
+  "layer_modified_dt": "2023-05-09T06:04:01Z",
   "dc_language_sm": [
     "rus"
   ],

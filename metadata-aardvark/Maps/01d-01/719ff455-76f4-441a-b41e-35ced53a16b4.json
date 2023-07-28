@@ -28,11 +28,11 @@
   "dct_spatial_sm": [
     "Indiana",
     "Kentucky",
-    "Henderson, Kentucky",
-    "Evansville, Indiana",
-    "Vanderburgh County, Indiana"
+    "Kentucky--Henderson",
+    "Indiana--Evansville",
+    "Indiana--Vanderburgh County"
   ],
-  "locn_geometry": "ENVELOPE(-87.63,-87.45,38.05,37.93)",
+  "locn_geometry": "POLYGON((-87.63 38.05, -87.45 38.05, -87.45 37.93, -87.63 37.93, -87.63 38.05))",
   "dcat_bbox": "ENVELOPE(-87.63,-87.45,38.05,37.93)",
   "dcat_centroid": "37.989999999999995,-87.53999999999999",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "719ff455-76f4-441a-b41e-35ced53a16b4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

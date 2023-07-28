@@ -11,12 +11,12 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00351\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00351\"}",
   "dct_spatial_sm": [
-    "Greene County, Indiana",
+    "Indiana--Greene County",
     "Indiana",
-    "Monroe County, Indiana",
-    "Owen County, Indiana"
+    "Indiana--Monroe County",
+    "Indiana--Owen County"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:13Z",
+  "layer_modified_dt": "2023-02-03T21:11:42Z",
   "dc_language_sm": [
     "eng"
   ],

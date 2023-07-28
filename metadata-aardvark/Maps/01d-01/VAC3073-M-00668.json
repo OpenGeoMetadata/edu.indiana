@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
     "Department of Geography, Indiana University"
@@ -22,7 +22,8 @@
     "Tourist maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -36,9 +37,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Lincoln Hills Resource Conservation and Development Project Area, Indiana"
+    "Indiana--Lincoln Hills Resource Conservation and Development Project Area"
   ],
-  "locn_geometry": "ENVELOPE(-88.1,-84.7601,39.53,37.76)",
+  "locn_geometry": "POLYGON((-88.1 39.53, -84.7601 39.53, -84.7601 37.76, -88.1 37.76, -88.1 39.53))",
   "dcat_bbox": "ENVELOPE(-88.1,-84.7601,39.53,37.76)",
   "dcat_centroid": "38.644999999999996,-86.43005",
   "pcdm_memberOf_sm": [
@@ -57,6 +58,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00668"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:52Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

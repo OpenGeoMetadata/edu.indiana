@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Kashira, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003101\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1yvi6zIZ_VbmjGBIIf9ja_bK-q6bKmhM7/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003101\"}",
   "dct_spatial_sm": [
-    "Kashira, Russia",
+    "Russia--Kashira",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:07Z",
+  "layer_modified_dt": "2023-05-09T06:03:46Z",
   "dc_language_sm": [
     "rus"
   ],

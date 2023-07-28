@@ -9,13 +9,13 @@
   "solr_year_i": "1893",
   "dc_description_s": "Modern area represented: Sudak, Republic of Crimea, Ukraine; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001965\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1GhztGrCrZpnhgPiIlhQl9-H8NXi_gHr3\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001965\"}",
   "dct_spatial_sm": [
-    "Sudak, Ukraine",
-    "Republic Of Crimea, Ukraine",
+    "Ukraine--Sudak",
+    "Ukraine--Republic Of Crimea",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:27Z",
+  "layer_modified_dt": "2023-05-09T06:04:25Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -21,7 +21,8 @@
     "Road maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -34,10 +35,10 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Indianapolis, Indiana",
+    "Indiana--Indianapolis",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.21,-86.0601,39.8101,39.7101)",
+  "locn_geometry": "POLYGON((-86.21 39.8101, -86.0601 39.8101, -86.0601 39.7101, -86.21 39.7101, -86.21 39.8101))",
   "dcat_bbox": "ENVELOPE(-86.21,-86.0601,39.8101,39.7101)",
   "dcat_centroid": "39.760099999999994,-86.13505",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00939\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00939\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00939\"}",
   "id": "VAC3073-M-00939",
   "dct_identifier_sm": [
     "VAC3073-M-00939"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Rakestraw,  O. F., cartographer."
+    "Rakestraw, O. F., cartographer."
   ],
   "dct_publisher_sm": [
     "O.F. Rakestraw?"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -29,10 +30,10 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Steuben County, Indiana",
+    "Indiana--Steuben County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.1801,-84.8,41.7501,41.51)",
+  "locn_geometry": "POLYGON((-85.1801 41.7501, -84.8 41.7501, -84.8 41.51, -85.1801 41.51, -85.1801 41.7501))",
   "dcat_bbox": "ENVELOPE(-85.1801,-84.8,41.7501,41.51)",
   "dcat_centroid": "41.63005,-84.99005",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "642fbb9a-cf98-4723-bb4f-439a17353739"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:52Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

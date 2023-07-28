@@ -37,9 +37,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Warren County, Indiana"
+    "Indiana--Warren County"
   ],
-  "locn_geometry": "ENVELOPE(-87.53,-87.1,40.46,40.11)",
+  "locn_geometry": "POLYGON((-87.53 40.46, -87.1 40.46, -87.1 40.11, -87.53 40.11, -87.53 40.46))",
   "dcat_bbox": "ENVELOPE(-87.53,-87.1,40.46,40.11)",
   "dcat_centroid": "40.285,-87.315",
   "pcdm_memberOf_sm": [
@@ -55,6 +55,6 @@
   "dct_identifier_sm": [
     "8f9c2377-620b-43e0-8459-7e40daeaee25"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

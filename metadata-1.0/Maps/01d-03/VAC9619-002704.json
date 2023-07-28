@@ -9,12 +9,12 @@
   "solr_year_i": "1912",
   "dc_description_s": "Modern area represented: Tagula, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002704\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1aFlAMSYRsLVIV08Eq_btvXIYorT0tYU_/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002704\"}",
   "dct_spatial_sm": [
-    "Tagula, Estonia",
+    "Estonia--Tagula",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:53Z",
+  "layer_modified_dt": "2023-05-09T06:02:21Z",
   "dc_language_sm": [
     "rus"
   ],

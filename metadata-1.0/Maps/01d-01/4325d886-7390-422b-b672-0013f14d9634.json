@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.68,-86.25,39.63,39.35)",
   "solr_year_i": "1937",
   "dc_creator_sm": [
-    "Ulrich,  H. P.(Herbert Paul), 1904-cartographer."
+    "Ulrich, H. P. (Herbert Paul), 1904-cartographer."
   ],
   "dc_description_s": "Shows soils types classification by colors and symbols.; Surveyed in 1937. Series 1937.; Lith. A. Hoen & Co., Inc. Scale 1:24,000; Polyconic projection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00635\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00635\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Morgan County, Indiana"
+    "Indiana--Morgan County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:53Z",
+  "layer_modified_dt": "2023-02-03T21:25:10Z",
   "dc_language_sm": [
     "eng"
   ],

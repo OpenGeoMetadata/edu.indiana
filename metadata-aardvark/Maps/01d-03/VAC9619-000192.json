@@ -34,10 +34,10 @@
     "[1931 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Tovstyi Lis, Ukraine",
+    "Ukraine--Tovstyi Lis",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(30,29.75,51.5,51.333)",
+  "locn_geometry": "POLYGON((30 51.5, 29.75 51.5, 29.75 51.333, 30 51.333, 30 51.5))",
   "dcat_bbox": "ENVELOPE(30,29.75,51.5,51.333)",
   "dcat_centroid": "51.4165,29.875",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000192\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1VNYar89ax3ofZHmK7pMkpnfLwmpdP3ro\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000192\"}",
   "id": "VAC9619-000192",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000192",
     "G7000 s50 .S68 sheet M-35-24-D"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:15Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

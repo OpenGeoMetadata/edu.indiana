@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
   "solr_year_i": "1932",
   "dc_creator_sm": [
-    "Switzer,  J. E.(Jesse Elmer), cartographer."
+    "Switzer, J. E.(Jesse Elmer), cartographer."
   ],
   "dc_description_s": "Relief shown by landform drawing.; For imprint date, see Kingsbury, Robert C. Atlas of Indiana, p. 88.; Reprint: date unknown. Scale approximately 1:850,000.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:19Z",
+  "layer_modified_dt": "2023-02-03T21:23:24Z",
   "dc_language_sm": [
     "eng"
   ],

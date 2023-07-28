@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "solr_year_i": "1969",
   "dc_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dc_description_s": "Shows state parks and state recreational areas, national and state memorials, state fish & game areas, and state fishing areas. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 83. Scale approximately 1:1,850,000",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:16Z",
+  "layer_modified_dt": "2023-02-03T21:25:53Z",
   "dc_language_sm": [
     "eng"
   ],

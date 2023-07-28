@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Ruza, Moscow oblast, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001988\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=183z014zc6Fo65VnpwC5QfH0wkSz1d_qH\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001988\"}",
   "dct_spatial_sm": [
-    "Ruza, Russia",
+    "Russia--Ruza",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:28Z",
+  "layer_modified_dt": "2023-05-09T06:04:04Z",
   "dc_language_sm": [
     "rus"
   ],

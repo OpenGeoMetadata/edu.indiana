@@ -34,9 +34,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Lawrence County, Indiana"
+    "Indiana--Lawrence County"
   ],
-  "locn_geometry": "ENVELOPE(-86.68,-86.26,38.98,38.68)",
+  "locn_geometry": "POLYGON((-86.68 38.98, -86.26 38.98, -86.26 38.68, -86.68 38.68, -86.68 38.98))",
   "dcat_bbox": "ENVELOPE(-86.68,-86.26,38.98,38.68)",
   "dcat_centroid": "38.83,-86.47",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00787"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:44Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

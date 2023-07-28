@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88,-84.75,41.75,37.86)",
   "solr_year_i": "1958",
   "dc_creator_sm": [
-    "Wayne,  William J.(William John), 1922-cartographer."
+    "Wayne, William J.(William John), 1922-cartographer."
   ],
   "dc_description_s": "Base modified from U.S. Geological Survey Base map of Indiana, 1953.; Reprinted with minor modifications, 1963. Scale 1:1,000,000",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:11Z",
+  "layer_modified_dt": "2023-02-03T21:19:10Z",
   "dc_language_sm": [
     "eng"
   ],

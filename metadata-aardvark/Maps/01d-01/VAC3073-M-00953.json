@@ -33,10 +33,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Vigo County, Indiana",
+    "Indiana--Vigo County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.61,-87.1801,39.6,39.25)",
+  "locn_geometry": "POLYGON((-87.61 39.6, -87.1801 39.6, -87.1801 39.25, -87.61 39.25, -87.61 39.6))",
   "dcat_bbox": "ENVELOPE(-87.61,-87.1801,39.6,39.25)",
   "dcat_centroid": "39.425,-87.39505",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00953"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,18 +8,18 @@
   "solr_geom": "ENVELOPE(-86.9101,-86.8001,41.75,41.6501)",
   "solr_year_i": "1834",
   "dc_creator_sm": [
-    "Berrien,  John Macpherson, -1876, cartographer."
+    "Berrien, John Macpherson, -1876, cartographer."
   ],
   "dc_description_s": "Relief shown by hachures.; Profile: Section of the proposed breakwater.; Probably detached from a document in the congressional series, doc. 194. Scale approximately 1:1,520,640. 24 inches to 1 mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00024\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00024\"}",
   "dct_spatial_sm": [
-    "Trail Creek, Indiana",
-    "Michigan City, Indiana",
+    "Indiana--Trail Creek",
+    "Indiana--Michigan City",
     "Indiana",
-    "LaPorte County, Indiana"
+    "Indiana--LaPorte County"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:39Z",
+  "layer_modified_dt": "2023-02-03T21:26:00Z",
   "dc_language_sm": [
     "eng"
   ],

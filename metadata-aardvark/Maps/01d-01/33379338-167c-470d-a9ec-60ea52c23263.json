@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Patton,  John B.(John Barratt), 1915-cartographer."
+    "Patton, John B. (John Barratt), 1915-"
   ],
   "dct_publisher_sm": [
     "Indiana Geological Survey"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Geological",
     "Geology",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1956"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88,-84.75,41.75,37.86)",
+  "locn_geometry": "POLYGON((-88 41.75, -84.75 41.75, -84.75 37.86, -88 37.86, -88 41.75))",
   "dcat_bbox": "ENVELOPE(-88,-84.75,41.75,37.86)",
   "dcat_centroid": "39.805,-86.375",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "33379338-167c-470d-a9ec-60ea52c23263"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

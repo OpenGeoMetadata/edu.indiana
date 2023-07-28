@@ -34,10 +34,10 @@
     "[1869 TO 1942]"
   ],
   "dct_spatial_sm": [
-    "Vasylivka, Ukraine",
+    "Ukraine--Vasylivka",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(35,34.75,49.6667,49.5)",
+  "locn_geometry": "POLYGON((35 49.6667, 34.75 49.6667, 34.75 49.5, 35 49.5, 35 49.6667))",
   "dcat_bbox": "ENVELOPE(35,34.75,49.6667,49.5)",
   "dcat_centroid": "49.583349999999996,34.875",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001044\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1W7uOMqKUHwgUsb7sStd_JpaF9SVyJ-oR\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001044\"}",
   "id": "VAC9619-001044",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001044",
     "G7000 s50 .S68 sheet M-36-94-B"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:57Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

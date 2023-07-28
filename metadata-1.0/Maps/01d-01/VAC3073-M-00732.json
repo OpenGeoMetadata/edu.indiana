@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.7,-86.33,39.93,39.6)",
   "solr_year_i": "1913",
   "dc_creator_sm": [
-    "Tharp, W. E. (William Edgar)",
-    "Quinn, E. J. (Edward J.)"
+    "Quinn, E. J. (Edward J.)",
+    "Tharp, W. E. (William Edgar)"
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1913.' 'A Hoen & Co Lith Baltimore Md.' Scale 1:63,360. 1 inch = 1 mile. U.S. Department of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by W.E. Tharp of the U.S. Department of Agriculture and E.J. Quinn of the Indiana Department of Geology.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00732\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00732\"}",
   "dct_spatial_sm": [
-    "Hendricks County, Indiana",
+    "Indiana--Hendricks County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:00Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

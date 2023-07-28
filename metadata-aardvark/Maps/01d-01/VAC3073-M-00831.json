@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "White, Frank W.,C.E."
+    "White, Frank W., C.E."
   ],
   "dct_publisher_sm": [
     "DeWolf, White & Company"
@@ -20,7 +20,8 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -33,10 +34,10 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Marion, Indiana",
+    "Indiana--Marion",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.7101,-85.53,40.58,40.4601)",
+  "locn_geometry": "POLYGON((-85.7101 40.58, -85.53 40.58, -85.53 40.4601, -85.7101 40.4601, -85.7101 40.58))",
   "dcat_bbox": "ENVELOPE(-85.7101,-85.53,40.58,40.4601)",
   "dcat_centroid": "40.52005,-85.62004999999999",
   "pcdm_memberOf_sm": [
@@ -47,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00831\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00831\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00831\"}",
   "id": "VAC3073-M-00831",
   "dct_identifier_sm": [
     "VAC3073-M-00831"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

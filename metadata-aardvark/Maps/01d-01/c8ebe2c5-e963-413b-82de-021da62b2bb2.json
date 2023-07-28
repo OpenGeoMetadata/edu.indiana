@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Pulaski County, Indiana",
+    "Indiana--Pulaski County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.93,-86.46,41.16,40.91)",
+  "locn_geometry": "POLYGON((-86.93 41.16, -86.46 41.16, -86.46 40.91, -86.93 40.91, -86.93 41.16))",
   "dcat_bbox": "ENVELOPE(-86.93,-86.46,41.16,40.91)",
   "dcat_centroid": "41.035,-86.695",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "c8ebe2c5-e963-413b-82de-021da62b2bb2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

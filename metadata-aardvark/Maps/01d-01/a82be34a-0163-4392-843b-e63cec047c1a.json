@@ -32,9 +32,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Kendallville, Indiana"
+    "Indiana--Kendallville"
   ],
-  "locn_geometry": "ENVELOPE(-85.3,-85.1801,41.46,41.41)",
+  "locn_geometry": "POLYGON((-85.3 41.46, -85.1801 41.46, -85.1801 41.41, -85.3 41.41, -85.3 41.46))",
   "dcat_bbox": "ENVELOPE(-85.3,-85.1801,41.46,41.41)",
   "dcat_centroid": "41.435,-85.24005",
   "pcdm_memberOf_sm": [
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "a82be34a-0163-4392-843b-e63cec047c1a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

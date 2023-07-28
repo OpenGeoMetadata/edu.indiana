@@ -35,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Franklin County, Indiana"
+    "Indiana--Franklin County"
   ],
-  "locn_geometry": "ENVELOPE(-85.2801,-84.8001,39.5101,39.26)",
+  "locn_geometry": "POLYGON((-85.2801 39.5101, -84.8001 39.5101, -84.8001 39.26, -85.2801 39.26, -85.2801 39.5101))",
   "dcat_bbox": "ENVELOPE(-85.2801,-84.8001,39.5101,39.26)",
   "dcat_centroid": "39.38505,-85.0401",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00176\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00176\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00176\"}",
   "id": "VAC3073-M-00176",
   "dct_identifier_sm": [
     "VAC3073-M-00176"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

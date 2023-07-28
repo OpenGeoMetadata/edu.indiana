@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Klichaw, Mogilev oblast, Belarus; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004095\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Xqnsx5AxA4hx6xoII0zZ4kNVZrEVLA3P/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004095\"}",
   "dct_spatial_sm": [
-    "Klichaw, Belarus",
+    "Belarus--Klichaw",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:40Z",
+  "layer_modified_dt": "2023-05-09T06:03:42Z",
   "dc_language_sm": [
     "rus"
   ],

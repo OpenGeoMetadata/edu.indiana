@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-87.05,-85.85,39.26,37.88)",
   "solr_year_i": "1965",
   "dc_creator_sm": [
-    "Kingsbury, Robert C.,author."
+    "author.",
+    "Kingsbury, Robert C."
   ],
   "dc_description_s": "Shows recreation areas. Scale approximately 1:370,000. Robt. C. Kingsbury.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00930\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00930\"}",
   "dct_spatial_sm": [
-    "Hoosier National Forest, Indiana",
+    "Indiana--Hoosier National Forest",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:20Z",
+  "layer_modified_dt": "2023-02-03T21:19:33Z",
   "dc_language_sm": [
     "eng"
   ],

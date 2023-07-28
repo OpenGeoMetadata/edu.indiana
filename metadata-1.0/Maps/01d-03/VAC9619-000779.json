@@ -9,12 +9,12 @@
   "solr_year_i": "1887",
   "dc_description_s": "Modern area represented: Mount Elbrus, Kabardino-Balkariya Republic, Russia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000779\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1uvQ6jHUyvIoUP4Kx8w2Gk5OM3HIpqFa6\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000779\"}",
   "dct_spatial_sm": [
-    "Mount Elbrus, Russia",
+    "Russia--Mount Elbrus",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:47Z",
+  "layer_modified_dt": "2023-05-09T06:05:08Z",
   "dc_language_sm": [
     "rus"
   ],

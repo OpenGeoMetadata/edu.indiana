@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.53,-87.01,38.23,37.86)",
   "solr_year_i": "1909",
   "dc_creator_sm": [
-    "Wilke,  John H., cartographer."
+    "Wilke, John H."
   ],
   "dc_description_s": "Cadastral map showing landowners.; Based on public and private surveys and records, etc.; Blue line print.; Entered according to Act of Congress, May 10, 1909 by John H. Wilke, in the office of The Librarian of Congress at Washington, D.C. Scale 1:31,680. 2 inches to 1 mile",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00157\"}",
   "dct_spatial_sm": [
-    "Warrick County, Indiana",
+    "Indiana--Warrick County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:01Z",
+  "layer_modified_dt": "2023-02-03T21:21:46Z",
   "dc_language_sm": [
     "eng"
   ],

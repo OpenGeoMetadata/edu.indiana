@@ -9,12 +9,12 @@
   "solr_year_i": "1933",
   "dc_description_s": "Modern area represented: Bytcha, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000595\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1zJJGBs43YMC5zk33tTqzNobSfacRKfJH\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000595\"}",
   "dct_spatial_sm": [
-    "Bytcha, Belarus",
+    "Belarus--Bytcha",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:37Z",
+  "layer_modified_dt": "2023-05-09T06:05:23Z",
   "dc_language_sm": [
     "rus"
   ],

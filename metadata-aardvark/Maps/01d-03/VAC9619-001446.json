@@ -34,10 +34,10 @@
     "[1928 TO 1928]"
   ],
   "dct_spatial_sm": [
-    "Kastsyukovichy, Belarus",
+    "Belarus--Kastsyukovichy",
     "Belarus"
   ],
-  "locn_geometry": "ENVELOPE(32.25,32,53.5,53.3333)",
+  "locn_geometry": "POLYGON((32.25 53.5, 32 53.5, 32 53.3333, 32.25 53.3333, 32.25 53.5))",
   "dcat_bbox": "ENVELOPE(32.25,32,53.5,53.3333)",
   "dcat_centroid": "53.416650000000004,32.125",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001446\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1y8M7TZKXw9-_Pt3C7uf1Khy5hyq_A2T7\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001446\"}",
   "id": "VAC9619-001446",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001446",
     "GM G7000 S50 .S68 N-36-89-В"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:10Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

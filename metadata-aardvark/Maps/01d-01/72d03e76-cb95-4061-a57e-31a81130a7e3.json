@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "White County, Indiana"
+    "Indiana--White County"
   ],
-  "locn_geometry": "ENVELOPE(-87.26,-86.58,44.0801,40.56)",
+  "locn_geometry": "POLYGON((-87.26 44.0801, -86.58 44.0801, -86.58 40.56, -87.26 40.56, -87.26 44.0801))",
   "dcat_bbox": "ENVELOPE(-87.26,-86.58,44.0801,40.56)",
   "dcat_centroid": "42.32005,-86.92",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "72d03e76-cb95-4061-a57e-31a81130a7e3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:53Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

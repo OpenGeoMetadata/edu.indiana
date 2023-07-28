@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-86,-84.8,41.68,41.06)",
   "solr_year_i": "1947",
   "dc_creator_sm": [
-    "Mortorff,  H. H., cartographer."
+    "Mortorff, H. H., cartographer."
   ],
   "dc_description_s": "Blue line. Scale approximately 1:200,000.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:59Z",
+  "layer_modified_dt": "2023-02-03T21:24:45Z",
   "dc_language_sm": [
     "eng"
   ],

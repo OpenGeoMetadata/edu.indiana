@@ -30,11 +30,11 @@
     "[1931 TO 1931]"
   ],
   "dct_spatial_sm": [
-    "Indianapolis, Indiana",
+    "Indiana--Indianapolis",
     "Indiana",
-    "Marion County, Indiana"
+    "Indiana--Marion County"
   ],
-  "locn_geometry": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
+  "locn_geometry": "POLYGON((-86.33 39.93, -85.95 39.93, -85.95 39.63, -86.33 39.63, -86.33 39.93))",
   "dcat_bbox": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
   "dcat_centroid": "39.78,-86.14",
   "pcdm_memberOf_sm": [
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00987"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "solr_year_i": "1964",
   "dc_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dc_description_s": "Includes ancillary map Sweet corn acreage, 1964. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 65. Scale approximately 1:2,534,400",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:32Z",
+  "layer_modified_dt": "2023-02-03T21:23:52Z",
   "dc_language_sm": [
     "eng"
   ],

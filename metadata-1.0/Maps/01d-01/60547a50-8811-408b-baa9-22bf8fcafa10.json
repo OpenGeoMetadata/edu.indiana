@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.68,-80.33,42,37.9)",
   "solr_year_i": "1870",
   "dc_creator_sm": [
-    "Gamble,  W. H.(William H.), cartographer."
+    "Gamble, W. H.(William H.), cartographer."
   ],
   "dc_description_s": "Prime meridian: top of map is from Greenwich, bottom of map is from Washington.; Hand painted. Scale 1:1,800,000.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00598\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00598\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "State of Ohio, Ohio"
+    "Ohio--State of Ohio"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:58Z",
+  "layer_modified_dt": "2023-02-03T21:17:53Z",
   "dc_language_sm": [
     "eng"
   ],

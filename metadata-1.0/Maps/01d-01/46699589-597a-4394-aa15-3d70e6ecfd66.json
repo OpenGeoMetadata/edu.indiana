@@ -5,17 +5,17 @@
   "dc_title_s": "McCormick's Creek State Park",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "46699589-597a-4394-aa15-3d70e6ecfd66",
-  "solr_geom": "ENVELOPE(-86.7101,-86.71,39.28011,39.2801)",
+  "solr_geom": "ENVELOPE(-86.749115,-86.698029,39.312651,39.2813)",
   "solr_year_i": "1929",
   "dc_description_s": "Caption title.; Includes Description of Trails.; Text on verso and right side of map. Scale approximately 1:7,900.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00375\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00375\"}",
   "dct_spatial_sm": [
-    "McCormick's Creek State Park, Indiana",
+    "Indiana--McCormick's Creek State Park",
     "Indiana",
-    "Owen County, Indiana"
+    "Indiana--Owen County"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:40Z",
+  "layer_modified_dt": "2023-06-23T18:47:33Z",
   "dc_language_sm": [
     "eng"
   ],

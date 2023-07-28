@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.11,-85.86,40.11,39.06)",
   "solr_year_i": "1901",
   "dc_creator_sm": [
-    "Newsom, John F. (John Flesher),1869-1928"
+    "Newsom, John F. (John Flesher), 1869-1928"
   ],
   "dc_description_s": "From the 26th Annual report of the Department of Geology and Natural Resources of Indiana, 1901. 'Plate IV.' Scale 1:190,080. 3 miles = 1 in. By J.F. Newsom, director, and assistants.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00779\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00779\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00779\"}",
   "dct_spatial_sm": [
     "Indiana",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:02Z",
+  "layer_modified_dt": "2023-02-03T21:19:00Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Angola, Indiana"
+    "Indiana--Angola"
   ],
-  "locn_geometry": "ENVELOPE(-85.03,-84.96,41.6601,41.61)",
+  "locn_geometry": "POLYGON((-85.03 41.6601, -84.96 41.6601, -84.96 41.61, -85.03 41.61, -85.03 41.6601))",
   "dcat_bbox": "ENVELOPE(-85.03,-84.96,41.6601,41.61)",
   "dcat_centroid": "41.63505,-84.995",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "0dd569b5-cb64-4a9e-8ae1-e95a3382ec42"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

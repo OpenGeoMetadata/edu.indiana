@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jones, Grove B.,1877-cartographer.",
-    "Brill, J. Bayard"
+    "Brill, J. Bayard",
+    "Jones, Grove B., 1877- cartographer."
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1916"
@@ -35,9 +36,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Benton County, Indiana"
+    "Indiana--Benton County"
   ],
-  "locn_geometry": "ENVELOPE(-87.53,-87.1,40.73,40.46)",
+  "locn_geometry": "POLYGON((-87.53 40.73, -87.1 40.73, -87.1 40.46, -87.53 40.46, -87.53 40.73))",
   "dcat_bbox": "ENVELOPE(-87.53,-87.1,40.73,40.46)",
   "dcat_centroid": "40.595,-87.315",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00718"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:04Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

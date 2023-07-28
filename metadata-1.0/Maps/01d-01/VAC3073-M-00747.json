@@ -8,23 +8,23 @@
   "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
   "solr_year_i": "1838",
   "dc_creator_sm": [
-    "King, S. D.",
-    "Colton, J. H. (Joseph Hutchins),1800-1893"
+    "Colton, J. H. (Joseph Hutchins), 1800-1893",
+    "King, S. D."
   ],
   "dc_description_s": "Insets: Michigan City--La Fayette--Logansport & West Logan--Terre Haute--Indianapolis--New Albany, Jeffersonville, Louisville and the Falls of Ohio--Evansville and Lamasco City--Lawrenceburgh--Madison. Inset scales vary. Prime meridian: Washington D.C. Scale 1:316,800. By S.D. King; exhibiting the sections & fractional sections, the situation and boundaries of counties, the location of cities, villages & post offices, canals, rail-roads and other internal improvements.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00747\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00747\"}",
   "dct_spatial_sm": [
-    "Lafayette, Indiana",
-    "Terre Haute, Indiana",
-    "Indianapolis, Indiana",
-    "Logansport, Indiana",
+    "Indiana--Lafayette",
+    "Indiana--Terre Haute",
+    "Indiana--Indianapolis",
+    "Indiana--Logansport",
     "Indiana",
-    "Michigan City, Indiana",
+    "Indiana--Michigan City",
     "Indiana",
-    "New Albany, Indiana"
+    "Indiana—New Albany"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:36Z",
+  "layer_modified_dt": "2023-02-03T21:21:38Z",
   "dc_language_sm": [
     "eng"
   ],

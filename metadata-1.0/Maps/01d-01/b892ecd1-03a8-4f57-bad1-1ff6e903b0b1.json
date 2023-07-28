@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.86,-85.45,40.65,40.38)",
   "solr_year_i": "1920",
   "dc_creator_sm": [
-    "White,  Frank W., cartographer."
+    "White, Frank W., C.E."
   ],
   "dc_description_s": "Cadastral map showing landowners.; Compiled and made from county records and surveys. Scale 1:31,680. 2 inches = 1 mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074286/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00190\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Grant County, Indiana"
+    "Indiana--Grant County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:09Z",
+  "layer_modified_dt": "2023-02-03T21:25:08Z",
   "dc_language_sm": [
     "eng"
   ],

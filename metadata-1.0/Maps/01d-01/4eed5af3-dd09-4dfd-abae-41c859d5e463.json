@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.06,-84.78,40.95,40.56)",
   "solr_year_i": "1921",
   "dc_creator_sm": [
-    "Jones,  Grove B., 1877-cartographer."
+    "Jones, Grove B., 1877- cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Relief shown by contours and hachures.; Soils surveyed by Grove B. Jones, Mark Baldwin, S.C. Jones, Thomas Jabine and T.M. Bushnell.; Field operations Bureau of Soils 1921. Scale 1:63,360. 1 inch=1 mile",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00111\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00111\"}",
   "dct_spatial_sm": [
-    "Adams County, Indiana",
+    "Indiana--Adams County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:46Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

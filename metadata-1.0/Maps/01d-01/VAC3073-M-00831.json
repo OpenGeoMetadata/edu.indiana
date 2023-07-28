@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.7101,-85.53,40.58,40.4601)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
-    "White, Frank W.,C.E."
+    "White, Frank W., C.E."
   ],
   "dc_description_s": "Partial cadastral map showing landowners. Shows radial distances. Includes indexes. Scale not given. Compiled and made by F.W. White, C.E.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00831\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00831\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00831\"}",
   "dct_spatial_sm": [
-    "Marion, Indiana",
+    "Indiana--Marion",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:57Z",
+  "layer_modified_dt": "2023-02-03T21:26:51Z",
   "dc_language_sm": [
     "eng"
   ],

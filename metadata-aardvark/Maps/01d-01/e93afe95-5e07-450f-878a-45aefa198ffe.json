@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Prout,  Joseph E., cartographer."
+    "Prout, Joseph E., cartographer."
   ],
   "dct_publisher_sm": [
     "County Surveyor"
@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Roads",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1968?"
@@ -34,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Marion County, Indiana"
+    "Indiana--Marion County"
   ],
-  "locn_geometry": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
+  "locn_geometry": "POLYGON((-86.33 39.93, -85.95 39.93, -85.95 39.63, -86.33 39.63, -86.33 39.93))",
   "dcat_bbox": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
   "dcat_centroid": "39.78,-86.14",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "e93afe95-5e07-450f-878a-45aefa198ffe"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

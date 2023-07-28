@@ -34,10 +34,10 @@
     "[1928 TO 1942]"
   ],
   "dct_spatial_sm": [
-    "Zhitkur, Russia",
+    "Russia--Zhitkur",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(46.5,46,49,48.667)",
+  "locn_geometry": "POLYGON((46.5 49, 46 49, 46 48.667, 46.5 48.667, 46.5 49))",
   "dcat_bbox": "ENVELOPE(46.5,46,49,48.667)",
   "dcat_centroid": "48.8335,46.25",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003432\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/10XXUwJCtHnwqXdw2f29tipW879A-nsOm/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003432\"}",
   "id": "VAC9619-003432",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003432",
     "G7000 s100 .S7 sheet M-38-117"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:18Z",
+  "gbl_mdModified_dt": "2023-05-09T06:01:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

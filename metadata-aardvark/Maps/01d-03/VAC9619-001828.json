@@ -31,10 +31,10 @@
     "[1898 TO 1898]"
   ],
   "dct_spatial_sm": [
-    "Voose, Estonia",
+    "Estonia--Voose",
     "Estonia"
   ],
-  "locn_geometry": "ENVELOPE(25.5,25.25,59.333,59.167)",
+  "locn_geometry": "POLYGON((25.5 59.333, 25.25 59.333, 25.25 59.167, 25.5 59.167, 25.5 59.333))",
   "dcat_bbox": "ENVELOPE(25.5,25.25,59.333,59.167)",
   "dcat_centroid": "59.25,25.375",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001828\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1byduN1tEkaSDwJ5eymLzYhJPLJ3Doe08\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001828\"}",
   "id": "VAC9619-001828",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001828",
     "G7000 s50 .S68 sheet O-35-27-Б"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:22Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

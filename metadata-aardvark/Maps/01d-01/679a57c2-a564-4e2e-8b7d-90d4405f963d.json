@@ -26,10 +26,10 @@
     "[1878 TO 1878]"
   ],
   "dct_spatial_sm": [
-    "Elkhart County, Indiana",
+    "Indiana--Elkhart County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.88,-85.76,41.6,41.51)",
+  "locn_geometry": "POLYGON((-85.88 41.6, -85.76 41.6, -85.76 41.51, -85.88 41.51, -85.88 41.6))",
   "dcat_bbox": "ENVELOPE(-85.88,-85.76,41.6,41.51)",
   "dcat_centroid": "41.555,-85.82",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "679a57c2-a564-4e2e-8b7d-90d4405f963d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

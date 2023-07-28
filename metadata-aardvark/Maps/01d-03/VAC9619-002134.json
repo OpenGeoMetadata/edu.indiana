@@ -34,10 +34,10 @@
     "[1939 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Rudnaya Gorka, Russia",
+    "Russia--Rudnaya Gorka",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(34,33.5,59.3333,59)",
+  "locn_geometry": "POLYGON((34 59.3333, 33.5 59.3333, 33.5 59, 34 59, 34 59.3333))",
   "dcat_bbox": "ENVELOPE(34,33.5,59.3333,59)",
   "dcat_centroid": "59.166650000000004,33.75",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002134\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1ztRyZLG4SS0GSaHJ-aT2waPEKcYJAYyG\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002134\"}",
   "id": "VAC9619-002134",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002134",
     "G7000 s100 .S7 sheet O-36-32"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:33Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

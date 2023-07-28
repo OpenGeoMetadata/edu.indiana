@@ -9,13 +9,13 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Темнолесская (Temnolesskaya), Stavropol' Krai, Russia; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002197\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=12GKDLC24aDpcdVy38uDunyZQMCy4W3D6\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002197\"}",
   "dct_spatial_sm": [
-    "Temnolesskaya, Russia",
-    "Stavropol' Krai, Russia",
+    "Russia--Temnolesskaya",
+    "Russia--Stavropol' Krai",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:35Z",
+  "layer_modified_dt": "2023-05-09T06:03:55Z",
   "dc_language_sm": [
     "rus"
   ],

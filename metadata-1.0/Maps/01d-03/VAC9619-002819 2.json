@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002819|GM G7000 s50 .S68 sheet O-35-86-B",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-35-86-Б Умурга (Umurga, Latvia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002819",
+  "solr_geom": "ENVELOPE(25,24.75,57.6667,57.5)",
+  "solr_year_i": "1906",
+  "dc_description_s": "Modern area represented: Umurga, Latvia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002819\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1ijNkn-SM795TVkxSPXzcBD3a4DxDEK5D/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_spatial_sm": [
+    "Umurga, Latvia",
+    "Latvia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:38:57Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906-1931"
+  ]
+}

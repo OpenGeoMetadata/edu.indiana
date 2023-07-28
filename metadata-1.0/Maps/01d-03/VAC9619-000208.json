@@ -9,12 +9,12 @@
   "solr_year_i": "1909",
   "dc_description_s": "Modern area represented: Nemovychi, Rivne oblast, Ukraine; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000208\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1KaamVMXpegsYMODPHL4Wz_RJrn09Nu0T\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000208\"}",
   "dct_spatial_sm": [
-    "Nemovychi, Ukraine",
+    "Ukraine--Nemovychi",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:16Z",
+  "layer_modified_dt": "2023-05-09T06:04:36Z",
   "dc_language_sm": [
     "rus"
   ],

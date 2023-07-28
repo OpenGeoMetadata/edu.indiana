@@ -34,10 +34,10 @@
     "[1936 TO 1936]"
   ],
   "dct_spatial_sm": [
-    "Prishibinskoye, Azerbaijan",
+    "Azerbaijan--Prishibinskoye",
     "Azerbaijan"
   ],
-  "locn_geometry": "ENVELOPE(49,48.5,39.3333,39)",
+  "locn_geometry": "POLYGON((49 39.3333, 48.5 39.3333, 48.5 39, 49 39, 49 39.3333))",
   "dcat_bbox": "ENVELOPE(49,48.5,39.3333,39)",
   "dcat_centroid": "39.166650000000004,48.75",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000736\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1IhJty8U_-2MfnSOJXZcZ-9fN7_Wm73mV\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000736\"}",
   "id": "VAC9619-000736",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000736",
     "G7000 s100 .S7 sheet J-39-26"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:45Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

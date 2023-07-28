@@ -7,10 +7,10 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Powell, Richard L.",
     "Frushour, Samuel S.",
     "Harper, Denver",
-    "Kersey, Rea Williams"
+    "Kersey, Rea Williams",
+    "Powell, Richard L."
   ],
   "dct_publisher_sm": [
     "Indiana Geological Survey"
@@ -23,7 +23,8 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1997"
@@ -38,7 +39,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.8101,-84.96,39.45,38.66)",
+  "locn_geometry": "POLYGON((-85.8101 39.45, -84.96 39.45, -84.96 38.66, -85.8101 38.66, -85.8101 39.45))",
   "dcat_bbox": "ENVELOPE(-85.8101,-84.96,39.45,38.66)",
   "dcat_centroid": "39.055,-85.38505",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00789"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:56Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

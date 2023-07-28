@@ -9,12 +9,12 @@
   "solr_year_i": "1911",
   "dc_description_s": "Modern area represented: Головкино (Golovkino), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003671\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1AmzMH5QdUhv_5_ZfM5R8QW2A0J9xhf0k/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003671\"}",
   "dct_spatial_sm": [
-    "Golovkino, Russia",
+    "Russia--Golovkino",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:26Z",
+  "layer_modified_dt": "2023-05-09T06:02:22Z",
   "dc_language_sm": [
     "rus"
   ],

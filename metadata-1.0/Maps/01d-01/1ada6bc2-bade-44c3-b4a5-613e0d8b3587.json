@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.75,-86.6801,41.61,41.5801)",
   "solr_year_i": "1936",
   "dc_creator_sm": [
-    "Kelley,  John A., C.E., cartographer."
+    "Kelley, John A., C.E., cartographer."
   ],
   "dc_description_s": "Compliments, John A. Kelley, Democratic candidate for Surveyor. Scale not given.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00097\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00097\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "LaPorte, Indiana"
+    "Indiana--LaPorte"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:23Z",
+  "layer_modified_dt": "2023-02-03T21:26:41Z",
   "dc_language_sm": [
     "eng"
   ],

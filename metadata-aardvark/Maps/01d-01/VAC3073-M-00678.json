@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Newsom, John F. (John Flesher),1869-1928"
+    "Newsom, John F. (John Flesher), 1869-1928"
   ],
   "dct_publisher_sm": [
     "Indiana Department of Geology and Natural Resources",
@@ -25,7 +25,10 @@
   "dcat_keyword_sm": [
     "Geological cross-sections",
     "Strip maps",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint",
+    "BBoxVerified",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -41,7 +44,7 @@
     "Indiana",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.6001,-85.3301,38.73,38.61)",
+  "locn_geometry": "POLYGON((-87.6001 38.73, -85.3301 38.73, -85.3301 38.61, -87.6001 38.61, -87.6001 38.73))",
   "dcat_bbox": "ENVELOPE(-87.6001,-85.3301,38.73,38.61)",
   "dcat_centroid": "38.67,-86.4651",
   "pcdm_memberOf_sm": [
@@ -52,11 +55,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00678\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00678\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00678\"}",
   "id": "VAC3073-M-00678",
   "dct_identifier_sm": [
     "VAC3073-M-00678"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:30Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

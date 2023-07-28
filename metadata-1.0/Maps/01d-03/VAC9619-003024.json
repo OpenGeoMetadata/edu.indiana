@@ -9,12 +9,12 @@
   "solr_year_i": "1896",
   "dc_description_s": "Modern area represented: Nowy Targ, Lesser Poland province, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003024\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1NM3VAY3MwoT9-lV_vRJeg2SH0a5I8xDO/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003024\"}",
   "dct_spatial_sm": [
-    "Nowy Targ, Poland",
+    "Poland--Nowy Targ",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:04Z",
+  "layer_modified_dt": "2023-05-09T06:03:11Z",
   "dc_language_sm": [
     "rus"
   ],

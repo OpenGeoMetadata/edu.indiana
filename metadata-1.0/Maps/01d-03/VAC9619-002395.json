@@ -9,12 +9,12 @@
   "solr_year_i": "1885",
   "dc_description_s": "Modern area represented: Выборг (Vyborg), Leningradskaya oblast, Russia; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002395\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1eAU06Lfudrp53eJHHltw9Uur1pzbv5OI/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002395\"}",
   "dct_spatial_sm": [
-    "Vyborg, Russia, Russia",
+    "Russia-- Russia--Vyborg",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:42Z",
+  "layer_modified_dt": "2023-05-09T06:02:37Z",
   "dc_language_sm": [
     "rus"
   ],

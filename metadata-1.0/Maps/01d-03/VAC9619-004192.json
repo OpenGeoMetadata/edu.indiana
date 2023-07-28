@@ -9,12 +9,12 @@
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Pochinok, Smolensk oblast, Russia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004192\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/11NdY04zUeLr81sP6I7Tkp4FSeQRw8LcN/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004192\"}",
   "dct_spatial_sm": [
-    "Pochinok, Russia",
+    "Russia--Pochinok",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:44Z",
+  "layer_modified_dt": "2023-05-09T06:01:58Z",
   "dc_language_sm": [
     "rus"
   ],

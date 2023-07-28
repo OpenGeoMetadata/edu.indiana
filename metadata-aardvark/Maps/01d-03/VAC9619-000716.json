@@ -34,10 +34,10 @@
     "[1936 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Pahost 1, Belarus",
+    "Belarus--Pahost 1",
     "Belarus"
   ],
-  "locn_geometry": "ENVELOPE(27.75,27.5,53,52.833)",
+  "locn_geometry": "POLYGON((27.75 53, 27.5 53, 27.5 52.833, 27.75 52.833, 27.75 53))",
   "dcat_bbox": "ENVELOPE(27.75,27.5,53,52.833)",
   "dcat_centroid": "52.9165,27.625",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000716\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1mZfq2cv5aLChl-sxIC1Y0n5osEvbEkNy\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000716\"}",
   "id": "VAC9619-000716",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000716",
     "GM G7000 s50 .S68 sheet N-35-116-A"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:44Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

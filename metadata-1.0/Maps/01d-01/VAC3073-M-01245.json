@@ -8,10 +8,10 @@
   "solr_geom": "ENVELOPE(-86,-84,40,39)",
   "solr_year_i": "1972",
   "dc_creator_sm": [
+    "Forsyth, Jane L. (Jane Louise), 1921-",
+    "Gooding, Ansel Miller",
     "Gray, Henry Hamilton,1922-cartographer.",
-    "Forsyth, Jane L. (Jane Louise),1921-cartographer.",
-    "Schneider, Allan F. (Allan Frank),1926-cartographer.",
-    "Gooding, Ansel Miller"
+    "Schneider, Allan F. (Allan Frank),1926-cartographer."
   ],
   "dc_description_s": "Base map modified from Army Map Service, Map NJ 16-3, 1964.' Includes text, cross section, columnar section, diagram, schematic section, ancillary map, and index map. Scale 1:250,000; Transverse Mercator projection By Henry H. Gray, Jane L. Forsyth, Allan F. Schneider, and Ansel M. Gooding.",
   "dc_format_s": "JPEG",
@@ -22,7 +22,7 @@
     "Ohio",
     "Ohio"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:53Z",
+  "layer_modified_dt": "2023-02-03T21:19:00Z",
   "dc_language_sm": [
     "eng"
   ],

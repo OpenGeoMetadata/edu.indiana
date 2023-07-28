@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Butler,  Chas. T., cartographer."
+    "Butler, Chas. T., cartographer."
   ],
   "dct_publisher_sm": [
     "Jennings County?"
@@ -24,7 +24,8 @@
     "Landowners",
     "Land ownership",
     "Real property",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1939?"
@@ -36,10 +37,10 @@
     "[1939 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Jennings County, Indiana",
+    "Indiana--Jennings County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.8,-85.45,39.2,38.91)",
+  "locn_geometry": "POLYGON((-85.8 39.2, -85.45 39.2, -85.45 38.91, -85.8 38.91, -85.8 39.2))",
   "dcat_bbox": "ENVELOPE(-85.8,-85.45,39.2,38.91)",
   "dcat_centroid": "39.055,-85.625",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "4c026c5b-4c09-440e-9e89-067a5d8847af"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

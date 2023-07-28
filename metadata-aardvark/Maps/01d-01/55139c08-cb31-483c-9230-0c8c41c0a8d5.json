@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Monroe County"
   ],
-  "locn_geometry": "ENVELOPE(-86.68,-86.31,39.35,38.98)",
+  "locn_geometry": "POLYGON((-86.68 39.35, -86.31 39.35, -86.31 38.98, -86.68 38.98, -86.68 39.35))",
   "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,38.98)",
   "dcat_centroid": "39.165,-86.495",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "55139c08-cb31-483c-9230-0c8c41c0a8d5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:54Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Магілёў (Mogilev), Belarus; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001901\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1B5C8qUK3OYLwhVFNQv36U_aJV289Zg9E\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001901\"}",
   "dct_spatial_sm": [
-    "Mogilev, Belarus",
+    "Belarus--Mogilev",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:25Z",
+  "layer_modified_dt": "2023-05-09T06:04:11Z",
   "dc_language_sm": [
     "rus"
   ],

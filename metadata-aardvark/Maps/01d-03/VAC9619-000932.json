@@ -34,10 +34,10 @@
     "[1932 TO 1932]"
   ],
   "dct_spatial_sm": [
-    "Kosachivka, Ukraine",
+    "Ukraine--Kosachivka",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(30.75,30.5,51.167,51)",
+  "locn_geometry": "POLYGON((30.75 51.167, 30.5 51.167, 30.5 51, 30.75 51, 30.75 51.167))",
   "dcat_bbox": "ENVELOPE(30.75,30.5,51.167,51)",
   "dcat_centroid": "51.0835,30.625",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000932\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1W8pk1GaK1iEZXUpe28w9WuX_hTl66a5j\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000932\"}",
   "id": "VAC9619-000932",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000932",
     "G7000 s50 .S68 sheet M-36-26-B"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:54Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

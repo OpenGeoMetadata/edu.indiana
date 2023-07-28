@@ -9,13 +9,13 @@
   "solr_year_i": "1902",
   "dc_description_s": "Modern area represented: Dyakove, Luhansk, Ukraine; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001993\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1sq_QopHU0Yotfn_WLpGDPw_5Td4Y2ko5\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001993\"}",
   "dct_spatial_sm": [
-    "Dyakove, Ukraine",
-    "Luhansk, Ukraine",
+    "Ukraine--Dyakove",
+    "Ukraine--Luhansk",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:28Z",
+  "layer_modified_dt": "2023-05-09T06:05:01Z",
   "dc_language_sm": [
     "rus"
   ],

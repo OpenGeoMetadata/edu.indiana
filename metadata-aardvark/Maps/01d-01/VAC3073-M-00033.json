@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
     "Department of Geography, Indiana University"
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1967"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
+  "locn_geometry": "POLYGON((-88.11 41.75, -84.75 41.75, -84.75 37.76, -88.11 37.76, -88.11 41.75))",
   "dcat_bbox": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "dcat_centroid": "39.754999999999995,-86.43",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00033"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

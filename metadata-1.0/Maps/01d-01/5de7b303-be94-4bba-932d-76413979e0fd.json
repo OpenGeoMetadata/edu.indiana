@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
   "solr_year_i": "1871",
   "dc_creator_sm": [
-    "Bridgman,  E. C., cartographer."
+    "Bridgman, E. C."
   ],
   "dc_description_s": "Shows railroads, counties, townships, cities, towns, and railroad stations.; Includes Description on Indiana; 1870 census figures for counties, cities, and larger towns; Laws of Indiana; and Literary Institutions of the state along both sides of the map.; W. Roberts, sc, NY.; Entered according to Act of congress, by E.C. Bridgman, in the year 1871, in the Office of the Librarian of Congress, at Washington. Scale approximately 1:675,000.",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:10Z",
+  "layer_modified_dt": "2023-02-03T21:24:13Z",
   "dc_language_sm": [
     "eng"
   ],

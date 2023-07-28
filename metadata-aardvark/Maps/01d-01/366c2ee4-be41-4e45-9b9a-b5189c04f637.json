@@ -34,10 +34,10 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Indianapolis, Indiana",
-    "Marion County, Indiana"
+    "Indiana--Indianapolis",
+    "Indiana--Marion County"
   ],
-  "locn_geometry": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
+  "locn_geometry": "POLYGON((-86.33 39.93, -85.95 39.93, -85.95 39.63, -86.33 39.63, -86.33 39.93))",
   "dcat_bbox": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
   "dcat_centroid": "39.78,-86.14",
   "pcdm_memberOf_sm": [
@@ -53,6 +53,6 @@
   "dct_identifier_sm": [
     "366c2ee4-be41-4e45-9b9a-b5189c04f637"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

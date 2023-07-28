@@ -31,10 +31,10 @@
     "[1914 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "Mrągowo, Poland",
+    "Poland--Mrągowo",
     "Poland"
   ],
-  "locn_geometry": "ENVELOPE(21.5,21,54,53.667)",
+  "locn_geometry": "POLYGON((21.5 54, 21 54, 21 53.667, 21.5 53.667, 21.5 54))",
   "dcat_bbox": "ENVELOPE(21.5,21,54,53.667)",
   "dcat_centroid": "53.8335,21.25",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003946\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1j2UJ0lvcthIXy-COKvAtCYtiRBgOQEfx/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003946\"}",
   "id": "VAC9619-003946",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003946",
     "G7000 s100 .S7 sheet N-34-79"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:35Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

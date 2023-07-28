@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mitchell, S. Augustus (Samuel Augustus),1792-1868"
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
   ],
   "dct_publisher_sm": [
     "S. Augustus Mitchell"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1860"
@@ -35,7 +36,7 @@
     "Ohio",
     "Ohio"
   ],
-  "locn_geometry": "ENVELOPE(-88,-80.5,42,37.5)",
+  "locn_geometry": "POLYGON((-88 42, -80.5 42, -80.5 37.5, -88 37.5, -88 42))",
   "dcat_bbox": "ENVELOPE(-88,-80.5,42,37.5)",
   "dcat_centroid": "39.75,-84.25",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00743"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

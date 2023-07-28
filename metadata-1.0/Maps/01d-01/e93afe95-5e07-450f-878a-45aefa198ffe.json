@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
   "solr_year_i": "1968",
   "dc_creator_sm": [
-    "Prout,  Joseph E., cartographer."
+    "Prout, Joseph E., cartographer."
   ],
   "dc_description_s": "January 1, 1968. Scale approximately 1:60,000. Not 1 = 1/2 mile",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00158\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00158\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Marion County, Indiana"
+    "Indiana--Marion County"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:43Z",
+  "layer_modified_dt": "2023-02-03T21:21:13Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -27,9 +27,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Franklin County, Indiana"
+    "Indiana--Franklin County"
   ],
-  "locn_geometry": "ENVELOPE(-85.2801,-84.8001,39.5101,39.26)",
+  "locn_geometry": "POLYGON((-85.2801 39.5101, -84.8001 39.5101, -84.8001 39.26, -85.2801 39.26, -85.2801 39.5101))",
   "dcat_bbox": "ENVELOPE(-85.2801,-84.8001,39.5101,39.26)",
   "dcat_centroid": "39.38505,-85.0401",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "a391258c-454e-4420-90d9-22b9ee3bfe80"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

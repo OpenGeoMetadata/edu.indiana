@@ -8,11 +8,11 @@
   "solr_geom": "ENVELOPE(-88.11,-84.78,41.75,37.76)",
   "solr_year_i": "1934",
   "dc_creator_sm": [
-    "Waggoner, M. E. (Morris Edward)",
-    "Shearin, A. E.",
     "Bushnell, T. M. (Thomas Mark),1889-1976",
+    "Carlson, E. E.",
     "Maxwell, D. C.",
-    "Carlson, E. E."
+    "Shearin, A. E.",
+    "Waggoner, M. E. (Morris Edward)"
   ],
   "dc_description_s": "At bottom left: Base map by U.S. Geological Survey, 1930. Scale 1:500,000 U.S. Department of Agriculture, Soil Conservation Service; Indiana erosion survey of 1934 by M.E. Waggoner, in charge, A.E. Shearin, T.M. Bushnell, D.C. Maxwell, E.E. Carlson.",
   "dc_format_s": "JPEG",
@@ -21,7 +21,7 @@
     "Indiana",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:57Z",
+  "layer_modified_dt": "2023-02-03T21:24:17Z",
   "dc_language_sm": [
     "eng"
   ],

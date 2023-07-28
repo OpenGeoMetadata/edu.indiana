@@ -9,12 +9,12 @@
   "solr_year_i": "1906",
   "dc_description_s": "Insets: Marion County, Ind.--New Albany, Jeffersonville and Louisville District. Includes 20 p. text describing 163 different tour routes. Scale approximately 1:550,000. Published by C.S. Mendenhall.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00687\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00687\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00687\"}",
   "dct_spatial_sm": [
     "Indiana",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:16Z",
+  "layer_modified_dt": "2023-02-03T21:22:15Z",
   "dc_language_sm": [
     "eng"
   ],

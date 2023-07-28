@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Roehrig,  C. Wm., cartographer."
+    "Roehrig, C. Wm., cartographer."
   ],
   "dct_publisher_sm": [
     "C. Wm. Roehrig"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Cadastral",
     "Real property",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1888"
@@ -34,11 +35,11 @@
     "[1888 TO 1888]"
   ],
   "dct_spatial_sm": [
-    "Lake County, Indiana",
+    "Indiana--Lake County",
     "Indiana",
-    "Hammond, Indiana"
+    "Indiana--Hammond"
   ],
-  "locn_geometry": "ENVELOPE(-87.51,-87.4101,41.71,41.5501)",
+  "locn_geometry": "POLYGON((-87.51 41.71, -87.4101 41.71, -87.4101 41.5501, -87.51 41.5501, -87.51 41.71))",
   "dcat_bbox": "ENVELOPE(-87.51,-87.4101,41.71,41.5501)",
   "dcat_centroid": "41.63005,-87.46005",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "273fa1c5-b94f-422e-97ee-4669bb547f8c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

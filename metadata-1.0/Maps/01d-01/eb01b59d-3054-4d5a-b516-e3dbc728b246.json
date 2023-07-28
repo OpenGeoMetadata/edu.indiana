@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
   "solr_year_i": "1905",
   "dc_creator_sm": [
-    "Palmer,  Thos. W.(Thomas W.), cartographer."
+    "Palmer, Thos. W. (Thomas W.)"
   ],
   "dc_description_s": "H.C. Bauer Eng. Co.; Copy 1 has red annotations. Scale 1:63,360. 1 inch = 1 mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00652\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00652\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Indianapolis, Indiana",
-    "Marion County, Indiana"
+    "Indiana--Indianapolis",
+    "Indiana--Marion County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:16Z",
+  "layer_modified_dt": "2023-02-03T21:23:02Z",
   "dc_language_sm": [
     "eng"
   ],

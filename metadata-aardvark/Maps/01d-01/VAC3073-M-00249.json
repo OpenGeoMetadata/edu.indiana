@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ellis, Robert W."
+    "Ellis, R. W. (Robert W.)"
   ],
   "dct_publisher_sm": [
     "Indiana Department of Geology and Natural Resources",
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -34,11 +35,11 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Floyd County, Indiana",
+    "Indiana--Floyd County",
     "Indiana",
-    "Clark County, Indiana"
+    "Indiana--Clark County"
   ],
-  "locn_geometry": "ENVELOPE(-85.9801,-85.4001,38.6,38.26)",
+  "locn_geometry": "POLYGON((-85.9801 38.6, -85.4001 38.6, -85.4001 38.26, -85.9801 38.26, -85.9801 38.6))",
   "dcat_bbox": "ENVELOPE(-85.9801,-85.4001,38.6,38.26)",
   "dcat_centroid": "38.43,-85.6901",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00249\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00249\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00249\"}",
   "id": "VAC3073-M-00249",
   "dct_identifier_sm": [
     "VAC3073-M-00249"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:17Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

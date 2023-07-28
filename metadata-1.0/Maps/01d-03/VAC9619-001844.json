@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Komyshuvakha, Zaporizhia oblast, Ukraine; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001844\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1IiavgxI6IZ79dkMzQI3jHmPsU86TTxOH\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001844\"}",
   "dct_spatial_sm": [
-    "Komyshuvakha, Ukraine",
+    "Ukraine--Komyshuvakha",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:23Z",
+  "layer_modified_dt": "2023-05-09T06:04:31Z",
   "dc_language_sm": [
     "rus"
   ],

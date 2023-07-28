@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bridgman,  E. C., cartographer."
+    "Bridgman, E. C."
   ],
   "dct_publisher_sm": [
     "E.C. Bridgman"
@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Railroads",
     "Roads",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1871"
@@ -39,7 +40,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "locn_geometry": "POLYGON((-88.11 41.75, -84.75 41.75, -84.75 37.86, -88.11 37.86, -88.11 41.75))",
   "dcat_bbox": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
   "dcat_centroid": "39.805,-86.43",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "5de7b303-be94-4bba-932d-76413979e0fd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:10Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

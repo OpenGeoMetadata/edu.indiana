@@ -9,12 +9,12 @@
   "solr_year_i": "1905",
   "dc_description_s": "Modern area represented: Vana-Varbla, Pärnumaa, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001711\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1iyx66naDCTkdwvdYPbqA80F5E5oENomU\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001711\"}",
   "dct_spatial_sm": [
-    "Vana-Varbla, Estonia",
+    "Estonia--Vana-Varbla",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:18Z",
+  "layer_modified_dt": "2023-05-09T06:04:32Z",
   "dc_language_sm": [
     "rus"
   ],

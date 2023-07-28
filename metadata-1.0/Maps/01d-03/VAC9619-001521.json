@@ -9,12 +9,12 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Paramonovo, Oryol oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001521\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1UVww6BGdkAqeLlWDPAX8mWZ-JNBffhZ8\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001521\"}",
   "dct_spatial_sm": [
-    "Paramonovo, Russia",
+    "Russia--Paramonovo",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:13Z",
+  "layer_modified_dt": "2023-05-09T06:05:08Z",
   "dc_language_sm": [
     "rus"
   ],

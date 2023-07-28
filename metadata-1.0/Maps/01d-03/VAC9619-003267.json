@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Mena, Chernihiv oblast, Ukraine; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003267\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1phkCWfZcewvaUbgcNfhmuGCrKQ8b1AQV/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003267\"}",
   "dct_spatial_sm": [
-    "Mena, Ukraine",
+    "Ukraine--Mena",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:12Z",
+  "layer_modified_dt": "2023-05-09T06:03:18Z",
   "dc_language_sm": [
     "rus"
   ],

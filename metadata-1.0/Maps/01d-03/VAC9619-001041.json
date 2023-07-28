@@ -9,12 +9,12 @@
   "solr_year_i": "1912",
   "dc_description_s": "Modern area represented: Īvowghlī, West Azerbaijan province, Iran; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001041\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1qpvW4RsmwJh6m1WiJtJXW567d8q67ACe\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001041\"}",
   "dct_spatial_sm": [
-    "Īvowghlī, Iran",
+    "Iran--Īvowghlī",
     "Iran"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:57Z",
+  "layer_modified_dt": "2023-05-09T06:04:54Z",
   "dc_language_sm": [
     "rus"
   ],

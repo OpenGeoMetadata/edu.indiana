@@ -9,12 +9,12 @@
   "solr_year_i": "1903",
   "dc_description_s": "Modern area represented: Nässuma, Saare county, Estonia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001720\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1u2EAdBsZ8AfkZh9q30b_t5cQukZjA8Dk\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001720\"}",
   "dct_spatial_sm": [
-    "Nässuma, Estonia",
+    "Estonia--Nässuma",
     "Estonia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:19Z",
+  "layer_modified_dt": "2023-05-09T06:05:06Z",
   "dc_language_sm": [
     "rus"
   ],

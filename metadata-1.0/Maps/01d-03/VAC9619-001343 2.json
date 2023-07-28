@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001343|GM G7000 S50 .S68 N-36-54-B",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-36-54-B (Berdebyaki, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001343",
+  "solr_geom": "ENVELOPE(32.75,32.5,54.5,54.333)",
+  "solr_year_i": "1924",
+  "dc_description_s": "Modern area represented: Berdebyaki, Smolensk oblast, Russia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001343\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1wbQHX77EAN2QXSvOol7LV4dVscuKxIQc\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_spatial_sm": [
+    "Berdebyaki, Russia",
+    "Russia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:38:07Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб Красной Армии",
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

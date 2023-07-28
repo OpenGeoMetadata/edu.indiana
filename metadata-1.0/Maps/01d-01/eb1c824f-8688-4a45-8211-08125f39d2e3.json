@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.33,-85.95,39.93,39.63)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
-    "Geib,  W. J.(Warren Jacob), 1880-cartographer."
+    "Geib, W. J.(Warren Jacob), 1880-cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Field Operations, Bureau of Soils, 1907.; Julius Bien & Co. Lith. N.Y. Scale 1:63,360. 1 inch = 1 mile",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074113/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00045\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Marion County, Indiana"
+    "Indiana--Marion County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:22Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.51,-86.3001,39.11,38.9801)",
   "solr_year_i": "1981",
   "dc_creator_sm": [
-    "Duthie,  Glenn, cartographer."
+    "Duthie, Glenn, cartographer."
   ],
   "dc_description_s": "File no. 300-74, 2-23-81.; Includes chart showing recreational facilities.; Text, ill., and location map on verso.; Recreation facilities maintained and operated by the State of Indiana Department of Natural Resources under a lease arrangement with the U.S. Army Corps of Engineers--Map panel. Scale not given.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00405\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00405\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Monroe Lake, Indiana"
+    "Indiana--Monroe Lake"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:24Z",
+  "layer_modified_dt": "2023-02-03T21:22:29Z",
   "dc_language_sm": [
     "eng"
   ],

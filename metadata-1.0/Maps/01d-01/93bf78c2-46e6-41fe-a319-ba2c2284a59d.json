@@ -11,10 +11,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00366\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00366\"}",
   "dct_spatial_sm": [
-    "Terre Haute, Indiana",
+    "Indiana--Terre Haute",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:38Z",
+  "layer_modified_dt": "2023-02-03T21:12:18Z",
   "dc_language_sm": [
     "eng"
   ],

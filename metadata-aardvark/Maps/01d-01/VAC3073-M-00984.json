@@ -28,11 +28,11 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Monroe County, Indiana",
-    "Ellettsville, Indiana",
-    "Bloomington, Indiana"
+    "Indiana--Monroe County",
+    "Indiana--Ellettsville",
+    "Indiana--Bloomington"
   ],
-  "locn_geometry": "ENVELOPE(-86.68,-86.31,39.35,38.98)",
+  "locn_geometry": "POLYGON((-86.68 39.35, -86.31 39.35, -86.31 38.98, -86.68 38.98, -86.68 39.35))",
   "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,38.98)",
   "dcat_centroid": "39.165,-86.495",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00984"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

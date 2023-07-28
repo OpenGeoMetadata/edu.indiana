@@ -9,12 +9,12 @@
   "solr_year_i": "1906",
   "dc_description_s": "Modern area represented: Аталезь (Atalyez’), Minsk Oblast, Belarus; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000640\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1T8sdgddK9ODexYkH4qYQ_W-Zv2hUdpgK\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000640\"}",
   "dct_spatial_sm": [
-    "Atalyez’, Belarus",
+    "Belarus--Atalyez’",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:40Z",
+  "layer_modified_dt": "2023-05-09T06:05:03Z",
   "dc_language_sm": [
     "rus"
   ],

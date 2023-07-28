@@ -31,10 +31,10 @@
     "[1913 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Bażyny, Poland",
+    "Poland--Bażyny",
     "Poland"
   ],
-  "locn_geometry": "ENVELOPE(20.125,20,54.1667,54.0833)",
+  "locn_geometry": "POLYGON((20.125 54.1667, 20 54.1667, 20 54.0833, 20.125 54.0833, 20.125 54.1667))",
   "dcat_bbox": "ENVELOPE(20.125,20,54.1667,54.0833)",
   "dcat_centroid": "54.125,20.0625",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003800\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1HC7czg75GZgT6SCM0YxTEbLEIvKXwdwW/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003800\"}",
   "id": "VAC9619-003800",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003800",
     "G7063.K2 s25 .S6 sheet N-34-65-C-а"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:30Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

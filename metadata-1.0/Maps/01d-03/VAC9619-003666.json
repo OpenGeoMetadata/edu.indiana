@@ -9,12 +9,12 @@
   "solr_year_i": "1911",
   "dc_description_s": "Modern area represented: Веселовка (Veselovka), Kaliningradskaya oblast, Russia; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003666\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1rKAxO0Igu6EVLfN0w2VaKzw7M7Fcn6jn/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003666\"}",
   "dct_spatial_sm": [
-    "Veselovka, Russia",
+    "Russia--Veselovka",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:25Z",
+  "layer_modified_dt": "2023-05-09T06:03:24Z",
   "dc_language_sm": [
     "rus"
   ],

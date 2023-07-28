@@ -9,12 +9,12 @@
   "solr_year_i": "1933",
   "dc_description_s": "Modern area represented: Негорэлае (Nyehorelaye), Minsk Oblast, Belarus; Scale =1:50,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000644\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1XoHdGTgSrWqEpBIfw4Xb-cs0mdSz0crQ\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000644\"}",
   "dct_spatial_sm": [
-    "Nyehorelaye, Belarus",
+    "Belarus--Nyehorelaye",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:40Z",
+  "layer_modified_dt": "2023-05-09T06:05:17Z",
   "dc_language_sm": [
     "rus"
   ],

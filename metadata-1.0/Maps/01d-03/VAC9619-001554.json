@@ -9,12 +9,12 @@
   "solr_year_i": "1923",
   "dc_description_s": "Modern area represented: Vyetka, Homyel oblast, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001554\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1VDbP9_pF7RIM9BgpD_fxSGsol9nd1wuC\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001554\"}",
   "dct_spatial_sm": [
-    "Vyetka, Belarus",
+    "Belarus--Vyetka",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:14Z",
+  "layer_modified_dt": "2023-05-09T06:05:10Z",
   "dc_language_sm": [
     "rus"
   ],

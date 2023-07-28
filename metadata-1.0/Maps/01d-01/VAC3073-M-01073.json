@@ -8,19 +8,19 @@
   "solr_geom": "ENVELOPE(-85.95,-85.56,39.9301,39.6801)",
   "solr_year_i": "1911",
   "dc_creator_sm": [
-    "Hole, Allen David,1866-1940",
-    "Kelly, B. W. (Soil surveyor)",
     "Baldwin, Mark (Soil surveyor)",
+    "Hole, Allen David, 1866-1940",
+    "Kelly, B. W. (Soil surveyor)",
     "Roberts, W. A. (Soil surveyor)"
   ],
   "dc_description_s": "Detached from: Soil survey of Hancock, Shelby, and Johnson counties / Allen David Hole. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:86,000 Soils surveyed in 1911 by Allen D. Hole, assisted by B.W. Kelly, Mark Baldwin, and W.A. Roberts.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01073\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01073\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01073\"}",
   "dct_spatial_sm": [
-    "Hancock County, Indiana",
+    "Indiana--Hancock County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:55Z",
+  "layer_modified_dt": "2023-02-03T21:25:11Z",
   "dc_language_sm": [
     "eng"
   ],

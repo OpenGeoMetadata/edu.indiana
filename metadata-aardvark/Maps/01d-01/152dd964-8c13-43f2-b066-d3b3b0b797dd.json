@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Randolph County, Indiana"
+    "Indiana--Randolph County"
   ],
-  "locn_geometry": "ENVELOPE(-85.21,-84.81,40.31,40)",
+  "locn_geometry": "POLYGON((-85.21 40.31, -84.81 40.31, -84.81 40, -85.21 40, -85.21 40.31))",
   "dcat_bbox": "ENVELOPE(-85.21,-84.81,40.31,40)",
   "dcat_centroid": "40.155,-85.00999999999999",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "152dd964-8c13-43f2-b066-d3b3b0b797dd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

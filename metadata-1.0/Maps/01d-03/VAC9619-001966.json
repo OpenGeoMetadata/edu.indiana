@@ -9,13 +9,13 @@
   "solr_year_i": "1886",
   "dc_description_s": "Modern area represented: Козача Бухта (Kozacha Bukhta), Republic of Crimea, Ukraine; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001966\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1rTxCetecx0VLFlLfe6F9Oq1Ke8pfHb3y\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001966\"}",
   "dct_spatial_sm": [
-    "Kozacha Bukhta, Ukraine",
-    "Republic Of Crimea, Ukraine",
+    "Ukraine--Kozacha Bukhta",
+    "Ukraine--Republic Of Crimea",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:27Z",
+  "layer_modified_dt": "2023-05-09T06:04:58Z",
   "dc_language_sm": [
     "rus"
   ],

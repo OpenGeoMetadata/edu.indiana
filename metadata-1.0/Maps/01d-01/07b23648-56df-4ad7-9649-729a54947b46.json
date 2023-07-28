@@ -8,18 +8,18 @@
   "solr_geom": "ENVELOPE(-87.53,-87.08,40.46,39.9301)",
   "solr_year_i": "1961",
   "dc_creator_sm": [
-    "Hutchison,  Harold C.(Harold Christy), 1925-cartographer."
+    "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dc_description_s": "Preliminary coal map no. 9--Margin.; Includes 1 ancillary map, 1 diagram showing township enumeration, 1 index map, 1 stratigraphic column, and 1 cross section.; Verso shows 5 tables including indexed list of mines keyed to map. Scales differ",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00418\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00418\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Vermillion County, Indiana",
-    "Warren County, Indiana",
-    "Fountain County, Indiana"
+    "Indiana--Vermillion County",
+    "Indiana--Warren County",
+    "Indiana--Fountain County"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:49Z",
+  "layer_modified_dt": "2023-02-03T21:18:08Z",
   "dc_language_sm": [
     "eng"
   ],

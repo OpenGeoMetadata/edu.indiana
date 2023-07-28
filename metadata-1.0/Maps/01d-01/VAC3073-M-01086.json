@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-87.33,-87,38.08,37.76)",
   "solr_year_i": "1904",
   "dc_creator_sm": [
+    "cartographer.",
     "Mangum, A. W.",
-    "Neill, N. P. (Nelson Prentice);cartographer."
+    "Neill, N. P. (Nelson Prentice)"
   ],
   "dc_description_s": "Detached from: Soil survey of the Boonville area, Indiana / A.W. Mangum and N.P. Neill. In 36th Annual report of Deptartment of Geology and Natural Resources, Indiana. 'U.S. Dept. of Agriculture, Bureau of Soils.' Scale approximately 1:63,000 Soils surveyed by A.W. Mangum and N.P. Neill, 1904.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01086\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01086\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01086\"}",
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:54Z",
+  "layer_modified_dt": "2023-02-03T21:25:08Z",
   "dc_language_sm": [
     "eng"
   ],

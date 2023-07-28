@@ -9,12 +9,12 @@
   "solr_year_i": "1907",
   "dc_description_s": "Modern area represented: Dubrivka, Zhytomyr oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000224\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1DqBlt52-zC1HDgroBy_rGq3NZsSEitpR\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000224\"}",
   "dct_spatial_sm": [
-    "Dubrivka, Ukraine",
+    "Ukraine--Dubrivka",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:17Z",
+  "layer_modified_dt": "2023-05-09T06:04:18Z",
   "dc_language_sm": [
     "rus"
   ],

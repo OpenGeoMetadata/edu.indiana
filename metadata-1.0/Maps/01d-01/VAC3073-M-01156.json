@@ -8,19 +8,19 @@
   "solr_geom": "ENVELOPE(-86.23,-85.8501,40.21,39.91)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
-    "Hurst, Lewis A. (Lewis Alexander),1874-cartographer.",
     "Grimes, E. J. (Earl Jerome),1893-cartographer.",
     "Hesler, R. S.",
+    "Hurst, Lewis A.(Lewis Alexander), 1874-cartographer.",
     "Young, H. G. (Soil surveyor)"
   ],
   "dc_description_s": "Detached from: Soil survey of Hamilton County, Indiana / Lewis A. Hurst [and others]. In 37th Annual report of Deptartment of Geology and Natural Resources, Indiana. Scale approximately 1:95,000 U.S. Department of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by Lewis A. Hurst of the U.S. Deptartment of Agriculture, Bureau of Soils; E.J. Grimes, R.S. Hesler, and H.G. Young of the Indiana Department of Geology.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01156\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01156\"}",
   "dct_spatial_sm": [
-    "Hamilton County, Indiana",
+    "Indiana--Hamilton County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:50Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

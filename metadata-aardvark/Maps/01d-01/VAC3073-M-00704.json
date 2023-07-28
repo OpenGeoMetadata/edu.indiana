@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hutchison, Harold C. (Harold Christy),1925-cartographer."
+    "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dct_publisher_sm": [
     "Indiana Department of Geology and Natural Resources"
@@ -20,7 +20,8 @@
     "Mine maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1975"
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.45,-86.43,40.6101,37.76)",
+  "locn_geometry": "POLYGON((-87.45 40.6101, -86.43 40.6101, -86.43 37.76, -87.45 37.76, -87.45 40.6101))",
   "dcat_bbox": "ENVELOPE(-87.45,-86.43,40.6101,37.76)",
   "dcat_centroid": "39.185050000000004,-86.94",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00704"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:09Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

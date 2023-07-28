@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Indiana Historic Maps",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1890"
@@ -32,8 +33,11 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Valparaiso, Indiana"
+    "Indiana--Valparaiso"
   ],
+  "locn_geometry": "POLYGON((-87.075189 41.478967, -87.046093 41.478967, -87.046093 41.454398, -87.075189 41.454398, -87.075189 41.478967))",
+  "dcat_bbox": "ENVELOPE(-87.075189,-87.046093,41.478967,41.454398)",
+  "dcat_centroid": "41.4666825,-87.060641",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,6 +54,6 @@
   "dct_identifier_sm": [
     "afaf88a2-2c88-4522-95f0-dc7b07dc34ba"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

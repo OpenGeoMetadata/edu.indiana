@@ -26,10 +26,10 @@
     "[1936 TO 1936]"
   ],
   "dct_spatial_sm": [
-    "Hoosier National Forest, Indiana",
+    "Indiana--Hoosier National Forest",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87,-86.4501,38.9801,37.8101)",
+  "locn_geometry": "POLYGON((-87 38.9801, -86.4501 38.9801, -86.4501 37.8101, -87 37.8101, -87 38.9801))",
   "dcat_bbox": "ENVELOPE(-87,-86.4501,38.9801,37.8101)",
   "dcat_centroid": "38.3951,-86.72505000000001",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "b6cb81d7-9eec-454c-9d6f-6c61f6481e1c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

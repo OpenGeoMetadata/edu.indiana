@@ -24,13 +24,13 @@
     "[1968 TO 1968]"
   ],
   "dct_spatial_sm": [
-    "Polk Township, Indiana",
-    "Monroe County, Indiana",
+    "Indiana--Polk Township",
+    "Indiana--Monroe County",
     "Indiana",
-    "Salt Creek Township, Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Salt Creek Township",
+    "Indiana--Monroe County"
   ],
-  "locn_geometry": "ENVELOPE(-86.4501,-86.36,39.1501,39.0601)",
+  "locn_geometry": "POLYGON((-86.4501 39.1501, -86.36 39.1501, -86.36 39.0601, -86.4501 39.0601, -86.4501 39.1501))",
   "dcat_bbox": "ENVELOPE(-86.4501,-86.36,39.1501,39.0601)",
   "dcat_centroid": "39.1051,-86.40505",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00738"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

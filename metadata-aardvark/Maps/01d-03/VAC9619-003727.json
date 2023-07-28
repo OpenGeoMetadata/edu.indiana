@@ -31,10 +31,10 @@
     "[1909 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Kosa, Russia",
+    "Russia--Kosa",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(19.75,19.625,54.5833,54.5)",
+  "locn_geometry": "POLYGON((19.75 54.5833, 19.625 54.5833, 19.625 54.5, 19.75 54.5, 19.75 54.5833))",
   "dcat_bbox": "ENVELOPE(19.75,19.625,54.5833,54.5)",
   "dcat_centroid": "54.541650000000004,19.6875",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003727\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1uRhFbeHl9-dgswPSknIWvNdDvABJY8H9/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003727\"}",
   "id": "VAC9619-003727",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003727",
     "G7063.K2 s25 .S6 sheet N-34-52-A-d"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:28Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

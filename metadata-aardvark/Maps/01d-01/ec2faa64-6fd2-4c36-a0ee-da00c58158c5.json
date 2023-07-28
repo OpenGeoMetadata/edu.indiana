@@ -31,12 +31,12 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Adams Lake, Indiana",
-    "LaGrange County, Indiana",
-    "Big Long Lake, Indiana",
-    "Pretty Lake, Indiana"
+    "Indiana--Adams Lake",
+    "Indiana--LaGrange County",
+    "Indiana--Big Long Lake",
+    "Indiana--Pretty Lake"
   ],
-  "locn_geometry": "ENVELOPE(-85.65,-85.2,41.76,41.53)",
+  "locn_geometry": "POLYGON((-85.65 41.76, -85.2 41.76, -85.2 41.53, -85.65 41.53, -85.65 41.76))",
   "dcat_bbox": "ENVELOPE(-85.65,-85.2,41.76,41.53)",
   "dcat_centroid": "41.644999999999996,-85.42500000000001",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "ec2faa64-6fd2-4c36-a0ee-da00c58158c5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:52Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

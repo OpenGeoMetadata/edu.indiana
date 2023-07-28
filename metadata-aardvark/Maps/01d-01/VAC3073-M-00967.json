@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Tharp, W. E. (William Edgar),cartographer,surveyor.",
-    "Kunkel, D. R. (David Roy),1901-cartographer,surveyor."
+    "Kunkel, D. R. (David Roy),1901-cartographer,surveyor.",
+    "Tharp, W. E. (William Edgar),cartographer,surveyor."
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -34,10 +35,10 @@
     "[1927 TO 1927]"
   ],
   "dct_spatial_sm": [
-    "Miami County, Indiana",
+    "Indiana--Miami County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.16,-85.86,41,40.36)",
+  "locn_geometry": "POLYGON((-86.16 41, -85.86 41, -85.86 40.36, -86.16 40.36, -86.16 41))",
   "dcat_bbox": "ENVELOPE(-86.16,-85.86,41,40.36)",
   "dcat_centroid": "40.68,-86.00999999999999",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00967"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:53Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

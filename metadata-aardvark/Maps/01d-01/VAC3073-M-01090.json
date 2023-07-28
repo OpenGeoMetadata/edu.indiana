@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Geib, W. J. (Warren Jacob),1880-cartographer.",
+    "Geib, W. J.(Warren Jacob), 1880-cartographer.",
     "Schroeder, Frank C."
   ],
   "dct_publisher_sm": [
@@ -22,7 +22,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -36,9 +37,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Marion County, Indiana"
+    "Indiana--Marion County"
   ],
-  "locn_geometry": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
+  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
   "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
   "dcat_centroid": "39.7601,-86.12005",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01090\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01090\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01090\"}",
   "id": "VAC3073-M-01090",
   "dct_identifier_sm": [
     "VAC3073-M-01090"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

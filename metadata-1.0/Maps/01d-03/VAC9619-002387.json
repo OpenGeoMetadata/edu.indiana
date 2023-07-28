@@ -9,12 +9,12 @@
   "solr_year_i": "1870",
   "dc_description_s": "Modern area represented: Riihimäki, Finland; Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002387\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1K6TYtc6-Wd8e3olJPBJRuL6Ak_yMAhFP/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002387\"}",
   "dct_spatial_sm": [
-    "Riihimäki, Finland",
+    "Finland--Riihimäki",
     "Finland"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:42Z",
+  "layer_modified_dt": "2023-05-09T06:03:02Z",
   "dc_language_sm": [
     "rus"
   ],

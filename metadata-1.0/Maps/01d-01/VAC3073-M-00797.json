@@ -14,11 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00797\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00797\"}",
   "dct_spatial_sm": [
-    "Van Buren Township, Indiana",
-    "Monroe County, Indiana",
+    "Indiana--Van Buren Township",
+    "Indiana--Monroe County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:30Z",
+  "layer_modified_dt": "2023-02-03T21:18:45Z",
   "dc_language_sm": [
     "eng"
   ],

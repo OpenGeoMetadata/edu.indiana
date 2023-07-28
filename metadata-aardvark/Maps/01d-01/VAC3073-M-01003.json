@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1946"
@@ -31,9 +32,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Angola, Indiana"
+    "Indiana--Angola"
   ],
-  "locn_geometry": "ENVELOPE(-85.03,-84.96,41.6601,41.61)",
+  "locn_geometry": "POLYGON((-85.03 41.6601, -84.96 41.6601, -84.96 41.61, -85.03 41.61, -85.03 41.6601))",
   "dcat_bbox": "ENVELOPE(-85.03,-84.96,41.6601,41.61)",
   "dcat_centroid": "41.63505,-84.995",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-01003"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:06Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

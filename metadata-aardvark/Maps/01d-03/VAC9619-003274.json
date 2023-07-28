@@ -31,10 +31,10 @@
     "[1929 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Bakhmach, Ukraine",
+    "Ukraine--Bakhmach",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(33,32.5,51.333,51)",
+  "locn_geometry": "POLYGON((33 51.333, 32.5 51.333, 32.5 51, 33 51, 33 51.333))",
   "dcat_bbox": "ENVELOPE(33,32.5,51.333,51)",
   "dcat_centroid": "51.1665,32.75",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003274\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1umoYAQWJnajCte-zrkNIKjSDraw3Xa0p/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003274\"}",
   "id": "VAC9619-003274",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003274",
     "G7000 s100 .S7 sheet M-36-30"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:12Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,16 +9,16 @@
   "solr_year_i": "1906",
   "dc_creator_sm": [
     "Smith, Ansel R.",
-    "White, Frank W.,C.E."
+    "White, Frank W., C.E."
   ],
   "dc_description_s": "Cadastral map showing landowners. 'F. W. White, draftsman.' Scale 1:31,680. 2 inches = 1 mile. Compiled and made from records and surveys and published by Ansel R. Smith.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00872\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00872\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Grant County, Indiana"
+    "Indiana--Grant County"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:53Z",
+  "layer_modified_dt": "2023-02-03T21:21:06Z",
   "dc_language_sm": [
     "eng"
   ],

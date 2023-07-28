@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Volodymyr-Volynskyi, Volyn oblast, Ukraine; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003252\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1u-F-Xb7tD3f4U5T0ccVY6txLYfRF1Lhe/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003252\"}",
   "dct_spatial_sm": [
-    "Volodymyr-Volynskyi, Ukraine",
+    "Ukraine--Volodymyr-Volynskyi",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:12Z",
+  "layer_modified_dt": "2023-05-09T06:03:32Z",
   "dc_language_sm": [
     "rus"
   ],

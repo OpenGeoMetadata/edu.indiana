@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ahlgrim,  M. J., cartographer."
+    "Ahlgrim, M. J., cartographer."
   ],
   "dct_publisher_sm": [
     "M J. Ahlgrim?"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1900"
@@ -30,10 +31,10 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Kankakee River, Illinois",
-    "State of Illinois, Illinois"
+    "Illinois--Kankakee River",
+    "Illinois--State of Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.5101,-87.21,41.3001,41.1101)",
+  "locn_geometry": "POLYGON((-87.5101 41.3001, -87.21 41.3001, -87.21 41.1101, -87.5101 41.1101, -87.5101 41.3001))",
   "dcat_bbox": "ENVELOPE(-87.5101,-87.21,41.3001,41.1101)",
   "dcat_centroid": "41.2051,-87.36005",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "80e8cbfc-371b-4e13-8165-7c69756be7e7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,12 +9,12 @@
   "solr_year_i": "1904",
   "dc_description_s": "Modern area represented: Lypne, Volyn oblast, Ukraine; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000206\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=14wyGURTy7TC4Wi6oNYC9bH-1-xKYl14s\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000206\"}",
   "dct_spatial_sm": [
-    "Lypne, Ukraine",
+    "Ukraine--Lypne",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:16Z",
+  "layer_modified_dt": "2023-05-09T06:03:58Z",
   "dc_language_sm": [
     "rus"
   ],

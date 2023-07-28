@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Pushkin, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000004\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1xwf8d0kvCigjOtqFgrlqyY6TvkRzyFLT\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000004\"}",
   "dct_spatial_sm": [
-    "Pushkin, Russia",
+    "Russia--Pushkin",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:04Z",
+  "layer_modified_dt": "2023-05-09T06:05:18Z",
   "dc_language_sm": [
     "rus"
   ],

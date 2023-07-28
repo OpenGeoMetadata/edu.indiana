@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.66,-86.63,39.1501,39.1)",
   "solr_year_i": "1970",
   "dc_creator_sm": [
-    "Powell,  Richard L., cartographer."
+    "Powell, Richard L., cartographer."
   ],
   "dc_description_s": "Blue line print.; Rlp-1970.; Base map from USGS 7.5 minute topographic quadrangles, 1964. Scale approximately 1:12,000.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00338\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00338\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Van Buren, Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Van Buren",
+    "Indiana--Monroe County"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:40Z",
+  "layer_modified_dt": "2023-02-03T21:18:11Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,17 +8,16 @@
   "solr_geom": "ENVELOPE(-87.63,-87.45,38.05,37.93)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
-    "Saunders, J. D. (Cartographer)",
-    "Saunders, M. S."
+    "Saunders, J. D. (Cartographer)"
   ],
   "dc_description_s": "Cadastral map showing some landowners. Originally printed in 2 sheets. Stamped on: Copyright 1890 by J.D. & M.S. Saunders. Includes index to buildings. Scale not given. Compiled from official records and surveys by J.D. and M.S. Saunders.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00915\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00915\"}",
   "dct_spatial_sm": [
-    "Evansville, Indiana",
+    "Indiana--Evansville",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:51Z",
+  "layer_modified_dt": "2023-02-03T21:18:27Z",
   "dc_language_sm": [
     "eng"
   ],

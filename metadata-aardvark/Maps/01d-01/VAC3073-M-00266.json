@@ -34,10 +34,10 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Fayette County, Indiana",
+    "Indiana--Fayette County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.3,-85.03,39.78,39.51)",
+  "locn_geometry": "POLYGON((-85.3 39.78, -85.03 39.78, -85.03 39.51, -85.3 39.51, -85.3 39.78))",
   "dcat_bbox": "ENVELOPE(-85.3,-85.03,39.78,39.51)",
   "dcat_centroid": "39.644999999999996,-85.16499999999999",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00266\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00266\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00266\"}",
   "id": "VAC3073-M-00266",
   "dct_identifier_sm": [
     "VAC3073-M-00266"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:59Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

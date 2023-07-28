@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
   "solr_year_i": "1924",
   "dc_creator_sm": [
-    "Indiana.State Highway Commission (1919-1953),cartographer."
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "dc_description_s": "Detached from: Annual report of the State Highway Commission for the fiscal year ending September 30, 1923 / Indiana. State Highway Commission. In Yearbook of the State of Indiana for the year 1923. Indianapolis : Wm. B. Burford, 1924.; Shows brick, concrete and bituminous surfaced roads, stone and gravel roads, and earth roads, as well as hard surfaced roads and stone and gravel roads under construction.; Also shows State Highway Commission district headquarters and sub-district headquarters and district and sub-district boundaries.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:06Z",
+  "layer_modified_dt": "2023-02-03T21:21:08Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -33,10 +33,10 @@
     "[1942 TO 1942]"
   ],
   "dct_spatial_sm": [
-    "Chazhva, Russia",
+    "Russia--Chazhva",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(36,35.5,62,61.6667)",
+  "locn_geometry": "POLYGON((36 62, 35.5 62, 35.5 61.6667, 36 61.6667, 36 62))",
   "dcat_bbox": "ENVELOPE(36,35.5,62,61.6667)",
   "dcat_centroid": "61.833349999999996,35.75",
   "pcdm_memberOf_sm": [
@@ -50,14 +50,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002547\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1ClXrxWj6SEh8oI87qzbGJDTRWqayxCEf/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002547\"}",
   "id": "VAC9619-002547",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002547",
     "G7000 s100 .S7 sheet P-36-84"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:48Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

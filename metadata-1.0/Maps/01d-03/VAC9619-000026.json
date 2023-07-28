@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Zovka, Pskov oblast, Russia; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000026\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1niCBhXPKcSwhyMAiD1rgMXyBureFEEpC/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000026\"}",
   "dct_spatial_sm": [
-    "Zovka, Russia",
+    "Russia--Zovka",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:06Z",
+  "layer_modified_dt": "2023-05-09T06:03:11Z",
   "dc_language_sm": [
     "rus"
   ],

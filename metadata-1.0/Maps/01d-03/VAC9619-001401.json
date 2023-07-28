@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Goleni, Mogilev oblast, Belarus; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001401\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1BV4Dwp8i4A8x77fOV4CI3WD0Vl_svmlS\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001401\"}",
   "dct_spatial_sm": [
-    "Goleni, Belarus",
+    "Belarus--Goleni",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:09Z",
+  "layer_modified_dt": "2023-05-09T06:04:13Z",
   "dc_language_sm": [
     "rus"
   ],

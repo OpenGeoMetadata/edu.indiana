@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Moore,  Will H., 1850-cartographer."
+    "Moore, Will H., 1850-cartographer."
   ],
   "dct_publisher_sm": [
     "Will H. Moore"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -29,11 +30,11 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Gary, Indiana",
+    "Indiana--Gary",
     "Indiana",
-    "Tolleston, Indiana"
+    "Indiana--Tolleston"
   ],
-  "locn_geometry": "ENVELOPE(-87.43,-87.21,41.65,41.51)",
+  "locn_geometry": "POLYGON((-87.43 41.65, -87.21 41.65, -87.21 41.51, -87.43 41.51, -87.43 41.65))",
   "dcat_bbox": "ENVELOPE(-87.43,-87.21,41.65,41.51)",
   "dcat_centroid": "41.58,-87.32",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "01b4f905-0b14-46a9-92d7-43ab49104cb0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:18Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

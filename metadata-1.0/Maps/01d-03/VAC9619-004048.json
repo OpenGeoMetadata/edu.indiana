@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Lyepyel, Vitebsk oblast, Belarus; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004048\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1yCZ76tUmCXf_2lvBbzlyT2JNzQIvCg-8/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004048\"}",
   "dct_spatial_sm": [
-    "Lyepyel, Belarus",
+    "Belarus--Lyepyel",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:39Z",
+  "layer_modified_dt": "2023-05-09T06:03:44Z",
   "dc_language_sm": [
     "rus"
   ],

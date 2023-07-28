@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.1,-86.9801,41.5001,41.43)",
   "solr_year_i": "1936",
   "dc_creator_sm": [
-    "Amstutz,  N. S.(Noah Steiner), 1864-cartographer."
+    "Amstutz, N. S. (Noah Steiner), 1864-"
   ],
   "dc_description_s": "Scale approximately 1:11,300.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00232\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00232\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Valparaiso, Indiana"
+    "Indiana--Valparaiso"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:26Z",
+  "layer_modified_dt": "2023-02-03T21:17:35Z",
   "dc_language_sm": [
     "eng"
   ],

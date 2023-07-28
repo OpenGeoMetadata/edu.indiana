@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Carroll County, Indiana"
+    "Indiana--Carroll County"
   ],
-  "locn_geometry": "ENVELOPE(-86.76,-86.36,40.73,40.43)",
+  "locn_geometry": "POLYGON((-86.76 40.73, -86.36 40.73, -86.36 40.43, -86.76 40.43, -86.76 40.73))",
   "dcat_bbox": "ENVELOPE(-86.76,-86.36,40.73,40.43)",
   "dcat_centroid": "40.58,-86.56",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "d6417741-5c86-4c44-a34b-8e12550d5915"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:10Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

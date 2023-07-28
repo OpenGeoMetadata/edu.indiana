@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.08,-80.6,41.75,37.9)",
   "solr_year_i": "1877",
   "dc_creator_sm": [
-    "Mitchell,  S. Augustus(Samuel Augustus), 1792-1868, cartographer."
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868, cartographer."
   ],
   "dc_description_s": "Prime meridian: Washington.; Detached from an atlas, no. 68. Scale approximately 1:1,300,000.",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
     "Ohio",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:25Z",
+  "layer_modified_dt": "2023-02-03T21:17:52Z",
   "dc_language_sm": [
     "eng"
   ],

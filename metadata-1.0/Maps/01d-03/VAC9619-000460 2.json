@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000460|G7000 s50 .S68 sheet N-35-20-A",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N-35-20-A Мёры (Miory, Belarus)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000460",
+  "solr_geom": "ENVELOPE(27.75,27.5,55.6667,55.5)",
+  "solr_year_i": "1916",
+  "dc_description_s": "Modern area represented: Miory, Vitebsk oblast, Belarus; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000460\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1mY3T5_LB1cmr7vsKosdliLMUqQFQ6SYv\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_spatial_sm": [
+    "Miory, Belarus",
+    "Belarus"
+  ],
+  "layer_modified_dt": "2022-07-06T01:37:30Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_issued_s": "1916",
+  "dct_temporal_sm": [
+    "1916-1938"
+  ]
+}

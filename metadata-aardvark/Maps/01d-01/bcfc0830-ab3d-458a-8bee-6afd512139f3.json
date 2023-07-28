@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Kibele,  Cuno, cartographer."
+    "Kibele, Cuno"
   ],
   "dct_publisher_sm": [
     "Cuno Kibele"
@@ -24,7 +24,8 @@
     "Landowners",
     "Land ownership",
     "Real property",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1905"
@@ -36,14 +37,14 @@
     "[1905 TO 1905]"
   ],
   "dct_spatial_sm": [
-    "Bluffton, Indiana",
-    "Vera Cruz, Indiana",
-    "Ossian, Indiana",
+    "Indiana--Bluffton",
+    "Indiana--Vera Cruz",
+    "Indiana--Ossian",
     "Indiana",
-    "Wells County, Indiana",
-    "Keystone, Indiana"
+    "Indiana--Wells County",
+    "Indiana--Keystone"
   ],
-  "locn_geometry": "ENVELOPE(-85.45,-85.06,40.91,40.56)",
+  "locn_geometry": "POLYGON((-85.45 40.91, -85.06 40.91, -85.06 40.56, -85.45 40.56, -85.45 40.91))",
   "dcat_bbox": "ENVELOPE(-85.45,-85.06,40.91,40.56)",
   "dcat_centroid": "40.735,-85.255",
   "pcdm_memberOf_sm": [
@@ -59,6 +60,6 @@
   "dct_identifier_sm": [
     "bcfc0830-ab3d-458a-8bee-6afd512139f3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

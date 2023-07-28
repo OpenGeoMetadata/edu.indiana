@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Stapleton,  John T., cartographer."
+    "Stapleton, John T., cartographer."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,7 +21,8 @@
     "Landowners",
     "Land ownership",
     "Real property",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -34,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Monroe County"
   ],
-  "locn_geometry": "ENVELOPE(-86.68,-86.31,39.35,39)",
+  "locn_geometry": "POLYGON((-86.68 39.35, -86.31 39.35, -86.31 39, -86.68 39, -86.68 39.35))",
   "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,39)",
   "dcat_centroid": "39.175,-86.495",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "f9241ac9-19d3-4fb1-8aed-0e2b366e3884"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

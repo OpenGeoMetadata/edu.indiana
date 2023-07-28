@@ -9,12 +9,12 @@
   "solr_year_i": "1887",
   "dc_description_s": "Modern area represented: Kaipiainen, Finland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002392\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1UAJ7BsOFUq0nNDxusGfG3Po-6TPLZAkQ/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002392\"}",
   "dct_spatial_sm": [
-    "Kaipiainen, Finland",
+    "Finland--Kaipiainen",
     "Finland"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:42Z",
+  "layer_modified_dt": "2023-05-09T06:03:32Z",
   "dc_language_sm": [
     "rus"
   ],

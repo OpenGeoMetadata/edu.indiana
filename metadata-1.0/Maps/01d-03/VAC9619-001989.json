@@ -9,13 +9,13 @@
   "solr_year_i": "1940",
   "dc_description_s": "Modern area represented: Каменское (Kamenskoye), Тульская область (Tul'skaya oblast), Россия (Russia); Scale =1:100,000; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001989\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1OsUW3huvU0--ig3Z7ReiEGzhIgSu1zRs\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001989\"}",
   "dct_spatial_sm": [
-    "Kamenskoye, Russia",
-    "Tul'skaya Oblast, Russia",
+    "Russia--Kamenskoye",
+    "Russia--Tul'skaya Oblast",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:28Z",
+  "layer_modified_dt": "2023-05-09T06:04:49Z",
   "dc_language_sm": [
     "rus"
   ],

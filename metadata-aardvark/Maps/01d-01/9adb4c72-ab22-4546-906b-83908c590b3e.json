@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Neill,  N. P.(Nelson Prentice), cartographer."
+    "Neill, N. P.(Nelson Prentice), cartographer."
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Soils",
     "Indiana Historic Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1906"
@@ -35,10 +36,10 @@
     "[1905 TO 1905]"
   ],
   "dct_spatial_sm": [
-    "Tippecanoe County, Indiana",
+    "Indiana--Tippecanoe County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.1,-86.7,40.56,40.21)",
+  "locn_geometry": "POLYGON((-87.1 40.56, -86.7 40.56, -86.7 40.21, -87.1 40.21, -87.1 40.56))",
   "dcat_bbox": "ENVELOPE(-87.1,-86.7,40.56,40.21)",
   "dcat_centroid": "40.385000000000005,-86.9",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "9adb4c72-ab22-4546-906b-83908c590b3e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

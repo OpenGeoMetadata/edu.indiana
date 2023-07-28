@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Buckhannan,  W. H.(William Henry), 1901-cartographer."
+    "Buckhannan, W. H.(William Henry), 1901-cartographer."
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Soils",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1930?"
@@ -33,10 +34,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Vermillion County, Indiana",
+    "Indiana--Vermillion County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.53,-87.38,40.15,39.61)",
+  "locn_geometry": "POLYGON((-87.53 40.15, -87.38 40.15, -87.38 39.61, -87.53 39.61, -87.53 40.15))",
   "dcat_bbox": "ENVELOPE(-87.53,-87.38,40.15,39.61)",
   "dcat_centroid": "39.879999999999995,-87.455",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "a55c277b-3274-4be8-a737-f9b22be003d9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

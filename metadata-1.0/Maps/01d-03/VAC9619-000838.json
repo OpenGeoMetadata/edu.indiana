@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Мотовилівка (Motovylivka), Zhytomyr Oblast, Ukraine; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000838\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=13HQYDFufOqxSafbpvbBdW8sSY3nvKDTC\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000838\"}",
   "dct_spatial_sm": [
-    "Motovylivka, Ukraine",
+    "Ukraine--Motovylivka",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:50Z",
+  "layer_modified_dt": "2023-05-09T06:03:57Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Şirvan, Shirvan district, Azerbaijan; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000696\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1b9G7BDI2it7VKHhbM_NhZuxWQKJmxfME\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000696\"}",
   "dct_spatial_sm": [
-    "Şirvan, Azerbaijan",
+    "Azerbaijan--Şirvan",
     "Azerbaijan"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:43Z",
+  "layer_modified_dt": "2023-05-09T06:04:11Z",
   "dc_language_sm": [
     "rus"
   ],

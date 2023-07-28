@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Fulton County, Indiana"
+    "Indiana--Fulton County"
   ],
-  "locn_geometry": "ENVELOPE(-86.46,-85.95,41.16,40.91)",
+  "locn_geometry": "POLYGON((-86.46 41.16, -85.95 41.16, -85.95 40.91, -86.46 40.91, -86.46 41.16))",
   "dcat_bbox": "ENVELOPE(-86.46,-85.95,41.16,40.91)",
   "dcat_centroid": "41.035,-86.205",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "a8aed8cc-1261-4b58-afb3-0e9c5ccaf1c7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

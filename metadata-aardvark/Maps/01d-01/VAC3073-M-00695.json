@@ -20,7 +20,8 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1875"
@@ -34,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Clark County, Indiana"
+    "Indiana--Clark County"
   ],
-  "locn_geometry": "ENVELOPE(-86,-85.41,38.6,38.26)",
+  "locn_geometry": "POLYGON((-86 38.6, -85.41 38.6, -85.41 38.26, -86 38.26, -86 38.6))",
   "dcat_bbox": "ENVELOPE(-86,-85.41,38.6,38.26)",
   "dcat_centroid": "38.43,-85.705",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00695"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "solr_year_i": "1970",
   "dc_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dc_description_s": "Shows oil and gas producing areas, strip mine areas and shaft mines extracting coal, and dimension limestone quarries and mills. Includes 2 ancillary maps and 2 location maps. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 23. Scale approximately 1:3,000,000",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:05Z",
+  "layer_modified_dt": "2023-02-03T21:22:25Z",
   "dc_language_sm": [
     "eng"
   ],

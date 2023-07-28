@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
   "solr_year_i": "1891",
   "dc_creator_sm": [
-    "Ball,  T. H.(Timothy Horton), 1826-1913, cartographer."
+    "Ball, T. H.(Timothy Horton), 1826-1913, cartographer."
   ],
   "dc_description_s": "Scale approximately 1:63,360.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00294\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00294\"}",
   "dct_spatial_sm": [
-    "Lake County, Indiana",
+    "Indiana--Lake County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:09Z",
+  "layer_modified_dt": "2023-02-03T21:24:56Z",
   "dc_language_sm": [
     "eng"
   ],

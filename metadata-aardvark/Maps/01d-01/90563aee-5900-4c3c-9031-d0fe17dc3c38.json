@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Grant County, Indiana"
+    "Indiana--Grant County"
   ],
-  "locn_geometry": "ENVELOPE(-85.86,-85.45,40.65,40.38)",
+  "locn_geometry": "POLYGON((-85.86 40.65, -85.45 40.65, -85.45 40.38, -85.86 40.38, -85.86 40.65))",
   "dcat_bbox": "ENVELOPE(-85.86,-85.45,40.65,40.38)",
   "dcat_centroid": "40.515,-85.655",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "90563aee-5900-4c3c-9031-d0fe17dc3c38"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

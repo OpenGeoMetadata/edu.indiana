@@ -31,10 +31,10 @@
     "[1905 TO 1936]"
   ],
   "dct_spatial_sm": [
-    "Staicele, Latvia",
+    "Latvia--Staicele",
     "Latvia"
   ],
-  "locn_geometry": "ENVELOPE(25,24.5,58,57.6667)",
+  "locn_geometry": "POLYGON((25 58, 24.5 58, 24.5 57.6667, 25 57.6667, 25 58))",
   "dcat_bbox": "ENVELOPE(25,24.5,58,57.6667)",
   "dcat_centroid": "57.833349999999996,24.75",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002100\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1KTRE46bHP1y7BDxWp65Yi9nDkOtTYeCg\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002100\"}",
   "id": "VAC9619-002100",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002100",
     "G7000 s100 .S7 sheet O-35-74"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:32Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

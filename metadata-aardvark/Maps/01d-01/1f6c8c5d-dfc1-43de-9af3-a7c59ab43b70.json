@@ -30,10 +30,10 @@
     "[1954 TO 1954]"
   ],
   "dct_spatial_sm": [
-    "Bloomington, Indiana",
+    "Indiana--Bloomington",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.55,-86.5,39.1601,39.15)",
+  "locn_geometry": "POLYGON((-86.55 39.1601, -86.5 39.1601, -86.5 39.15, -86.55 39.15, -86.55 39.1601))",
   "dcat_bbox": "ENVELOPE(-86.55,-86.5,39.1601,39.15)",
   "dcat_centroid": "39.15505,-86.525",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "1f6c8c5d-dfc1-43de-9af3-a7c59ab43b70"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:13:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

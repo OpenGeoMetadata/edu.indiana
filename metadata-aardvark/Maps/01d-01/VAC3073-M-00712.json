@@ -19,7 +19,9 @@
   ],
   "dcat_keyword_sm": [
     "Indiana Historic Maps",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "approximately 1950"
@@ -32,9 +34,12 @@
     "[1950 TO 1950]"
   ],
   "dct_spatial_sm": [
-    "Gary, Indiana",
+    "Indiana--Gary",
     "Indiana"
   ],
+  "locn_geometry": "POLYGON((-87.400507 41.610702, -87.265581 41.610702, -87.265581 41.567178, -87.400507 41.567178, -87.400507 41.610702))",
+  "dcat_bbox": "ENVELOPE(-87.400507,-87.265581,41.610702,41.567178)",
+  "dcat_centroid": "41.58894,-87.333044",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,6 +56,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00712"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:41Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

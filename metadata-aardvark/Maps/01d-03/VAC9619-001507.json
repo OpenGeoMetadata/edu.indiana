@@ -34,10 +34,10 @@
     "[1914 TO 1932]"
   ],
   "dct_spatial_sm": [
-    "Podilsk, Ukraine",
+    "Ukraine--Podilsk",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(30,29.5,48,47.6667)",
+  "locn_geometry": "POLYGON((30 48, 29.5 48, 29.5 47.6667, 30 47.6667, 30 48))",
   "dcat_bbox": "ENVELOPE(30,29.5,48,47.6667)",
   "dcat_centroid": "47.833349999999996,29.75",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001507\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1yoB4gIhyBxqMxVG2YSUt4dy0IT4GLUCb/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001507\"}",
   "id": "VAC9619-001507",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001507",
     "G7000 s100 .S7 sheet L-35-12"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:12Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

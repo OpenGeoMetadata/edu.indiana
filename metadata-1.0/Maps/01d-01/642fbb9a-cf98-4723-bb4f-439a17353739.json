@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.1801,-84.8,41.7501,41.51)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
-    "Rakestraw,  O. F., cartographer."
+    "Rakestraw, O. F., cartographer."
   ],
   "dc_description_s": "Includes text. Scale approximately 1:150,000.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00011\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00011\"}",
   "dct_spatial_sm": [
-    "Steuben County, Indiana",
+    "Indiana--Steuben County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:52Z",
+  "layer_modified_dt": "2023-02-03T21:25:53Z",
   "dc_language_sm": [
     "eng"
   ],

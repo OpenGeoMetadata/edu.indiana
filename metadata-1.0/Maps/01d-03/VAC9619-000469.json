@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Zaskarki, Vitebsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000469\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1W5wMcKGsuXHnfAq6GI-bIOdXSIPjRPs8\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000469\"}",
   "dct_spatial_sm": [
-    "Zaskarki, Belarus",
+    "Belarus--Zaskarki",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:31Z",
+  "layer_modified_dt": "2023-05-09T06:05:12Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-85.9801,-85.4001,38.6,38.26)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
-    "Ellis, Robert W."
+    "Ellis, R. W. (Robert W.)"
   ],
   "dc_description_s": "Detached from: A soil survey of Clark, Floyd, and Harrison counties / Robert W. Ellis. In 32nd Annual report of the Indiana Department of Geology and Natural Resources. Scale approximately 1:90,000 By R.W. Ellis.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00249\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00249\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00249\"}",
   "dct_spatial_sm": [
-    "Floyd County, Indiana",
+    "Indiana--Floyd County",
     "Indiana",
-    "Clark County, Indiana"
+    "Indiana--Clark County"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:17Z",
+  "layer_modified_dt": "2023-02-03T21:25:10Z",
   "dc_language_sm": [
     "eng"
   ],

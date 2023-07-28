@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jones, Grove B.,1877-cartographer.",
+    "Jones, Grove B., 1877- cartographer.",
     "Orahood, C. H. (Charley Harold),1882-cartographer."
   ],
   "dct_publisher_sm": [
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -34,10 +35,10 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Montgomery County, Indiana",
+    "Indiana--Montgomery County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.1,-86.7,40.21,39.86)",
+  "locn_geometry": "POLYGON((-87.1 40.21, -86.7 40.21, -86.7 39.86, -87.1 39.86, -87.1 40.21))",
   "dcat_bbox": "ENVELOPE(-87.1,-86.7,40.21,39.86)",
   "dcat_centroid": "40.035,-86.9",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00353"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Tharp, W. E. (William Edgar)",
-    "Quinn, E. J. (Edward J.)"
+    "Quinn, E. J. (Edward J.)",
+    "Tharp, W. E. (William Edgar)"
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -34,10 +35,10 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Boone County, Indiana",
+    "Indiana--Boone County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.7,-86.25,40.18,39.93)",
+  "locn_geometry": "POLYGON((-86.7 40.18, -86.25 40.18, -86.25 39.93, -86.7 39.93, -86.7 40.18))",
   "dcat_bbox": "ENVELOPE(-86.7,-86.25,40.18,39.93)",
   "dcat_centroid": "40.055,-86.475",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00766\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00766\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00766\"}",
   "id": "VAC3073-M-00766",
   "dct_identifier_sm": [
     "VAC3073-M-00766"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }
