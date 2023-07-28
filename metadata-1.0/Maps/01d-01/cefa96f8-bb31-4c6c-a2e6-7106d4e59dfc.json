@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.98,-87.31,38.53,38.16)",
   "solr_year_i": "1939",
   "dc_creator_sm": [
-    "Noble,  Claude E., cartographer."
+    "Noble, Claude E., cartographer."
   ],
   "dc_description_s": "Cadastral map showing landowners.; Blueline.; March 7, 1939. Scale approximately 1:31,680",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00091\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00091\"}",
   "dct_spatial_sm": [
-    "Gibson County, Indiana",
+    "Indiana--Gibson County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:58Z",
+  "layer_modified_dt": "2023-02-03T21:21:05Z",
   "dc_language_sm": [
     "eng"
   ],

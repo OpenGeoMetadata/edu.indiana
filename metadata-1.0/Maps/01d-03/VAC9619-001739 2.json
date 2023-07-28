@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001739|G7000 s50 .S68 sheet O-34-129-D",
+  "dc_rights_s": "Public",
+  "dc_title_s": "О-34-129-D Эзерэ (Ezere, Latvia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001739",
+  "solr_geom": "ENVELOPE(22.5,22.25,56.5,56.333)",
+  "solr_year_i": "1875",
+  "dc_description_s": "Modern area represented: Ezere, Latvia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001739\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1AO8npJGWadw_B5dNv1KXCXPz7ERhNbt6\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_spatial_sm": [
+    "Ezere, Latvia",
+    "Latvia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:38:19Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Управление военных топографов РККА",
+  "dct_issued_s": "1875",
+  "dct_temporal_sm": [
+    "1875-1897"
+  ]
+}

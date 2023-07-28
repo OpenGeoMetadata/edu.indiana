@@ -9,12 +9,12 @@
   "solr_year_i": "1869",
   "dc_description_s": "Modern area represented: Frysztak, Poland; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000179\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=16mENTIlZH45cJpi2Pr7YQ57b0HAKA-Rp\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000179\"}",
   "dct_spatial_sm": [
-    "Frysztak, Poland",
+    "Poland--Frysztak",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:14Z",
+  "layer_modified_dt": "2023-05-09T06:04:02Z",
   "dc_language_sm": [
     "rus"
   ],

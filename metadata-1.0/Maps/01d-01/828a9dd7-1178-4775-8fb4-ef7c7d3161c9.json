@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-87,-85.76,39.78,37.96)",
   "solr_year_i": "2002",
   "dc_creator_sm": [
-    "Powell,  Richard L., cartographer."
+    "Powell, Richard L., cartographer."
   ],
   "dc_description_s": "This map data was compiled in 1997 from information available at the time, but was unpublished until 2002; the map does not reflect any changes in data since 1997.; Includes location map and text. Scale 1:250,000.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:48Z",
+  "layer_modified_dt": "2023-02-03T21:16:25Z",
   "dc_language_sm": [
     "eng"
   ],

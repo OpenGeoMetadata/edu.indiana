@@ -9,12 +9,12 @@
   "solr_year_i": "1916",
   "dc_description_s": "Modern area represented: Elisenvaara, Republic of Karelia, Russia (from 1940).; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002376\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1r__05RId3G4G7IXpLA_zD-h6qObbPKRs/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002376\"}",
   "dct_spatial_sm": [
-    "Elisenvaara, Russia",
+    "Russia--Elisenvaara",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:42Z",
+  "layer_modified_dt": "2023-05-09T06:03:23Z",
   "dc_language_sm": [
     "rus"
   ],

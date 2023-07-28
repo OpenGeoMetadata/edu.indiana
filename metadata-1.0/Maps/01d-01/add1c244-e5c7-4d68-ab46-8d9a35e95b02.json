@@ -5,18 +5,19 @@
   "dc_title_s": "Map of Marion, Ind.",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "add1c244-e5c7-4d68-ab46-8d9a35e95b02",
+  "solr_geom": "ENVELOPE(-85.712968,-85.630399,40.593825,40.508913)",
   "solr_year_i": "1888",
   "dc_creator_sm": [
-    "Baldwin,  Frank M., cartographer."
+    "Baldwin, Frank M., cartographer."
   ],
   "dc_description_s": "Blueprint.; Partial cadastral map showing landowners. Scale 1:7,920. 660 feet to an inch.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00317\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00317\"}",
   "dct_spatial_sm": [
-    "Marion, Indiana",
+    "Indiana--Marion",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-02-27T01:38:36Z",
+  "layer_modified_dt": "2023-02-03T21:21:13Z",
   "dc_language_sm": [
     "eng"
   ],

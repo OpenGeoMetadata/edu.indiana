@@ -17,7 +17,9 @@
     "Tourist maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -30,12 +32,12 @@
     "[1950 TO 1950]"
   ],
   "dct_spatial_sm": [
-    "Brown County State Park, Indiana",
+    "Indiana--Brown County State Park",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.21011,-86.2101,39.13011,39.1301)",
-  "dcat_bbox": "ENVELOPE(-86.21011,-86.2101,39.13011,39.1301)",
-  "dcat_centroid": "39.130105,-86.210105",
+  "locn_geometry": "POLYGON((-86.283906 39.200585, -86.193526 39.200585, -86.193526 39.096248, -86.283906 39.096248, -86.283906 39.200585))",
+  "dcat_bbox": "ENVELOPE(-86.283906,-86.193526,39.200585,39.096248)",
+  "dcat_centroid": "39.148416499999996,-86.23871600000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +51,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00860"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:33Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

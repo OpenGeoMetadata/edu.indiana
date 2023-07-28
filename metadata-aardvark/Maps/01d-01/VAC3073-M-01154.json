@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hurst, Lewis A. (Lewis Alexander),1874-cartographer.",
-    "Grimes, E. J. (Earl Jerome),1893-cartographer."
+    "Grimes, E. J. (Earl Jerome),1893-cartographer.",
+    "Hurst, Lewis A.(Lewis Alexander), 1874-cartographer."
   ],
   "dct_publisher_sm": [
     "Indiana Department of Geology and Natural Resources",
@@ -22,7 +22,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -36,9 +37,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Tipton County, Indiana"
+    "Indiana--Tipton County"
   ],
-  "locn_geometry": "ENVELOPE(-86.06,-86.01,40.2801,40.26)",
+  "locn_geometry": "POLYGON((-86.06 40.2801, -86.01 40.2801, -86.01 40.26, -86.06 40.26, -86.06 40.2801))",
   "dcat_bbox": "ENVELOPE(-86.06,-86.01,40.2801,40.26)",
   "dcat_centroid": "40.27005,-86.035",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-01154"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

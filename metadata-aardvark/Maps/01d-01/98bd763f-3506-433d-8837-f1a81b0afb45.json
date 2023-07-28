@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Thompson,  Todd A.(Todd Alan), 1959-cartographer."
+    "Thompson, Todd A.(Todd Alan), 1959-cartographer."
   ],
   "dct_publisher_sm": [
     "Indiana University, Indiana Geological Survey"
@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Beaches",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2000"
@@ -33,12 +34,12 @@
     "[2000 TO 2000]"
   ],
   "dct_spatial_sm": [
-    "Porter County, Indiana",
-    "Lake County, Indiana",
+    "Indiana--Porter County",
+    "Indiana--Lake County",
     "Lake Michigan",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
+  "locn_geometry": "POLYGON((-87.5101 41.7501, -87.21 41.7501, -87.21 41.1501, -87.5101 41.1501, -87.5101 41.7501))",
   "dcat_bbox": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
   "dcat_centroid": "41.450100000000006,-87.36005",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "98bd763f-3506-433d-8837-f1a81b0afb45"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:44Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

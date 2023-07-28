@@ -32,9 +32,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Wayne County, Indiana"
+    "Indiana--Wayne County"
   ],
-  "locn_geometry": "ENVELOPE(-85.21,-84.8001,40,39.7001)",
+  "locn_geometry": "POLYGON((-85.21 40, -84.8001 40, -84.8001 39.7001, -85.21 39.7001, -85.21 40))",
   "dcat_bbox": "ENVELOPE(-85.21,-84.8001,40,39.7001)",
   "dcat_centroid": "39.850049999999996,-85.00505",
   "pcdm_memberOf_sm": [
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "001dacc4-5977-4e75-ae94-2601c746b58e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

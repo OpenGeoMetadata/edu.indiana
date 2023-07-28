@@ -34,9 +34,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Owen County, Indiana"
+    "Indiana--Owen County"
   ],
-  "locn_geometry": "ENVELOPE(-87.05,-86.6101,39.46,39.1501)",
+  "locn_geometry": "POLYGON((-87.05 39.46, -86.6101 39.46, -86.6101 39.1501, -87.05 39.1501, -87.05 39.46))",
   "dcat_bbox": "ENVELOPE(-87.05,-86.6101,39.46,39.1501)",
   "dcat_centroid": "39.30505,-86.83005",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00753"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:59Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

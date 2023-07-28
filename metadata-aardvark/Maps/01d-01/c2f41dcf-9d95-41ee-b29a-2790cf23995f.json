@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hutchison,  Harold C.(Harold Christy), 1925-cartographer."
+    "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dct_publisher_sm": [
     "State of Indiana, Dept. of Conservation"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Mine maps",
     "Coal mines",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1969"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.1,-86.46,40.73,37.76)",
+  "locn_geometry": "POLYGON((-88.1 40.73, -86.46 40.73, -86.46 37.76, -88.1 37.76, -88.1 40.73))",
   "dcat_bbox": "ENVELOPE(-88.1,-86.46,40.73,37.76)",
   "dcat_centroid": "39.245,-87.28",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "c2f41dcf-9d95-41ee-b29a-2790cf23995f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:06Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

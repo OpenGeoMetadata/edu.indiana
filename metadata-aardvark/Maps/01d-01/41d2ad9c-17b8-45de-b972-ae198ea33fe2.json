@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jones,  W. D.(William De Forest), cartographer."
+    "Jones, W. D.(William De Forest), cartographer."
   ],
   "dct_publisher_sm": [
     "W.D. Jones?"
@@ -24,7 +24,8 @@
     "Landowners",
     "Land ownership",
     "Real property",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -36,10 +37,10 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Lake County, Indiana",
+    "Indiana--Lake County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.5101,-87.21,41.7001,41.1501)",
+  "locn_geometry": "POLYGON((-87.5101 41.7001, -87.21 41.7001, -87.21 41.1501, -87.5101 41.1501, -87.5101 41.7001))",
   "dcat_bbox": "ENVELOPE(-87.5101,-87.21,41.7001,41.1501)",
   "dcat_centroid": "41.4251,-87.36005",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "41d2ad9c-17b8-45de-b972-ae198ea33fe2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:58Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

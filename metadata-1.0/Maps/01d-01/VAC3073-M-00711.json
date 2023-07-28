@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.01,-86.46,40.65,37.75)",
   "solr_year_i": "1974",
   "dc_creator_sm": [
-    "Hutchison, Harold C. (Harold Christy),1925-cartographer."
+    "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dc_description_s": "Blue line print. 'Base modified from Indiana Department of Conservation, Geological Survey. Base map of portion of western Indiana, 1951.' Includes 'Outline map of Indiana showing location of map area', 'Township diagram', and index of 'Active coal mines in Indiana (as of February 1, 1974).' Scale approximately 1:325,000. Compiled by Harold C. Hutchison.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:11Z",
+  "layer_modified_dt": "2023-02-03T21:21:26Z",
   "dc_language_sm": [
     "eng"
   ],

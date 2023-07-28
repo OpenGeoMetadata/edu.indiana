@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
   "solr_year_i": "1870",
   "dc_creator_sm": [
-    "Martin,  Luther R., cartographer."
+    "Martin, Luther R.."
   ],
   "dc_description_s": "Includes names of railroad lines.; Shows boudaries for nine sections of town. Scale not given.",
   "dc_format_s": "JPEG",
@@ -18,10 +18,10 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074450/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00327\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Indianapolis, Indiana",
-    "Marion County, Indiana"
+    "Indiana--Indianapolis",
+    "Indiana--Marion County"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:25Z",
+  "layer_modified_dt": "2023-02-03T21:21:08Z",
   "dc_language_sm": [
     "eng"
   ],

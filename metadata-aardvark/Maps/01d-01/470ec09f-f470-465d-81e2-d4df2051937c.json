@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Whitley County, Indiana",
+    "Indiana--Whitley County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.68,-85.31,41.3,41)",
+  "locn_geometry": "POLYGON((-85.68 41.3, -85.31 41.3, -85.31 41, -85.68 41, -85.68 41.3))",
   "dcat_bbox": "ENVELOPE(-85.68,-85.31,41.3,41)",
   "dcat_centroid": "41.15,-85.495",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "470ec09f-f470-465d-81e2-d4df2051937c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

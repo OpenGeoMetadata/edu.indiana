@@ -9,11 +9,11 @@
   "solr_year_i": "1926",
   "dc_description_s": "Modern area represented: Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001269\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1t4OhII8iHo20yjaTax69QMCIzL9m4cu_\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001269\"}",
   "dct_spatial_sm": [
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:05Z",
+  "layer_modified_dt": "2023-05-09T06:05:02Z",
   "dc_language_sm": [
     "rus"
   ],

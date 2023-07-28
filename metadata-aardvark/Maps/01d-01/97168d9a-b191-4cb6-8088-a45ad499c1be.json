@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Saint Joseph County, Indiana"
+    "Indiana--Saint Joseph County"
   ],
-  "locn_geometry": "ENVELOPE(-86.48,-86.05,41.7501,41.4501)",
+  "locn_geometry": "POLYGON((-86.48 41.7501, -86.05 41.7501, -86.05 41.4501, -86.48 41.4501, -86.48 41.7501))",
   "dcat_bbox": "ENVELOPE(-86.48,-86.05,41.7501,41.4501)",
   "dcat_centroid": "41.6001,-86.265",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "97168d9a-b191-4cb6-8088-a45ad499c1be"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:25Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

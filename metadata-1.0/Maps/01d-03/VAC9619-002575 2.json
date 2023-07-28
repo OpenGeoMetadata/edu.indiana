@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002575|G7000 s100 .S7 sheet Q-36-87",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Q-36-87 Регозеро (Regozero, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002575",
+  "solr_geom": "ENVELOPE(31.5,31,65.667,65.333)",
+  "solr_year_i": "1936",
+  "dc_description_s": "Modern area represented: Regozero, Republic of Karelia, Russia; Scale =1:100,000; Captured map",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002575\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1eud4POGBhgZDI1tXEdqVIa165YjfYwms/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_spatial_sm": [
+    "Regozero, Russia",
+    "Russia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:38:49Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Itä-Karjalan kartasto",
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

@@ -24,10 +24,10 @@
     "[1945 TO 1945]"
   ],
   "dct_spatial_sm": [
-    "Tipton, Indiana",
+    "Indiana--Tipton",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.06,-86.01,40.2801,40.26)",
+  "locn_geometry": "POLYGON((-86.06 40.2801, -86.01 40.2801, -86.01 40.26, -86.06 40.26, -86.06 40.2801))",
   "dcat_bbox": "ENVELOPE(-86.06,-86.01,40.2801,40.26)",
   "dcat_centroid": "40.27005,-86.035",
   "pcdm_memberOf_sm": [
@@ -43,6 +43,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00848"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

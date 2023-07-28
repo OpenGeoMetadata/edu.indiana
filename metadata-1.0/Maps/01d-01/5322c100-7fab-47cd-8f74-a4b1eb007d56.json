@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.5101,-86.5,39.16,39.15)",
   "solr_year_i": "1960",
   "dc_creator_sm": [
-    "Whippo,  Paul D., cartographer."
+    "Whippo, Paul D., cartographer."
   ],
   "dc_description_s": "10/60.; Black and colored pencil and red and blue ink. Scale 1:3,960. 1 = 330'.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00048\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00048\"}",
   "dct_spatial_sm": [
-    "Bloomington, Indiana",
+    "Indiana--Bloomington",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:51Z",
+  "layer_modified_dt": "2023-02-03T21:23:01Z",
   "dc_language_sm": [
     "eng"
   ],

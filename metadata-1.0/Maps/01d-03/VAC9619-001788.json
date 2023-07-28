@@ -9,12 +9,12 @@
   "solr_year_i": "1912",
   "dc_description_s": "Modern area represented: Slobozia de Jos, Argeş county, Romania; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001788\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1TOumye6s-_1DsDti_67i_hYy5aOp2lUJ\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001788\"}",
   "dct_spatial_sm": [
-    "Slobozia De Jos, Romania",
+    "Romania--Slobozia De Jos",
     "Romania"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:21Z",
+  "layer_modified_dt": "2023-05-09T06:05:04Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -9,13 +9,13 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Александровское (Aleksandrovskoye), Stavropol' Krai, Russia; Scale =1:100,000; Для cлужебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002199\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1ZqoerfGv7wyr_6Ditk77haPu-FCVFUHX\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002199\"}",
   "dct_spatial_sm": [
-    "Aleksandrovskoye, Russia",
-    "Stavropol' Krai, Russia",
+    "Russia--Aleksandrovskoye",
+    "Russia--Stavropol' Krai",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:35Z",
+  "layer_modified_dt": "2023-05-09T06:05:24Z",
   "dc_language_sm": [
     "rus"
   ],

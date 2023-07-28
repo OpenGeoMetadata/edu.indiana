@@ -33,10 +33,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Pike County, Indiana",
+    "Indiana--Pike County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.4501,-87.06,38.55,38.2101)",
+  "locn_geometry": "POLYGON((-87.4501 38.55, -87.06 38.55, -87.06 38.2101, -87.4501 38.2101, -87.4501 38.55))",
   "dcat_bbox": "ENVELOPE(-87.4501,-87.06,38.55,38.2101)",
   "dcat_centroid": "38.38005,-87.25505000000001",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00686"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:05Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

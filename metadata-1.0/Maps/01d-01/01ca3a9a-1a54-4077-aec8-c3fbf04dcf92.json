@@ -11,18 +11,18 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00090\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00090\"}",
   "dct_spatial_sm": [
-    "Muncie, Indiana",
-    "Yorktown, Indiana",
-    "Selma, Indiana",
-    "Albany, Indiana",
-    "Delaware County, Indiana",
-    "Gaston, Indiana",
-    "Eaton, Indiana",
+    "Indiana--Muncie",
+    "Indiana--Yorktown",
+    "Indiana--Selma",
+    "Indiana--Albany",
+    "Indiana--Delaware County",
+    "Indiana--Gaston",
+    "Indiana--Eaton",
     "Indiana",
-    "Royerton, Indiana",
-    "Cowan, Indiana"
+    "Indiana--Royerton",
+    "Indiana--Cowan"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:05Z",
+  "layer_modified_dt": "2023-02-03T21:12:55Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -34,10 +34,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Jefferson County, Indiana",
+    "Indiana--Jefferson County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.68,-85.2,38.9001,38.58)",
+  "locn_geometry": "POLYGON((-85.68 38.9001, -85.2 38.9001, -85.2 38.58, -85.68 38.58, -85.68 38.9001))",
   "dcat_bbox": "ENVELOPE(-85.68,-85.2,38.9001,38.58)",
   "dcat_centroid": "38.74005,-85.44",
   "pcdm_memberOf_sm": [
@@ -53,6 +53,6 @@
   "dct_identifier_sm": [
     "7873fffa-a1ad-4287-9c34-d38a9a4df6bd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:04Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,12 +9,12 @@
   "solr_year_i": "1891",
   "dc_description_s": "Modern area represented: Nesterov, Kaliningrad oblast, Russia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003927\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/17HW3aqTETkGc2vQ4G3N9nIj4-_F0Brz0/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003927\"}",
   "dct_spatial_sm": [
-    "Nesterov, Russia",
+    "Russia--Nesterov",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:35Z",
+  "layer_modified_dt": "2023-05-09T06:02:12Z",
   "dc_language_sm": [
     "rus"
   ],

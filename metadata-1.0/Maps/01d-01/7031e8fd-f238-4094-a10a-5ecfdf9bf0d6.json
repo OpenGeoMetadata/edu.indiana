@@ -12,9 +12,9 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074432/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00312\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "State of Ohio, Ohio"
+    "Ohio--State of Ohio"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:08Z",
+  "layer_modified_dt": "2023-02-03T21:11:25Z",
   "dc_language_sm": [
     "eng"
   ],

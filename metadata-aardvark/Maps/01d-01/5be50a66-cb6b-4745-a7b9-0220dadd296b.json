@@ -23,10 +23,10 @@
     "[1970 TO 1970]"
   ],
   "dct_spatial_sm": [
-    "Nashville, Indiana",
+    "Indiana--Nashville",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.2301,-86.2,39.2,39.18)",
+  "locn_geometry": "POLYGON((-86.2301 39.2, -86.2 39.2, -86.2 39.18, -86.2301 39.18, -86.2301 39.2))",
   "dcat_bbox": "ENVELOPE(-86.2301,-86.2,39.2,39.18)",
   "dcat_centroid": "39.19,-86.21504999999999",
   "pcdm_memberOf_sm": [
@@ -42,6 +42,6 @@
   "dct_identifier_sm": [
     "5be50a66-cb6b-4745-a7b9-0220dadd296b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

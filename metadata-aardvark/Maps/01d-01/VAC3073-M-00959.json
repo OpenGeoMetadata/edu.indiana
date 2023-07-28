@@ -7,10 +7,10 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hendrickson, B. H. (Bertram Higbie),1892-surveyor",
     "Bushnell, T. M. (Thomas Mark),1889-1976,surveyor.",
-    "Ulrich, H. P. (Herbert Paul),1904-surveyor.",
-    "Kunkel, D. R. (David Roy),1901-surveyor."
+    "Hendrickson, B. H. (Bertram Higbie),1892-surveyor",
+    "Kunkel, D. R. (David Roy),1901-surveyor.",
+    "Ulrich, H. P. (Herbert Paul),1904-surveyor."
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -23,7 +23,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1930"
@@ -36,11 +37,11 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Ohio County, Indiana",
+    "Indiana--Ohio County",
     "Indiana",
-    "Switzerland County, Indiana"
+    "Indiana--Switzerland County"
   ],
-  "locn_geometry": "ENVELOPE(-85.2,-84.78,39.03,38.7)",
+  "locn_geometry": "POLYGON((-85.2 39.03, -84.78 39.03, -84.78 38.7, -85.2 38.7, -85.2 39.03))",
   "dcat_bbox": "ENVELOPE(-85.2,-84.78,39.03,38.7)",
   "dcat_centroid": "38.865,-84.99000000000001",
   "pcdm_memberOf_sm": [
@@ -56,6 +57,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00959"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

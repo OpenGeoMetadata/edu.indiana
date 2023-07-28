@@ -29,10 +29,10 @@
     "[1959 TO 1959]"
   ],
   "dct_spatial_sm": [
-    "Geist Reservoir, Indiana",
+    "Indiana--Geist Reservoir",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.98,-85.88,39.95,39.8801)",
+  "locn_geometry": "POLYGON((-85.98 39.95, -85.88 39.95, -85.88 39.8801, -85.98 39.8801, -85.98 39.95))",
   "dcat_bbox": "ENVELOPE(-85.98,-85.88,39.95,39.8801)",
   "dcat_centroid": "39.91505,-85.93",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "844957eb-ded3-4af5-be27-58f0515df5fb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

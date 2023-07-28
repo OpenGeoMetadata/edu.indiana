@@ -28,9 +28,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Orange County, Indiana"
+    "Indiana--Orange County"
   ],
-  "locn_geometry": "ENVELOPE(-86.6601,-86.3,38.68,38.3801)",
+  "locn_geometry": "POLYGON((-86.6601 38.68, -86.3 38.68, -86.3 38.3801, -86.6601 38.3801, -86.6601 38.68))",
   "dcat_bbox": "ENVELOPE(-86.6601,-86.3,38.68,38.3801)",
   "dcat_centroid": "38.53005,-86.48005",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00964"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:09Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

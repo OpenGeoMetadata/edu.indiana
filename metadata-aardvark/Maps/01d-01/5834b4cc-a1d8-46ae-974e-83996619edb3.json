@@ -33,10 +33,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Ohio County, Indiana",
+    "Indiana--Ohio County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.13,-84.8101,39.0101,38.9)",
+  "locn_geometry": "POLYGON((-85.13 39.0101, -84.8101 39.0101, -84.8101 38.9, -85.13 38.9, -85.13 39.0101))",
   "dcat_bbox": "ENVELOPE(-85.13,-84.8101,39.0101,38.9)",
   "dcat_centroid": "38.95505,-84.97005",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "5834b4cc-a1d8-46ae-974e-83996619edb3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

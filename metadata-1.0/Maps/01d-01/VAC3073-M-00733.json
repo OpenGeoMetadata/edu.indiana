@@ -13,12 +13,12 @@
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1915.' 'Snyder & Black, N.Y.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by T.M. Bushnell, of the U.s. Department of Agriculture, in charge, and C.P. Erni, of the Indiana Department of Geology.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00733\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00733\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00733\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "White County, Indiana"
+    "Indiana--White County"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:03Z",
+  "layer_modified_dt": "2023-02-03T21:25:10Z",
   "dc_language_sm": [
     "eng"
   ],

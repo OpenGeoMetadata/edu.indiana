@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-92,-80,43,37)",
   "solr_year_i": "1838",
   "dc_creator_sm": [
-    "Hammond, John T.,approximately 1820-cartographer.",
-    "Phelps, Humphrey,active 19th century,publisher.",
-    "Ensign, T.,active 1838-1840,publisher."
+    "Ensign, T., active 1838-1840, publisher",
+    "Hammond, John T., approximately 1820-",
+    "Phelps, Humphrey,active 19th century,publisher."
   ],
   "dc_description_s": "Counties shown in colors. Prime meridian : [Washington]. 'Entered according to act of Congress in the year 1836 by Humphrey Phelps & Bela S. Squire Jr. in the Clerks office in the district court of the southern district of New York.' Insets: Part of Michigan -- Wisconsin Ter'y. -- Missouri. Accompanied by text: Traveller's guide & emigrant's directory, through the states of Ohio, Illinois, Indiana and Michigan. 1 sheet; 44x57 cm folded in binding; 15 cm. Includes 'Table of population.' Scale approximately 1:1,900,000. Drawn & engraved by J.T. Hammond.",
   "dc_format_s": "JPEG",
@@ -22,14 +22,14 @@
     "Illinois",
     "Missouri",
     "Missouri",
-    "Northwest, Old",
+    "Old--Northwest",
     "Indiana",
     "Indiana",
     "Michigan",
     "Wisconsin",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:55Z",
+  "layer_modified_dt": "2023-02-03T21:26:30Z",
   "dc_language_sm": [
     "eng"
   ],

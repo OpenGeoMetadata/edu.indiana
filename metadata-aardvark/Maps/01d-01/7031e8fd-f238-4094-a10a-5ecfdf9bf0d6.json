@@ -27,9 +27,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "State of Ohio, Ohio"
+    "Ohio--State of Ohio"
   ],
-  "locn_geometry": "ENVELOPE(-88,-79,42,37)",
+  "locn_geometry": "POLYGON((-88 42, -79 42, -79 37, -88 37, -88 42))",
   "dcat_bbox": "ENVELOPE(-88,-79,42,37)",
   "dcat_centroid": "39.5,-83.5",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "7031e8fd-f238-4094-a10a-5ecfdf9bf0d6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:08Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

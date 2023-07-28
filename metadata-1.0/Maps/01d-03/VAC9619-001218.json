@@ -9,12 +9,12 @@
   "solr_year_i": "1926",
   "dc_description_s": "Modern area represented: Nizkoborye, Vitebsk oblast, Belarus; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001218\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1M5BB0rpA-V3dRs-dY7p1j-n5vQhD7kH5\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001218\"}",
   "dct_spatial_sm": [
-    "Nizkoborye, Belarus",
+    "Belarus--Nizkoborye",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:03Z",
+  "layer_modified_dt": "2023-05-09T06:04:42Z",
   "dc_language_sm": [
     "rus"
   ],

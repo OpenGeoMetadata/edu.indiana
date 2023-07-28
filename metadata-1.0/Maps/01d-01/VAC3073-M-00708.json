@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-87.23,-86.6601,39.16,38.9)",
   "solr_year_i": "1906",
   "dc_creator_sm": [
-    "Tharp, W. E. (William Edgar)",
-    "Mann, Charles J."
+    "Mann, Charles J.",
+    "Tharp, W. E. (William Edgar)"
   ],
   "dc_description_s": "Shows soil types by colors and symbols. Scale 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils; Indiana Agricultural Experiment Station; soils surveyed by W.E. Tharp and Charles J. Mann, 1906.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00708\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00708\"}",
   "dct_spatial_sm": [
-    "Greene County, Indiana",
+    "Indiana--Greene County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:04Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

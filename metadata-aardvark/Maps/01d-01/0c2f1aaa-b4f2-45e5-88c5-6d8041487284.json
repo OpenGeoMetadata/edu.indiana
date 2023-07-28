@@ -30,10 +30,10 @@
     "[1953 TO 1953]"
   ],
   "dct_spatial_sm": [
-    "Noble County, Indiana",
+    "Indiana--Noble County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.65,-85.2,41.56,41.26)",
+  "locn_geometry": "POLYGON((-85.65 41.56, -85.2 41.56, -85.2 41.26, -85.65 41.26, -85.65 41.56))",
   "dcat_bbox": "ENVELOPE(-85.65,-85.2,41.56,41.26)",
   "dcat_centroid": "41.41,-85.42500000000001",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "0c2f1aaa-b4f2-45e5-88c5-6d8041487284"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:09Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

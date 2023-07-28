@@ -33,10 +33,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Fayette County, Indiana",
+    "Indiana--Fayette County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.3,-85.03,39.78,39.51)",
+  "locn_geometry": "POLYGON((-85.3 39.78, -85.03 39.78, -85.03 39.51, -85.3 39.51, -85.3 39.78))",
   "dcat_bbox": "ENVELOPE(-85.3,-85.03,39.78,39.51)",
   "dcat_centroid": "39.644999999999996,-85.16499999999999",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "9ec63c94-394e-46f3-b7f2-1516546e4ebb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

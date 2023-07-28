@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.23,-86.95,39.61,39.18)",
   "solr_year_i": "1922",
   "dc_creator_sm": [
-    "Jones,  Grove B., 1877-cartographer."
+    "Jones, Grove B., 1877- cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Relief shown by contours and hachures.; Soils surveyed by Grove B. Jones, C.B. Manifold, T.M. Bushnell and R.P. Oyler; Base map in part from U.S. Geological Survey sheets.; Field operations Bureau of Soils 1922. Scale 1:62,500",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00122\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00122\"}",
   "dct_spatial_sm": [
-    "Clay County, Indiana",
+    "Indiana--Clay County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:56Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

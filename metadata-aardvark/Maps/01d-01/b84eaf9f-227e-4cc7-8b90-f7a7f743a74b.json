@@ -34,9 +34,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Monroe Lake, Indiana"
+    "Indiana--Monroe Lake"
   ],
-  "locn_geometry": "ENVELOPE(-86.530482,-86.302639,39.124665,38.993084)",
+  "locn_geometry": "POLYGON((-86.530482 39.124665, -86.302639 39.124665, -86.302639 38.993084, -86.530482 38.993084, -86.530482 39.124665))",
   "dcat_bbox": "ENVELOPE(-86.530482,-86.302639,39.124665,38.993084)",
   "dcat_centroid": "39.0588745,-86.4165605",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "b84eaf9f-227e-4cc7-8b90-f7a7f743a74b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

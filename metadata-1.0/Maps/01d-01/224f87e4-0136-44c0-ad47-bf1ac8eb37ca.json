@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.1,-86.7,40.21,39.86)",
   "solr_year_i": "1941",
   "dc_creator_sm": [
-    "Donica,  Roy E., cartographer."
+    "Donica, Roy E., cartographer."
   ],
   "dc_description_s": "Cadastral map showing landowners.; 1940-1941. Scale 1:31,680. 1 inch = 2640.0 feet, 1/2 mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:2342231/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00217\"}",
   "dct_spatial_sm": [
-    "Montgomery County, Indiana",
+    "Indiana--Montgomery County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:33Z",
+  "layer_modified_dt": "2023-02-03T21:22:30Z",
   "dc_language_sm": [
     "eng"
   ],

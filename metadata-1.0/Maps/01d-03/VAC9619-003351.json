@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Пустая Вишерка (Pustaya Visherka), Novgorodskaya oblast, Russia; Scale =1:50,000; Для служебного пользования; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003351\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1HAbz9xPIPMxBjtR5SOgZydbei2skVOnc/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003351\"}",
   "dct_spatial_sm": [
-    "Pustaya Visherka, Russia",
+    "Russia--Pustaya Visherka",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:15Z",
+  "layer_modified_dt": "2023-05-09T06:02:50Z",
   "dc_language_sm": [
     "rus"
   ],

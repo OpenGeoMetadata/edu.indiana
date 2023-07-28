@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Bakhmach, Chernihiv oblast, Ukraine; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003274\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1umoYAQWJnajCte-zrkNIKjSDraw3Xa0p/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003274\"}",
   "dct_spatial_sm": [
-    "Bakhmach, Ukraine",
+    "Ukraine--Bakhmach",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:12Z",
+  "layer_modified_dt": "2023-05-09T06:03:33Z",
   "dc_language_sm": [
     "rus"
   ],

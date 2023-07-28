@@ -26,10 +26,10 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Montgomery County, Indiana",
+    "Indiana--Montgomery County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.1,-86.7,40.21,39.86)",
+  "locn_geometry": "POLYGON((-87.1 40.21, -86.7 40.21, -86.7 39.86, -87.1 39.86, -87.1 40.21))",
   "dcat_bbox": "ENVELOPE(-87.1,-86.7,40.21,39.86)",
   "dcat_centroid": "40.035,-86.9",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "4f03816d-6179-479f-845f-612f4e2a59c0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:13:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

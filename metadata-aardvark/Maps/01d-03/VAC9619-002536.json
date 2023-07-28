@@ -31,10 +31,10 @@
     "[1936 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Shet District, Kazakhstan",
+    "Kazakhstan--Shet District",
     "Kazakhstan"
   ],
-  "locn_geometry": "ENVELOPE(74,73.5,47.667,47.333)",
+  "locn_geometry": "POLYGON((74 47.667, 73.5 47.667, 73.5 47.333, 74 47.333, 74 47.667))",
   "dcat_bbox": "ENVELOPE(74,73.5,47.667,47.333)",
   "dcat_centroid": "47.5,73.75",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002536\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1y5IUZwmaLqyvAnApTOsei5GF9jgoacq1/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002536\"}",
   "id": "VAC9619-002536",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002536",
     "G7000 s100 .S7 sheet L-43-16"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:47Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

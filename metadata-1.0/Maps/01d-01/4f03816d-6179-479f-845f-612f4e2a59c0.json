@@ -11,10 +11,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074187/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00102\"}",
   "dct_spatial_sm": [
-    "Montgomery County, Indiana",
+    "Indiana--Montgomery County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:33Z",
+  "layer_modified_dt": "2023-02-03T21:13:06Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "solr_year_i": "1960",
   "dc_creator_sm": [
-    "Kingsbury, Robert C.",
-    "Hollingsworth, John M."
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
   ],
   "dc_description_s": "Detached from: Kingsbury, Robert C. Atlas of Indiana, page 42. In lower left margin: A study in toponymy. Scale approximately 1:1,950,000",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:34:04Z",
+  "layer_modified_dt": "2023-02-03T21:18:37Z",
   "dc_language_sm": [
     "eng"
   ],

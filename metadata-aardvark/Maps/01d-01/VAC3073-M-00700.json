@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1977"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.58,-86.46,39.21,39.11)",
+  "locn_geometry": "POLYGON((-86.58 39.21, -86.46 39.21, -86.46 39.11, -86.58 39.11, -86.58 39.21))",
   "dcat_bbox": "ENVELOPE(-86.58,-86.46,39.21,39.11)",
   "dcat_centroid": "39.16,-86.52",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

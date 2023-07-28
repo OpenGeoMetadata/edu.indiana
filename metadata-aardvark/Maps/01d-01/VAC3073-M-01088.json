@@ -34,10 +34,10 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Bartholomew County, Indiana",
+    "Indiana--Bartholomew County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.08,-85.68,39.35,39.03)",
+  "locn_geometry": "POLYGON((-86.08 39.35, -85.68 39.35, -85.68 39.03, -86.08 39.03, -86.08 39.35))",
   "dcat_bbox": "ENVELOPE(-86.08,-85.68,39.35,39.03)",
   "dcat_centroid": "39.19,-85.88",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01088\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01088\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01088\"}",
   "id": "VAC3073-M-01088",
   "dct_identifier_sm": [
     "VAC3073-M-01088"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

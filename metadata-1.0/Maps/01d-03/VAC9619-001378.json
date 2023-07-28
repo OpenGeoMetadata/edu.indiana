@@ -5,16 +5,16 @@
   "dc_title_s": "N-36-65-A Хиславичи (Khislavichi, Russia)",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "VAC9619-001378",
-  "solr_geom": "ENVELOPE(52.25,32,54.3333,54.1667)",
+  "solr_geom": "ENVELOPE(32.11872,32.203899,54.221466,54.159363)",
   "solr_year_i": "1924",
   "dc_description_s": "Modern area represented: Khislavichi, Smolensk oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001378\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1dwujXkvRqxL0gQD7aWD9Re-iazvZ556F\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001378\"}",
   "dct_spatial_sm": [
-    "Khislavichi, Russia",
+    "Russia--Khislavichi",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:08Z",
+  "layer_modified_dt": "2023-06-23T18:47:33Z",
   "dc_language_sm": [
     "rus"
   ],

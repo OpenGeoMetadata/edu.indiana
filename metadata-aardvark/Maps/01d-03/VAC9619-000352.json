@@ -31,10 +31,10 @@
     "[1921 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Gołdap, Poland",
+    "Poland--Gołdap",
     "Poland"
   ],
-  "locn_geometry": "ENVELOPE(22.5,22.25,54.3333,54.1667)",
+  "locn_geometry": "POLYGON((22.5 54.3333, 22.25 54.3333, 22.25 54.1667, 22.5 54.1667, 22.5 54.3333))",
   "dcat_bbox": "ENVELOPE(22.5,22.25,54.3333,54.1667)",
   "dcat_centroid": "54.25,22.375",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000352\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1IbAgvZRp84NPgyJq2AVDuXc8tRsaj-mw\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000352\"}",
   "id": "VAC9619-000352",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000352",
     "G7000 s50 .S68 sheet N-34-69-B"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:25Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

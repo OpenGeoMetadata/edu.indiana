@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Newsom, John F. (John Flesher),1869-1928"
+    "Newsom, John F. (John Flesher), 1869-1928"
   ],
   "dct_publisher_sm": [
     "Indiana Department of Geology and Natural Resources",
@@ -21,7 +21,8 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -37,7 +38,7 @@
     "Indiana",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.11,-85.86,40.11,39.06)",
+  "locn_geometry": "POLYGON((-87.11 40.11, -85.86 40.11, -85.86 39.06, -87.11 39.06, -87.11 40.11))",
   "dcat_bbox": "ENVELOPE(-87.11,-85.86,40.11,39.06)",
   "dcat_centroid": "39.585,-86.485",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00779\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00779\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00779\"}",
   "id": "VAC3073-M-00779",
   "dct_identifier_sm": [
     "VAC3073-M-00779"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

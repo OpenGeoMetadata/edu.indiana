@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-87.21,-86.93,41.71,41.23)",
   "solr_year_i": "1916",
   "dc_creator_sm": [
-    "Bushnell, T. M. (Thomas Mark),1889-1976,cartographer,surveyor.",
-    "Barrett, Wendell,surveyor."
+    "Barrett, Wendell",
+    "Bushnell, T. M. (Thomas Mark),1889-1976,cartographer,surveyor."
   ],
   "dc_description_s": "A. Hoen & Co. Lith. Baltimore, Md.' Includes legend in margins. Scale 1:63,360. 1 inch = 1 mile. Soils surveyed by T.M. Bushnell of the U.S. Department of Agriculture, in charge and Wendell Barrett of the Indiana Department of Geology.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00955\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00955\"}",
   "dct_spatial_sm": [
-    "Porter County, Indiana",
+    "Indiana--Porter County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:29Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

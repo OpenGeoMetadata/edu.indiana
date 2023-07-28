@@ -9,12 +9,12 @@
   "solr_year_i": "1883",
   "dc_description_s": "Modern area represented: Opole, Opole province, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002676\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1zZ7IVy_B0EcLhdD-Q1sxl0__k-upeH_v/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002676\"}",
   "dct_spatial_sm": [
-    "Opole, Poland",
+    "Poland--Opole",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:52Z",
+  "layer_modified_dt": "2023-05-09T06:03:50Z",
   "dc_language_sm": [
     "rus"
   ],

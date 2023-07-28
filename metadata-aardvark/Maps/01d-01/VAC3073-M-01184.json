@@ -7,10 +7,10 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hole, Allen David,1866-1940",
+    "Barnes, Elmer (Soil surveyor)",
+    "Hole, Allen David, 1866-1940",
     "Mills, J. Blair (Soil surveyor)",
-    "Morris, Ralph C. Z. (Soil surveyor)",
-    "Barnes, Elmer (Soil surveyor)"
+    "Morris, Ralph C. Z. (Soil surveyor)"
   ],
   "dct_publisher_sm": [
     "Indiana Department of Geology and Natural Resources",
@@ -24,7 +24,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1914"
@@ -37,10 +38,10 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "Jay County, Indiana",
+    "Indiana--Jay County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.21,-84.8,40.56,40.3)",
+  "locn_geometry": "POLYGON((-85.21 40.56, -84.8 40.56, -84.8 40.3, -85.21 40.3, -85.21 40.56))",
   "dcat_bbox": "ENVELOPE(-85.21,-84.8,40.56,40.3)",
   "dcat_centroid": "40.43,-85.005",
   "pcdm_memberOf_sm": [
@@ -56,6 +57,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-01184"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:56Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

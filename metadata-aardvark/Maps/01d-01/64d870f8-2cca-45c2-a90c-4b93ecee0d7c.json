@@ -26,10 +26,10 @@
     "[1977 TO 1977]"
   ],
   "dct_spatial_sm": [
-    "South Whitley, Indiana",
+    "Indiana--South Whitley",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.63,-85.6001,41.0801,41.06)",
+  "locn_geometry": "POLYGON((-85.63 41.0801, -85.6001 41.0801, -85.6001 41.06, -85.63 41.06, -85.63 41.0801))",
   "dcat_bbox": "ENVELOPE(-85.63,-85.6001,41.0801,41.06)",
   "dcat_centroid": "41.07005,-85.61505",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "64d870f8-2cca-45c2-a90c-4b93ecee0d7c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

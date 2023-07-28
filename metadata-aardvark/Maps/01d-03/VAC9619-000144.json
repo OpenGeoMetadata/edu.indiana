@@ -31,10 +31,10 @@
     "[1883 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Osieck, Poland",
+    "Poland--Osieck",
     "Poland"
   ],
-  "locn_geometry": "ENVELOPE(21.5,21.25,52,51.8333)",
+  "locn_geometry": "POLYGON((21.5 52, 21.25 52, 21.25 51.8333, 21.5 51.8333, 21.5 52))",
   "dcat_bbox": "ENVELOPE(21.5,21.25,52,51.8333)",
   "dcat_centroid": "51.916650000000004,21.375",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000144\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1JeLc3DstLtE1XRVTAu3JbLe7IViEK7PT\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000144\"}",
   "id": "VAC9619-000144",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000144",
     "G7000 s50 .S68 sheet M-34-7-B"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:13Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

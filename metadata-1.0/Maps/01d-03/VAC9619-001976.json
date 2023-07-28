@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Samotevichi, Mogilev oblast, Belarus; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001976\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1yb-VAsnWkk3QAGNi7Yx3eHuO0AekwOSE\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001976\"}",
   "dct_spatial_sm": [
-    "Samotevichi, Belarus",
+    "Belarus--Samotevichi",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:27Z",
+  "layer_modified_dt": "2023-05-09T06:05:19Z",
   "dc_language_sm": [
     "rus"
   ],

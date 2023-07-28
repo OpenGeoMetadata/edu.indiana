@@ -29,7 +29,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.5101,-86.5,39.18,39.1501)",
+  "locn_geometry": "POLYGON((-86.5101 39.18, -86.5 39.18, -86.5 39.1501, -86.5101 39.1501, -86.5101 39.18))",
   "dcat_bbox": "ENVELOPE(-86.5101,-86.5,39.18,39.1501)",
   "dcat_centroid": "39.16505,-86.50505",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00798"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

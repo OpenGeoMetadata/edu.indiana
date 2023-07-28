@@ -26,10 +26,10 @@
     "[1959 TO 1959]"
   ],
   "dct_spatial_sm": [
-    "White River, Indiana",
+    "Indiana--White River",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.73,-85.05,40.2,38.4)",
+  "locn_geometry": "POLYGON((-87.73 40.2, -85.05 40.2, -85.05 38.4, -87.73 38.4, -87.73 40.2))",
   "dcat_bbox": "ENVELOPE(-87.73,-85.05,40.2,38.4)",
   "dcat_centroid": "39.3,-86.39",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "3f0b14be-7133-4c8a-acfe-a66672acca87"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

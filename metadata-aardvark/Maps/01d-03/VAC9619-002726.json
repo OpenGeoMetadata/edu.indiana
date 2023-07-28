@@ -31,10 +31,10 @@
     "[1890 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Brzeziny, Poland",
+    "Poland--Brzeziny",
     "Poland"
   ],
-  "locn_geometry": "ENVELOPE(20,19.5,52,51.667)",
+  "locn_geometry": "POLYGON((20 52, 19.5 52, 19.5 51.667, 20 51.667, 20 52))",
   "dcat_bbox": "ENVELOPE(20,19.5,52,51.667)",
   "dcat_centroid": "51.8335,19.75",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002726\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1aFCg1gjz79gcOSi9wgCX83MO2KgGjJzh/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002726\"}",
   "id": "VAC9619-002726",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002726",
     "G7000 s100 .S7 sheet M-34-4"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:54Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

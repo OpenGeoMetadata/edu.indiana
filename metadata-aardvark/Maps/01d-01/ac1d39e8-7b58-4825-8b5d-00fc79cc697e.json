@@ -33,9 +33,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Cass County, Indiana"
+    "Indiana--Cass County"
   ],
-  "locn_geometry": "ENVELOPE(-86.58,-86.16,40.91,40.56)",
+  "locn_geometry": "POLYGON((-86.58 40.91, -86.16 40.91, -86.16 40.56, -86.58 40.56, -86.58 40.91))",
   "dcat_bbox": "ENVELOPE(-86.58,-86.16,40.91,40.56)",
   "dcat_centroid": "40.735,-86.37",
   "pcdm_memberOf_sm": [
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "ac1d39e8-7b58-4825-8b5d-00fc79cc697e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

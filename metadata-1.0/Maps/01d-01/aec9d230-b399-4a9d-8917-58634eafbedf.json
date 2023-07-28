@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.6841,-86.2753,38.9924,38.6866)",
   "solr_year_i": "1922",
   "dc_creator_sm": [
-    "Tharp,  W. E.(William Edgar), cartographer."
+    "Tharp, W. E.(William Edgar), cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Soils surveyed by W.E. Tharp, of the U.S. Department of Agriculture, in charge, and T.M. Bushnell and J.E. Adams of the Purdue University Agricultural Experiment Station.; Field operations Bureau of Soils 1922. Scale 1:63,360. 1 inch =1 mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00580\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00580\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Lawrence County, Indiana"
+    "Indiana--Lawrence County"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:19Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -33,10 +33,10 @@
     "[1887 TO 1887]"
   ],
   "dct_spatial_sm": [
-    "Marion, Indiana",
+    "Indiana--Marion",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.7101,-85.53,40.58,40.4601)",
+  "locn_geometry": "POLYGON((-85.7101 40.58, -85.53 40.58, -85.53 40.4601, -85.7101 40.4601, -85.7101 40.58))",
   "dcat_bbox": "ENVELOPE(-85.7101,-85.53,40.58,40.4601)",
   "dcat_centroid": "40.52005,-85.62004999999999",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "81ab2854-8e53-4be8-a824-692415b5b757"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

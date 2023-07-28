@@ -35,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Wayne County, Indiana"
+    "Indiana--Wayne County"
   ],
-  "locn_geometry": "ENVELOPE(-85.21,-84.8001,40,39.7001)",
+  "locn_geometry": "POLYGON((-85.21 40, -84.8001 40, -84.8001 39.7001, -85.21 39.7001, -85.21 40))",
   "dcat_bbox": "ENVELOPE(-85.21,-84.8001,40,39.7001)",
   "dcat_centroid": "39.850049999999996,-85.00505",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00002\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00002\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00002\"}",
   "id": "VAC3073-M-00002",
   "dct_identifier_sm": [
     "VAC3073-M-00002"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

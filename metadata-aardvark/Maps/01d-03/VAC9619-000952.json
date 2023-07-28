@@ -34,10 +34,10 @@
     "[1931 TO 1931]"
   ],
   "dct_spatial_sm": [
-    "Krasnyi Kolyadyn, Ukraine",
+    "Ukraine--Krasnyi Kolyadyn",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(33.25,33,51,50.8333)",
+  "locn_geometry": "POLYGON((33.25 51, 33 51, 33 50.8333, 33.25 50.8333, 33.25 51))",
   "dcat_bbox": "ENVELOPE(33.25,33,51,50.8333)",
   "dcat_centroid": "50.916650000000004,33.125",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000952\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=187ehuuXYbkhUIR_mdoQdc0mgHkdXNwe5\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000952\"}",
   "id": "VAC9619-000952",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000952",
     "G7000 s50 .S68 sheet M-36-43-A"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:55Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

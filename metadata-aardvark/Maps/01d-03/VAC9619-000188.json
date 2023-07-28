@@ -34,10 +34,10 @@
     "[1940 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Drohobych, Ukraine",
+    "Ukraine--Drohobych",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(23.75,23.5,49.5,49.3333)",
+  "locn_geometry": "POLYGON((23.75 49.5, 23.5 49.5, 23.5 49.3333, 23.75 49.3333, 23.75 49.5))",
   "dcat_bbox": "ENVELOPE(23.75,23.5,49.5,49.3333)",
   "dcat_centroid": "49.416650000000004,23.625",
   "pcdm_memberOf_sm": [
@@ -51,15 +51,18 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000188\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1MEqHst-PaDcmUBcopuEIqbJT1fLMiZ5i\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000188\"}",
   "id": "VAC9619-000188",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000188",
     "G7000 s50 .S68",
     "zsheet M-34-96-C"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:15Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

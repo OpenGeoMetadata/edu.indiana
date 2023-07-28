@@ -7,9 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hole, Allen David,1866-1940",
-    "Kelly, B. W. (Soil surveyor)",
     "Baldwin, Mark (Soil surveyor)",
+    "Hole, Allen David, 1866-1940",
+    "Kelly, B. W. (Soil surveyor)",
     "Roberts, W. A. (Soil surveyor)"
   ],
   "dct_publisher_sm": [
@@ -24,7 +24,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -37,10 +38,10 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Shelby County, Indiana",
+    "Indiana--Shelby County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.95,-85.6101,39.6801,39.3301)",
+  "locn_geometry": "POLYGON((-85.95 39.6801, -85.6101 39.6801, -85.6101 39.3301, -85.95 39.3301, -85.95 39.6801))",
   "dcat_bbox": "ENVELOPE(-85.95,-85.6101,39.6801,39.3301)",
   "dcat_centroid": "39.5051,-85.78005",
   "pcdm_memberOf_sm": [
@@ -51,11 +52,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01072\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01072\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01072\"}",
   "id": "VAC3073-M-01072",
   "dct_identifier_sm": [
     "VAC3073-M-01072"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:00Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

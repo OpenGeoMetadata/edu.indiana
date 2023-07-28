@@ -34,10 +34,10 @@
     "[1927 TO 1931]"
   ],
   "dct_spatial_sm": [
-    "Kostino, Russia",
+    "Russia--Kostino",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(32.5,32.25,56.3333,56.1667)",
+  "locn_geometry": "POLYGON((32.5 56.3333, 32.25 56.3333, 32.25 56.1667, 32.5 56.1667, 32.5 56.3333))",
   "dcat_bbox": "ENVELOPE(32.5,32.25,56.3333,56.1667)",
   "dcat_centroid": "56.25,32.375",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003496\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1GYX8MG1pr7HLk6E4vDVjIph0M1NGD7w_/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003496\"}",
   "id": "VAC9619-003496",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003496",
     "G7000 s50 .S68 sheet O-36-137-B"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:20Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

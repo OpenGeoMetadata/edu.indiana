@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
   "solr_year_i": "1854",
   "dc_creator_sm": [
-    "Mendenhall,  Edward, cartographer."
+    "Mendenhall, Edward, cartographer."
   ],
   "dc_description_s": "Prime meridian: Washington.; Includes table of population by county. Scale approximately 1:1,013,760.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:27Z",
+  "layer_modified_dt": "2023-02-03T21:16:07Z",
   "dc_language_sm": [
     "eng"
   ],

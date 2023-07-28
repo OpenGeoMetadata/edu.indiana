@@ -35,10 +35,10 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "State of Ohio, Ohio",
-    "State of Illinois, Illinois"
+    "Ohio--State of Ohio",
+    "Illinois--State of Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-90,-80,42,37)",
+  "locn_geometry": "POLYGON((-90 42, -80 42, -80 37, -90 37, -90 42))",
   "dcat_bbox": "ENVELOPE(-90,-80,42,37)",
   "dcat_centroid": "39.5,-85.0",
   "pcdm_memberOf_sm": [
@@ -54,6 +54,6 @@
   "dct_identifier_sm": [
     "36d72dad-5119-4edf-b7c2-96fdd14ebe39"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:52Z",
+  "gbl_mdModified_dt": "2023-02-03T21:14:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

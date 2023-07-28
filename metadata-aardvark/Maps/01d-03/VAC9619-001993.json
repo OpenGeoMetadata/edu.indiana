@@ -34,11 +34,11 @@
     "[1902 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Dyakove, Ukraine",
-    "Luhansk, Ukraine",
+    "Ukraine--Dyakove",
+    "Ukraine--Luhansk",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(39.5,39,48,47.6667)",
+  "locn_geometry": "POLYGON((39.5 48, 39 48, 39 47.6667, 39.5 47.6667, 39.5 48))",
   "dcat_bbox": "ENVELOPE(39.5,39,48,47.6667)",
   "dcat_centroid": "47.833349999999996,39.25",
   "pcdm_memberOf_sm": [
@@ -52,14 +52,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001993\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1sq_QopHU0Yotfn_WLpGDPw_5Td4Y2ko5\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001993\"}",
   "id": "VAC9619-001993",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001993",
     "G7000 s100 .S7 sheet L-37-7"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:28Z",
+  "gbl_mdModified_dt": "2023-05-09T06:05:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

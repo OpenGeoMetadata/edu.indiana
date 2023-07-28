@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-125,-67,49,25)",
   "solr_year_i": "1893",
   "dc_creator_sm": [
-    "McGee, W J,1853-1912",
-    "Bien, Julius,1826-1909."
+    "Bien, Julius, 1826-1909",
+    "McGee, W J, 1853-1912"
   ],
   "dc_description_s": "Relief shown by contour lines. In upper border: U.S. Geological Survey. Fourteenth annual report, pl. II. Shows Indian reservations. Includes legend. Scale approximately 1:7,000,000. Compiled from data in possession of the U.S. Geological Survey by W.J. McGee, 1893.",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:31Z",
+  "layer_modified_dt": "2023-02-03T21:24:18Z",
   "dc_language_sm": [
     "eng"
   ],

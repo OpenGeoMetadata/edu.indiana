@@ -8,19 +8,19 @@
   "solr_geom": "ENVELOPE(-85.21,-84.8,40.56,40.3)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
-    "Hole, Allen David,1866-1940",
+    "Barnes, Elmer (Soil surveyor)",
+    "Hole, Allen David, 1866-1940",
     "Mills, J. Blair (Soil surveyor)",
-    "Morris, Ralph C. Z. (Soil surveyor)",
-    "Barnes, Elmer (Soil surveyor)"
+    "Morris, Ralph C. Z. (Soil surveyor)"
   ],
   "dc_description_s": "Detached from: Soil survey of Jay County / Allen David Hole. In 39th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:84,000 Soils surveyed in 1914 by Allen D. Hole, assisted by J. Blair Mills, Ralph C.Z. Morris, and Elmer Barnes.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01184\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01184\"}",
   "dct_spatial_sm": [
-    "Jay County, Indiana",
+    "Indiana--Jay County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:56Z",
+  "layer_modified_dt": "2023-02-03T21:25:11Z",
   "dc_language_sm": [
     "eng"
   ],

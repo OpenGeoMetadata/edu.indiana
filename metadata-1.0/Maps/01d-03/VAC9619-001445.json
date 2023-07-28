@@ -9,12 +9,12 @@
   "solr_year_i": "1931",
   "dc_description_s": "Modern area represented: Galichi, Mogilev oblast, Belarus; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001445\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1qTzU_Ok50JYyqehnESugCq4d044yE3ww\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001445\"}",
   "dct_spatial_sm": [
-    "Galichi, Belarus",
+    "Belarus--Galichi",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:10Z",
+  "layer_modified_dt": "2023-05-09T06:04:55Z",
   "dc_language_sm": [
     "rus"
   ],

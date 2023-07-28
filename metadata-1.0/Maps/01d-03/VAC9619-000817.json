@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Şǝki, Azerbaijan; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000817\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1c6nxY2kfBPOUTDNfuEZcq4Tq78EEvbf7\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000817\"}",
   "dct_spatial_sm": [
-    "Şǝki, Azerbaijan",
+    "Azerbaijan--Şǝki",
     "Azerbaijan"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:49Z",
+  "layer_modified_dt": "2023-05-09T06:04:14Z",
   "dc_language_sm": [
     "rus"
   ],

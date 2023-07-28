@@ -26,10 +26,10 @@
     "[1946 TO 1946]"
   ],
   "dct_spatial_sm": [
-    "Fort Wayne, Indiana",
+    "Indiana--Fort Wayne",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "locn_geometry": "POLYGON((-85.3 41.1801, -84.9801 41.1801, -84.9801 40.9501, -85.3 40.9501, -85.3 41.1801))",
   "dcat_bbox": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
   "dcat_centroid": "41.0651,-85.14005",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "f47bb631-6471-443b-b5e2-ce23d4262f26"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

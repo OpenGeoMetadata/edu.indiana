@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Kapyl, Minsk oblast, Belarus; Scale =1:50,000; Не подлежит оглашению Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000672\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=11e2ZtLH9wfsEGtZPrIJ-krRFzvy9CV4X\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000672\"}",
   "dct_spatial_sm": [
-    "Kapyl, Belarus",
+    "Belarus--Kapyl",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:42Z",
+  "layer_modified_dt": "2023-05-09T06:03:54Z",
   "dc_language_sm": [
     "rus"
   ],

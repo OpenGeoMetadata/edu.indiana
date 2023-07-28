@@ -9,12 +9,12 @@
   "solr_year_i": "1908",
   "dc_description_s": "Modern area represented: Dzheguta, Karachayevo-Cherkesiya Republic, Russia; Scale =1:100,000; Временное издание Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000718\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1kp0kGErywYJdw2pwrWDo3C-X9cu0C8Xk\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000718\"}",
   "dct_spatial_sm": [
-    "Dzheguta, Russia",
+    "Russia--Dzheguta",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:44Z",
+  "layer_modified_dt": "2023-05-09T06:04:38Z",
   "dc_language_sm": [
     "rus"
   ],

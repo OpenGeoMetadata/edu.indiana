@@ -9,12 +9,12 @@
   "solr_year_i": "1891",
   "dc_description_s": "Modern area represented: Петровское (Petrovskoye), Leningradskaya oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002936\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1r2-z7C_NE3fbwlcufonbI5vtyHmS-Tmo/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002936\"}",
   "dct_spatial_sm": [
-    "Petrovskoye, Russia",
+    "Russia--Petrovskoye",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:01Z",
+  "layer_modified_dt": "2023-05-09T06:03:22Z",
   "dc_language_sm": [
     "rus"
   ],

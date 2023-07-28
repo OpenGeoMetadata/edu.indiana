@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-85.9,-85.56,38.83,38.56)",
   "solr_year_i": "1904",
   "dc_creator_sm": [
-    "Mangum, A. W.,cartographer,surveyor.",
+    "Mangum, A. W., cartographer, surveyor.",
     "Neill, N. P. (Nelson Prentice),cartographer,surveyor."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1904. 'Andrew B. Graham Co. Lithographers Washington DC.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept of Agriculture, Bureau of Soils, soils surveyed by A.W. Mangum and N.P. Neill.",
@@ -16,9 +16,9 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00998\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00998\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Scott County, Indiana"
+    "Indiana--Scott County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:32Z",
+  "layer_modified_dt": "2023-02-03T21:25:10Z",
   "dc_language_sm": [
     "eng"
   ],

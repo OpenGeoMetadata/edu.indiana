@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Dubois County, Indiana",
+    "Indiana--Dubois County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.06,-86.68,38.53,38.2)",
+  "locn_geometry": "POLYGON((-87.06 38.53, -86.68 38.53, -86.68 38.2, -87.06 38.2, -87.06 38.53))",
   "dcat_bbox": "ENVELOPE(-87.06,-86.68,38.53,38.2)",
   "dcat_centroid": "38.365,-86.87",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "835a1428-6de5-46e7-b39b-1b1489248382"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

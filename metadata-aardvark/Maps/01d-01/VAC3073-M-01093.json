@@ -25,7 +25,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -38,10 +39,10 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Clay County, Indiana",
+    "Indiana--Clay County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.23,-86.93,39.6,39.16)",
+  "locn_geometry": "POLYGON((-87.23 39.6, -86.93 39.6, -86.93 39.16, -87.23 39.16, -87.23 39.6))",
   "dcat_bbox": "ENVELOPE(-87.23,-86.93,39.6,39.16)",
   "dcat_centroid": "39.379999999999995,-87.08000000000001",
   "pcdm_memberOf_sm": [
@@ -52,11 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01093\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01093\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01093\"}",
   "id": "VAC3073-M-01093",
   "dct_identifier_sm": [
     "VAC3073-M-01093"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

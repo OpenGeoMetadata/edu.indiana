@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1914"
@@ -35,9 +36,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Warren County, Indiana"
+    "Indiana--Warren County"
   ],
-  "locn_geometry": "ENVELOPE(-87.53,-87.1,40.46,40.11)",
+  "locn_geometry": "POLYGON((-87.53 40.46, -87.1 40.46, -87.1 40.11, -87.53 40.11, -87.53 40.46))",
   "dcat_bbox": "ENVELOPE(-87.53,-87.1,40.46,40.11)",
   "dcat_centroid": "40.285,-87.315",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00694\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00694\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00694\"}",
   "id": "VAC3073-M-00694",
   "dct_identifier_sm": [
     "VAC3073-M-00694"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

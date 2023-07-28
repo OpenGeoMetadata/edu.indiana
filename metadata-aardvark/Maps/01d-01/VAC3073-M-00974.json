@@ -27,10 +27,10 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Shelby County, Indiana",
+    "Indiana--Shelby County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.95,-85.6101,39.6801,39.3301)",
+  "locn_geometry": "POLYGON((-85.95 39.6801, -85.6101 39.6801, -85.6101 39.3301, -85.95 39.3301, -85.95 39.6801))",
   "dcat_bbox": "ENVELOPE(-85.95,-85.6101,39.6801,39.3301)",
   "dcat_centroid": "39.5051,-85.78005",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00974"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

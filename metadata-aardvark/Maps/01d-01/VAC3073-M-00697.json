@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Decatur County, Indiana"
+    "Indiana--Decatur County"
   ],
-  "locn_geometry": "ENVELOPE(-85.68,-85.3,39.45,39.13)",
+  "locn_geometry": "POLYGON((-85.68 39.45, -85.3 39.45, -85.3 39.13, -85.68 39.13, -85.68 39.45))",
   "dcat_bbox": "ENVELOPE(-85.68,-85.3,39.45,39.13)",
   "dcat_centroid": "39.290000000000006,-85.49000000000001",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00697"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

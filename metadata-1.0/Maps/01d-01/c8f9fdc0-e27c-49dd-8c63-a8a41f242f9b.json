@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-54.71036,-54.559552,-22.161613,-22.355014)",
   "solr_year_i": "1909",
   "dc_creator_sm": [
-    "Palmer,  Thos. W.(Thomas W.), cartographer."
+    "Palmer, Thos. W. (Thomas W.)"
   ],
   "dc_description_s": "Scale 1:15,840. 4 inches to mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00411\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00411\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Indianapolis, Indiana",
-    "Marion County, Indiana"
+    "Indiana--Indianapolis",
+    "Indiana--Marion County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:01Z",
+  "layer_modified_dt": "2023-02-03T21:21:08Z",
   "dc_language_sm": [
     "eng"
   ],

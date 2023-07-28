@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Kelley,  John A., C.E., cartographer."
+    "Kelley, John A., C.E., cartographer."
   ],
   "dct_publisher_sm": [
     "John A. Kelley?"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1936"
@@ -30,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "LaPorte County, Indiana"
+    "Indiana--LaPorte County"
   ],
-  "locn_geometry": "ENVELOPE(-86.93,-86.48,41.7501,41.23)",
+  "locn_geometry": "POLYGON((-86.93 41.7501, -86.48 41.7501, -86.48 41.23, -86.93 41.23, -86.93 41.7501))",
   "dcat_bbox": "ENVELOPE(-86.93,-86.48,41.7501,41.23)",
   "dcat_centroid": "41.49005,-86.70500000000001",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "dc6cafc7-403f-4358-92ab-b509739aa9b6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

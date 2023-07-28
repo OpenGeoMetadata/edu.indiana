@@ -5,15 +5,16 @@
   "dc_title_s": "City of Valparaiso, in sec's 23, 24, 25 and 26 T. 35, R. 6 W, Porter Co., Ind.",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "afaf88a2-2c88-4522-95f0-dc7b07dc34ba",
+  "solr_geom": "ENVELOPE(-87.075189,-87.046093,41.478967,41.454398)",
   "solr_year_i": "1890",
   "dc_description_s": "Text and illustrations surround the map. Scale approximately 1:9,108. 46+ rods = 1 inch",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00123\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00123\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Valparaiso, Indiana"
+    "Indiana--Valparaiso"
   ],
-  "layer_modified_dt": "2022-02-27T01:36:27Z",
+  "layer_modified_dt": "2023-02-03T21:17:35Z",
   "dc_language_sm": [
     "eng"
   ],

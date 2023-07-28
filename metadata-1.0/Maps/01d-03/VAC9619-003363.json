@@ -9,12 +9,12 @@
   "solr_year_i": "1937",
   "dc_description_s": "Modern area represented: Люболяды (Lyubolyady), Novgorodskaya oblast, Russia; Scale =1:50,000; Для служебного пользования; Captured map",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003363\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1ZDggAdZ_3laR_snLCNc-7jxa2T1MoShO/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003363\"}",
   "dct_spatial_sm": [
-    "Lyubolyady, Russia",
+    "Russia--Lyubolyady",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:15Z",
+  "layer_modified_dt": "2023-05-09T06:03:48Z",
   "dc_language_sm": [
     "rus"
   ],

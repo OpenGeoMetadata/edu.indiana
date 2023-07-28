@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.08,-85.65,41.45,41.03)",
   "solr_year_i": "1922",
   "dc_creator_sm": [
-    "Tharp,  W. E.(William Edgar), cartographer."
+    "Tharp, W. E.(William Edgar), cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Relief shown by contours and hachures.; Soils surveyed by W.E. Tharp, Earl D. Fowler, L.S. Troth and H.R. Beyer.; Field operations Bureau of Soils 1922. Scale 1:63,360. 1 inch = 1 mile",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00585\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00585\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Kosciusko County, Indiana"
+    "Indiana--Kosciusko County"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:16Z",
+  "layer_modified_dt": "2023-02-03T21:25:09Z",
   "dc_language_sm": [
     "eng"
   ],

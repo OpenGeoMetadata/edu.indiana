@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ault,  Curtis H., cartographer."
+    "Ault, Curtis H."
   ],
   "dct_publisher_sm": [
     "Indiana University, Indiana Geological Survey"
@@ -24,7 +24,8 @@
     "Pennsylvanian Geologic Period",
     "Geology",
     "Coal",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1997"
@@ -36,10 +37,10 @@
     "[1997 TO 1997]"
   ],
   "dct_spatial_sm": [
-    "Posey County, Indiana",
+    "Indiana--Posey County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.1,-87.68,38.23,37.76)",
+  "locn_geometry": "POLYGON((-88.1 38.23, -87.68 38.23, -87.68 37.76, -88.1 37.76, -88.1 38.23))",
   "dcat_bbox": "ENVELOPE(-88.1,-87.68,38.23,37.76)",
   "dcat_centroid": "37.995,-87.89",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "30e077e0-26b2-49ad-931e-81ca7e2ad383"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

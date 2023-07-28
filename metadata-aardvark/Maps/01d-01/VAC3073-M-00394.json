@@ -7,9 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ashley, Geo. H. (George Hall),1866-1951",
-    "Kindle, E. M. (Edward Martin),1869-1940.",
-    "Blatchley, W. S. (Willis Stanley),1859-1940"
+    "Ashley, Geo. H. (George Hall), 1866-1951",
+    "Blatchley, W. S. (Willis Stanley), 1859-1940",
+    "Kindle, E. M. (Edward Martin),1869-1940."
   ],
   "dct_publisher_sm": [
     "Indiana Department of Geology and Natural Resources",
@@ -27,7 +27,8 @@
   ],
   "dcat_keyword_sm": [
     "Geological cross-sections",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -43,7 +44,7 @@
     "Indiana",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.8,-85.7501,38.41,37.83)",
+  "locn_geometry": "POLYGON((-86.8 38.41, -85.7501 38.41, -85.7501 37.83, -86.8 37.83, -86.8 38.41))",
   "dcat_bbox": "ENVELOPE(-86.8,-85.7501,38.41,37.83)",
   "dcat_centroid": "38.12,-86.27505",
   "pcdm_memberOf_sm": [
@@ -54,11 +55,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00394\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00394\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00394\"}",
   "id": "VAC3073-M-00394",
   "dct_identifier_sm": [
     "VAC3073-M-00394"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

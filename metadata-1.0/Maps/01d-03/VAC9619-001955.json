@@ -9,13 +9,13 @@
   "solr_year_i": "1895",
   "dc_description_s": "Modern area represented: Евпатория (Yevpatoriya), Republic of Crimea, Ukraine; Scale =1:100,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001955\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1BtkwQn0L-XQPkON9n_c9ainj7EtEYvHh\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001955\"}",
   "dct_spatial_sm": [
-    "Yevpatoriya, Ukraine",
-    "Republic Of Crimea, Ukraine",
+    "Ukraine--Yevpatoriya",
+    "Ukraine--Republic Of Crimea",
     "Ukraine"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:27Z",
+  "layer_modified_dt": "2023-05-09T06:04:12Z",
   "dc_language_sm": [
     "rus"
   ],

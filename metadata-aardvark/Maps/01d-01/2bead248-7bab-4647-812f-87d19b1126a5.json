@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Rush County, Indiana",
+    "Indiana--Rush County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.63,-85.3,39.78,39.45)",
+  "locn_geometry": "POLYGON((-85.63 39.78, -85.3 39.78, -85.3 39.45, -85.63 39.45, -85.63 39.78))",
   "dcat_bbox": "ENVELOPE(-85.63,-85.3,39.78,39.45)",
   "dcat_centroid": "39.615,-85.465",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "2bead248-7bab-4647-812f-87d19b1126a5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:44Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

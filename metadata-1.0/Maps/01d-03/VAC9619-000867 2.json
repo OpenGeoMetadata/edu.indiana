@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000867|G7000 s100 .S7 sheet K-52-3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "K-52-3 Цзяохэ (Minzhu, China)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-000867",
+  "solr_geom": "ENVELOPE(127.5,127,44,43.6667)",
+  "solr_year_i": "1880",
+  "dc_description_s": "Modern area represented: Minzhu, Jilin province, China; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000867\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1sRu7iY9GXBrkJbPF8-XiGHefCk2YCi8x\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_spatial_sm": [
+    "Minzhu, China",
+    "China"
+  ],
+  "layer_modified_dt": "2022-07-06T01:37:51Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "between 1880 and 1942"
+  ]
+}

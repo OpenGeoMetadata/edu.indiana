@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Eggert,  Donald L., cartographer."
+    "Eggert, Donald L., cartographer."
   ],
   "dct_publisher_sm": [
     "Indiana Geological Survey"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Mine",
     "Coal",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1979"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "locn_geometry": "POLYGON((-88.11 41.75, -84.75 41.75, -84.75 37.86, -88.11 37.86, -88.11 41.75))",
   "dcat_bbox": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
   "dcat_centroid": "39.805,-86.43",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "b563e0fc-e0cf-4683-a0f2-69814b4b3dd5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

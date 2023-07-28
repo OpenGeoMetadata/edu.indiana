@@ -9,12 +9,12 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Кострубле (Kostruble), Tverskaya oblast, Russia; Scale =1:50,000; Для служебного пользования",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003535\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1QDlMGkmv8VYRkMLbUljh11YMjbuAlbNM/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003535\"}",
   "dct_spatial_sm": [
-    "Kostruble, Russia",
+    "Russia--Kostruble",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:21Z",
+  "layer_modified_dt": "2023-05-09T06:03:20Z",
   "dc_language_sm": [
     "rus"
   ],

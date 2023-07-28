@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
   "solr_year_i": "1889",
   "dc_creator_sm": [
-    "Huntoon,  L. P., cartographer."
+    "Huntoon, L. P., cartographer."
   ],
   "dc_description_s": "Partial cadastral map showing landowners. Scale 1:4,800. 400 feet to 1 inch.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00330\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00330\"}",
   "dct_spatial_sm": [
-    "Fort Wayne, Indiana",
+    "Indiana--Fort Wayne",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:53Z",
+  "layer_modified_dt": "2023-02-03T21:21:30Z",
   "dc_language_sm": [
     "eng"
   ],

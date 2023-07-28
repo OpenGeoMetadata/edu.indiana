@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Whitwell,  Stedman, cartographer."
+    "Whitwell, Stedman"
   ],
   "dct_publisher_sm": [
     "Historic Urban Plans"
@@ -23,7 +23,9 @@
   ],
   "dcat_keyword_sm": [
     "Indiana Historic Maps",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1825"
@@ -37,8 +39,11 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "New Harmony, Indiana"
+    "Indiana--New Harmony"
   ],
+  "locn_geometry": "POLYGON((-87.943087 38.134557, -87.921483 38.134557, -87.921483 38.121688, -87.943087 38.121688, -87.943087 38.134557))",
+  "dcat_bbox": "ENVELOPE(-87.943087,-87.921483,38.134557,38.121688)",
+  "dcat_centroid": "38.1281225,-87.93228500000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +60,6 @@
   "dct_identifier_sm": [
     "32741ce3-b377-4b42-969c-f8cb3ebef419"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:35:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

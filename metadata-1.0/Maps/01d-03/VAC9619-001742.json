@@ -9,11 +9,11 @@
   "solr_year_i": "1873",
   "dc_description_s": "Modern area represented: Latvia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001742\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1YMeeAM99JchcvN2yFK5eKaTZIf34nzsP\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001742\"}",
   "dct_spatial_sm": [
     "Latvia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:19Z",
+  "layer_modified_dt": "2023-05-09T06:05:20Z",
   "dc_language_sm": [
     "rus"
   ],

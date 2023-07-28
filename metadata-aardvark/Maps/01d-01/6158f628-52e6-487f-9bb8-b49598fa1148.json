@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Bicycle trails",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1998"
@@ -31,9 +32,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Bloomington, Indiana"
+    "Indiana--Bloomington"
   ],
-  "locn_geometry": "ENVELOPE(-86.54,-86.5,39.18,39.14)",
+  "locn_geometry": "POLYGON((-86.54 39.18, -86.5 39.18, -86.5 39.14, -86.54 39.14, -86.54 39.18))",
   "dcat_bbox": "ENVELOPE(-86.54,-86.5,39.18,39.14)",
   "dcat_centroid": "39.16,-86.52000000000001",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "6158f628-52e6-487f-9bb8-b49598fa1148"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

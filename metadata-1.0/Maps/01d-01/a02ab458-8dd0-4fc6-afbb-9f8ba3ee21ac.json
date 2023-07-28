@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
   "solr_year_i": "1947",
   "dc_creator_sm": [
-    "McAnlis,  C. R., cartographer."
+    "McAnlis, C. R., cartographer."
   ],
   "dc_description_s": "Includes distance circles, street index and ill. Scale approximately 1:22,600.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00577\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00577\"}",
   "dct_spatial_sm": [
-    "Fort Wayne, Indiana",
+    "Indiana--Fort Wayne",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:19Z",
+  "layer_modified_dt": "2023-02-03T21:25:55Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -33,11 +33,11 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Ohio County, Indiana",
+    "Indiana--Ohio County",
     "Indiana",
-    "Vanderburgh County, Indiana"
+    "Indiana--Vanderburgh County"
   ],
-  "locn_geometry": "ENVELOPE(-87.7,-87.4301,38.16,37.81)",
+  "locn_geometry": "POLYGON((-87.7 38.16, -87.4301 38.16, -87.4301 37.81, -87.7 37.81, -87.7 38.16))",
   "dcat_bbox": "ENVELOPE(-87.7,-87.4301,38.16,37.81)",
   "dcat_centroid": "37.985,-87.56505",
   "pcdm_memberOf_sm": [
@@ -53,6 +53,6 @@
   "dct_identifier_sm": [
     "f919fc69-b18d-468a-8b49-c2da96c0bfa4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

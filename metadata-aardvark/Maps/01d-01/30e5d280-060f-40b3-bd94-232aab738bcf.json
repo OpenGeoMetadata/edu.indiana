@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Brainard,  Noble E., cartographer."
+    "Brainard, Noble E., cartographer."
   ],
   "dct_publisher_sm": [
     "News-Sentinel"
@@ -22,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Indiana Historic Maps",
-    "sprint-oct2020"
+    "sprint-oct2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1812"
@@ -35,10 +36,10 @@
     "[1812 TO 1812]"
   ],
   "dct_spatial_sm": [
-    "Fort Wayne, Indiana",
+    "Indiana--Fort Wayne",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "locn_geometry": "POLYGON((-85.3 41.1801, -84.9801 41.1801, -84.9801 40.9501, -85.3 40.9501, -85.3 41.1801))",
   "dcat_bbox": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
   "dcat_centroid": "41.0651,-85.14005",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "30e5d280-060f-40b3-bd94-232aab738bcf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

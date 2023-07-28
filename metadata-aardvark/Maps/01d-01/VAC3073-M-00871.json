@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Jay County, Indiana",
+    "Indiana--Jay County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.21,-84.8,40.56,40.31)",
+  "locn_geometry": "POLYGON((-85.21 40.56, -84.8 40.56, -84.8 40.31, -85.21 40.31, -85.21 40.56))",
   "dcat_bbox": "ENVELOPE(-85.21,-84.8,40.56,40.31)",
   "dcat_centroid": "40.435,-85.005",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00871"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

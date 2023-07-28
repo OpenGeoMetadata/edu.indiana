@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Boegley,  Abraham, cartographer."
+    "Boegley, Abraham, cartographer."
   ],
   "dct_publisher_sm": [
     "Decatur Abstract and Loan Co."
@@ -24,7 +24,8 @@
     "Landowners",
     "Land ownership",
     "Real property",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -36,10 +37,10 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Adams County, Indiana",
+    "Indiana--Adams County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.06,-84.8,40.91,40.56)",
+  "locn_geometry": "POLYGON((-85.06 40.91, -84.8 40.91, -84.8 40.56, -85.06 40.56, -85.06 40.91))",
   "dcat_bbox": "ENVELOPE(-85.06,-84.8,40.91,40.56)",
   "dcat_centroid": "40.735,-84.93",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "154945d6-6c60-4df5-90f4-f87e8c7d51ed"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:36Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

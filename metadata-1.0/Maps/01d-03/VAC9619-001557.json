@@ -9,12 +9,12 @@
   "solr_year_i": "1928",
   "dc_description_s": "Modern area represented: Zlynka, Bryansk oblast, Russia; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001557\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=16_idUtLHfzb14nWucyDFo6LZMv_m6-s4\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001557\"}",
   "dct_spatial_sm": [
-    "Zlynka, Russia",
+    "Russia--Zlynka",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:14Z",
+  "layer_modified_dt": "2023-05-09T06:04:01Z",
   "dc_language_sm": [
     "rus"
   ],

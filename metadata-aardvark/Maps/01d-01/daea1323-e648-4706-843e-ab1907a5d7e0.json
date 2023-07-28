@@ -32,10 +32,10 @@
     "[1927 TO 1927]"
   ],
   "dct_spatial_sm": [
-    "Terre Haute, Indiana",
+    "Indiana--Terre Haute",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.46,-87.2601,39.5101,39.4)",
+  "locn_geometry": "POLYGON((-87.46 39.5101, -87.2601 39.5101, -87.2601 39.4, -87.46 39.4, -87.46 39.5101))",
   "dcat_bbox": "ENVELOPE(-87.46,-87.2601,39.5101,39.4)",
   "dcat_centroid": "39.45505,-87.36005",
   "pcdm_memberOf_sm": [
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "daea1323-e648-4706-843e-ab1907a5d7e0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

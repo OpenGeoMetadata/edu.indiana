@@ -33,7 +33,7 @@
     "Indiana",
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-87.5,-87.2601,41.6801,41.5301)",
+  "locn_geometry": "POLYGON((-87.5 41.6801, -87.2601 41.6801, -87.2601 41.5301, -87.5 41.5301, -87.5 41.6801))",
   "dcat_bbox": "ENVELOPE(-87.5,-87.2601,41.6801,41.5301)",
   "dcat_centroid": "41.6051,-87.38005",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00938\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00938\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00938\"}",
   "id": "VAC3073-M-00938",
   "dct_identifier_sm": [
     "VAC3073-M-00938"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:18Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

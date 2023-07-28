@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -30,9 +31,9 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Gary, Indiana"
+    "Indiana--Gary"
   ],
-  "locn_geometry": "ENVELOPE(-87.6601,-86.8301,41.8801,41.3801)",
+  "locn_geometry": "POLYGON((-87.6601 41.8801, -86.8301 41.8801, -86.8301 41.3801, -87.6601 41.3801, -87.6601 41.8801))",
   "dcat_bbox": "ENVELOPE(-87.6601,-86.8301,41.8801,41.3801)",
   "dcat_centroid": "41.6301,-87.24510000000001",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00742"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:04Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

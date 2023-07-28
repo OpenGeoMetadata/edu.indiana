@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001820|G7000 s50 .S68 sheet O-35-25-C",
+  "dc_rights_s": "Public",
+  "dc_title_s": "O-35-25-C Турба (Turba, Estonia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001820",
+  "solr_geom": "ENVELOPE(24.25,24,59.167,59)",
+  "solr_year_i": "1899",
+  "dc_description_s": "Modern area represented: Turba, Harju county, Estonia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001820\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1LfKTAvo4nuJR0vvkSYl3zBq-IEeS1AQ7\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_spatial_sm": [
+    "Turba, Estonia",
+    "Estonia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:38:22Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_issued_s": "1899",
+  "dct_temporal_sm": [
+    "1899"
+  ]
+}

@@ -33,11 +33,11 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Lake County, Indiana",
+    "Indiana--Lake County",
     "Indiana",
-    "Lowell, Indiana"
+    "Indiana--Lowell"
   ],
-  "locn_geometry": "ENVELOPE(-87.4301,-87.38,41.3001,41.2601)",
+  "locn_geometry": "POLYGON((-87.4301 41.3001, -87.38 41.3001, -87.38 41.2601, -87.4301 41.2601, -87.4301 41.3001))",
   "dcat_bbox": "ENVELOPE(-87.4301,-87.38,41.3001,41.2601)",
   "dcat_centroid": "41.280100000000004,-87.40504999999999",
   "pcdm_memberOf_sm": [
@@ -53,6 +53,6 @@
   "dct_identifier_sm": [
     "4e02a9d3-1fd6-46a6-8cbd-a50aba7f032a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

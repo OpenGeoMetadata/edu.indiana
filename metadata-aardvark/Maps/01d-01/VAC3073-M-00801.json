@@ -20,7 +20,8 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -34,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Perry County, Indiana"
+    "Indiana--Perry County"
   ],
-  "locn_geometry": "ENVELOPE(-86.81,-86.43,38.43,37.83)",
+  "locn_geometry": "POLYGON((-86.81 38.43, -86.43 38.43, -86.43 37.83, -86.81 37.83, -86.81 38.43))",
   "dcat_bbox": "ENVELOPE(-86.81,-86.43,38.43,37.83)",
   "dcat_centroid": "38.129999999999995,-86.62",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00801"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

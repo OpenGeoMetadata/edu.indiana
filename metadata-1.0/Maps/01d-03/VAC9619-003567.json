@@ -9,12 +9,12 @@
   "solr_year_i": "1889",
   "dc_description_s": "Modern area represented: Kołobrzeg, West Pomerania province, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003567\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1X9RLb-NA1jLTLaCTQk2Mx-_X0nO9kXgc/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003567\"}",
   "dct_spatial_sm": [
-    "Kołobrzeg, Poland",
+    "Poland--Kołobrzeg",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:22Z",
+  "layer_modified_dt": "2023-05-09T06:03:41Z",
   "dc_language_sm": [
     "rus"
   ],

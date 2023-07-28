@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-86.95,-85.98,39.63,37.9)",
   "solr_year_i": "2000",
   "dc_creator_sm": [
+    "Dintaman, Christopher R.",
     "Frushour, Samuel S.",
     "Harper, Denver",
-    "Dintaman, Christopher R.",
     "Sowder, Kimberly H."
   ],
   "dc_description_s": "Digital cartogrpahy by Kimberly H. Sowder.' Includes text, index map, location map, and 'Sources of subsurface dye trace information.' Scale 1:500,000. By Samuel S. Frushour, Denver Harper, and Christopher R. Dintaman.",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:38Z",
+  "layer_modified_dt": "2023-02-03T21:22:04Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Tipton County, Indiana"
+    "Indiana--Tipton County"
   ],
-  "locn_geometry": "ENVELOPE(-86.25,-85.86,40.41,40.21)",
+  "locn_geometry": "POLYGON((-86.25 40.41, -85.86 40.41, -85.86 40.21, -86.25 40.21, -86.25 40.41))",
   "dcat_bbox": "ENVELOPE(-86.25,-85.86,40.41,40.21)",
   "dcat_centroid": "40.31,-86.055",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "18084cda-70bf-4fe1-b1ef-bea6be41fb10"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

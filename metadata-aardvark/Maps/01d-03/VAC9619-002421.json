@@ -34,10 +34,10 @@
     "[1935 TO 1935]"
   ],
   "dct_spatial_sm": [
-    "Chelkiozero, Russia",
+    "Russia--Chelkiozero",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(31.5,31,64,63.667)",
+  "locn_geometry": "POLYGON((31.5 64, 31 64, 31 63.667, 31.5 63.667, 31.5 64))",
   "dcat_bbox": "ENVELOPE(31.5,31,64,63.667)",
   "dcat_centroid": "63.8335,31.25",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002421\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Ba2zvO5jpQYhy1AokAnOGNAwNN4_BU5M/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002421\"}",
   "id": "VAC9619-002421",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002421",
     "G7000 s100 .S7 sheet P-36-3"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:43Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

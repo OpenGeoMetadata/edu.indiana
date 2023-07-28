@@ -31,10 +31,10 @@
     "[1906 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Antonovka, Russia",
+    "Russia--Antonovka",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(20.875,20.75,54.833,54.75)",
+  "locn_geometry": "POLYGON((20.875 54.833, 20.75 54.833, 20.75 54.75, 20.875 54.75, 20.875 54.833))",
   "dcat_bbox": "ENVELOPE(20.875,20.75,54.833,54.75)",
   "dcat_centroid": "54.7915,20.8125",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003665\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1lFS1j0naiFdHz1U8_1wl3dLK_vlNVIQy/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003665\"}",
   "id": "VAC9619-003665",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003665",
     "G7063.K2 s25 .S6 sheet N-34-42-D-а"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:25Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

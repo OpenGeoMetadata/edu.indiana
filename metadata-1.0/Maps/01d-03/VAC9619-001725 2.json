@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001725|G7000 s50 .S68 sheet O-34-95-B",
+  "dc_rights_s": "Public",
+  "dc_title_s": "О-34-95-В Мэрсрагс (Mērsrags, Latvia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-001725",
+  "solr_geom": "ENVELOPE(23.25,23,57.5,57.333)",
+  "solr_year_i": "1880",
+  "dc_description_s": "Modern area represented: Mērsrags, Talsi district, Latvia; Scale =1:50,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001725\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1SoZCdyo7q6fLDEX5ZGfYpN-FDgRfD0ci\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_spatial_sm": [
+    "Mērsrags, Latvia",
+    "Latvia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:38:19Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Генеральный штаб РККА",
+  "dct_issued_s": "1880",
+  "dct_temporal_sm": [
+    "1880"
+  ]
+}

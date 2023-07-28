@@ -34,9 +34,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Union County, Indiana"
+    "Indiana--Union County"
   ],
-  "locn_geometry": "ENVELOPE(-85.03,-84.8001,39.7101,39.51)",
+  "locn_geometry": "POLYGON((-85.03 39.7101, -84.8001 39.7101, -84.8001 39.51, -85.03 39.51, -85.03 39.7101))",
   "dcat_bbox": "ENVELOPE(-85.03,-84.8001,39.7101,39.51)",
   "dcat_centroid": "39.61005,-84.91505000000001",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "08ca4367-6890-4770-b6a4-d0e5e2effbe2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

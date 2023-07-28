@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Baldwin,  Frank M., cartographer."
+    "Baldwin, Frank M., cartographer."
   ],
   "dct_publisher_sm": [
     "Frank M Baldwin?"
@@ -25,7 +25,9 @@
     "Land ownership",
     "Real property",
     "Indiana Historic Maps",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1888"
@@ -38,9 +40,12 @@
     "[1888 TO 1888]"
   ],
   "dct_spatial_sm": [
-    "Marion, Indiana",
+    "Indiana--Marion",
     "Indiana"
   ],
+  "locn_geometry": "POLYGON((-85.712968 40.593825, -85.630399 40.593825, -85.630399 40.508913, -85.712968 40.508913, -85.712968 40.593825))",
+  "dcat_bbox": "ENVELOPE(-85.712968,-85.630399,40.593825,40.508913)",
+  "dcat_centroid": "40.551369,-85.6716835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +62,6 @@
   "dct_identifier_sm": [
     "add1c244-e5c7-4d68-ab46-8d9a35e95b02"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:36Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

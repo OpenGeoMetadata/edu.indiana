@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.45,-85.31,40.23,40.1301)",
   "solr_year_i": "1888",
   "dc_creator_sm": [
-    "Hefel,  Toney C., cartographer."
+    "Hefel, Toney C., cartographer."
   ],
   "dc_description_s": "Partial cadastral map showing landowners.; Blueprint. Scale 1:3,960. 330 feet to 1 inch.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00168\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00168\"}",
   "dct_spatial_sm": [
-    "Muncie, Indiana",
+    "Indiana--Muncie",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:31Z",
+  "layer_modified_dt": "2023-02-03T21:19:26Z",
   "dc_language_sm": [
     "eng"
   ],

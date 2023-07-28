@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88,-85,41.75,38)",
   "solr_year_i": "1976",
   "dc_creator_sm": [
-    "Carpenter,  G. L.(Gerald Leon), 1924-2012, cartographer."
+    "Carpenter, G. L.(Gerald Leon), 1924-2012, cartographer."
   ],
   "dc_description_s": "Base modified from U.S. Geological Survey base map of Indiana ; 1950. Compiled from Indiana Geological Survey Petroleum Exploration Maps of Indiana counties.; Includes Names and locations of oil and gas fields, Names and locations of gas storage projects, Underground storage sites for liquified petroleum gas. Scale 1:500,000; Lambert conformal conic projection",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:51Z",
+  "layer_modified_dt": "2023-02-03T21:21:51Z",
   "dc_language_sm": [
     "eng"
   ],

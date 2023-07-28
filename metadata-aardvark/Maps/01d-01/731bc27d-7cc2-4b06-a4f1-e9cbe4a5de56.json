@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1976?"
@@ -30,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Bloomington, Indiana"
+    "Indiana--Bloomington"
   ],
-  "locn_geometry": "ENVELOPE(-86.53,-86.49,39.18,39.16)",
+  "locn_geometry": "POLYGON((-86.53 39.18, -86.49 39.18, -86.49 39.16, -86.53 39.16, -86.53 39.18))",
   "dcat_bbox": "ENVELOPE(-86.53,-86.49,39.18,39.16)",
   "dcat_centroid": "39.17,-86.50999999999999",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "731bc27d-7cc2-4b06-a4f1-e9cbe4a5de56"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:37Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,18 +8,18 @@
   "solr_geom": "ENVELOPE(-86.25,-86,38.25,38)",
   "solr_year_i": "1959",
   "dc_creator_sm": [
-    "Geological Survey (U.S.),cartographer."
+    "Geological Survey (U.S.), cartographer."
   ],
   "dc_description_s": "Relief shown by contours and spot heights.; Shows portions of Harrison County, Indiana, and Meade County, Kentucky.; Compiled in 1956 from 1:25,000-scale maps of Corydon East, Corydon West, Mauckport, and Laconia 7.5 minute quadrangles, surveyed 1944, 1945, 1946, 1948 and 1950.; Field check 1948 and 1950.; No distinction is made between barns, dwellings, commercial and industrial buildings on the north half of this map.; MR 6568.; Includes quadrangle location map in margin.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01319\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01319\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Meade County, Kentucky",
+    "Kentucky--Meade County",
     "Kentucky",
-    "Harrison County, Indiana"
+    "Indiana--Harrison County"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:03Z",
+  "layer_modified_dt": "2023-02-03T21:17:51Z",
   "dc_language_sm": [
     "eng"
   ],

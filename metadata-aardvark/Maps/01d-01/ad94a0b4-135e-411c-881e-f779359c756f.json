@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Cazee,  J. T.(James T.), cartographer."
+    "Cazee, J. T.(James T.), cartographer."
   ],
   "dct_publisher_sm": [
     "Indiana Geological Survey"
@@ -23,7 +23,8 @@
     "Oil fields",
     "Gas fields",
     "Roads",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1998"
@@ -37,7 +38,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "locn_geometry": "POLYGON((-88.11 41.75, -84.75 41.75, -84.75 37.86, -88.11 37.86, -88.11 41.75))",
   "dcat_bbox": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
   "dcat_centroid": "39.805,-86.43",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "ad94a0b4-135e-411c-881e-f779359c756f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:58Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
   "solr_year_i": "1929",
   "dc_creator_sm": [
-    "Titus,  Wm. J., cartographer."
+    "Titus, Wm. J., cartographer."
   ],
   "dc_description_s": "Includes text on recto and advertisements on verso.; B 929112--Panel. Scale not given.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:46Z",
+  "layer_modified_dt": "2023-02-03T21:19:29Z",
   "dc_language_sm": [
     "eng"
   ],

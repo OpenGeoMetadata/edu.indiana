@@ -9,12 +9,12 @@
   "solr_year_i": "1875",
   "dc_description_s": "Modern area represented: Leova, Leova district, Moldova; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001576\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1W71to7iMT8UwC4o77msQuVXKGW3_2Y6g\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001576\"}",
   "dct_spatial_sm": [
-    "Leova, Moldova",
+    "Moldova--Leova",
     "Moldova"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:14Z",
+  "layer_modified_dt": "2023-05-09T06:05:12Z",
   "dc_language_sm": [
     "rus"
   ],

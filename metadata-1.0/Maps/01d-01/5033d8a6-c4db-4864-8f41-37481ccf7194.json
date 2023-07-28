@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-87.26,-84.76,38.2,37.78)",
   "solr_year_i": "1959",
   "dc_creator_sm": [
-    "Hutchison,  Harold C.(Harold Christy), 1925-cartographer."
+    "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dc_description_s": "Preliminary coal map no. 8--Margin.; Includes 2 geologic cross sections, location map, geologic column, index of mines, tables, and diagram of township sections. Scale approximately 1:126,720. Approximately 1 inch to 2 miles.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00222\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00222\"}",
   "dct_spatial_sm": [
-    "Spencer County, Indiana",
+    "Indiana--Spencer County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:05Z",
+  "layer_modified_dt": "2023-02-03T21:18:08Z",
   "dc_language_sm": [
     "eng"
   ],

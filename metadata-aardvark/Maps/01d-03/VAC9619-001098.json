@@ -34,10 +34,10 @@
     "[1930 TO 1931]"
   ],
   "dct_spatial_sm": [
-    "Lykhivka, Ukraine",
+    "Ukraine--Lykhivka",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(34,33.75,48.833,48.667)",
+  "locn_geometry": "POLYGON((34 48.833, 33.75 48.833, 33.75 48.667, 34 48.667, 34 48.833))",
   "dcat_bbox": "ENVELOPE(34,33.75,48.833,48.667)",
   "dcat_centroid": "48.75,33.875",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001098\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=19iy7pH5ZUgXvm9R7EsycH_L6CPiEqv-p\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001098\"}",
   "id": "VAC9619-001098",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001098",
     "G7000 s50 .S68 М-36-116-Г"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:59Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

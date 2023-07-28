@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Kelley,  John A., C.E., cartographer."
+    "Kelley, John A., C.E., cartographer."
   ],
   "dct_publisher_sm": [
     "John A. Kelley"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Administrative and political divisions",
     "Election districts",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1936"
@@ -35,9 +36,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "LaPorte, Indiana"
+    "Indiana--LaPorte"
   ],
-  "locn_geometry": "ENVELOPE(-86.75,-86.6801,41.61,41.5801)",
+  "locn_geometry": "POLYGON((-86.75 41.61, -86.6801 41.61, -86.6801 41.5801, -86.75 41.5801, -86.75 41.61))",
   "dcat_bbox": "ENVELOPE(-86.75,-86.6801,41.61,41.5801)",
   "dcat_centroid": "41.59505,-86.71504999999999",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "1ada6bc2-bade-44c3-b4a5-613e0d8b3587"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

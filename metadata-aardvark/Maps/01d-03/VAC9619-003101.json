@@ -34,10 +34,10 @@
     "[1938 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Kashira, Russia",
+    "Russia--Kashira",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(38.5,38,55,54.667)",
+  "locn_geometry": "POLYGON((38.5 55, 38 55, 38 54.667, 38.5 54.667, 38.5 55))",
   "dcat_bbox": "ENVELOPE(38.5,38,55,54.667)",
   "dcat_centroid": "54.8335,38.25",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003101\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1yvi6zIZ_VbmjGBIIf9ja_bK-q6bKmhM7/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003101\"}",
   "id": "VAC9619-003101",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003101",
     "G7000 s100 .S7 sheet N-37-41"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:07Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

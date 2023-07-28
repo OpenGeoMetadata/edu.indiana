@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.51,-86.05,41.76,41.43)",
   "solr_year_i": "1938",
   "dc_creator_sm": [
-    "Ulrich,  H. P.(Herbert Paul), 1904-cartographer."
+    "Ulrich, H. P. (Herbert Paul), 1904-cartographer."
   ],
   "dc_description_s": "Shows soil types classification by colors and symbols.; Surveyed in 1938. Series 1938. Scale 1:31,680. 2 inches = 1 mile; Polyconic projection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00081\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00081\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Saint Joseph County, Indiana"
+    "Indiana--Saint Joseph County"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:09Z",
+  "layer_modified_dt": "2023-02-03T21:25:11Z",
   "dc_language_sm": [
     "eng"
   ],

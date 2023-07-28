@@ -34,9 +34,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Clark County, Indiana"
+    "Indiana--Clark County"
   ],
-  "locn_geometry": "ENVELOPE(-85.9801,-85.4001,38.6,38.26)",
+  "locn_geometry": "POLYGON((-85.9801 38.6, -85.4001 38.6, -85.4001 38.26, -85.9801 38.26, -85.9801 38.6))",
   "dcat_bbox": "ENVELOPE(-85.9801,-85.4001,38.6,38.26)",
   "dcat_centroid": "38.43,-85.6901",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00765"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:51Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

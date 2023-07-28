@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
   "solr_year_i": "1812",
   "dc_creator_sm": [
-    "Brainard,  Noble E., cartographer."
+    "Brainard, Noble E., cartographer."
   ],
   "dc_description_s": "The area included on the map is about 2 1/2 miles from east to west & 1 7/8 miles north to south.; Includes illustrations and text on the map and around the border. Scale approximately 1:7,000.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00115\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00115\"}",
   "dct_spatial_sm": [
-    "Fort Wayne, Indiana",
+    "Indiana--Fort Wayne",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:13Z",
+  "layer_modified_dt": "2023-02-03T21:16:02Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,18 +5,19 @@
   "dc_title_s": "A bird's eye view of one of the new communities at Harmony in the State of Indiana, North America,: an association of two thousand persons formed upon the principles advocated by Robert Owen.",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "32741ce3-b377-4b42-969c-f8cb3ebef419",
+  "solr_geom": "ENVELOPE(-87.943087,-87.921483,38.134557,38.121688)",
   "solr_year_i": "1825",
   "dc_creator_sm": [
-    "Whitwell,  Stedman, cartographer."
+    "Whitwell, Stedman"
   ],
   "dc_description_s": "Facsimile.; Reproduced ... from the original in the Library of Congress.; This is number 15 of an edition limited to 500 copies.; Perspective map. Not drawn to scale.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00297\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00297\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "New Harmony, Indiana"
+    "Indiana--New Harmony"
   ],
-  "layer_modified_dt": "2022-02-27T01:35:32Z",
+  "layer_modified_dt": "2023-02-03T21:16:00Z",
   "dc_language_sm": [
     "eng"
   ],

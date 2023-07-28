@@ -34,10 +34,10 @@
     "[1931 TO 1942]"
   ],
   "dct_spatial_sm": [
-    "Borodayevka, Ukraine",
+    "Ukraine--Borodayevka",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(34.25,34,48.8667,48.6667)",
+  "locn_geometry": "POLYGON((34.25 48.8667, 34 48.8667, 34 48.6667, 34.25 48.6667, 34.25 48.8667))",
   "dcat_bbox": "ENVELOPE(34.25,34,48.8667,48.6667)",
   "dcat_centroid": "48.7667,34.125",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001101\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1N0IyIRjTgBq351O1uGROHeHzSrRUKxUO\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001101\"}",
   "id": "VAC9619-001101",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001101",
     "G7000 s50 .S68 М-36-117-В"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:37:59Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

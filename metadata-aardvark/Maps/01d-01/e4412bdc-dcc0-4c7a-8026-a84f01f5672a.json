@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Sullivan County, Indiana"
+    "Indiana--Sullivan County"
   ],
-  "locn_geometry": "ENVELOPE(-87.66,-87.23,39.26,38.9)",
+  "locn_geometry": "POLYGON((-87.66 39.26, -87.23 39.26, -87.23 38.9, -87.66 38.9, -87.66 39.26))",
   "dcat_bbox": "ENVELOPE(-87.66,-87.23,39.26,38.9)",
   "dcat_centroid": "39.08,-87.445",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "e4412bdc-dcc0-4c7a-8026-a84f01f5672a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

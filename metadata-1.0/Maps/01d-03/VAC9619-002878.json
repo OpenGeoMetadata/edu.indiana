@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Красный Бор (Krasnyy Bor), Novgorodskaya oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002878\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1tRP6vA30sltgAeBoQYIW9qfHTR-CT4XL/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002878\"}",
   "dct_spatial_sm": [
-    "Krasnyy Bor, Russia",
+    "Russia--Krasnyy Bor",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:59Z",
+  "layer_modified_dt": "2023-05-09T06:03:31Z",
   "dc_language_sm": [
     "rus"
   ],

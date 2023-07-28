@@ -32,12 +32,12 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "Greene County, Indiana",
+    "Indiana--Greene County",
     "Indiana",
-    "Monroe County, Indiana",
-    "Owen County, Indiana"
+    "Indiana--Monroe County",
+    "Indiana--Owen County"
   ],
-  "locn_geometry": "ENVELOPE(-86.75,-86.5,39.25,39)",
+  "locn_geometry": "POLYGON((-86.75 39.25, -86.5 39.25, -86.5 39, -86.75 39, -86.75 39.25))",
   "dcat_bbox": "ENVELOPE(-86.75,-86.5,39.25,39)",
   "dcat_centroid": "39.125,-86.625",
   "pcdm_memberOf_sm": [
@@ -53,6 +53,6 @@
   "dct_identifier_sm": [
     "aa753df5-6ec8-4fad-b516-38b37834d572"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -27,10 +27,10 @@
     "[1950 TO 1950]"
   ],
   "dct_spatial_sm": [
-    "Bloomington, Indiana",
+    "Indiana--Bloomington",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.43,-85.9,39.78,38.3)",
+  "locn_geometry": "POLYGON((-87.43 39.78, -85.9 39.78, -85.9 38.3, -87.43 38.3, -87.43 39.78))",
   "dcat_bbox": "ENVELOPE(-87.43,-85.9,39.78,38.3)",
   "dcat_centroid": "39.04,-86.665",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "d30cba7a-2712-45dd-8e59-eabb175b7a16"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:36Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

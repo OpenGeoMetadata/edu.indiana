@@ -33,10 +33,10 @@
     "[1941 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Jackson County, Indiana",
+    "Indiana--Jackson County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.31,-85.7801,39.06,38.71)",
+  "locn_geometry": "POLYGON((-86.31 39.06, -85.7801 39.06, -85.7801 38.71, -86.31 38.71, -86.31 39.06))",
   "dcat_bbox": "ENVELOPE(-86.31,-85.7801,39.06,38.71)",
   "dcat_centroid": "38.885000000000005,-86.04505",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00813"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

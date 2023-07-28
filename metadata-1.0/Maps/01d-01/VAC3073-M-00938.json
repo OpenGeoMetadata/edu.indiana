@@ -9,12 +9,12 @@
   "solr_year_i": "1906",
   "dc_description_s": "Blueprint. Cadastral map showing landowners. Scale 1:19,800. 1 foot = 300 chs. Prepared from the official records by F.L. Knight & Sons.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00938\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00938\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00938\"}",
   "dct_spatial_sm": [
     "Indiana",
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:18Z",
+  "layer_modified_dt": "2023-02-03T21:17:14Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -20,7 +20,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -36,7 +37,7 @@
     "Indiana",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
+  "locn_geometry": "POLYGON((-88.11 41.75, -84.75 41.75, -84.75 37.86, -88.11 37.86, -88.11 41.75))",
   "dcat_bbox": "ENVELOPE(-88.11,-84.75,41.75,37.86)",
   "dcat_centroid": "39.805,-86.43",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00696"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:17Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

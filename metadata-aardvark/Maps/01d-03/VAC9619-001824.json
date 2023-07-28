@@ -31,10 +31,10 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Saku, Estonia",
+    "Estonia--Saku",
     "Estonia"
   ],
-  "locn_geometry": "ENVELOPE(24.75,24.5,59.333,59.167)",
+  "locn_geometry": "POLYGON((24.75 59.333, 24.5 59.333, 24.5 59.167, 24.75 59.167, 24.75 59.333))",
   "dcat_bbox": "ENVELOPE(24.75,24.5,59.333,59.167)",
   "dcat_centroid": "59.25,24.625",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001824\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Ljw5VaQYWpiaDU8SNZ1T8Fa6AJYld4xy/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001824\"}",
   "id": "VAC9619-001824",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001824",
     "G7000 s50 .S68 sheet O-35-26-A"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:22Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

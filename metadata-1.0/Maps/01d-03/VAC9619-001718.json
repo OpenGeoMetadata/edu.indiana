@@ -9,12 +9,12 @@
   "solr_year_i": "1875",
   "dc_description_s": "Modern area represented: Tiraspol, Stînga Nistrului, Moldova; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001718\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1-hf6LeF3eCsdwqOwg-k3BLxRce9hfH9t\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001718\"}",
   "dct_spatial_sm": [
-    "Tiraspol, Moldova",
+    "Moldova--Tiraspol",
     "Moldova"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:19Z",
+  "layer_modified_dt": "2023-05-09T06:03:50Z",
   "dc_language_sm": [
     "rus"
   ],

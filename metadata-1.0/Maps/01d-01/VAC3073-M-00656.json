@@ -9,17 +9,17 @@
   "solr_year_i": "1889",
   "dc_creator_sm": [
     "Carpenter, H. C.",
-    "Palmer, Thos. W. (Thomas W.)"
+    "Palmer, Thomas W. (Thomas Witherell), 1830-1913"
   ],
   "dc_description_s": "Cadastral map showing landowners. Shows ward and school district boundaries. Originally issued in 6 sheets, mounted on linen, shellacked, and dissected in 8 parts. Includes inset of Mapleton. Scale approximately 1:7,150. Surveyed and compiled from official records by H.C Carpenter; Thos. W. Palmer, draughtsman.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00656\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00656\"}",
   "dct_spatial_sm": [
-    "Indianapolis, Indiana",
-    "Mapleton, Indiana",
+    "Indiana--Indianapolis",
+    "Indiana--Mapleton",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:55Z",
+  "layer_modified_dt": "2023-02-03T21:21:30Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -34,10 +34,10 @@
     "[1897 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Krakės, Lithuania",
+    "Lithuania--Krakės",
     "Lithuania"
   ],
-  "locn_geometry": "ENVELOPE(23.75,23.625,55.417,55.333)",
+  "locn_geometry": "POLYGON((23.75 55.417, 23.625 55.417, 23.625 55.333, 23.75 55.333, 23.75 55.417))",
   "dcat_bbox": "ENVELOPE(23.75,23.625,55.417,55.333)",
   "dcat_centroid": "55.375,23.6875",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003583\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/19Cr2qI4RqBkehkyBa1nvsuagjpFFQlbF/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003583\"}",
   "id": "VAC9619-003583",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003583",
     "G7063.K2 s25 .S6 sheet N-34-24-C-d"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:23Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

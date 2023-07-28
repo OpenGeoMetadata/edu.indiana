@@ -9,13 +9,13 @@
   "solr_year_i": "1939",
   "dc_description_s": "Modern area represented: Астрахань (Astrakhan), Astrakhan Oblast’, Russia; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002254\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1RCqPg_tDMJxKMYAkWR-P5U_oyqYZuJMF/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002254\"}",
   "dct_spatial_sm": [
-    "Astrakhan, Russia",
-    "Astrakhan Oblast, Russia",
+    "Russia--Astrakhan",
+    "Russia--Astrakhan Oblast",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:37Z",
+  "layer_modified_dt": "2023-05-09T06:03:24Z",
   "dc_language_sm": [
     "rus"
   ],

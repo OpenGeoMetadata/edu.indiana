@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Military maps",
     "Military bases",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1943"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-90,-77,41,36)",
+  "locn_geometry": "POLYGON((-90 41, -77 41, -77 36, -90 36, -90 41))",
   "dcat_bbox": "ENVELOPE(-90,-77,41,36)",
   "dcat_centroid": "38.5,-83.5",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "3658d2c3-04d7-4ffb-8ae3-bc4b0b42472c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:00Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

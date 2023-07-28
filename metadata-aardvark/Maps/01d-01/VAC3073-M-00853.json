@@ -8,8 +8,8 @@
   ],
   "dct_creator_sm": [
     "Dempsey, W. J.",
-    "Henderson, John R.",
-    "Duffner, R. T."
+    "Duffner, R. T.",
+    "Henderson, John R."
   ],
   "dct_publisher_sm": [
     "For sale by United States Geological Survey"
@@ -22,7 +22,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -37,7 +38,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.46,-85.9301,41.16,40.9)",
+  "locn_geometry": "POLYGON((-86.46 41.16, -85.9301 41.16, -85.9301 40.9, -86.46 40.9, -86.46 41.16))",
   "dcat_bbox": "ENVELOPE(-86.46,-85.9301,41.16,40.9)",
   "dcat_centroid": "41.03,-86.19505",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00853"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:10Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002420|G7000 s100 .S7 sheet P-36-2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "P-36-2 Реболы (Reboly, Russia)",
+  "dct_provenance_s": "Indiana University",
+  "layer_slug_s": "VAC9619-002420",
+  "solr_geom": "ENVELOPE(31,30.5,64,63.667)",
+  "solr_year_i": "1935",
+  "dc_description_s": "Modern area represented: Reboly, Republic of Karelia, Russia; Scale =1:100,000",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002420\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1144PrQObO8xx9yKTOc0RWeOqGBS8wLKJ/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_spatial_sm": [
+    "Reboly, Russia",
+    "Russia"
+  ],
+  "layer_modified_dt": "2022-07-06T01:38:43Z",
+  "dc_language_sm": [
+    "rus"
+  ],
+  "dc_publisher_s": "Itä-Karjalan kartasto",
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ]
+}

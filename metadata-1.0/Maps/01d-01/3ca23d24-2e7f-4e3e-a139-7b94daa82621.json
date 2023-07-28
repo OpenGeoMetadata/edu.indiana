@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-85.45,-85.31,40.23,40.1301)",
   "solr_year_i": "1895",
   "dc_creator_sm": [
-    "Hefel,  Toney C., cartographer."
+    "Hefel, Toney C., cartographer."
   ],
   "dc_description_s": "Includes numbered index to businesses and other points of interest.; Shows street railways and steam railroads. Scale not given.",
   "dc_format_s": "JPEG",
@@ -18,9 +18,9 @@
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074563/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00422\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "City of Muncie, Indiana"
+    "Indiana--City of Muncie"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:42Z",
+  "layer_modified_dt": "2023-02-03T21:21:18Z",
   "dc_language_sm": [
     "eng"
   ],

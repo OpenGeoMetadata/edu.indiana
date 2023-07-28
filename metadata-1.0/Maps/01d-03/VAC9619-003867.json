@@ -9,12 +9,12 @@
   "solr_year_i": "1875",
   "dc_description_s": "Modern area represented: Połczyn-Zdrój, West Pomerania, Poland; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003867\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1Keo5DhvSXaaA3wxFf6A3x9F73pHENMEn/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003867\"}",
   "dct_spatial_sm": [
-    "Połczyn-Zdrój, Poland",
+    "Poland--Połczyn-Zdrój",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:32Z",
+  "layer_modified_dt": "2023-05-09T06:03:02Z",
   "dc_language_sm": [
     "rus"
   ],

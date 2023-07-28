@@ -17,7 +17,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1968"
@@ -30,11 +31,11 @@
     "[1968 TO 1968]"
   ],
   "dct_spatial_sm": [
-    "Van Buren Township, Indiana",
-    "Monroe County, Indiana",
+    "Indiana--Van Buren Township",
+    "Indiana--Monroe County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.6601,-86.56,39.1501,39.0601)",
+  "locn_geometry": "POLYGON((-86.6601 39.1501, -86.56 39.1501, -86.56 39.0601, -86.6601 39.0601, -86.6601 39.1501))",
   "dcat_bbox": "ENVELOPE(-86.6601,-86.56,39.1501,39.0601)",
   "dcat_centroid": "39.1051,-86.61005",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00797"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

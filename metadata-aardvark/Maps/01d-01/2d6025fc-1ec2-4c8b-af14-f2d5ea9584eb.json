@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jones,  Grove B., 1877-cartographer."
+    "Jones, Grove B., 1877- cartographer."
   ],
   "dct_publisher_sm": [
     "The Bureau"
@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Soils",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1922?"
@@ -33,10 +34,10 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Clay County, Indiana",
+    "Indiana--Clay County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.23,-86.95,39.61,39.18)",
+  "locn_geometry": "POLYGON((-87.23 39.61, -86.95 39.61, -86.95 39.18, -87.23 39.18, -87.23 39.61))",
   "dcat_bbox": "ENVELOPE(-87.23,-86.95,39.61,39.18)",
   "dcat_centroid": "39.394999999999996,-87.09",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "2d6025fc-1ec2-4c8b-af14-f2d5ea9584eb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:56Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

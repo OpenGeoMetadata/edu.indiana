@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Siebenthal,  C. E.(Claude Ellsworth), 1869-1930, cartographer."
+    "Siebenthal, C. E.(Claude Ellsworth), 1869-1930, cartographer."
   ],
   "dct_publisher_sm": [
     "Julius Bien & Co."
@@ -23,7 +23,8 @@
     "Mine Thematic maps",
     "Quarries",
     "Roads",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1895"
@@ -36,9 +37,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Monroe County"
   ],
-  "locn_geometry": "ENVELOPE(-86.68,-86.4001,39.35,38.98)",
+  "locn_geometry": "POLYGON((-86.68 39.35, -86.4001 39.35, -86.4001 38.98, -86.68 38.98, -86.68 39.35))",
   "dcat_bbox": "ENVELOPE(-86.68,-86.4001,39.35,38.98)",
   "dcat_centroid": "39.165,-86.54005000000001",
   "pcdm_memberOf_sm": [
@@ -54,6 +55,6 @@
   "dct_identifier_sm": [
     "ae7597c2-6a69-483c-9c24-86d0cf882c47"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

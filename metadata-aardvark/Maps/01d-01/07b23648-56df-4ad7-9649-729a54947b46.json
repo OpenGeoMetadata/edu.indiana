@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hutchison,  Harold C.(Harold Christy), 1925-cartographer."
+    "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dct_publisher_sm": [
     "Indiana Dept. of Conservation, Geological Survey"
@@ -24,7 +24,8 @@
     "Coal mines",
     "Geology",
     "Coal",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1961"
@@ -37,11 +38,11 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Vermillion County, Indiana",
-    "Warren County, Indiana",
-    "Fountain County, Indiana"
+    "Indiana--Vermillion County",
+    "Indiana--Warren County",
+    "Indiana--Fountain County"
   ],
-  "locn_geometry": "ENVELOPE(-87.53,-87.08,40.46,39.9301)",
+  "locn_geometry": "POLYGON((-87.53 40.46, -87.08 40.46, -87.08 39.9301, -87.53 39.9301, -87.53 40.46))",
   "dcat_bbox": "ENVELOPE(-87.53,-87.08,40.46,39.9301)",
   "dcat_centroid": "40.19505,-87.305",
   "pcdm_memberOf_sm": [
@@ -57,6 +58,6 @@
   "dct_identifier_sm": [
     "07b23648-56df-4ad7-9649-729a54947b46"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
   "solr_year_i": "1970",
   "dc_creator_sm": [
-    "Switzer, J. E. (Jesse Elmer)",
-    "Kingsbury, Robert C."
+    "Kingsbury, Robert C.",
+    "Switzer, J. E. (Jesse Elmer)"
   ],
   "dc_description_s": "Relief shown by landform drawing. Shows southern limit of glaciation in Indiana. Originally compiled approximately 1932 by J.E. Switzer, Department of Geology and Geography, Indiana University. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 15. Scale approximately 1,850,000",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:05Z",
+  "layer_modified_dt": "2023-02-03T21:23:24Z",
   "dc_language_sm": [
     "eng"
   ],

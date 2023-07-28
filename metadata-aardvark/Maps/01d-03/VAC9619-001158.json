@@ -31,10 +31,10 @@
     "[1883 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "Tileagd, Romania",
+    "Romania--Tileagd",
     "Romania"
   ],
-  "locn_geometry": "ENVELOPE(22.5,22,47.3333,47)",
+  "locn_geometry": "POLYGON((22.5 47.3333, 22 47.3333, 22 47, 22.5 47, 22.5 47.3333))",
   "dcat_bbox": "ENVELOPE(22.5,22,47.3333,47)",
   "dcat_centroid": "47.166650000000004,22.25",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001158\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1fS4M5u613E32B4SkP-PjSC-BU-4OXaz2\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001158\"}",
   "id": "VAC9619-001158",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001158",
     "G7000 s100 .S7 sheet L-34-33"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:01Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

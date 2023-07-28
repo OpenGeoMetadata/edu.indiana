@@ -9,12 +9,12 @@
   "solr_year_i": "1876",
   "dc_description_s": "Modern area represented: Дарбенай (Darbėnai), Lithuania; Scale =1:100,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003167\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/12uThn1g1D_EXHAmaqQwcLKCJBxmXkkom/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003167\"}",
   "dct_spatial_sm": [
-    "Darbėnai, Lithuania",
+    "Lithuania--Darbėnai",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:09Z",
+  "layer_modified_dt": "2023-05-09T06:02:02Z",
   "dc_language_sm": [
     "rus"
   ],

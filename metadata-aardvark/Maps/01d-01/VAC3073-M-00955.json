@@ -7,8 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bushnell, T. M. (Thomas Mark),1889-1976,cartographer,surveyor.",
-    "Barrett, Wendell,surveyor."
+    "Barrett, Wendell",
+    "Bushnell, T. M. (Thomas Mark),1889-1976,cartographer,surveyor."
   ],
   "dct_publisher_sm": [
     "United States Department of Agriculture, Bureau of Soils"
@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1916"
@@ -34,10 +35,10 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Porter County, Indiana",
+    "Indiana--Porter County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.21,-86.93,41.71,41.23)",
+  "locn_geometry": "POLYGON((-87.21 41.71, -86.93 41.71, -86.93 41.23, -87.21 41.23, -87.21 41.71))",
   "dcat_bbox": "ENVELOPE(-87.21,-86.93,41.71,41.23)",
   "dcat_centroid": "41.47,-87.07",
   "pcdm_memberOf_sm": [
@@ -53,6 +54,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00955"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:29Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

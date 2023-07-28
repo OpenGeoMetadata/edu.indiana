@@ -9,12 +9,12 @@
   "solr_year_i": "1901",
   "dc_description_s": "Modern area represented: Salakas, Lithuania; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000448\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1udoR6B3xP3A43dJ7BeitWnlOCd77FSrG\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000448\"}",
   "dct_spatial_sm": [
-    "Salakas, Lithuania",
+    "Lithuania--Salakas",
     "Lithuania"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:29Z",
+  "layer_modified_dt": "2023-05-09T06:05:07Z",
   "dc_language_sm": [
     "rus"
   ],

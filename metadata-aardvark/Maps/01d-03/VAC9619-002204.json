@@ -34,10 +34,10 @@
     "[1941 TO 1942]"
   ],
   "dct_spatial_sm": [
-    "Bakres, Russia",
+    "Russia--Bakres",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(46,45.5,45,44.6667)",
+  "locn_geometry": "POLYGON((46 45, 45.5 45, 45.5 44.6667, 46 44.6667, 46 45))",
   "dcat_bbox": "ENVELOPE(46,45.5,45,44.6667)",
   "dcat_centroid": "44.833349999999996,45.75",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002204\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1AJLkcZgpYOsDHCtkJc31gv9140nbE6P8/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002204\"}",
   "id": "VAC9619-002204",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002204",
     "G7000 s100 .S7 sheet L-38-116"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:35Z",
+  "gbl_mdModified_dt": "2023-05-09T06:02:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

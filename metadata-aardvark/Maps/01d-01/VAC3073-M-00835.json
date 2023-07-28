@@ -24,7 +24,8 @@
   "dcat_keyword_sm": [
     "Geological maps",
     "Thematic maps",
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -39,7 +40,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.06,-86.6601,38.51,38.2)",
+  "locn_geometry": "POLYGON((-87.06 38.51, -86.6601 38.51, -86.6601 38.2, -87.06 38.2, -87.06 38.51))",
   "dcat_bbox": "ENVELOPE(-87.06,-86.6601,38.51,38.2)",
   "dcat_centroid": "38.355000000000004,-86.86005",
   "pcdm_memberOf_sm": [
@@ -55,6 +56,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00835"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:07Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

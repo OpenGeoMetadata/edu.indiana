@@ -7,9 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hurst, Lewis A. (Lewis Alexander),1874-cartographer.",
     "Grimes, E. J. (Earl Jerome),1893-cartographer.",
     "Hesler, R. S.",
+    "Hurst, Lewis A.(Lewis Alexander), 1874-cartographer.",
     "Young, H. G. (Soil surveyor)"
   ],
   "dct_publisher_sm": [
@@ -24,7 +24,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -37,10 +38,10 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Hamilton County, Indiana",
+    "Indiana--Hamilton County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.23,-85.8501,40.21,39.91)",
+  "locn_geometry": "POLYGON((-86.23 40.21, -85.8501 40.21, -85.8501 39.91, -86.23 39.91, -86.23 40.21))",
   "dcat_bbox": "ENVELOPE(-86.23,-85.8501,40.21,39.91)",
   "dcat_centroid": "40.06,-86.04005000000001",
   "pcdm_memberOf_sm": [
@@ -56,6 +57,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-01156"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -31,9 +31,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Martin County, Indiana"
+    "Indiana--Martin County"
   ],
-  "locn_geometry": "ENVELOPE(-86.91,-86.68,38.9,38.5)",
+  "locn_geometry": "POLYGON((-86.91 38.9, -86.68 38.9, -86.68 38.5, -86.91 38.5, -86.91 38.9))",
   "dcat_bbox": "ENVELOPE(-86.91,-86.68,38.9,38.5)",
   "dcat_centroid": "38.7,-86.795",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "f738f011-0412-413f-b945-7829779f911c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

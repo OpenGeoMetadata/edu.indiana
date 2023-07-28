@@ -30,11 +30,11 @@
     "[1965 TO 1965]"
   ],
   "dct_spatial_sm": [
-    "Bloomington, Indiana",
+    "Indiana--Bloomington",
     "Indiana",
-    "Monroe Lake, Indiana"
+    "Indiana--Monroe Lake"
   ],
-  "locn_geometry": "ENVELOPE(-86.56,-86.25,39.18,39)",
+  "locn_geometry": "POLYGON((-86.56 39.18, -86.25 39.18, -86.25 39, -86.56 39, -86.56 39.18))",
   "dcat_bbox": "ENVELOPE(-86.56,-86.25,39.18,39)",
   "dcat_centroid": "39.09,-86.405",
   "pcdm_memberOf_sm": [
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "552a798d-6d0f-4df6-8e70-325438523d3c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

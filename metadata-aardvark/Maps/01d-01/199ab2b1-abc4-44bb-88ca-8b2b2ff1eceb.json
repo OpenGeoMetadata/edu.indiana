@@ -30,10 +30,10 @@
     "[1947 TO 1947]"
   ],
   "dct_spatial_sm": [
-    "Bartholomew County, Indiana",
+    "Indiana--Bartholomew County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.08,-85.68,39.35,39.03)",
+  "locn_geometry": "POLYGON((-86.08 39.35, -85.68 39.35, -85.68 39.03, -86.08 39.03, -86.08 39.35))",
   "dcat_bbox": "ENVELOPE(-86.08,-85.68,39.35,39.03)",
   "dcat_centroid": "39.19,-85.88",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "199ab2b1-abc4-44bb-88ca-8b2b2ff1eceb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mitchell,  S. Augustus(Samuel Augustus), 1792-1868, cartographer."
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868, cartographer."
   ],
   "dct_publisher_sm": [
     "S. Augustus Mitchell"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1846"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "locn_geometry": "POLYGON((-88.08 41.75, -84.78 41.75, -84.78 37.76, -88.08 37.76, -88.08 41.75))",
   "dcat_bbox": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
   "dcat_centroid": "39.754999999999995,-86.43",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "f489770b-b7fc-4d2c-a83c-68d6cc91ec54"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

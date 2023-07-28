@@ -27,9 +27,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "New Albany, Indiana"
+    "Indiana--New Albany"
   ],
-  "locn_geometry": "ENVELOPE(-85.8501,-85.7601,38.36,38.25)",
+  "locn_geometry": "POLYGON((-85.8501 38.36, -85.7601 38.36, -85.7601 38.25, -85.8501 38.25, -85.8501 38.36))",
   "dcat_bbox": "ENVELOPE(-85.8501,-85.7601,38.36,38.25)",
   "dcat_centroid": "38.305,-85.8051",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "d35d4c46-506b-45eb-99d3-9ed4a90aaff5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

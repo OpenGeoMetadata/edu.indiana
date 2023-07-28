@@ -9,12 +9,12 @@
   "solr_year_i": "1880",
   "dc_description_s": "Modern area represented: Leszkowice, Poland; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002638\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1-ru48E4UYDJBvNku10aWjihr3PA6Tj6i/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002638\"}",
   "dct_spatial_sm": [
-    "Leszkowice, Poland",
+    "Poland--Leszkowice",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:51Z",
+  "layer_modified_dt": "2023-05-09T06:01:54Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
   "solr_year_i": "1911",
   "dc_creator_sm": [
-    "Geib, W. J. (Warren Jacob),1880-cartographer.",
+    "Geib, W. J.(Warren Jacob), 1880-cartographer.",
     "Schroeder, Frank C."
   ],
   "dc_description_s": "Detached from: Soil survey of Marion County, Indiana / W.J. Geib and Frank C. Schroeder. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:63,360 Soils surveyed by W.J. Geib and Frank C. Schroeder, U.S. Bureau of Soils.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01090\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01090\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01090\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Marion County, Indiana"
+    "Indiana--Marion County"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:31Z",
+  "layer_modified_dt": "2023-02-03T21:25:10Z",
   "dc_language_sm": [
     "eng"
   ],

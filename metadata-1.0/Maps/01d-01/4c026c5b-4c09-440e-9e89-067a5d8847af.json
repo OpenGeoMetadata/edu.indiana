@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-85.8,-85.45,39.2,38.91)",
   "solr_year_i": "1939",
   "dc_creator_sm": [
-    "Butler,  Chas. T., cartographer."
+    "Butler, Chas. T., cartographer."
   ],
   "dc_description_s": "Cadastral map showing landowners.; Includes chart of Jennings County statistics, 1930-1935, and lists of Board of County Commissioners, Board of County Councilman, and county officials. Scale approximately 1:95,000. Not 2 inches = 1 mile.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00385\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00385\"}",
   "dct_spatial_sm": [
-    "Jennings County, Indiana",
+    "Indiana--Jennings County",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:28Z",
+  "layer_modified_dt": "2023-02-03T21:21:09Z",
   "dc_language_sm": [
     "eng"
   ],

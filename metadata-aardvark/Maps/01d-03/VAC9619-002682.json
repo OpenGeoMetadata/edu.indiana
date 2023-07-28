@@ -34,10 +34,10 @@
     "[1937 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Zovka, Russia",
+    "Russia--Zovka",
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(29,28.75,58.5,58.3333)",
+  "locn_geometry": "POLYGON((29 58.5, 28.75 58.5, 28.75 58.3333, 29 58.3333, 29 58.5))",
   "dcat_bbox": "ENVELOPE(29,28.75,58.5,58.3333)",
   "dcat_centroid": "58.416650000000004,28.875",
   "pcdm_memberOf_sm": [
@@ -51,14 +51,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002682\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/129TyRSIa5Ccg2pJbyqpXoWTODCTDEgaa/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002682\"}",
   "id": "VAC9619-002682",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002682",
     "GM G7000 s50 .S68 sheet O-35-58-D"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:52Z",
+  "gbl_mdModified_dt": "2023-05-09T06:01:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

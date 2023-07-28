@@ -26,10 +26,10 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "Lake County, Indiana",
+    "Indiana--Lake County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.5001,-87.2301,41.68,41.1501)",
+  "locn_geometry": "POLYGON((-87.5001 41.68, -87.2301 41.68, -87.2301 41.1501, -87.5001 41.1501, -87.5001 41.68))",
   "dcat_bbox": "ENVELOPE(-87.5001,-87.2301,41.68,41.1501)",
   "dcat_centroid": "41.41505,-87.3651",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "36d642a8-a128-4fb9-b8d6-3c7b74f4e24d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:12:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

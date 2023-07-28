@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.68,-86.31,39.35,39)",
   "solr_year_i": "1968",
   "dc_creator_sm": [
-    "Moran, W. H. (William H.)",
-    "Heisterkamp, A. J."
+    "Heisterkamp, A. J.",
+    "Moran, W. H. (William H.)"
   ],
   "dc_description_s": "Blue line map. 'May 1, 1951, revised January 1, 1968.' Shows township and range numbers, section boundaries without numbers, State and National Forest boundaries, and city and town boundaries. Scale approximately 1:63,360. 1 inch to 1 mile.; Polyconic projection Compiled by W.H. Moran and A.J. Heisterkamp; Indiana Department of Conservation, Geological Survey.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00999\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00999\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Monroe County"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:40Z",
+  "layer_modified_dt": "2023-02-03T21:16:42Z",
   "dc_language_sm": [
     "eng"
   ],

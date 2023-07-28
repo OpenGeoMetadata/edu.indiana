@@ -9,12 +9,12 @@
   "solr_year_i": "1918",
   "dc_description_s": "Modern area represented: Biskupiec, Poland; Scale =1:25,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003849\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1lkchlLdgO50gEDXB1dQFZtZbb1kLWXVC/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003849\"}",
   "dct_spatial_sm": [
-    "Biskupiec, Poland",
+    "Poland--Biskupiec",
     "Poland"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:32Z",
+  "layer_modified_dt": "2023-05-09T06:03:06Z",
   "dc_language_sm": [
     "rus"
   ],

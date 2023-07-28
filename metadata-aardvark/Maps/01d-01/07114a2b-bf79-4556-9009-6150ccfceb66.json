@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ruger,  A., cartographer."
+    "Ruger, A., cartographer."
   ],
   "dct_publisher_sm": [
     "Allen County-Fort Wayne Historical Society"
@@ -20,7 +20,8 @@
     "Aerial views"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1981"
@@ -32,10 +33,10 @@
     "[1981 TO 1981]"
   ],
   "dct_spatial_sm": [
-    "Fort Wayne, Indiana",
+    "Indiana--Fort Wayne",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
+  "locn_geometry": "POLYGON((-85.3 41.1801, -84.9801 41.1801, -84.9801 40.9501, -85.3 40.9501, -85.3 41.1801))",
   "dcat_bbox": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
   "dcat_centroid": "41.0651,-85.14005",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "07114a2b-bf79-4556-9009-6150ccfceb66"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:58Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

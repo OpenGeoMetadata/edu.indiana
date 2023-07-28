@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-87.5101,-87.21,41.3001,41.1101)",
   "solr_year_i": "1900",
   "dc_creator_sm": [
-    "Ahlgrim,  M. J., cartographer."
+    "Ahlgrim, M. J., cartographer."
   ],
   "dc_description_s": "Blueprint. Scale approximately 1:32,000.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00581\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00581\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Kankakee River, Illinois",
-    "State of Illinois, Illinois"
+    "Illinois--Kankakee River",
+    "Illinois--State of Illinois"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:40Z",
+  "layer_modified_dt": "2023-02-03T21:21:34Z",
   "dc_language_sm": [
     "eng"
   ],

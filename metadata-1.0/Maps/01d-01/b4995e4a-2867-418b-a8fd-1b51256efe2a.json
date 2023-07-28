@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-86.2501,-84.5,39.53,37.96)",
   "solr_year_i": "1930",
   "dc_creator_sm": [
-    "Ragsdale,  I. H.(Ira Haven), cartographer."
+    "Ragsdale, I. H.(Ira Haven), cartographer."
   ],
   "dc_description_s": "Scale not given.",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
     "Indiana",
     "Kentucky"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:52Z",
+  "layer_modified_dt": "2023-02-03T21:24:45Z",
   "dc_language_sm": [
     "eng"
   ],

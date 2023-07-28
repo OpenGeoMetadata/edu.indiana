@@ -9,12 +9,12 @@
   "solr_year_i": "1929",
   "dc_description_s": "Modern area represented: Kopatkevichi, Homyel oblast, Belarus; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004143\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1vFmkpV4uQzJmBBUY9p8FqhxDZL8iaKel/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004143\"}",
   "dct_spatial_sm": [
-    "Kopatkevichi, Belarus",
+    "Belarus--Kopatkevichi",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:42Z",
+  "layer_modified_dt": "2023-05-09T06:03:36Z",
   "dc_language_sm": [
     "rus"
   ],

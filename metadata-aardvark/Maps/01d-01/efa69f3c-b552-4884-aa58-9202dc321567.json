@@ -30,11 +30,11 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Noble County, Indiana",
-    "Sylvan Lake, Indiana",
+    "Indiana--Noble County",
+    "Indiana--Sylvan Lake",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.65,-85.2,41.56,41.26)",
+  "locn_geometry": "POLYGON((-85.65 41.56, -85.2 41.56, -85.2 41.26, -85.65 41.26, -85.65 41.56))",
   "dcat_bbox": "ENVELOPE(-85.65,-85.2,41.56,41.26)",
   "dcat_centroid": "41.41,-85.42500000000001",
   "pcdm_memberOf_sm": [
@@ -50,6 +50,6 @@
   "dct_identifier_sm": [
     "efa69f3c-b552-4884-aa58-9202dc321567"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

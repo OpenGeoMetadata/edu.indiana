@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Palmatary,  J. T.(James T.), cartographer."
+    "Palmatary, J. T.(James T.), cartographer."
   ],
   "dct_publisher_sm": [
     "Indiana Historical Society"
@@ -21,7 +21,8 @@
     "Pictorial maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1998"
@@ -34,9 +35,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Indianapolis, Indiana"
+    "Indiana--Indianapolis"
   ],
-  "locn_geometry": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
+  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
   "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
   "dcat_centroid": "39.7601,-86.12005",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "e63b64e6-ed2a-499d-a22e-24f7c1a4e7b4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

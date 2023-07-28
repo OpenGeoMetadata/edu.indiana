@@ -34,9 +34,9 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Putnam County, Indiana"
+    "Indiana--Putnam County"
   ],
-  "locn_geometry": "ENVELOPE(-87.0001,-86.63,39.86,39.46)",
+  "locn_geometry": "POLYGON((-87.0001 39.86, -86.63 39.86, -86.63 39.46, -87.0001 39.46, -87.0001 39.86))",
   "dcat_bbox": "ENVELOPE(-87.0001,-86.63,39.86,39.46)",
   "dcat_centroid": "39.66,-86.81505",
   "pcdm_memberOf_sm": [
@@ -52,6 +52,6 @@
   "dct_identifier_sm": [
     "7d261ce1-63ba-4ffb-8b13-3e9e2f320f91"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:52Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

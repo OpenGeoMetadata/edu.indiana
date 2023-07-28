@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
   "solr_year_i": "1951",
   "dc_creator_sm": [
-    "Moran,  W. H.(William H.), cartographer."
+    "Moran, W. H.(William H.), cartographer."
   ],
   "dc_description_s": "November, 1951.; Blue line print.; Traced from compilation proof sheets of new base map of Indiana, prepared by the U.S. Geological Survey. Minor additions made from Indiana Transportation Map, edition of 1947, which was also prepared by the U.S. Geological Survey. Scale 1:380,160",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:07Z",
   "dc_language_sm": [
     "eng"
   ],

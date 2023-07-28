@@ -8,20 +8,20 @@
   "solr_geom": "ENVELOPE(-85.45,-85.06,40.91,40.56)",
   "solr_year_i": "1905",
   "dc_creator_sm": [
-    "Kibele,  Cuno, cartographer."
+    "Kibele, Cuno"
   ],
   "dc_description_s": "Cadastral map showing landowners.; Includes Explanation of rural free delivery, advertisements and ancillary maps of Bluffton, West Ossian and Ossian, Vera Cruz and Keystone. Scale approximately 1:42,000",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074301/LARGE\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00202\"}",
   "dct_spatial_sm": [
-    "Bluffton, Indiana",
-    "Vera Cruz, Indiana",
-    "Ossian, Indiana",
+    "Indiana--Bluffton",
+    "Indiana--Vera Cruz",
+    "Indiana--Ossian",
     "Indiana",
-    "Wells County, Indiana",
-    "Keystone, Indiana"
+    "Indiana--Wells County",
+    "Indiana--Keystone"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:57Z",
+  "layer_modified_dt": "2023-02-03T21:18:28Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -21,7 +21,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1946"
@@ -34,9 +35,9 @@
     "[1946 TO 1946]"
   ],
   "dct_spatial_sm": [
-    "Jeffersonville, Indiana"
+    "Indiana--Jeffersonville"
   ],
-  "locn_geometry": "ENVELOPE(-85.7501,-85.6801,38.3,38.2501)",
+  "locn_geometry": "POLYGON((-85.7501 38.3, -85.6801 38.3, -85.6801 38.2501, -85.7501 38.2501, -85.7501 38.3))",
   "dcat_bbox": "ENVELOPE(-85.7501,-85.6801,38.3,38.2501)",
   "dcat_centroid": "38.27505,-85.7151",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00873"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

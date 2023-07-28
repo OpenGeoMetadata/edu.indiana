@@ -9,12 +9,12 @@
   "solr_year_i": "1910",
   "dc_description_s": "Modern area represented: Докшыцы (Dokshytsy), Vitebsk Region, Belarus; Scale =1:50,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000533\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1R7FwgQydp7AxEhUNsrV-Zeq0L9tbEeY4\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000533\"}",
   "dct_spatial_sm": [
-    "Dokshytsy, Belarus",
+    "Belarus--Dokshytsy",
     "Belarus"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:34Z",
+  "layer_modified_dt": "2023-05-09T06:04:56Z",
   "dc_language_sm": [
     "rus"
   ],

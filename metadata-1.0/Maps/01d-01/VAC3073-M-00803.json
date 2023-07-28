@@ -5,9 +5,10 @@
   "dc_title_s": "Colton's Indiana",
   "dct_provenance_s": "Indiana University",
   "layer_slug_s": "VAC3073-M-00803",
+  "solr_geom": "ENVELOPE(-88.09776,-84.784579,41.760592,37.771742)",
   "solr_year_i": "1860",
   "dc_creator_sm": [
-    "Colton, J. H. (Joseph Hutchins),1800-1893"
+    "Colton, J. H. (Joseph Hutchins), 1800-1893"
   ],
   "dc_description_s": "Prime meridian: Washington. Detached from an atlas, no. 41. Verso: The state of Michigan [text]. Scale approximately 1:1,300,000.",
   "dc_format_s": "JPEG",
@@ -16,7 +17,7 @@
     "Indiana",
     "Indiana"
   ],
-  "layer_modified_dt": "2022-02-27T01:36:29Z",
+  "layer_modified_dt": "2023-02-03T21:17:42Z",
   "dc_language_sm": [
     "eng"
   ],

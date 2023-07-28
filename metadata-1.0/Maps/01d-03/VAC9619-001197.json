@@ -9,12 +9,12 @@
   "solr_year_i": "1927",
   "dc_description_s": "Modern area represented: Zabory, Tver oblast, Russia; Scale =1:50,000; Секретно",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001197\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1Jb2WdSZ7bB_qe-1mG0u3ZjJ7IfOeRlk2\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001197\"}",
   "dct_spatial_sm": [
-    "Zabory, Russia",
+    "Russia--Zabory",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:38:02Z",
+  "layer_modified_dt": "2023-05-09T06:04:33Z",
   "dc_language_sm": [
     "rus"
   ],

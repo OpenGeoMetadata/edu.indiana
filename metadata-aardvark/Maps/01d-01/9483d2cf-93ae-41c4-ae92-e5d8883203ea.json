@@ -30,10 +30,10 @@
     "[1949 TO 1949]"
   ],
   "dct_spatial_sm": [
-    "Posey County, Indiana",
+    "Indiana--Posey County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-88.1,-87.68,38.23,37.76)",
+  "locn_geometry": "POLYGON((-88.1 38.23, -87.68 38.23, -87.68 37.76, -88.1 37.76, -88.1 38.23))",
   "dcat_bbox": "ENVELOPE(-88.1,-87.68,38.23,37.76)",
   "dcat_centroid": "37.995,-87.89",
   "pcdm_memberOf_sm": [
@@ -49,6 +49,6 @@
   "dct_identifier_sm": [
     "9483d2cf-93ae-41c4-ae92-e5d8883203ea"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

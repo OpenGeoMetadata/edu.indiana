@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Modern area represented: Salyan, Salyan district, Azerbaijan; Scale =1:100,000; Не подлежит оглашению",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000744\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=1-Kw1Su5BuNCcI79o2cNifJ25TerU4mcT\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000744\"}",
   "dct_spatial_sm": [
-    "Salyan, Azerbaijan",
+    "Azerbaijan--Salyan",
     "Azerbaijan"
   ],
-  "layer_modified_dt": "2022-07-06T01:37:45Z",
+  "layer_modified_dt": "2023-05-09T06:03:51Z",
   "dc_language_sm": [
     "rus"
   ],

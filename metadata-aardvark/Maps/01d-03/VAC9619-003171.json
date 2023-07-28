@@ -31,10 +31,10 @@
     "[1873 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Joniškis, Lithuania",
+    "Lithuania--Joniškis",
     "Lithuania"
   ],
-  "locn_geometry": "ENVELOPE(24,23.5,56.333,56)",
+  "locn_geometry": "POLYGON((24 56.333, 23.5 56.333, 23.5 56, 24 56, 24 56.333))",
   "dcat_bbox": "ENVELOPE(24,23.5,56.333,56)",
   "dcat_centroid": "56.1665,23.75",
   "pcdm_memberOf_sm": [
@@ -48,14 +48,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003171\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1tPLnftcQeQuzoZhNIjx2aJcrSpOyxOMR/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003171\"}",
   "id": "VAC9619-003171",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003171",
     "G7000 s100 .S7 sheet O-34-144"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:39:09Z",
+  "gbl_mdModified_dt": "2023-05-09T06:03:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

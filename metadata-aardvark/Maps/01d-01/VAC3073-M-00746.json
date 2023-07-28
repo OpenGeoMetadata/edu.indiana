@@ -18,7 +18,9 @@
   ],
   "dcat_keyword_sm": [
     "Indiana Historic Maps",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -33,6 +35,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
+  "locn_geometry": "POLYGON((-88.09776 41.760592, -84.784579 41.760592, -84.784579 37.771742, -88.09776 37.771742, -88.09776 41.760592))",
+  "dcat_bbox": "ENVELOPE(-88.09776,-84.784579,41.760592,37.771742)",
+  "dcat_centroid": "39.766167,-86.4411695",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +54,6 @@
   "dct_identifier_sm": [
     "VAC3073-M-00746"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:07Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

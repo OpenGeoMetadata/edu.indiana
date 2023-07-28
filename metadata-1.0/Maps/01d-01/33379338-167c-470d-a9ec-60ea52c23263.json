@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88,-84.75,41.75,37.86)",
   "solr_year_i": "1956",
   "dc_creator_sm": [
-    "Patton,  John B.(John Barratt), 1915-cartographer."
+    "Patton, John B. (John Barratt), 1915-"
   ],
   "dc_description_s": "Base from Map of Indiana, 1950 edition, published by the U.S. Geological Survey. Minor revisions and additions made from Indiana Department of Conservation, Geological Survey, county base maps.; Includes 2 col. cross-sections and notes. Scale 1:1,000,000",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:57Z",
+  "layer_modified_dt": "2023-02-03T21:18:58Z",
   "dc_language_sm": [
     "eng"
   ],

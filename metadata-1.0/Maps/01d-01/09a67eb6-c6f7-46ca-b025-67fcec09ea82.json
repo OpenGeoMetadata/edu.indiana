@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-86.66,-86.56,39.1501,39.0601)",
   "solr_year_i": "1960",
   "dc_creator_sm": [
-    "Schwender,  William A., cartographer."
+    "Schwender, William A., cartographer."
   ],
   "dc_description_s": "Pen and ink and black and colored pencil on tracing paper. Scale approximately 1:24,000.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00584\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00584\"}",
   "dct_spatial_sm": [
     "Indiana",
-    "Van Buren Township, Indiana",
-    "Monroe County, Indiana"
+    "Indiana--Van Buren Township",
+    "Indiana--Monroe County"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:41Z",
+  "layer_modified_dt": "2023-02-03T21:26:37Z",
   "dc_language_sm": [
     "eng"
   ],

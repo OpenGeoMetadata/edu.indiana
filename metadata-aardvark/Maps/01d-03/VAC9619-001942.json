@@ -34,11 +34,11 @@
     "[1900 TO 1941]"
   ],
   "dct_spatial_sm": [
-    "Krasnoperekopsk, Ukraine",
-    "Republic Of Crimea, Ukraine",
+    "Ukraine--Krasnoperekopsk",
+    "Ukraine--Republic Of Crimea",
     "Ukraine"
   ],
-  "locn_geometry": "ENVELOPE(34,33.5,46,45.6667)",
+  "locn_geometry": "POLYGON((34 46, 33.5 46, 33.5 45.6667, 34 45.6667, 34 46))",
   "dcat_bbox": "ENVELOPE(34,33.5,46,45.6667)",
   "dcat_centroid": "45.833349999999996,33.75",
   "pcdm_memberOf_sm": [
@@ -52,14 +52,17 @@
     "The maps in the Russian Military Topographic Map Collection are in the public domain. The maps were anonymously created and published over seventy years ago. Metadata and images will be made available upon request following the \"No Copyright - United States\"",
     "Rights Statement: http://rightsstatements.org/page/NoC-US/1.0/."
   ],
+  "dct_rightsHolder_sm": [
+    "Contact Indiana University Libraries to access this map. https://libraries.indiana.edu"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001942\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/open?id=19vuJKNo-7ztrGdjs5V7oHyn0x8claJ8V\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001942\"}",
   "id": "VAC9619-001942",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001942",
     "G7000 s100 .S7 sheet L-36-80"
   ],
-  "gbl_mdModified_dt": "2022-07-06T01:38:26Z",
+  "gbl_mdModified_dt": "2023-05-09T06:04:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "Modern area represented: Kruttsy, Tver oblast, Russia; Scale =1:50,000",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003475\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/file/d/1cihOLqbhj-Kp4lrE_tjxKT5oBYLDHFNp/view?usp=sharing\",\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003475\"}",
   "dct_spatial_sm": [
-    "Kruttsy, Russia",
+    "Russia--Kruttsy",
     "Russia"
   ],
-  "layer_modified_dt": "2022-07-06T01:39:19Z",
+  "layer_modified_dt": "2023-05-09T06:02:29Z",
   "dc_language_sm": [
     "rus"
   ],
