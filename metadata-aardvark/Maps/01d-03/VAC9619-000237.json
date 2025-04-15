@@ -37,8 +37,8 @@
     "Ukraine--Hrytsiv",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((27.25 50, 27 50, 27 49.833, 27.25 49.833, 27.25 50))",
-  "dcat_bbox": "ENVELOPE(27.25,27,50,49.833)",
+  "locn_geometry": "POLYGON((27.250 50.000, 27.000 50.000, 27.000 49.833, 27.250 49.833, 27.250 50.000))",
+  "dcat_bbox": "ENVELOPE(27.250,27.000,50.000,49.833)",
   "dcat_centroid": "49.9165,27.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000237\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000237\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/gx41mj54m\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/m900q2938/manifest\"}",
   "id": "VAC9619-000237",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000237",
     "G7000 s50 .S68 sheet M-35-79-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

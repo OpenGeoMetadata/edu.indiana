@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Railroads, passenger traffic flow",
   "dct_description_sm": [
-    "Shows number of daily passenger trains on Indiana railways in 1869 and 1969. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 75. Scale approximately 2,880,000"
+    "2 maps on 1 sheet. Shows number of daily passenger trains on Indiana railways in 1869 and 1969.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 75.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:2,880,000; Dimensions: on sheet 28 x 21 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,11 +24,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Railroads--Passanger traffic"
   ],
   "dct_temporal_sm": [
     "1969"
@@ -54,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00051\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00051\"}",
+  "gbl_wxsIdentifier_s": "cf95kd629",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00051\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cf95kd629/manifest\"}",
   "id": "VAC3073-M-00051",
   "dct_identifier_sm": [
-    "VAC3073-M-00051"
+    "VAC3073-M-00051",
+    "G4091.P3 1969 .K57"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

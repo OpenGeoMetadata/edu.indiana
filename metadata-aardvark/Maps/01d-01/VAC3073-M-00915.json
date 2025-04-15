@@ -1,7 +1,9 @@
 {
-  "dct_title_s": "Evansville, Indiana",
+  "dct_title_s": "Evansville Indiana 1890",
   "dct_description_sm": [
-    "Cadastral map showing some landowners. Originally printed in 2 sheets. Stamped on: Copyright 1890 by J.D. & M.S. Saunders. Includes index to buildings. Scale not given. Compiled from official records and surveys by J.D. and M.S. Saunders."
+    "1 map, hand colored, dissected in 6 pieces and mounted on linen and shellacked. \"Compiled from official records and surveys by J.D. and M.S. Saunders, civil engineers & surveyors\", provide list of public buildings, public schools, mill. Schools, churches, opera houses, halls, Union Depot and L. & N. Depot, Hotels, 201 x 88 cm. On six sheets.",
+    "Imprint: [Evansville, Ind.? : J.D. and M.S. Saunders?], 1890.",
+    "Scale: Scale not given.; Dimensions: 129 x 132 cm, pieces 48 x 71 or smaller"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +12,7 @@
     "Saunders, J. D. (Cartographer)"
   ],
   "dct_publisher_sm": [
-    "J.D. and M.S. Saunders"
+    "J.D. and M.S. Saunders?]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +21,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1890"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00915\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00915\"}",
+  "gbl_wxsIdentifier_s": "hm50vw904",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00915\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hm50vw904/manifest\"}",
   "id": "VAC3073-M-00915",
   "dct_identifier_sm": [
-    "VAC3073-M-00915"
+    "VAC3073-M-00915",
+    "G4094 .E9G46 1890 .S28"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

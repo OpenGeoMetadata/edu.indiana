@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Lake County, Indiana, 1890",
   "dct_description_sm": [
-    "Scale 1:187,500. T.H. Ball."
+    "Imprint: [Place of publication not identified] : [T. H. Ball], 1890.",
+    "Scale: 1:187,500; Dimensions: 40 x 28 cm",
+    "Coordinates: W0873136 W0871307 N0414539 N0410943"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,15 +12,11 @@
     "Ball, T. H. (Timothy Horton), 1826-1913"
   ],
   "dct_publisher_sm": [
-    "T.H. Ball"
+    "[T.H. Ball]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1890"
@@ -34,9 +32,9 @@
     "Indiana--Lake County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.5101 41.7501, -87.21 41.7501, -87.21 41.1501, -87.5101 41.1501, -87.5101 41.7501))",
-  "dcat_bbox": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
-  "dcat_centroid": "41.450100000000006,-87.36005",
+  "locn_geometry": "POLYGON((-87.510 41.750, -87.210 41.750, -87.210 41.150, -87.510 41.150, -87.510 41.750))",
+  "dcat_bbox": "ENVELOPE(-87.510,-87.210,41.750,41.150)",
+  "dcat_centroid": "41.45,-87.36",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +43,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00891\"}",
+  "gbl_wxsIdentifier_s": "qb98nj96v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00891\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qb98nj96v/manifest\"}",
   "id": "VAC3073-M-00891",
   "dct_identifier_sm": [
-    "VAC3073-M-00891"
+    "VAC3073-M-00891",
+    "G4093.L3 1890 .B35"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,8 +34,8 @@
     "Estonia--Lõupõllu",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((22.25 58.167, 22 58.167, 22 58, 22.25 58, 22.25 58.167))",
-  "dcat_bbox": "ENVELOPE(22.25,22,58.167,58)",
+  "locn_geometry": "POLYGON((22.250 58.167, 22.000 58.167, 22.000 58.000, 22.250 58.000, 22.250 58.167))",
+  "dcat_bbox": "ENVELOPE(22.250,22.000,58.167,58.000)",
   "dcat_centroid": "58.0835,22.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001716\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001716\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/cr56n168c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rf560j255/manifest\"}",
   "id": "VAC9619-001716",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001716",
     "G7000 s50 .S68 sheet O-34-69-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

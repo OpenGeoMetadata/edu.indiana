@@ -37,9 +37,9 @@
     "Russia--Budogoshch",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((32.5 59.3333, 32 59.3333, 32 59, 32.5 59, 32.5 59.3333))",
-  "dcat_bbox": "ENVELOPE(32.5,32,59.3333,59)",
-  "dcat_centroid": "59.166650000000004,32.25",
+  "locn_geometry": "POLYGON((32.500 59.333, 32.000 59.333, 32.000 59.000, 32.500 59.000, 32.500 59.333))",
+  "dcat_bbox": "ENVELOPE(32.500,32.000,59.333,59.000)",
+  "dcat_centroid": "59.1665,32.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002131\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002131\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/tm70mw008\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2z10z181b/manifest\"}",
   "id": "VAC9619-002131",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002131",
     "G7000 s100 .S7 sheet O-36-29"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

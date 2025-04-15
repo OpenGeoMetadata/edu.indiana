@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Mendenhall's new road map & route book of Indiana: showing pikes, road & bicycle route, the location of towns, post offices, rail roads & c",
+  "dct_title_s": "Mendenhall's New road map & route book of Indiana showing pikes, roads and bicycle routes (Cover)",
   "dct_description_sm": [
-    "Inset: Mendenhall's bicycle road map of Marion County, Ind. Scale approximately 1:670,000. C.S. Mendenhall."
+    "Inset: Mendenhall's bicycle road map of Marion County, Ind.",
+    "Imprint: Cincinnati, Ohio : C.S. Mendenhall, [1901]",
+    "Dimensions: 68 x 51 cm; Scale: 1:670,000",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "C.S. Mendenhall (Firm)"
+  ],
   "dct_publisher_sm": [
-    "C.S. Mendenhall"
+    "C.S. Mendenhall (Firm)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Bicycle trails",
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -43,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00771\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00771\"}",
+  "gbl_wxsIdentifier_s": "st74dt21h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00771\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/st74dt21h/manifest\"}",
   "id": "VAC3073-M-00771",
   "dct_identifier_sm": [
-    "VAC3073-M-00771"
+    "VAC3073-M-00771",
+    "G4091 .P2 1901 .C76"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:13:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

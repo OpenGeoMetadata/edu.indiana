@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, White County sheet",
   "dct_description_sm": [
-    "Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1915.' 'Snyder & Black, N.Y.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by T.M. Bushnell, of the U.s. Department of Agriculture, in charge, and C.P. Erni, of the Indiana Department of Geology."
+    "Shows soil types classification by colors and symbols. \"Field Operations, Bureau of Soils, 1915.\" \"Snyder & Black, N.Y.",
+    "Imprint: [Washington, D.C?] : The Bureau of Soils, 1915.",
+    "Scale: 1:63,360; Dimensions: 62 x 69 cm",
+    "Coordinates: W0861900 W0855100 N0384700 N0382500"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Erni, C. P. (Chester Prall),1896-cartographer."
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils",
+    "Classification"
   ],
   "dct_temporal_sm": [
     "1915"
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00733\"}",
+  "gbl_wxsIdentifier_s": "b2774z70b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00733\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/b2774z70b/manifest\"}",
   "id": "VAC3073-M-00733",
   "dct_identifier_sm": [
-    "VAC3073-M-00733"
+    "VAC3073-M-00733",
+    "G4093 .W8J3 1915 .B87"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,9 +37,9 @@
     "Poland--Legionowo",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((21 52.5, 20.75 52.5, 20.75 52.3333, 21 52.3333, 21 52.5))",
-  "dcat_bbox": "ENVELOPE(21,20.75,52.5,52.3333)",
-  "dcat_centroid": "52.416650000000004,20.875",
+  "locn_geometry": "POLYGON((21.000 52.500, 20.750 52.500, 20.750 52.333, 21.000 52.333, 21.000 52.500))",
+  "dcat_bbox": "ENVELOPE(21.000,20.750,52.500,52.333)",
+  "dcat_centroid": "52.4165,20.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,13 +56,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000243\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000243\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/db78tc64w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fq979380w/manifest\"}",
   "id": "VAC9619-000243",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000243",
     "G7000 s50 .S68",
     "zsheet N-34-126-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

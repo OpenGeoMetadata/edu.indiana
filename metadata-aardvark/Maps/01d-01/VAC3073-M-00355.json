@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Foreign city, country and region names used for Indiana cities and towns",
   "dct_description_sm": [
-    "Detached from: Kingsbury, Robert C. Atlas of Indiana, page 42. In lower left margin: A study in toponymy. Scale approximately 1:1,950,000"
+    "Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 42.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Dimensions: 26 x 18 cm, on sheet 28 x 21 cm; Scale: Approximately 1:1,950,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Toponymy",
+    "Names, Geographical"
   ],
   "dct_temporal_sm": [
     "1960"
@@ -51,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00355\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00355\"}",
+  "gbl_wxsIdentifier_s": "zk51wh93c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00355\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zk51wh93c/manifest\"}",
   "id": "VAC3073-M-00355",
   "dct_identifier_sm": [
-    "VAC3073-M-00355"
+    "VAC3073-M-00355",
+    "G4091.A8 1960 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

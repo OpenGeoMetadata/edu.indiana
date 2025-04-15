@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Indianapolis metro area map",
+  "dct_title_s": "Indianapolis Metro Area map",
   "dct_description_sm": [
-    "Plastic index device in pocket. Includes indexes, A-C of street index on attached sheet and 'Inset map of adjacent areas in Johnson County.' Scale 1:29,000. Copyright Fred F. Johnson."
+    "Plastic index device in pocket. Includes indexes, A-C of street index on attached sheet and \"Inset map of adjacent areas in Johnson County.\"",
+    "Imprint: Grand Rapids, Mich. : [publisher not identified], 1975.",
+    "Dimensions: 128 x 119 cm; Scale: 1:29,000",
+    "Coordinates: W0861941 W0855614 N0395538 N0393755"
   ],
   "dct_language_sm": [
     "eng"
@@ -9,13 +12,12 @@
   "dct_creator_sm": [
     "Johnson, Fred F."
   ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
+  ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1975"
@@ -32,9 +34,9 @@
     "Indiana",
     "Indiana--Indianapolis"
   ],
-  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
-  "dcat_centroid": "39.7601,-86.12005",
+  "locn_geometry": "POLYGON((-86.310 39.910, -85.930 39.910, -85.930 39.610, -86.310 39.610, -86.310 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.930,39.910,39.610)",
+  "dcat_centroid": "39.76,-86.12",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,11 +45,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00864\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00864\"}",
+  "gbl_wxsIdentifier_s": "1v53m254h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00864\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1v53m254h/manifest\"}",
   "id": "VAC3073-M-00864",
   "dct_identifier_sm": [
-    "VAC3073-M-00864"
+    "VAC3073-M-00864",
+    "G4094 .I4 1975 .M4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,23 +1,23 @@
 {
-  "dct_title_s": "Map of Indiana: prepared especially for the National newspaper directory & gazetteer",
+  "dct_title_s": "Map of Indiana : prepared especially for the National newspaper directory & gazetteer",
   "dct_description_sm": [
-    "Shows counties, cities and towns, and railroads. Scale approximately 1:1,647,369. 26 miles to the inch. By the Matthews-Northrup Co."
+    "Shows counties, cities and towns, and railroads.",
+    "Imprint: Buffalo, N.Y. : Matthews-Northrup, [1900]",
+    "Dimensions: 28 x 22 cm; Scale: 1:1,647,369",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Matthews-Northrup Company"
+  ],
   "dct_publisher_sm": [
-    "Matthews-Northrup"
+    "Matthews-Northrup Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1900"
@@ -44,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00776\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00776\"}",
+  "gbl_wxsIdentifier_s": "q524ks685",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00776\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/q524ks685/manifest\"}",
   "id": "VAC3073-M-00776",
   "dct_identifier_sm": [
-    "VAC3073-M-00776"
+    "VAC3073-M-00776",
+    "G4090 1900 .M48"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:12:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

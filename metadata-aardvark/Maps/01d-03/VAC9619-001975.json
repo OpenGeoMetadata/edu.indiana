@@ -37,9 +37,9 @@
     "Belarus--Krasnapollye",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((31.5 53.3333, 31 53.3333, 31 53, 31.5 53, 31.5 53.3333))",
-  "dcat_bbox": "ENVELOPE(31.5,31,53.3333,53)",
-  "dcat_centroid": "53.166650000000004,31.25",
+  "locn_geometry": "POLYGON((31.500 53.333, 31.000 53.333, 31.000 53.000, 31.500 53.000, 31.500 53.333))",
+  "dcat_bbox": "ENVELOPE(31.500,31.000,53.333,53.000)",
+  "dcat_centroid": "53.1665,31.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001975\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001975\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/5712m7334\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2227p107z/manifest\"}",
   "id": "VAC9619-001975",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001975",
     "G7000 s100 .S7 sheet N-36-99"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

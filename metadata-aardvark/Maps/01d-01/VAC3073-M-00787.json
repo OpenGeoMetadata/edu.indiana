@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Lawrence County [Indiana] land use map: preliminary",
+  "dct_title_s": "Lawrence County [Indiana] land use map : preliminary",
   "dct_description_sm": [
-    "Includes chart, with some figures corrected by hand, showing type of land use, acreage, and recommended use. Scale not given. Prepared by Lawrence County Land Use Planning Committee."
+    "Includes chart, with some figures corrected by hand, showing type of land use, acreage, and recommended use.",
+    "Imprint: [Bedford, Ind.?] : The Committee, [between 1941-1946?]",
+    "Scale: Scale not given.; Dimensions: 23 x 23 cm, on sheet 39 x 28 cm",
+    "Coordinates: W0864102 W0861631 N0385932 N0384111"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Lawrence County (Ind.). Land Use Planning Committee"
+  ],
   "dct_publisher_sm": [
-    "The Committee"
+    "Lawrence County (Ind.). Land Use Planning Committee"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,9 +24,6 @@
   ],
   "dct_subject_sm": [
     "Land use"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1941"
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00787\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00787\"}",
+  "gbl_wxsIdentifier_s": "6m312r74k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00787\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/6m312r74k/manifest\"}",
   "id": "VAC3073-M-00787",
   "dct_identifier_sm": [
-    "VAC3073-M-00787"
+    "VAC3073-M-00787",
+    "G4093 .L5 G4 1941 .L39"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:12:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

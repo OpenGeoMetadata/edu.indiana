@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil map of Floyd and Harrison counties",
+  "dct_title_s": "Soil map of Floyd and Harrison Counties",
   "dct_description_sm": [
-    "Detached from: A soil survey of Clark, Floyd, and Harrison counties / Robert W. Ellis. In 32nd Annual report of the Indiana Department of Geology and Natural Resources. Scale approximately 1:95,000 By R.W. Ellis."
+    "Detached from: A soil survey of Clark, Floyd, and Harrison counties / Robert W. Ellis. In Indiana Department of Geology and Natural Resources thirty-second annual report ... 1907. Indianapolis : Wm. B. Burford, 1908. Page 248.",
+    "Imprint: [Indianapolis] : [Indiana Department of Geology and Natural Resources], 1908",
+    "Scale: Approximately 1:95,000; Dimensions: 64 x 59 cm",
+    "Coordinates: W0861947 W0854538 N0382521 N0375728"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,8 +13,7 @@
     "Ellis, R. W. (Robert W.)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -39,9 +40,9 @@
     "Indiana--Floyd County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.3101 38.41, -85.7501 38.41, -85.7501 37.95, -86.3101 37.95, -86.3101 38.41))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.7501,38.41,37.95)",
-  "dcat_centroid": "38.18,-86.0301",
+  "locn_geometry": "POLYGON((-86.310 38.410, -85.750 38.410, -85.750 37.950, -86.310 37.950, -86.310 38.410))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.750,38.410,37.950)",
+  "dcat_centroid": "38.18,-86.03",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00741\"}",
+  "gbl_wxsIdentifier_s": "qz20tw55z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00741\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qz20tw55z/manifest\"}",
   "id": "VAC3073-M-00741",
   "dct_identifier_sm": [
-    "VAC3073-M-00741"
+    "VAC3073-M-00741",
+    "G4093.F5J3 1907 .E4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

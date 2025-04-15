@@ -37,8 +37,8 @@
     "Azerbaijan--Vilvan",
     "Azerbaijan"
   ],
-  "locn_geometry": "POLYGON((48.75 38.8333, 48.5 38.8333, 48.5 38.6667, 48.75 38.6667, 48.75 38.8333))",
-  "dcat_bbox": "ENVELOPE(48.75,48.5,38.8333,38.6667)",
+  "locn_geometry": "POLYGON((48.750 38.833, 48.500 38.833, 48.500 38.667, 48.750 38.667, 48.750 38.833))",
+  "dcat_bbox": "ENVELOPE(48.750,48.500,38.833,38.667)",
   "dcat_centroid": "38.75,48.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000097\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000097\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/rr171z15x\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/w0893k37n/manifest\"}",
   "id": "VAC9619-000097",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000097",
     "G7000 s50 .S68 sheet J-39-38-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

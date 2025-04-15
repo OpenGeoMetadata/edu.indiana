@@ -37,9 +37,9 @@
     "Belarus--Rzhavka",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((31 53.5, 30.75 53.5, 30.75 53.3333, 31 53.3333, 31 53.5))",
-  "dcat_bbox": "ENVELOPE(31,30.75,53.5,53.3333)",
-  "dcat_centroid": "53.416650000000004,30.875",
+  "locn_geometry": "POLYGON((31.000 53.500, 30.750 53.500, 30.750 53.333, 31.000 53.333, 31.000 53.500))",
+  "dcat_bbox": "ENVELOPE(31.000,30.750,53.500,53.333)",
+  "dcat_centroid": "53.4165,30.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001439\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001439\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mg74qm81d\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zw130h91t/manifest\"}",
   "id": "VAC9619-001439",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001439",
     "GM G7000 S50 .S68 N-36-86-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

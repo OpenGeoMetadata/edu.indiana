@@ -1,17 +1,20 @@
 {
   "dct_title_s": "Overlook-Peninsula, Salt Creek & Polk Townships, Monroe County, Indiana",
   "dct_description_sm": [
-    "Black line print. Relief shown by contours and spot heights. Shows Overlook and Peninsula properties located just northeast of the Lake Monroe causeway, Indiana. 'Revisions: 23, Aug. 68-Recently acquired property added.' '57-D-5.' Scale 1:2400. 1'=200'."
+    "Black line print.  Relief shown by contours and spot heights.   Shows Overlook and Peninsula properties located just northeast of the Lake Monroe causeway, Indiana.   \"Revisions: 23, Aug. 68-Recently acquired property added.\"  \"57-D-5.\"",
+    "Imprint: [Place of publication not identified] : [publisher not identified], 1968.",
+    "Dimensions: 53 x 130 cm; Scale: 1:2,400",
+    "Coordinates: W0862744 W0862208 N0390955 N0390436"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
+  ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1968"
@@ -30,9 +33,9 @@
     "Indiana--Salt Creek Township",
     "Indiana--Monroe County"
   ],
-  "locn_geometry": "POLYGON((-86.4501 39.1501, -86.36 39.1501, -86.36 39.0601, -86.4501 39.0601, -86.4501 39.1501))",
-  "dcat_bbox": "ENVELOPE(-86.4501,-86.36,39.1501,39.0601)",
-  "dcat_centroid": "39.1051,-86.40505",
+  "locn_geometry": "POLYGON((-86.450 39.150, -86.360 39.150, -86.360 39.060, -86.450 39.060, -86.450 39.150))",
+  "dcat_bbox": "ENVELOPE(-86.450,-86.360,39.150,39.060)",
+  "dcat_centroid": "39.105000000000004,-86.405",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00738\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00738\"}",
+  "gbl_wxsIdentifier_s": "5138kj56r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00738\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5138kj56r/manifest\"}",
   "id": "VAC3073-M-00738",
   "dct_identifier_sm": [
-    "VAC3073-M-00738"
+    "VAC3073-M-00738",
+    "G4094.S219 1968 .O94"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

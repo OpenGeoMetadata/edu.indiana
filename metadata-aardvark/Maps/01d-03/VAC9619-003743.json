@@ -37,9 +37,9 @@
     "Russia--Krasnoznamenskoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((20.625 54.5, 20.5 54.5, 20.5 54.4167, 20.625 54.4167, 20.625 54.5))",
-  "dcat_bbox": "ENVELOPE(20.625,20.5,54.5,54.4167)",
-  "dcat_centroid": "54.458349999999996,20.5625",
+  "locn_geometry": "POLYGON((20.625 54.500, 20.500 54.500, 20.500 54.417, 20.625 54.417, 20.625 54.500))",
+  "dcat_bbox": "ENVELOPE(20.625,20.500,54.500,54.417)",
+  "dcat_centroid": "54.4585,20.5625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003743\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003743\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/r207tq27r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/p5549379f/manifest\"}",
   "id": "VAC9619-003743",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003743",
     "G7063.K2 s25 .S6 sheet N-34-54-C-а"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,9 +34,9 @@
     "Russia--Gusev",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((22.25 54.5833, 22.125 54.5833, 22.125 54.5, 22.25 54.5, 22.25 54.5833))",
-  "dcat_bbox": "ENVELOPE(22.25,22.125,54.5833,54.5)",
-  "dcat_centroid": "54.541650000000004,22.1875",
+  "locn_geometry": "POLYGON((22.250 54.583, 22.125 54.583, 22.125 54.500, 22.250 54.500, 22.250 54.583))",
+  "dcat_bbox": "ENVELOPE(22.250,22.125,54.583,54.500)",
+  "dcat_centroid": "54.5415,22.1875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003777\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003777\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8s45q958v\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5m60s300m/manifest\"}",
   "id": "VAC9619-003777",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003777",
     "G7063.K2 s25 .S6 sheet N-34-57-A-d"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

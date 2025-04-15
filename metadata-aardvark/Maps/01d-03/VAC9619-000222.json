@@ -37,8 +37,8 @@
     "Ukraine--Kylykyiv",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((27.25 50.667, 27 50.667, 27 50.5, 27.25 50.5, 27.25 50.667))",
-  "dcat_bbox": "ENVELOPE(27.25,27,50.667,50.5)",
+  "locn_geometry": "POLYGON((27.250 50.667, 27.000 50.667, 27.000 50.500, 27.250 50.500, 27.250 50.667))",
+  "dcat_bbox": "ENVELOPE(27.250,27.000,50.667,50.500)",
   "dcat_centroid": "50.5835,27.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000222\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000222\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/z316q239b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2v23x278c/manifest\"}",
   "id": "VAC9619-000222",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000222",
     "G7000 s50 .S68 sheet M-35-55-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

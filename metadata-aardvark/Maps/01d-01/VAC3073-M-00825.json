@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Highway map Indiana",
+  "dct_title_s": "Highway map of Indiana",
   "dct_description_sm": [
-    "Includes index to counties, cities and towns. Text, ill., Transcontinental mileage chart, and ancillary maps of Indianapolis, Indiana; and Standard Oil Company (Indiana) official road map United States on verso. 'Compliments of Standard Oil Company (Indiana).' Scale approximately 1:760,000. 1 inch = approximately 12 miles. The H.M. Goush��������� Company."
+    "Includes index to counties, cities and towns.    Text, ill., Transcontinental mileage chart, and ancillary maps of Indianapolis, Indiana, and Standard Oil Company (Indiana) official road map United States on verso. \"Compliments of Standard Oil Company (Indiana).\"",
+    "Imprint: Chicago : H.M. Gousha, [1950]",
+    "Scale: 1:760,000; Dimensions: 66 x 41 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "H.M. Gousha Company"
+  ],
   "dct_publisher_sm": [
-    "H.M. Gousha"
+    "H.M. Gousha Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00825\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00825\"}",
+  "gbl_wxsIdentifier_s": "br86c678j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00825\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/br86c678j/manifest\"}",
   "id": "VAC3073-M-00825",
   "dct_identifier_sm": [
-    "VAC3073-M-00825"
+    "VAC3073-M-00825",
+    "G4091.P2 1950 .H2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

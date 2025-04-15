@@ -34,8 +34,8 @@
     "Russia--Krasnoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((39 53, 38.5 53, 38.5 52.667, 39 52.667, 39 53))",
-  "dcat_bbox": "ENVELOPE(39,38.5,53,52.667)",
+  "locn_geometry": "POLYGON((39.000 53.000, 38.500 53.000, 38.500 52.667, 39.000 52.667, 39.000 53.000))",
+  "dcat_bbox": "ENVELOPE(39.000,38.500,53.000,52.667)",
   "dcat_centroid": "52.8335,38.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003069\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003069\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1j92g836s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tb09kh77d/manifest\"}",
   "id": "VAC9619-003069",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003069",
     "G7000 s100 .S7 sheet N-37-114"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

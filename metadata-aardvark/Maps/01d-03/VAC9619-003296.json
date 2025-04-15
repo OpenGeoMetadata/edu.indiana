@@ -34,8 +34,8 @@
     "Ukraine--Lubny",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((33.5 50.333, 33 50.333, 33 50, 33.5 50, 33.5 50.333))",
-  "dcat_bbox": "ENVELOPE(33.5,33,50.333,50)",
+  "locn_geometry": "POLYGON((33.500 50.333, 33.000 50.333, 33.000 50.000, 33.500 50.000, 33.500 50.333))",
+  "dcat_bbox": "ENVELOPE(33.500,33.000,50.333,50.000)",
   "dcat_centroid": "50.1665,33.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003296\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003296\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/0r9674565\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/g732fm27x/manifest\"}",
   "id": "VAC9619-003296",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003296",
     "G7000 s100 .S7 sheet M-36-67"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

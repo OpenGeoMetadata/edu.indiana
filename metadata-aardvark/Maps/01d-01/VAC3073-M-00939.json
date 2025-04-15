@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Bicycle & driving map of Indianapolis",
   "dct_description_sm": [
-    "Scale approximately 1:20,750. Fred Dessecker & Theo. Sandstrom."
+    "Imprint: Indianapolis : Topographical Map and Survey Co., [1899]",
+    "Scale: 1:20,750; Dimensions: 52 x 69 cm",
+    "Coordinates: W0861313 W0860443 N0394943 N0394349"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +13,7 @@
     "Sandstrom, Theo."
   ],
   "dct_publisher_sm": [
-    "Topographical Map & Survey Company"
+    "Topographical Map & Survey Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -38,9 +39,9 @@
     "Indiana--Indianapolis",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.21 39.8101, -86.0601 39.8101, -86.0601 39.7101, -86.21 39.7101, -86.21 39.8101))",
-  "dcat_bbox": "ENVELOPE(-86.21,-86.0601,39.8101,39.7101)",
-  "dcat_centroid": "39.760099999999994,-86.13505",
+  "locn_geometry": "POLYGON((-86.210 39.810, -86.060 39.810, -86.060 39.710, -86.210 39.710, -86.210 39.810))",
+  "dcat_bbox": "ENVELOPE(-86.210,-86.060,39.810,39.710)",
+  "dcat_centroid": "39.760000000000005,-86.13499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00939\"}",
+  "gbl_wxsIdentifier_s": "c821hn86c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00939\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/c821hn86c/manifest\"}",
   "id": "VAC3073-M-00939",
   "dct_identifier_sm": [
-    "VAC3073-M-00939"
+    "VAC3073-M-00939",
+    "G4094.I4 1899 .D47"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

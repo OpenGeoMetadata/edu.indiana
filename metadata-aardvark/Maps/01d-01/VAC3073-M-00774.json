@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Rand McNally special auto road map of Indiana",
   "dct_description_sm": [
-    "Includes 'Index to cities & towns with populations.' 'Cities Service mileage chart' and 'Cities Service road map North-Central States' on verso. 'L-1071.' 'Compliments of Cities Service Oil Company'--Panel. Scale approximately 1:800,000. Rand McNally & Company."
+    "Includes \"Index to cities & towns with populations.\" \"Cities Service mileage chart\" and \"Cities Service road map North-Central States\" on verso. \"L-1071.\" \"Compliments of Cities Service Oil Company\" -- Panel.",
+    "Imprint: Chicago : Rand McNally, [1930]",
+    "Scale: 1:800,000; Dimensions: 58 x 38 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Rand McNally and Company"
+  ],
   "dct_publisher_sm": [
-    "Rand McNally"
+    "Rand McNally and Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1930"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00774\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00774\"}",
+  "gbl_wxsIdentifier_s": "fb495d28t",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00774\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fb495d28t/manifest\"}",
   "id": "VAC3073-M-00774",
   "dct_identifier_sm": [
-    "VAC3073-M-00774"
+    "VAC3073-M-00774",
+    "G4091.P2 1930 .R3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

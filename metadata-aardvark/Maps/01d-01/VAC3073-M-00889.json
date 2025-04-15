@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Department of Metropolitan Development: neighborhood organization boundaries",
+  "dct_title_s": "Neighborhood Organization Boundaries",
   "dct_description_sm": [
-    "Blueline. Includes indexed list of neighborhood organizations. Scale approximately 1:36,000. Prepared by Department of Metropolitan Development, Division of Planning and Zoning."
+    "Blueline. Includes indexed list of neighborhood organizations.",
+    "Imprint: [Indianapolis?]: [Dept. of Metropolitan Development, Division of Planning and Zoning?], [1972?]",
+    "Dimensions: 151 x 101 cm; Scale: 1:36,000",
+    "Coordinates: W0861941 W0855614 N0395538 N0393755"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indianapolis (Ind.). Division of Planning & Zoning"
+  ],
   "dct_publisher_sm": [
-    "Department of Metropolitan Development, Division of Planning and Zoning"
+    "[Dept. of Metropolitan Development, Division of Planning and Zoning?]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,10 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Boundaries",
+    "Neighborhoods",
+    "Community organization"
   ],
   "dct_temporal_sm": [
     "1972"
@@ -33,9 +41,9 @@
     "Indiana",
     "Indiana--Marion County"
   ],
-  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
-  "dcat_centroid": "39.7601,-86.12005",
+  "locn_geometry": "POLYGON((-86.310 39.910, -85.930 39.910, -85.930 39.610, -86.310 39.610, -86.310 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.930,39.910,39.610)",
+  "dcat_centroid": "39.76,-86.12",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00889\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00889\"}",
+  "gbl_wxsIdentifier_s": "w95065071",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00889\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/w95065071/manifest\"}",
   "id": "VAC3073-M-00889",
   "dct_identifier_sm": [
-    "VAC3073-M-00889"
+    "VAC3073-M-00889",
+    "G4093.M3 E6 1972 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

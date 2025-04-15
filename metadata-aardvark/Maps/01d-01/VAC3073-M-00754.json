@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "1969 traffic map, state of Indiana: 24 hour annual average total traffic",
+  "dct_title_s": "1969 traffic map state of Indiana",
   "dct_description_sm": [
-    "Insets: Indianapolis -- [New Albany area]. Scale approximately 1:650,000. Prepared by the Division of Planning, Indiana State Highway Commission in cooperation with the U.S. Department of Transportation, Federal Highway Administration."
+    "Insets: Indianapolis--[New Albany area].",
+    "Imprint: [Indianapolis] : Indiana State Highway Commission, [1969]",
+    "Dimensions: 94 x 61 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. State Highway Commission (1961-1981). Division of Planning"
+  ],
   "dct_publisher_sm": [
-    "State Highway Commission of Indiana"
+    "Indiana. State Highway Commission (1961-1981)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Traffic flow"
   ],
   "dct_temporal_sm": [
     "1969"
@@ -43,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00754\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00754\"}",
+  "gbl_wxsIdentifier_s": "9g54zn071",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00754\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9g54zn071/manifest\"}",
   "id": "VAC3073-M-00754",
   "dct_identifier_sm": [
-    "VAC3073-M-00754"
+    "VAC3073-M-00754",
+    "G4091.P21 1969 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

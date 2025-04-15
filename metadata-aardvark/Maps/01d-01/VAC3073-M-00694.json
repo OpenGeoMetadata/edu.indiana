@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, Warren County sheet",
   "dct_description_sm": [
-    "Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1914.' 'Snyder & Black, N.Y.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by E.J. Grimes of the Indiana Department of Geology and E.H. Stevens of the U.S. Department of Agriculture."
+    "Shows soil types classification by colors and symbols. \"Field Operations, Bureau of Soils, 1914.\" \"Snyder & Black, N.Y.\"",
+    "Imprint: [Washington, D.C.?] : The Bureau, [1914]",
+    "Dimensions: 62 x 60 cm; Scale: 1:63,360",
+    "Coordinates: W0873200 W0870600 N0402800 N0400700"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Stevens, E. H. (Edmund H.),1892-cartographer."
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils",
+    "Classification"
   ],
   "dct_temporal_sm": [
     "1914"
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00694\"}",
+  "gbl_wxsIdentifier_s": "vh53xx85c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00694\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vh53xx85c/manifest\"}",
   "id": "VAC3073-M-00694",
   "dct_identifier_sm": [
-    "VAC3073-M-00694"
+    "VAC3073-M-00694",
+    "G4093 .W3J3 1914 .G75"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

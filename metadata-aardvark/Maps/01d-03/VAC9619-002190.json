@@ -37,9 +37,9 @@
     "Russia--Krasnyy Luch",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((30.5 57.3333, 30 57.3333, 30 57, 30.5 57, 30.5 57.3333))",
-  "dcat_bbox": "ENVELOPE(30.5,30,57.3333,57)",
-  "dcat_centroid": "57.166650000000004,30.25",
+  "locn_geometry": "POLYGON((30.500 57.333, 30.000 57.333, 30.000 57.000, 30.500 57.000, 30.500 57.333))",
+  "dcat_bbox": "ENVELOPE(30.500,30.000,57.333,57.000)",
+  "dcat_centroid": "57.1665,30.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002190\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002190\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1c18dg505\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vm410174n/manifest\"}",
   "id": "VAC9619-002190",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002190",
     "G7000 s100 .S7 sheet O-36-97"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

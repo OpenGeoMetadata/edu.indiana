@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Early routes of transportation",
   "dct_description_sm": [
-    "Shows rivers, canals, roads, trails, and the first Indiana railroad, important transportation routes during the Pioneer Era. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 74. Scale approximately 2,000,000"
+    "Shows rivers, canals, roads, trails, and the first Indiana railroad, important transportation routes during the Pioneer Era.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 74.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Dimensions: 23 x 18 cm, on sheet 28 x 21 cm; Scale: Approximately 1:2,000,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,11 +24,8 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Transportation",
+    "Historical geography"
   ],
   "dct_temporal_sm": [
     "Pioneer Era",
@@ -55,11 +55,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fedora.dlib.indiana.edu/fedora/get/iudl:1074360/LARGE\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00255\"}",
+  "gbl_wxsIdentifier_s": "f1882p547",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00255\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/f1882p547/manifest\"}",
   "id": "VAC3073-M-00255",
   "dct_identifier_sm": [
-    "VAC3073-M-00255"
+    "VAC3073-M-00255",
+    "G4091.S1 1970 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,9 +37,9 @@
     "Russia--Sergiyev Posad",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((38.5 56.3333, 38 56.3333, 38 56, 38.5 56, 38.5 56.3333))",
-  "dcat_bbox": "ENVELOPE(38.5,38,56.3333,56)",
-  "dcat_centroid": "56.166650000000004,38.25",
+  "locn_geometry": "POLYGON((38.500 56.333, 38.000 56.333, 38.000 56.000, 38.500 56.000, 38.500 56.333))",
+  "dcat_bbox": "ENVELOPE(38.500,38.000,56.333,56.000)",
+  "dcat_centroid": "56.1665,38.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002275\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002275\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/bc386j944\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/z603s801p/manifest\"}",
   "id": "VAC9619-002275",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002275",
     "G7000 s100 .S7 sheet O-37-137"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

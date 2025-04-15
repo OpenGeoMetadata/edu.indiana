@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Reconnaissance erosion survey of the State of Indiana",
+  "dct_title_s": "Reconnaissance Erosion Survey of the State of Indiana",
   "dct_description_sm": [
-    "At bottom left: Base map by U.S. Geological Survey, 1930. Scale 1:500,000 U.S. Department of Agriculture, Soil Conservation Service; Indiana erosion survey of 1934 by M.E. Waggoner, in charge, A.E. Shearin, T.M. Bushnell, D.C. Maxwell, E.E. Carlson."
+    "At bottom left: Base map by U. S. Geological Survey, 1930.",
+    "Imprint: [Washington, D.C.] : U.S. Department of Agriculture Soil Conservation Service, 1934.",
+    "Scale: 1:500,000; Dimensions: 110 x 60 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +17,7 @@
     "Waggoner, M. E. (Morris Edward)"
   ],
   "dct_publisher_sm": [
-    "United States Department of Agriculture, Soil Conservation Service"
+    "United States. Soil Conservation Service"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -23,9 +26,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Erosion",
+    "Soil erosion"
   ],
   "dct_temporal_sm": [
     "1934"
@@ -52,11 +55,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00884\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00884\"}",
+  "gbl_wxsIdentifier_s": "np194c10k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00884\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/np194c10k/manifest\"}",
   "id": "VAC3073-M-00884",
   "dct_identifier_sm": [
-    "VAC3073-M-00884"
+    "VAC3073-M-00884",
+    "G4091.J4 1934 .U5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

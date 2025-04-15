@@ -37,9 +37,9 @@
     "Russia--Goyki",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((31 57.5, 30.75 57.5, 30.75 57.3333, 31 57.3333, 31 57.5))",
-  "dcat_bbox": "ENVELOPE(31,30.75,57.5,57.3333)",
-  "dcat_centroid": "57.416650000000004,30.875",
+  "locn_geometry": "POLYGON((31.000 57.500, 30.750 57.500, 30.750 57.333, 31.000 57.333, 31.000 57.500))",
+  "dcat_bbox": "ENVELOPE(31.000,30.750,57.500,57.333)",
+  "dcat_centroid": "57.4165,30.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000057\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000057\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/12579s98b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/s7527m28p/manifest\"}",
   "id": "VAC9619-000057",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000057",
     "G7000 s50 .S68 sheet O-36-86-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

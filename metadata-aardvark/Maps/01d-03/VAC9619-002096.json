@@ -37,9 +37,9 @@
     "Russia--Novosel'ye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((29 58.3333, 28.5 58.3333, 28.5 58, 29 58, 29 58.3333))",
-  "dcat_bbox": "ENVELOPE(29,28.5,58.3333,58)",
-  "dcat_centroid": "58.166650000000004,28.75",
+  "locn_geometry": "POLYGON((29.000 58.333, 28.500 58.333, 28.500 58.000, 29.000 58.000, 29.000 58.333))",
+  "dcat_bbox": "ENVELOPE(29.000,28.500,58.333,58.000)",
+  "dcat_centroid": "58.1665,28.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002096\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002096\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/qv33rx54v\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zc77v162x/manifest\"}",
   "id": "VAC9619-002096",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002096",
     "G7000 s100 .S7 sheet O-35-70"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

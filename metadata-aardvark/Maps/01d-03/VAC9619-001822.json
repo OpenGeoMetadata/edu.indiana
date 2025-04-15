@@ -37,9 +37,9 @@
     "Ukraine--Mykolayivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((34.5 48, 34 48, 34 47.6667, 34.5 47.6667, 34.5 48))",
-  "dcat_bbox": "ENVELOPE(34.5,34,48,47.6667)",
-  "dcat_centroid": "47.833349999999996,34.25",
+  "locn_geometry": "POLYGON((34.500 48.000, 34.000 48.000, 34.000 47.667, 34.500 47.667, 34.500 48.000))",
+  "dcat_bbox": "ENVELOPE(34.500,34.000,48.000,47.667)",
+  "dcat_centroid": "47.8335,34.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001822\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001822\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/pz50gw750\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x633g883w/manifest\"}",
   "id": "VAC9619-001822",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001822",
     "G7000 s100 .S7 sheet L-36-9"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

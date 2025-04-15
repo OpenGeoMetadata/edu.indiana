@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "Calumet Region of Lake Co., Indiana",
+  "dct_title_s": "Calumet Region of Lake Co., Ind.",
   "dct_description_sm": [
-    "Blueprint. Cadastral map showing landowners. Scale 1:19,800. 1 foot = 300 chs. Prepared from the official records by F.L. Knight & Sons."
+    "Cadastral map showing landowners.",
+    "Imprint: Crown Point, Ind. : F. L. Knight & Sons, 1906.",
+    "Scale: 1:19,800; Dimensions: 91 x 136 cm",
+    "Coordinates: W0873014 W0871640 N0414147 N0413236"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "F.L. Knight & Sons"
   ],
   "dct_publisher_sm": [
     "F.L. Knight & Sons"
@@ -16,8 +22,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -33,9 +40,9 @@
     "Indiana",
     "United States"
   ],
-  "locn_geometry": "POLYGON((-87.5 41.6801, -87.2601 41.6801, -87.2601 41.5301, -87.5 41.5301, -87.5 41.6801))",
-  "dcat_bbox": "ENVELOPE(-87.5,-87.2601,41.6801,41.5301)",
-  "dcat_centroid": "41.6051,-87.38005",
+  "locn_geometry": "POLYGON((-87.500 41.680, -87.260 41.680, -87.260 41.530, -87.500 41.530, -87.500 41.680))",
+  "dcat_bbox": "ENVELOPE(-87.500,-87.260,41.680,41.530)",
+  "dcat_centroid": "41.605000000000004,-87.38",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00938\"}",
+  "gbl_wxsIdentifier_s": "sj13b443r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00938\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sj13b443r/manifest\"}",
   "id": "VAC3073-M-00938",
   "dct_identifier_sm": [
-    "VAC3073-M-00938"
+    "VAC3073-M-00938",
+    "G4093 .L3G46 1906 .F575"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

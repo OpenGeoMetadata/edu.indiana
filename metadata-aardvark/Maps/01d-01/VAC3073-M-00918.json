@@ -1,20 +1,23 @@
 {
-  "dct_title_s": "Polk's map of the city of Fort Wayne Indiana",
+  "dct_title_s": "Polk's Map of the City of Fort Wayne Indiana",
   "dct_description_sm": [
-    "Includes distance circles and street index. Scale approximately 1:10,900. R.L. Polk & Co."
+    "Includes distance circles and street index.",
+    "Imprint: Fort Wayne, Ind.: R.L. Polk & Co., 1903.",
+    "Dimensions: 54 x 60 cm, on sheet 58 x 77 cm; Scale: 1:10,900",
+    "Coordinates: W0851811 W0845955 N0411159 N0405755"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "R.L. Polk & Co."
+  ],
   "dct_publisher_sm": [
-    "R.L. Polk & Company"
+    "R.L. Polk & Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -30,9 +33,9 @@
     "Indiana--Fort Wayne",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-85.3 41.1801, -84.9801 41.1801, -84.9801 40.9501, -85.3 40.9501, -85.3 41.1801))",
-  "dcat_bbox": "ENVELOPE(-85.3,-84.9801,41.1801,40.9501)",
-  "dcat_centroid": "41.0651,-85.14005",
+  "locn_geometry": "POLYGON((-85.300 41.180, -84.980 41.180, -84.980 40.950, -85.300 40.950, -85.300 41.180))",
+  "dcat_bbox": "ENVELOPE(-85.300,-84.980,41.180,40.950)",
+  "dcat_centroid": "41.065,-85.14",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00918\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00918\"}",
+  "gbl_wxsIdentifier_s": "kh04fs579",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00918\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/kh04fs579/manifest\"}",
   "id": "VAC3073-M-00918",
   "dct_identifier_sm": [
-    "VAC3073-M-00918"
+    "VAC3073-M-00918",
+    "G4094.F7 1903 .R2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

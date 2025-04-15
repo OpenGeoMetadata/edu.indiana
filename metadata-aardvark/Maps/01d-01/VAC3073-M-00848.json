@@ -1,17 +1,20 @@
 {
   "dct_title_s": "City of Tipton",
   "dct_description_sm": [
-    "Blue line. 'Dec. 15, 1945.' Mounted on heavy paper 56 x 44 cm. Scale approximately 1:12,000]. Approximately 1 inch = 1000 feet."
+    "Blue line. \"Dec. 15, 1945.\"",
+    "Imprint: [Place of publication not identified] : [publisher not identified], [1945]",
+    "Dimensions: 28 x 19 cm; Scale: 1:12,000",
+    "Coordinates: W0860411 W0860109 N0401751 N0401602"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
+  ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1945"
@@ -27,9 +30,9 @@
     "Indiana--Tipton",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.06 40.2801, -86.01 40.2801, -86.01 40.26, -86.06 40.26, -86.06 40.2801))",
-  "dcat_bbox": "ENVELOPE(-86.06,-86.01,40.2801,40.26)",
-  "dcat_centroid": "40.27005,-86.035",
+  "locn_geometry": "POLYGON((-86.060 40.280, -86.010 40.280, -86.010 40.260, -86.060 40.260, -86.060 40.280))",
+  "dcat_bbox": "ENVELOPE(-86.060,-86.010,40.280,40.260)",
+  "dcat_centroid": "40.269999999999996,-86.035",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -38,11 +41,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00848\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00848\"}",
+  "gbl_wxsIdentifier_s": "cz30qw19b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00848\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cz30qw19b/manifest\"}",
   "id": "VAC3073-M-00848",
   "dct_identifier_sm": [
-    "VAC3073-M-00848"
+    "VAC3073-M-00848",
+    "G4094.T6 1945 .C58"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

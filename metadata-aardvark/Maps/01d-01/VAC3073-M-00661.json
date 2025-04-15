@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Switzerland County [Indiana] preliminary land use map",
   "dct_description_sm": [
-    "Includes chart showing type of land use, acreage, and recommended use. Scale not given. Prepared by Switzerland County Land Use Planning Committee."
+    "Includes chart showing type of land use, acreage, and recommended use.",
+    "Imprint: [Vevay, Ind.?] : The Committee, [1940?]",
+    "Dimensions: 21 x 16 cm, on sheet 39 x 28 cm; Scale: Scale not given.",
+    "Coordinates: W0851212 W0844704 N0385546 N0384114"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Switzerland County (Ind.). Land Use Planning Committee"
+  ],
   "dct_publisher_sm": [
-    "The Committee"
+    "Switzerland County (Ind.). Land Use Planning Committee"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,9 +24,6 @@
   ],
   "dct_subject_sm": [
     "Land use"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -36,9 +39,9 @@
     "Indiana",
     "Indiana--Switzerland County"
   ],
-  "locn_geometry": "POLYGON((-85.2 38.9101, -84.78 38.9101, -84.78 38.68, -85.2 38.68, -85.2 38.9101))",
-  "dcat_bbox": "ENVELOPE(-85.2,-84.78,38.9101,38.68)",
-  "dcat_centroid": "38.79505,-84.99000000000001",
+  "locn_geometry": "POLYGON((-85.200 38.910, -84.780 38.910, -84.780 38.680, -85.200 38.680, -85.200 38.910))",
+  "dcat_bbox": "ENVELOPE(-85.200,-84.780,38.910,38.680)",
+  "dcat_centroid": "38.795,-84.99000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00661\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00661\"}",
+  "gbl_wxsIdentifier_s": "nz8071900",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00661\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/nz8071900/manifest\"}",
   "id": "VAC3073-M-00661",
   "dct_identifier_sm": [
-    "VAC3073-M-00661"
+    "VAC3073-M-00661",
+    "G4093.S9 1940 .S95"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

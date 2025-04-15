@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Bloomington, Monroe Co., Indiana",
   "dct_description_sm": [
-    "Blue line print. Shows 1970 census enumeration districts and census tracts for Bloomington, Ind. 'Traced from map no. 68-A-8776.' '70-02132, Bloomington, Ind.' Scale 1:11,500. Bureau of the Census."
+    "Blue line print.   Shows 1970 census enumeration districts and census tracts for Bloomington, Ind.    \"Traced from map no. 68-A-8776.\"    \"70-02132, Bloomington, Ind.\"",
+    "Imprint: [Jeffersonville, Ind.] : Bureau of the Census, [1974?]",
+    "Dimensions: 120 x 107 cm; Scale: 1:1,500",
+    "Coordinates: W0864108 W0861902 N0392120 N0385926"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "United States. Bureau of the Census"
+  ],
   "dct_publisher_sm": [
-    "Bureau of the Census"
+    "United States. Bureau of the Census"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Census districts"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00892\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00892\"}",
+  "gbl_wxsIdentifier_s": "bz60f1302",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00892\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/bz60f1302/manifest\"}",
   "id": "VAC3073-M-00892",
   "dct_identifier_sm": [
-    "VAC3073-M-00892"
+    "VAC3073-M-00892",
+    "G4094.B5 E25 1970 .U5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

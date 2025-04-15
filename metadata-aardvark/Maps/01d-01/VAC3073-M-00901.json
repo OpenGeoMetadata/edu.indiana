@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Harrison County [Indiana] land use map: preliminary",
+  "dct_title_s": "Harrison County [Indiana] land use map : preliminary",
   "dct_description_sm": [
-    "Includes chart showing type of land use, acreage, and recommended use. Scale not given. Prepared by Harrison County Land Use Planning Committee."
+    "Includes chart showing type of land use, acreage, and recommended use.",
+    "Imprint: [Corydon, Ind.?] : The Committee, [1940?]",
+    "Scale: Scale not given.; Dimensions: 28 x 21 cm, on sheet 39 x 28 cm",
+    "Coordinates: W0861947 W0855402 N0382521 N0375728"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Harrison County (Ind.). Land Use Planning Committee"
+  ],
   "dct_publisher_sm": [
-    "The Committee"
+    "Harrison County (Ind.). Land Use Planning Committee"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,9 +24,6 @@
   ],
   "dct_subject_sm": [
     "Land use"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -36,9 +39,9 @@
     "Indiana--Harrison County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.3101 38.41, -85.9 38.41, -85.9 37.95, -86.3101 37.95, -86.3101 38.41))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.9,38.41,37.95)",
-  "dcat_centroid": "38.18,-86.10505",
+  "locn_geometry": "POLYGON((-86.310 38.410, -85.900 38.410, -85.900 37.950, -86.310 37.950, -86.310 38.410))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.900,38.410,37.950)",
+  "dcat_centroid": "38.18,-86.105",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00901\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00901\"}",
+  "gbl_wxsIdentifier_s": "qf85pf88d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00901\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qf85pf88d/manifest\"}",
   "id": "VAC3073-M-00901",
   "dct_identifier_sm": [
-    "VAC3073-M-00901"
+    "VAC3073-M-00901",
+    "G4093.H4G4 1940 .H37"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

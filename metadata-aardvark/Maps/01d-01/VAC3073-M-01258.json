@@ -1,13 +1,17 @@
 {
-  "dct_title_s": "Wabash River and Valley from Terre Haute, Indiana to mouth, in 13 charts, 1914",
+  "dct_title_s": "Wabash River and Valley from Terre Haute, Ind. to mouth, in 13 charts, 1914",
   "dct_description_sm": [
-    "Relief shown by contours and spot heights. Depths shown by soundings. 'Revisions made July 1931.' 'The survey of the river proper was begun July 25, and completed December 31, 1911. The valley survey began January 15, and was completed September 10, 1912. Mapping in 1913.' Scale approximately 1:24,000. Surveyed and mapped under the direction of the district engineer officer, Louisville, Ky."
+    "\"The survey of the river proper was begun July 25, and completed December 31, 1911. The valley survey began January 15, and was completed September 10, 1912. Mapping in 1913.\" 1 map on 13 sheets, photocopy.  \"Revisions made July 1931.\"  Depths shown by soundings.  Relief shown by contours and spot heights.",
+    "Scale: Approximately 1:24,000; Dimensions: sheets 92 x 122 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "United States"
+  ],
   "dct_publisher_sm": [
-    "District Engineer Office"
+    "United States. Army. Corps of Engineers. Louisville District"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,9 +20,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "sprint-mar2020"
+  "dct_subject_sm": [
+    "Rivers"
   ],
   "dct_temporal_sm": [
     "1911-1913"
@@ -44,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01258\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01258\"}",
+  "gbl_wxsIdentifier_s": "34850m203",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01258\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/34850m203/manifest\"}",
   "id": "VAC3073-M-01258",
   "dct_identifier_sm": [
-    "VAC3073-M-01258"
+    "VAC3073-M-01258",
+    "G4072.W3 C315 1931 .U55 no. 1"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

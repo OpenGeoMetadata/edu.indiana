@@ -37,8 +37,8 @@
     "Ukraine--Gradizhsk",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((33.25 49.3333, 33 49.3333, 33 49.1667, 33.25 49.1667, 33.25 49.3333))",
-  "dcat_bbox": "ENVELOPE(33.25,33,49.3333,49.1667)",
+  "locn_geometry": "POLYGON((33.250 49.333, 33.000 49.333, 33.000 49.167, 33.250 49.167, 33.250 49.333))",
+  "dcat_bbox": "ENVELOPE(33.250,33.000,49.333,49.167)",
   "dcat_centroid": "49.25,33.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001068\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001068\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/hm50ts404\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vd66x8348/manifest\"}",
   "id": "VAC9619-001068",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001068",
     "G7000 s50 .S68 М-36-103-А"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

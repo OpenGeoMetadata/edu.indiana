@@ -37,8 +37,8 @@
     "Russia--Velēna",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((26.5 57.333, 26 57.333, 26 57, 26.5 57, 26.5 57.333))",
-  "dcat_bbox": "ENVELOPE(26.5,26,57.333,57)",
+  "locn_geometry": "POLYGON((26.500 57.333, 26.000 57.333, 26.000 57.000, 26.500 57.000, 26.500 57.333))",
+  "dcat_bbox": "ENVELOPE(26.500,26.000,57.333,57.000)",
   "dcat_centroid": "57.1665,26.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003193\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003193\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/n009w324k\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/3f463g48t/manifest\"}",
   "id": "VAC9619-003193",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003193",
     "G7000 s100 .S7 sheet O-35-101"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

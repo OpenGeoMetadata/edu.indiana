@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Locations map no 1",
+  "dct_title_s": "Locations map No. 1",
   "dct_description_sm": [
-    "Includes index to toll plazas, maintenance buildings, auxiliary storage areas, service areas, and fuel supply. Shows facilities and county lines by milepost. Scale not given. Drawn [and] revised [by] J. Laskowski; Indiana Dept. of Highways, Toll Road Division, Engineering Dept."
+    "Includes index to toll plazas, maintenance buildings, auxiliary storage areas, service areas, and fuel supply. Shows facilities and county lines by milepost.",
+    "Imprint: [Granger, Ind.] : [Dept.], 1983.",
+    "Dimensions: 10 x 25 cm, on sheet 22 x 28 cm; Scale: Scale not given.",
+    "Coordinates: W0873400 W0844500 N0414700 N0410100"
   ],
   "dct_language_sm": [
     "eng"
@@ -9,16 +12,15 @@
   "dct_creator_sm": [
     "Laskowski, J."
   ],
+  "dct_publisher_sm": [
+    "[Dept.]"
+  ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "gbl_resourceType_sm": [
     "Road maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1983"
@@ -45,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00833\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00833\"}",
+  "gbl_wxsIdentifier_s": "qf85pf874",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00833\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qf85pf874/manifest\"}",
   "id": "VAC3073-M-00833",
   "dct_identifier_sm": [
-    "VAC3073-M-00833"
+    "VAC3073-M-00833",
+    "G4091 .P2 1983 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

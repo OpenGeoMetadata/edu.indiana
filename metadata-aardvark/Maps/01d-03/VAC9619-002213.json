@@ -37,8 +37,8 @@
     "Russia--Arkhangelskoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((44.5 44.6667, 44 44.6667, 44 44.3333, 44.5 44.3333, 44.5 44.6667))",
-  "dcat_bbox": "ENVELOPE(44.5,44,44.6667,44.3333)",
+  "locn_geometry": "POLYGON((44.500 44.667, 44.000 44.667, 44.000 44.333, 44.500 44.333, 44.500 44.667))",
+  "dcat_bbox": "ENVELOPE(44.500,44.000,44.667,44.333)",
   "dcat_centroid": "44.5,44.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002213\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002213\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/dz010q73b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/dv141390r/manifest\"}",
   "id": "VAC9619-002213",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002213",
     "G7000 s100 .S7 sheet L-38-125"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

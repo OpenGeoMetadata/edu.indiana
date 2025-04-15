@@ -37,9 +37,9 @@
     "Lithuania--Šakiai",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((23.25 55, 23 55, 23 54.8333, 23.25 54.8333, 23.25 55))",
-  "dcat_bbox": "ENVELOPE(23.25,23,55,54.8333)",
-  "dcat_centroid": "54.916650000000004,23.125",
+  "locn_geometry": "POLYGON((23.250 55.000, 23.000 55.000, 23.000 54.833, 23.250 54.833, 23.250 55.000))",
+  "dcat_bbox": "ENVELOPE(23.250,23.000,55.000,54.833)",
+  "dcat_centroid": "54.9165,23.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000317\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000317\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1c18dg441\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/0p097g17w/manifest\"}",
   "id": "VAC9619-000317",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000317",
     "G7000 s50 .S68 N-34-47-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

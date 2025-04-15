@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Drainage map, Martin County, Indiana: prepared from 1940 AAA aerial photographs",
+  "dct_title_s": "Drainage map of Martin County Indiana",
   "dct_description_sm": [
-    "Blueline. 'Prepared under the supervision of: M. Parvis.' Scale approximately 1:63,360. By State Highway Commission of Indiana at Purdue University."
+    "Blueline. \"Prepared under the supervision of: M. Parvis.\"",
+    "Imprint: [West Lafayette, Ind.?] : Indiana State Highway Commission, 1948.",
+    "Dimensions: 88 x 104 cm; Scale: 1:65,000",
+    "Coordinates: W0865500 W0864100 N0385400 N0383000"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Drainage"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00720\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00720\"}",
+  "gbl_wxsIdentifier_s": "4q77gt824",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00720\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4q77gt824/manifest\"}",
   "id": "VAC3073-M-00720",
   "dct_identifier_sm": [
-    "VAC3073-M-00720"
+    "VAC3073-M-00720",
+    "G4093.M5C3 1940 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

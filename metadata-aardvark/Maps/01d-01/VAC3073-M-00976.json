@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Indiana",
+  "dct_title_s": "[Indiana]",
   "dct_description_sm": [
-    "Shows county boundaries. Title supplied by cataloger. Place of publication from U.S. Copyright Office. Catalogue of title entries of books and other articles. 1904. Includes text in left margin. Scale not given. Lotus D. Coffman."
+    "Shows county boundaries.  Title supplied by cataloger.  Place of publication from U.S. Copyright Office. Catalogue of title entries of books and other articles. 1904.  Includes text in left margin.",
+    "Imprint: [Salem, Ind.?] : Lotus D. Coffman, [1904]",
+    "Scale: Scale not given.; Dimensions: 33 x 24 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Coffman, Lotus Delta, 1875-1938"
   ],
   "dct_publisher_sm": [
-    "Lotus D. Coffman"
+    "Coffman, Lotus Delta, 1875-1938"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,13 +21,6 @@
   ],
   "gbl_resourceType_sm": [
     "Outline maps"
-  ],
-  "dct_subject_sm": [
-    "County boundaries"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -51,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00976\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00976\"}",
+  "gbl_wxsIdentifier_s": "pg15ck03p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00976\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pg15ck03p/manifest\"}",
   "id": "VAC3073-M-00976",
   "dct_identifier_sm": [
-    "VAC3073-M-00976"
+    "VAC3073-M-00976",
+    "G4091 .A1 1904 .C64"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Total intensity aeromagnetic map of Fulton County, Indiana: relative to arbitrary datum",
+  "dct_title_s": "Total intensity aeromagnetic map of Fulton County, Indiana relative to arbitrary datum",
   "dct_description_sm": [
-    "Includes text and location map. Scale approximately 1:75,600. By W.J. Dempsey, J.R. Henderson, R.T. Duffner; compilation directed By J.R. Henderson; prepared in cooperation with Indiana Department of Conservation, Division of Geology."
+    "Includes text and location map.",
+    "Imprint: [Washington, D.C.] : For sale by U.S. Geological Survey, 1949.",
+    "Dimensions: 48 x 71 cm; Scale: 1:75,600",
+    "Coordinates: W0862806 W0855643 N0411022 N0405432"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,7 +15,7 @@
     "Henderson, John R."
   ],
   "dct_publisher_sm": [
-    "For sale by United States Geological Survey"
+    "Geological Survey (U.S.)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +24,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geomagnetism"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -38,9 +40,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.46 41.16, -85.9301 41.16, -85.9301 40.9, -86.46 40.9, -86.46 41.16))",
-  "dcat_bbox": "ENVELOPE(-86.46,-85.9301,41.16,40.9)",
-  "dcat_centroid": "41.03,-86.19505",
+  "locn_geometry": "POLYGON((-86.460 41.160, -85.930 41.160, -85.930 40.900, -86.460 40.900, -86.460 41.160))",
+  "dcat_bbox": "ENVELOPE(-86.460,-85.930,41.160,40.900)",
+  "dcat_centroid": "41.03,-86.195",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00853\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00853\"}",
+  "gbl_wxsIdentifier_s": "rx914s92v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00853\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rx914s92v/manifest\"}",
   "id": "VAC3073-M-00853",
   "dct_identifier_sm": [
-    "VAC3073-M-00853"
+    "VAC3073-M-00853",
+    "G4093.F8C93 1949 .D4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,9 +37,9 @@
     "Russia--Keava",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((25 59, 24.5 59, 24.5 58.6667, 25 58.6667, 25 59))",
-  "dcat_bbox": "ENVELOPE(25,24.5,59,58.6667)",
-  "dcat_centroid": "58.833349999999996,24.75",
+  "locn_geometry": "POLYGON((25.000 59.000, 24.500 59.000, 24.500 58.667, 25.000 58.667, 25.000 59.000))",
+  "dcat_bbox": "ENVELOPE(25.000,24.500,59.000,58.667)",
+  "dcat_centroid": "58.8335,24.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002030\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002030\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/db78tc701\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/td96mc70g/manifest\"}",
   "id": "VAC9619-002030",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002030",
     "G7000 s100 .S7 sheet O-35-38"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

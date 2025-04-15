@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Indiana showing production and flow of coal, and location of electric generating plants consuming coal",
   "dct_description_sm": [
-    "1953.' Scale 1:1,000,000. Compiled by C.E. Wier."
+    "\"1953.\"",
+    "Imprint: [Bloomington, Ind.?] : Indiana Dept. of Conservation, Geological Survey, [1953]",
+    "Dimensions: 66 x 31 cm; Scale: 1:1,000,000",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Wier, Charles E. (Charles Eugene), 1921- cartographer."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,10 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Coal-fired power plants",
+    "Coal",
+    "Coal mines and mining"
   ],
   "dct_temporal_sm": [
     "1953"
@@ -47,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00792\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00792\"}",
+  "gbl_wxsIdentifier_s": "1544cr65m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00792\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1544cr65m/manifest\"}",
   "id": "VAC3073-M-00792",
   "dct_identifier_sm": [
-    "VAC3073-M-00792"
+    "VAC3073-M-00792",
+    "G4091.H9 1953 .W54"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

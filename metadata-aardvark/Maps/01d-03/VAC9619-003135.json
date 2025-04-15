@@ -37,8 +37,8 @@
     "Russia--Mikhaylov",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((39.5 54.333, 39 54.333, 39 54, 39.5 54, 39.5 54.333))",
-  "dcat_bbox": "ENVELOPE(39.5,39,54.333,54)",
+  "locn_geometry": "POLYGON((39.500 54.333, 39.000 54.333, 39.000 54.000, 39.500 54.000, 39.500 54.333))",
+  "dcat_bbox": "ENVELOPE(39.500,39.000,54.333,54.000)",
   "dcat_centroid": "54.1665,39.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003135\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003135\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/d791sg943\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8623k806j/manifest\"}",
   "id": "VAC9619-003135",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003135",
     "G7000 s100 .S7 sheet N-37-67"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

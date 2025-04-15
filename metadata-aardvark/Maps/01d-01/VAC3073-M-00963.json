@@ -1,10 +1,16 @@
 {
   "dct_title_s": "Bartholomew County, Indiana",
   "dct_description_sm": [
-    "Black line print. 'Advance composite, subject to correction.' '1978.' Scale 1:100,000; Universal transverse Mercator United States, Department of the Interior, Geological Survey."
+    "Black line print.  \"Advance composite, subject to correction.\"   \"1978.\"",
+    "Imprint: [Reston, Va.] : The Survey, [1978?]",
+    "Dimensions: 37 x 37 cm; Scale: 1:100,000",
+    "Coordinates: W0860530 W0854030 N0392130 N0390130"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
   ],
   "dct_publisher_sm": [
     "The Survey"
@@ -12,9 +18,6 @@
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1978"
@@ -41,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00963\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00963\"}",
+  "gbl_wxsIdentifier_s": "w9506412p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00963\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/w9506412p/manifest\"}",
   "id": "VAC3073-M-00963",
   "dct_identifier_sm": [
-    "VAC3073-M-00963"
+    "VAC3073-M-00963",
+    "G4093.B3 1978 .G4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

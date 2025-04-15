@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of Putnam County, Indiana",
+  "dct_title_s": "Map of Putnam County, Ind.",
   "dct_description_sm": [
-    "Coloring shows approximate areas of recommended land use by Putnam County Land Use Planning Committee.' Cadastral map showing landowners. Scale approximately 1:55,000. Prepared under the direction of C.M. Long ... [by] John Cockley, draftsman."
+    "\"Coloring shows approximate areas of recommended land use by Putnam County Land Use Planning Committee.\" Cadastral map showing landowners.  Cadastral map showing landowners.",
+    "Imprint: Greencastle, Ind. : Central National Bank, [1944]",
+    "Dimensions: 91 x 65 cm; Scale: 1:55,000",
+    "Coordinates: W0870100 W0863800 N0395200 N0392800"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Long, C. M."
   ],
   "dct_publisher_sm": [
-    "Central National Bank"
+    "Central National Bank (Greencastle, Ind.)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,10 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Landowners",
+    "Land use, Rural",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1944"
@@ -49,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00868\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00868\"}",
+  "gbl_wxsIdentifier_s": "r207vs24h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00868\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/r207vs24h/manifest\"}",
   "id": "VAC3073-M-00868",
   "dct_identifier_sm": [
-    "VAC3073-M-00868"
+    "VAC3073-M-00868",
+    "G4093 .P8G4 1944 .C6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

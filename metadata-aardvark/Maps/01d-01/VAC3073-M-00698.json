@@ -1,18 +1,29 @@
 {
-  "dct_title_s": "Marion County, Indiana: [aerial photographs, 1 inch=100 feet]",
+  "dct_title_s": "Marion County, Indiana [map] : [aerial photographs, 1 inch=100 feet]",
   "dct_description_sm": [
-    "Blue line print. 'Date of photography: Spring 1985, Fall 1985'--Index map. Subtitle supplied by cataloger. Scale 1:1,200. 1' = 100'. Prepared by Clyde E. Williams & Associates, Inc."
+    "Blue line print.  \"Date of photography: Spring 1985, Fall 1985\"--Index map. Subtitle supplied by cataloger.",
+    "Imprint: [Indianapolis] : [State Land Office], [198-?]",
+    "Dimensions: 77 x 77 cm; Scale: 1:1,200",
+    "Coordinates: W0862000 W0855700 N0395600 N0393800"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Clyde E. Williams & Associates"
+  ],
+  "dct_publisher_sm": [
+    "[State Land Office]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Aerial photographs",
-    "Indiana Historic Maps"
+  "gbl_resourceType_sm": [
+    "Aerial photographs"
+  ],
+  "dct_subject_sm": [
+    "Aerial photographs"
   ],
   "dct_temporal_sm": [
     "1985"
@@ -39,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00698\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00698\"}",
+  "gbl_wxsIdentifier_s": "pc28bn35h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00698\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pc28bn35h/manifest\"}",
   "id": "VAC3073-M-00698",
   "dct_identifier_sm": [
-    "VAC3073-M-00698"
+    "VAC3073-M-00698",
+    "G4093 .M3 A4 s1 .C559"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:13:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

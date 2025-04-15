@@ -1,20 +1,23 @@
 {
   "dct_title_s": "Indianapolis",
   "dct_description_sm": [
-    "Includes street index and inset of the Nora area (scale approximately 1:39,000). On verso: map of 'Marion County, Indiana' with indexes to streets and roads, towns and communities, townships, parks, golf and country clubs, and miscellaneous locations; Cram's map of the central business district of Indianapolis showing hotels, theatres, office buildings, etc. (scale approximately 1:9,000); location and distance map; and ill. Scale approximately 1:28,000. Compiled, engraved, printed and published by the George F. Cram Company, Inc."
+    "Includes street index and inset of the Nora area (scale [ca. 1:39,000])  On verso: map of \"Marion County, Indiana\" with indexes to streets and roads, towns and communities, townships, parks, golf and country clubs, and miscellaneous locations, Cram's map of the central business district of Indianapolis showing hotels, theatres, office buildings, etc. (scale [ca. 1:9,000]), location and distance map, and ill.",
+    "Imprint: Indianapolis : The Company, [1945]",
+    "Dimensions: 75 x 56 cm; Scale: 1:28,000",
+    "Coordinates: W0861941 W0855614 N0395538 N0393755"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "George F. Cram Company"
+  ],
   "dct_publisher_sm": [
-    "The Company"
+    "George F. Cram Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1945"
@@ -31,9 +34,9 @@
     "Indiana",
     "Indiana--Marion County"
   ],
-  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
-  "dcat_centroid": "39.7601,-86.12005",
+  "locn_geometry": "POLYGON((-86.310 39.910, -85.930 39.910, -85.930 39.610, -86.310 39.610, -86.310 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.930,39.910,39.610)",
+  "dcat_centroid": "39.76,-86.12",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,11 +45,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00843\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00843\"}",
+  "gbl_wxsIdentifier_s": "gx41nn24p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00843\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gx41nn24p/manifest\"}",
   "id": "VAC3073-M-00843",
   "dct_identifier_sm": [
-    "VAC3073-M-00843"
+    "VAC3073-M-00843",
+    "G4094 .I4 1945 .G46"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

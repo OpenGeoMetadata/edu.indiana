@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Monroe County, Indiana",
   "dct_description_sm": [
-    "Blue line. Cadastral map showing landowners. 'Correct to February 15, 1932.' Includes a table with 1930 census information. Scale approximately 1:47,000. This map made by Cyrus R. Clevenger."
+    "\"Correct to February 15, 1932.\"",
+    "Imprint: Bloomington, Ind. : Cyrus R. Clevenger, [1932]",
+    "Scale: 1:47,000; Dimensions: 87 x 70 cm, on sheet 115 x 73 cm",
+    "Coordinates: W0864108 W0861902 N0392120 N0385926"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Clevenger, Cyrus R."
   ],
   "dct_publisher_sm": [
-    "Cyrus R. Clevenger"
+    "Clevenger, Cyrus R."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Real property",
+    "Landowners"
   ],
   "dct_temporal_sm": [
     "1932"
@@ -48,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01057\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01057\"}",
+  "gbl_wxsIdentifier_s": "t148gk54n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01057\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/t148gk54n/manifest\"}",
   "id": "VAC3073-M-01057",
   "dct_identifier_sm": [
-    "VAC3073-M-01057"
+    "VAC3073-M-01057",
+    "G4093.M7G46 1932 .C54"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

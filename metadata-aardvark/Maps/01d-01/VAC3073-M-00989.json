@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Geological map of Indiana",
   "dct_description_sm": [
-    "Conservation Commission, Stanley Coulter, Chairman.' 'The base used ... is the Ryse map, which has been modified.' Includes geologic cross sections. Scale 1:253,440. 1 inch = 4 miles Division of Geology, W.N. Logan, state geologist."
+    "\"Conservation Commission, Stanley Coulter, Chairman.\" \"The based used...is the Ryse map, which has been modified.\" Includes geologic cross sections.",
+    "Imprint: [Indianapolis] : Dept. of Conservation, State of Indiana, 1932.",
+    "Dimensions: 177 x 112 cm; Scale: 1:253,440",
+    "Coordinates: W0870000 W0850000 N0410000 N0380000"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. Division of Geology"
+  ],
   "dct_publisher_sm": [
-    "Indiana Department of Conservation"
+    "Indiana. Department of Conservation"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1932"
@@ -32,8 +38,8 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87 41, -85 41, -85 38, -87 38, -87 41))",
-  "dcat_bbox": "ENVELOPE(-87,-85,41,38)",
+  "locn_geometry": "POLYGON((-87.000 41.000, -85.000 41.000, -85.000 38.000, -87.000 38.000, -87.000 41.000))",
+  "dcat_bbox": "ENVELOPE(-87.000,-85.000,41.000,38.000)",
   "dcat_centroid": "39.5,-86.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -43,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00989\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00989\"}",
+  "gbl_wxsIdentifier_s": "2227nt84n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00989\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2227nt84n/manifest\"}",
   "id": "VAC3073-M-00989",
   "dct_identifier_sm": [
-    "VAC3073-M-00989"
+    "VAC3073-M-00989",
+    "G4091.C5 1932 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

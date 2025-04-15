@@ -37,8 +37,8 @@
     "Latvia--Spāre",
     "Latvia"
   ],
-  "locn_geometry": "POLYGON((22.5 57.333, 22 57.333, 22 57, 22.5 57, 22.5 57.333))",
-  "dcat_bbox": "ENVELOPE(22.5,22,57.333,57)",
+  "locn_geometry": "POLYGON((22.500 57.333, 22.000 57.333, 22.000 57.000, 22.500 57.000, 22.500 57.333))",
+  "dcat_bbox": "ENVELOPE(22.500,22.000,57.333,57.000)",
   "dcat_centroid": "57.1665,22.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003159\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003159\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/7s75dd07q\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/000019329/manifest\"}",
   "id": "VAC9619-003159",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003159",
     "G7000 s100 .S7 sheet O-34-105"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

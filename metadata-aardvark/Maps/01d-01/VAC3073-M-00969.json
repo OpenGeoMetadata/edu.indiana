@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Downtown business district, Indianapolis, 1927",
+  "dct_title_s": "Downtown Business District Indianapolis 1927",
   "dct_description_sm": [
-    "Shows businesses in the area bounded by Capitol Ave. on the west, Delaware St. on the east, New York St. on the North, and Maryland St. on the south. Scale approximately 1:960."
+    "Shows businesses in the area bounded by Capitol Ave. on the west, Delaware St. on the east, New York St. on the North, and Maryland St. on the south.",
+    "Imprint: Indianapolis : Klein & Kuhn, 1927.",
+    "Dimensions: 80 x 70 cm; Scale: 1:960",
+    "Coordinates: W0861941 W0855614 N0395538 N0393755"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,8 +19,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Central business districts"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -33,9 +36,9 @@
     "Indiana--Indianapolis",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
-  "dcat_centroid": "39.7601,-86.12005",
+  "locn_geometry": "POLYGON((-86.310 39.910, -85.930 39.910, -85.930 39.610, -86.310 39.610, -86.310 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.930,39.910,39.610)",
+  "dcat_centroid": "39.76,-86.12",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00969\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00969\"}",
+  "gbl_wxsIdentifier_s": "44559h68x",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00969\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/44559h68x/manifest\"}",
   "id": "VAC3073-M-00969",
   "dct_identifier_sm": [
-    "VAC3073-M-00969"
+    "VAC3073-M-00969",
+    "G4094.I4A15 1927 .D69"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

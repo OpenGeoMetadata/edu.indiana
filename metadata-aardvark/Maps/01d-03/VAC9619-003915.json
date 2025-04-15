@@ -37,8 +37,8 @@
     "Lithuania--Kudirkos Naumiestis",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((23 55, 22.5 55, 22.5 54.667, 23 54.667, 23 55))",
-  "dcat_bbox": "ENVELOPE(23,22.5,55,54.667)",
+  "locn_geometry": "POLYGON((23.000 55.000, 22.500 55.000, 22.500 54.667, 23.000 54.667, 23.000 55.000))",
+  "dcat_bbox": "ENVELOPE(23.000,22.500,55.000,54.667)",
   "dcat_centroid": "54.8335,22.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003915\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003915\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/w6634446g\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/mp48tp917/manifest\"}",
   "id": "VAC9619-003915",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003915",
     "G7000 s100 .S7 sheet N-34-46"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

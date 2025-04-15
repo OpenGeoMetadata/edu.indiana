@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, Greene County sheet",
   "dct_description_sm": [
-    "Shows soil types by colors and symbols. Scale 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils; Indiana Agricultural Experiment Station; soils surveyed by W.E. Tharp and Charles J. Mann, 1906."
+    "Shows soil types by colors and symbols.",
+    "Imprint: [Washington, D.C.?] : The Bureau, [1906?]",
+    "Scale: 1:63,360; Dimensions: 49 x 77 cm",
+    "Coordinates: W0871427 W0864055 N0391018 N0385408"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Tharp, W. E. (William Edgar)"
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Classification",
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -38,9 +41,9 @@
     "Indiana--Greene County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.23 39.16, -86.6601 39.16, -86.6601 38.9, -87.23 38.9, -87.23 39.16))",
-  "dcat_bbox": "ENVELOPE(-87.23,-86.6601,39.16,38.9)",
-  "dcat_centroid": "39.03,-86.94505000000001",
+  "locn_geometry": "POLYGON((-87.230 39.160, -86.660 39.160, -86.660 38.900, -87.230 38.900, -87.230 39.160))",
+  "dcat_bbox": "ENVELOPE(-87.230,-86.660,39.160,38.900)",
+  "dcat_centroid": "39.03,-86.945",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00708\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00708\"}",
+  "gbl_wxsIdentifier_s": "73667610k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00708\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/73667610k/manifest\"}",
   "id": "VAC3073-M-00708",
   "dct_identifier_sm": [
-    "VAC3073-M-00708"
+    "VAC3073-M-00708",
+    "G4093 .G7J3 1906 .T4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

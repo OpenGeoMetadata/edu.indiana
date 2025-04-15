@@ -37,9 +37,9 @@
     "Ukraine--Zarichanka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((26.5 49, 26.25 49, 26.25 48.8333, 26.5 48.8333, 26.5 49))",
-  "dcat_bbox": "ENVELOPE(26.5,26.25,49,48.8333)",
-  "dcat_centroid": "48.916650000000004,26.375",
+  "locn_geometry": "POLYGON((26.500 49.000, 26.250 49.000, 26.250 48.833, 26.500 48.833, 26.500 49.000))",
+  "dcat_bbox": "ENVELOPE(26.500,26.250,49.000,48.833)",
+  "dcat_centroid": "48.9165,26.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000877\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000877\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/kh04dq50s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sf269f40x/manifest\"}",
   "id": "VAC9619-000877",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000877",
     "G7000 s50 .S68 sheet M-35-113-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

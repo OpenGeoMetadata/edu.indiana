@@ -34,9 +34,9 @@
     "Poland--Galiny",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((20.875 54.1667, 20.75 54.1667, 20.75 54.083, 20.875 54.083, 20.875 54.1667))",
-  "dcat_bbox": "ENVELOPE(20.875,20.75,54.1667,54.083)",
-  "dcat_centroid": "54.124849999999995,20.8125",
+  "locn_geometry": "POLYGON((20.875 54.167, 20.750 54.167, 20.750 54.083, 20.875 54.083, 20.875 54.167))",
+  "dcat_bbox": "ENVELOPE(20.875,20.750,54.167,54.083)",
+  "dcat_centroid": "54.125,20.8125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003814\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003814\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/79407z01j\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/bn99bh53p/manifest\"}",
   "id": "VAC9619-003814",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003814",
     "G7063.K2 s25 .S6 sheet N-34-66-D-а"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

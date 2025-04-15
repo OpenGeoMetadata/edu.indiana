@@ -1,7 +1,9 @@
 {
-  "dct_title_s": "Map of southwestern Indiana showing areas strip mined for coal",
+  "dct_title_s": "Map of Southwestern Indiana showing areas strip mined for coal",
   "dct_description_sm": [
-    "Scale approximately 1:380,000 Compiled by Richard L. Powell ..."
+    "Imprint: [Bloomington, Ind.] : Indiana Geological Survey, 1972.",
+    "Dimensions: 88 x 40 cm; Scale: 1:380,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +12,7 @@
     "Powell, Richard L."
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +21,8 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Coal mines and mining"
   ],
   "dct_temporal_sm": [
     "1972"
@@ -48,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00730\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00730\"}",
+  "gbl_wxsIdentifier_s": "37721g778",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00730\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/37721g778/manifest\"}",
   "id": "VAC3073-M-00730",
   "dct_identifier_sm": [
-    "VAC3073-M-00730"
+    "VAC3073-M-00730",
+    "G4091.H9 1972 .P6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

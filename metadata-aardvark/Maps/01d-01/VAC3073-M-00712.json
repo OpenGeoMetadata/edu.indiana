@@ -1,14 +1,19 @@
 {
-  "dct_title_s": "Map of the city of Gary and vicinity",
+  "dct_title_s": "Map of the City of Gary and vicinity, Lake County Indiana",
   "dct_description_sm": [
-    "Lake County - Indiana ",
-    "Title supplied by cataloger. Produced as a class project in the Indiana University, Geography Department. Land use hand colored in colored pencil. Base map: Gary (Ind.). Dept. of City Engineer. Map of the City of Gary and vicinity. [1950]. Scale approximately 1:29,000. not '1 inch = 1000 feet.' Donald Guiney."
+    "Title supplied by cataloger. Produced as a class project in the Indiana University, Geography Department. Land use hand colored in colored pencil. Base map: Gary (Ind.). Dept. of City Engineer. Map of the City of Gary and vicinity. [1950].",
+    "Imprint: [Place of publication not identified]: [publisher not identified], [195-?]",
+    "Dimensions: 53 x 70 cm; Scale: 1:29,000",
+    "Coordinates: W0872601 W0871319 N0413919 N0413118"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Guiney, Donald"
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -17,11 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+  "dct_subject_sm": [
+    "Land use"
   ],
   "dct_temporal_sm": [
     "approximately 1950"
@@ -37,9 +39,9 @@
     "Indiana--Gary",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.400507 41.610702, -87.265581 41.610702, -87.265581 41.567178, -87.400507 41.567178, -87.400507 41.610702))",
-  "dcat_bbox": "ENVELOPE(-87.400507,-87.265581,41.610702,41.567178)",
-  "dcat_centroid": "41.58894,-87.333044",
+  "locn_geometry": "POLYGON((-87.401 41.611, -87.266 41.611, -87.266 41.567, -87.401 41.567, -87.401 41.611))",
+  "dcat_bbox": "ENVELOPE(-87.401,-87.266,41.611,41.567)",
+  "dcat_centroid": "41.589,-87.3335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00712\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00712\"}",
+  "gbl_wxsIdentifier_s": "1257bw00r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00712\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1257bw00r/manifest\"}",
   "id": "VAC3073-M-00712",
   "dct_identifier_sm": [
-    "VAC3073-M-00712"
+    "VAC3073-M-00712",
+    "G4094.G2G4 1950 .G85"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,8 +37,8 @@
     "Ukraine--Holovkivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((33.25 48.667, 33 48.667, 33 48.5, 33.25 48.5, 33.25 48.667))",
-  "dcat_bbox": "ENVELOPE(33.25,33,48.667,48.5)",
+  "locn_geometry": "POLYGON((33.250 48.667, 33.000 48.667, 33.000 48.500, 33.250 48.500, 33.250 48.667))",
+  "dcat_bbox": "ENVELOPE(33.250,33.000,48.667,48.500)",
   "dcat_centroid": "48.5835,33.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001136\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001136\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/br86b436f\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fn108790v/manifest\"}",
   "id": "VAC9619-001136",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001136",
     "G7000 s50 .S68 sheet M-36-127-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

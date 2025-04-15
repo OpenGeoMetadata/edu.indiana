@@ -34,9 +34,9 @@
     "Poland--Falenica",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((21.25 52.1667, 21 52.1667, 21 52, 21.25 52, 21.25 52.1667))",
-  "dcat_bbox": "ENVELOPE(21.25,21,52.1667,52)",
-  "dcat_centroid": "52.083349999999996,21.125",
+  "locn_geometry": "POLYGON((21.250 52.167, 21.000 52.167, 21.000 52.000, 21.250 52.000, 21.250 52.167))",
+  "dcat_bbox": "ENVELOPE(21.250,21.000,52.167,52.000)",
+  "dcat_centroid": "52.0835,21.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000329\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000329\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/n009w312s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4t64hv894/manifest\"}",
   "id": "VAC9619-000329",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000329",
     "G7000 s50 .S68 sheet N-34-139-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

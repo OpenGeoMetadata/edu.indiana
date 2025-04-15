@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "Road and bridge map, Hendricks County, Indiana",
+  "dct_title_s": "Road and Bridge map Hendricks County Indiana",
   "dct_description_sm": [
-    "Brown line. '1922.' Scale approximately 1:35,000."
+    "Brown line. \"1922.\"",
+    "Imprint: [Place of publication not identified] : [publisher not identified], 1922.",
+    "Dimensions: 108 x 98 cm; Scale: 1:35,000",
+    "Coordinates: W0864143 W0861931 N0395527 N0393602"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -13,8 +19,9 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads",
+    "Bridges"
   ],
   "dct_temporal_sm": [
     "1922"
@@ -30,9 +37,9 @@
     "Indiana--Hendricks County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.6801 39.91, -86.31 39.91, -86.31 39.6, -86.6801 39.6, -86.6801 39.91))",
-  "dcat_bbox": "ENVELOPE(-86.6801,-86.31,39.91,39.6)",
-  "dcat_centroid": "39.754999999999995,-86.49504999999999",
+  "locn_geometry": "POLYGON((-86.680 39.910, -86.310 39.910, -86.310 39.600, -86.680 39.600, -86.680 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.680,-86.310,39.910,39.600)",
+  "dcat_centroid": "39.754999999999995,-86.495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +48,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00968\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00968\"}",
+  "gbl_wxsIdentifier_s": "9s162946n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00968\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9s162946n/manifest\"}",
   "id": "VAC3073-M-00968",
   "dct_identifier_sm": [
-    "VAC3073-M-00968"
+    "VAC3073-M-00968",
+    "G4093.H5P2 1922 .R63"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

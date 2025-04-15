@@ -1,10 +1,16 @@
 {
   "dct_title_s": "Indiana",
   "dct_description_sm": [
-    "Includes index to railroads on recto and index of smaller places on verso. Shows railroads and interurban electric lines. 'D2-27.' '283.' '284'--Title page verso. Scale approximately 1:1,100,000."
+    "Includes index to railroads on recto and index of smaller places on verso. Shows railroads and interurban electric lines. \"D2-27.\" \"283.\" \"284--Title page verso.\"",
+    "Imprint: New York : C.S. Hammond & Co.; Imprint: [1927]",
+    "Scale: 1:1,100,000; Dimensions: 45 x 27 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "C.S. Hammond & Company"
   ],
   "dct_publisher_sm": [
     "C.S. Hammond & Company"
@@ -17,10 +23,8 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Railroads",
+    "Street-railroads"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -47,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00781\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00781\"}",
+  "gbl_wxsIdentifier_s": "t435hg21b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00781\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/t435hg21b/manifest\"}",
   "id": "VAC3073-M-00781",
   "dct_identifier_sm": [
-    "VAC3073-M-00781"
+    "VAC3073-M-00781",
+    "G4091 .P3 1927 .C74"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

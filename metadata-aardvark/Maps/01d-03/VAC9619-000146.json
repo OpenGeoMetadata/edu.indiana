@@ -37,9 +37,9 @@
     "Poland--Nowy Dwór Mazowiecki",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((20.6667 52.5, 20.5 52.5, 20.5 52.3333, 20.6667 52.3333, 20.6667 52.5))",
-  "dcat_bbox": "ENVELOPE(20.6667,20.5,52.5,52.3333)",
-  "dcat_centroid": "52.416650000000004,20.58335",
+  "locn_geometry": "POLYGON((20.667 52.500, 20.500 52.500, 20.500 52.333, 20.667 52.333, 20.667 52.500))",
+  "dcat_bbox": "ENVELOPE(20.667,20.500,52.500,52.333)",
+  "dcat_centroid": "52.4165,20.5835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000146\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000146\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/v118rf08t\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cr56p827r/manifest\"}",
   "id": "VAC9619-000146",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000146",
     "G7000 s50 .S68 sheet N-34-126-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

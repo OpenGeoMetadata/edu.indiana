@@ -37,8 +37,8 @@
     "Latvia--Talsi",
     "Latvia"
   ],
-  "locn_geometry": "POLYGON((23 57.333, 22.5 57.333, 22.5 57, 23 57, 23 57.333))",
-  "dcat_bbox": "ENVELOPE(23,22.5,57.333,57)",
+  "locn_geometry": "POLYGON((23.000 57.333, 22.500 57.333, 22.500 57.000, 23.000 57.000, 23.000 57.333))",
+  "dcat_bbox": "ENVELOPE(23.000,22.500,57.333,57.000)",
   "dcat_centroid": "57.1665,22.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003160\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003160\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/td96k346k\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/n87112425/manifest\"}",
   "id": "VAC9619-003160",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003160",
     "G7000 s100 .S7 sheet O-34-106"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

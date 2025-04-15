@@ -34,9 +34,9 @@
     "Poland--Błażowa",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((22.25 50, 22 50, 22 49.8333, 22.25 49.8333, 22.25 50))",
-  "dcat_bbox": "ENVELOPE(22.25,22,50,49.8333)",
-  "dcat_centroid": "49.916650000000004,22.125",
+  "locn_geometry": "POLYGON((22.250 50.000, 22.000 50.000, 22.000 49.833, 22.250 49.833, 22.250 50.000))",
+  "dcat_bbox": "ENVELOPE(22.250,22.000,50.000,49.833)",
+  "dcat_centroid": "49.9165,22.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000182\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000182\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/g445cd95s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/np194g815/manifest\"}",
   "id": "VAC9619-000182",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000182",
     "G7000 s50 .S68 sheet M-34-81-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

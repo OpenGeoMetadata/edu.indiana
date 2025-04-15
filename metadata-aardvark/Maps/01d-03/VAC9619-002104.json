@@ -34,9 +34,9 @@
     "Estonia--Võru",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((27 58, 26.5 58, 26.5 57.6667, 27 57.6667, 27 58))",
-  "dcat_bbox": "ENVELOPE(27,26.5,58,57.6667)",
-  "dcat_centroid": "57.833349999999996,26.75",
+  "locn_geometry": "POLYGON((27.000 58.000, 26.500 58.000, 26.500 57.667, 27.000 57.667, 27.000 58.000))",
+  "dcat_bbox": "ENVELOPE(27.000,26.500,58.000,57.667)",
+  "dcat_centroid": "57.8335,26.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002104\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002104\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/h989r411b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x920h768f/manifest\"}",
   "id": "VAC9619-002104",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002104",
     "G7000 s100 .S7 sheet O-35-78"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

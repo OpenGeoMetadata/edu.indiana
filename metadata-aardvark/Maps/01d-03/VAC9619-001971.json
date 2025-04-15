@@ -38,9 +38,9 @@
     "Ukraine--Donetsk Oblast",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((37.5 48, 37 48, 37 47.6667, 37.5 47.6667, 37.5 48))",
-  "dcat_bbox": "ENVELOPE(37.5,37,48,47.6667)",
-  "dcat_centroid": "47.833349999999996,37.25",
+  "locn_geometry": "POLYGON((37.500 48.000, 37.000 48.000, 37.000 47.667, 37.500 47.667, 37.500 48.000))",
+  "dcat_bbox": "ENVELOPE(37.500,37.000,48.000,47.667)",
+  "dcat_centroid": "47.8335,37.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,12 +57,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001971\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001971\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/xw42n8680\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hd76t890v/manifest\"}",
   "id": "VAC9619-001971",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001971",
     "G7000 s100 .S7 sheet L-37-3"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

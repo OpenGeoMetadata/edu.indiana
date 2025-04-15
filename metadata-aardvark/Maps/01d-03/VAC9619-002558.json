@@ -34,8 +34,8 @@
     "Russia--Ostrov Konevets",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((31 61, 30.5 61, 30.5 60.667, 31 60.667, 31 61))",
-  "dcat_bbox": "ENVELOPE(31,30.5,61,60.667)",
+  "locn_geometry": "POLYGON((31.000 61.000, 30.500 61.000, 30.500 60.667, 31.000 60.667, 31.000 61.000))",
+  "dcat_bbox": "ENVELOPE(31.000,30.500,61.000,60.667)",
   "dcat_centroid": "60.8335,30.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002558\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002558\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/xs55mc798\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x633g8870/manifest\"}",
   "id": "VAC9619-002558",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002558",
     "G7000 s100 .S7 sheet P-36-110"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

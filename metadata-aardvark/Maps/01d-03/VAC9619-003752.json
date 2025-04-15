@@ -37,8 +37,8 @@
     "Russia--Znamensk",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((21.25 54.6667, 21.125 54.6667, 21.125 54.5833, 21.25 54.5833, 21.25 54.6667))",
-  "dcat_bbox": "ENVELOPE(21.25,21.125,54.6667,54.5833)",
+  "locn_geometry": "POLYGON((21.250 54.667, 21.125 54.667, 21.125 54.583, 21.250 54.583, 21.250 54.667))",
+  "dcat_bbox": "ENVELOPE(21.250,21.125,54.667,54.583)",
   "dcat_centroid": "54.625,21.1875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003752\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003752\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mk61rh747\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/q237k429v/manifest\"}",
   "id": "VAC9619-003752",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003752",
     "G7063.K2 s25 .S6 sheet N-34-55-A-b"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

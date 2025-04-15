@@ -34,9 +34,9 @@
     "Serbia--Sombor",
     "Serbia"
   ],
-  "locn_geometry": "POLYGON((19.5 46, 19 46, 19 45.6667, 19.5 45.6667, 19.5 46))",
-  "dcat_bbox": "ENVELOPE(19.5,19,46,45.6667)",
-  "dcat_centroid": "45.833349999999996,19.25",
+  "locn_geometry": "POLYGON((19.500 46.000, 19.000 46.000, 19.000 45.667, 19.500 45.667, 19.500 46.000))",
+  "dcat_bbox": "ENVELOPE(19.500,19.000,46.000,45.667)",
+  "dcat_centroid": "45.8335,19.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001000\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001000\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/4t64gn82s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/xw42pj978/manifest\"}",
   "id": "VAC9619-001000",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001000",
     "G7000 s100 .S7 sheet L-34-75"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

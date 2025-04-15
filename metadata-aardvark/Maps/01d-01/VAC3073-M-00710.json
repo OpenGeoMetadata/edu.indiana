@@ -1,10 +1,16 @@
 {
   "dct_title_s": "Sarkes Tarzian, distribution of workers",
   "dct_description_sm": [
-    "Blue line print. Shows numbers of Sarkes Tarzian employees by home cities and towns with graduated circles. Includes graphs. Scale approximately 1:500,000. R.D.W."
+    "Blue line print.  Shows numbers of Sarkes Tarzian employees by home cities and towns with graduated circles. Includes graphs.",
+    "Imprint: [Place of publication not identified] : [publisher not identified], [between 1950 and 1969?]",
+    "Dimensions: 46 x 36 cm; Scale: 1:500,000",
+    "Coordinates: W0864342 W0854642 N0395150 N0383133"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -13,8 +19,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Labor supply"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -29,9 +35,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.7101 39.8501, -85.7601 39.8501, -85.7601 38.51, -86.7101 38.51, -86.7101 39.8501))",
-  "dcat_bbox": "ENVELOPE(-86.7101,-85.7601,39.8501,38.51)",
-  "dcat_centroid": "39.180049999999994,-86.23509999999999",
+  "locn_geometry": "POLYGON((-86.710 39.850, -85.760 39.850, -85.760 38.510, -86.710 38.510, -86.710 39.850))",
+  "dcat_bbox": "ENVELOPE(-86.710,-85.760,39.850,38.510)",
+  "dcat_centroid": "39.18,-86.235",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,11 +46,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00710\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00710\"}",
+  "gbl_wxsIdentifier_s": "1544cr29r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00710\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1544cr29r/manifest\"}",
   "id": "VAC3073-M-00710",
   "dct_identifier_sm": [
-    "VAC3073-M-00710"
+    "VAC3073-M-00710",
+    "G4094.B5 G8 1950 .S27"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

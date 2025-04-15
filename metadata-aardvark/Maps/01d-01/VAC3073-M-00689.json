@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Parke County Indiana preliminary land use map",
   "dct_description_sm": [
-    "Color reproduction by Bureau of Agricultural Economics, U.S.D.A.' '3-30-39.' Includes chart showing type of land use, acreage, and recommended use. Scale not given. Prepared by Parke County Land Use Planning Committee."
+    "\"Color reproduction by Bureau of Agricultural Economics, U.S.D.A.\" \"3-30-39.\" Includes chart showing type of land use, acreage, and recommended use.",
+    "Imprint: [Washington, D.C.?] : U.S. Bureau of Agricultural Economics, [1939]",
+    "Dimensions: 17 x 16 cm, on sheet 28 x 22 cm; Scale: Scale not given.",
+    "Coordinates: W0872602 W0870034 N0395712 N0393617"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Parke County (Ind.). Land Use Planning Committee"
+  ],
   "dct_publisher_sm": [
-    "United States Bureau of Agricultural Economics"
+    "United States. Bureau of Agricultural Economics"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,9 +24,6 @@
   ],
   "dct_subject_sm": [
     "Land use"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1939"
@@ -36,8 +39,8 @@
     "Indiana",
     "Indiana--Parke County"
   ],
-  "locn_geometry": "POLYGON((-87.43 39.95, -87 39.95, -87 39.6, -87.43 39.6, -87.43 39.95))",
-  "dcat_bbox": "ENVELOPE(-87.43,-87,39.95,39.6)",
+  "locn_geometry": "POLYGON((-87.430 39.950, -87.000 39.950, -87.000 39.600, -87.430 39.600, -87.430 39.950))",
+  "dcat_bbox": "ENVELOPE(-87.430,-87.000,39.950,39.600)",
   "dcat_centroid": "39.775000000000006,-87.215",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00689\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00689\"}",
+  "gbl_wxsIdentifier_s": "8c97ms942",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00689\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8c97ms942/manifest\"}",
   "id": "VAC3073-M-00689",
   "dct_identifier_sm": [
-    "VAC3073-M-00689"
+    "VAC3073-M-00689",
+    "G4093.P2G4 1939 .P37"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

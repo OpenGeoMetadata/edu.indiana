@@ -37,9 +37,9 @@
     "Belarus--Chachersk",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((31 53, 30.75 53, 30.75 52.8667, 31 52.8667, 31 53))",
-  "dcat_bbox": "ENVELOPE(31,30.75,53,52.8667)",
-  "dcat_centroid": "52.933350000000004,30.875",
+  "locn_geometry": "POLYGON((31.000 53.000, 30.750 53.000, 30.750 52.867, 31.000 52.867, 31.000 53.000))",
+  "dcat_bbox": "ENVELOPE(31.000,30.750,53.000,52.867)",
+  "dcat_centroid": "52.933499999999995,30.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001527\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001527\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/zg64tm62z\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2n49vc271/manifest\"}",
   "id": "VAC9619-001527",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001527",
     "G7000 s50 .S68 sheet N-36-110-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

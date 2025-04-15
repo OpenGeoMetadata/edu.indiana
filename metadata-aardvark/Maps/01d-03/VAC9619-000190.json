@@ -34,9 +34,9 @@
     "Poland--Dubienka",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((24 51.1667, 23.75 51.1667, 23.75 51, 24 51, 24 51.1667))",
-  "dcat_bbox": "ENVELOPE(24,23.75,51.1667,51)",
-  "dcat_centroid": "51.083349999999996,23.875",
+  "locn_geometry": "POLYGON((24.000 51.167, 23.750 51.167, 23.750 51.000, 24.000 51.000, 24.000 51.167))",
+  "dcat_bbox": "ENVELOPE(24.000,23.750,51.167,51.000)",
+  "dcat_centroid": "51.0835,23.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000190\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000190\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/cj82k793z\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/w3764g342/manifest\"}",
   "id": "VAC9619-000190",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000190",
     "G7000 s50 .S68 sheet M-34-36-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

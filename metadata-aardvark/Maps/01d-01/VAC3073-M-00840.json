@@ -1,7 +1,10 @@
 {
   "dct_title_s": "New sectional and township map of Indiana",
   "dct_description_sm": [
-    "Shows counties, townships, sections, county seats, other towns and post offices, rivers, and railroads. Includes population tables. Scale 1:760,320. 12 miles to the inch. D.L. Bourquin."
+    "Shows counties, townships, sections, county seats, other towns and post offices, rivers, and railroads. Includes population tables.",
+    "Imprint: Chicago : Higgins Beldin & Co., 1874.",
+    "Dimensions: 67 x 40 cm; Scale: 1:760,320",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,18 +13,14 @@
     "Bourquin, D. L."
   ],
   "dct_publisher_sm": [
-    "Higgins Beldin & Company"
+    "Higgins Beldin & Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Administrative and political divisions"
   ],
   "dct_temporal_sm": [
     "1874"
@@ -48,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00840\"}",
+  "gbl_wxsIdentifier_s": "2n49v491m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00840\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2n49v491m/manifest\"}",
   "id": "VAC3073-M-00840",
   "dct_identifier_sm": [
-    "VAC3073-M-00840"
+    "VAC3073-M-00840",
+    "G4090 1874 .B68"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

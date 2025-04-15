@@ -37,8 +37,8 @@
     "Russia--Druzhnaya Gorka",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33 58.5, 32.75 58.5, 32.75 58.333, 33 58.333, 33 58.5))",
-  "dcat_bbox": "ENVELOPE(33,32.75,58.5,58.333)",
+  "locn_geometry": "POLYGON((33.000 58.500, 32.750 58.500, 32.750 58.333, 33.000 58.333, 33.000 58.500))",
+  "dcat_bbox": "ENVELOPE(33.000,32.750,58.500,58.333)",
   "dcat_centroid": "58.4165,32.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003376\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003376\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/sf268599s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/bk129p309/manifest\"}",
   "id": "VAC9619-003376",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003376",
     "G7000 s50 .S68 sheet O-36-54-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, Porter County",
   "dct_description_sm": [
-    "A. Hoen & Co. Lith. Baltimore, Md.' Includes legend in margins. Scale 1:63,360. 1 inch = 1 mile. Soils surveyed by T.M. Bushnell of the U.S. Department of Agriculture, in charge and Wendell Barrett of the Indiana Department of Geology."
+    "\"A. Hoen & Co. Lith. Baltimore, Md.\" Includes legend in margins.",
+    "Imprint: [Washington, D.C.] : U.S. Dept. of Agriculture, Bureau of Soils, 1916.",
+    "Dimensions: 87 x 42 cm; Scale: 1:63,360",
+    "Coordinates: W0871300 W0865600 N0414300 N0411400"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Bushnell, T. M. (Thomas Mark),1889-1976,cartographer,surveyor."
   ],
   "dct_publisher_sm": [
-    "United States Department of Agriculture, Bureau of Soils"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils",
+    "Classification"
   ],
   "dct_temporal_sm": [
     "1916"
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00955\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00955\"}",
+  "gbl_wxsIdentifier_s": "j3861b140",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00955\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/j3861b140/manifest\"}",
   "id": "VAC3073-M-00955",
   "dct_identifier_sm": [
-    "VAC3073-M-00955"
+    "VAC3073-M-00955",
+    "G4093 .P5J3 1916 .B87"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

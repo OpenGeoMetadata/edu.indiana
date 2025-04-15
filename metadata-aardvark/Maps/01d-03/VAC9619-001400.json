@@ -37,8 +37,8 @@
     "Belarus--Blagovichi",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((31 54, 30.75 54, 30.75 53.883, 31 53.883, 31 54))",
-  "dcat_bbox": "ENVELOPE(31,30.75,54,53.883)",
+  "locn_geometry": "POLYGON((31.000 54.000, 30.750 54.000, 30.750 53.883, 31.000 53.883, 31.000 54.000))",
+  "dcat_bbox": "ENVELOPE(31.000,30.750,54.000,53.883)",
   "dcat_centroid": "53.941500000000005,30.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001400\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001400\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/j098zb951\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fn108877h/manifest\"}",
   "id": "VAC9619-001400",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001400",
     "GM G7000 S50 .S68 N-36-74-Б"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

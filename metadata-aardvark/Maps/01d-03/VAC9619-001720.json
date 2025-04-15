@@ -34,8 +34,8 @@
     "Estonia--Nässuma",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((23 58.333, 22.75 58.333, 22.75 58.167, 23 58.167, 23 58.333))",
-  "dcat_bbox": "ENVELOPE(23,22.75,58.333,58.167)",
+  "locn_geometry": "POLYGON((23.000 58.333, 22.750 58.333, 22.750 58.167, 23.000 58.167, 23.000 58.333))",
+  "dcat_bbox": "ENVELOPE(23.000,22.750,58.333,58.167)",
   "dcat_centroid": "58.25,22.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001720\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001720\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mp48sd56t\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/j9603901f/manifest\"}",
   "id": "VAC9619-001720",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001720",
     "G7000 s50 .S68 sheet O-34-70-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

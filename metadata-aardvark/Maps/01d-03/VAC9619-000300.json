@@ -37,8 +37,8 @@
     "Poland--Kosów Lacki",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((22.25 52.667, 22 52.667, 22 52.5, 22.25 52.5, 22.25 52.667))",
-  "dcat_bbox": "ENVELOPE(22.25,22,52.667,52.5)",
+  "locn_geometry": "POLYGON((22.250 52.667, 22.000 52.667, 22.000 52.500, 22.250 52.500, 22.250 52.667))",
+  "dcat_bbox": "ENVELOPE(22.250,22.000,52.667,52.500)",
   "dcat_centroid": "52.5835,22.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000300\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000300\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/w95051178\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pn89fg64r/manifest\"}",
   "id": "VAC9619-000300",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000300",
     "G7000 s50 .S68 sheet N-34-129-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

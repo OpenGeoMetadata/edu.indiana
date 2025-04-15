@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Martin County Indiana preliminary land use map",
   "dct_description_sm": [
-    "Color reproduction by Bureau of Agricultural Economics, U.S.D.A.' '8-31-40.' Includes chart showing type of land use, acreage, and recommended use. Scale not given. Prepared by Martin County Land Use Planning Committee."
+    "\"Color reproduction by Bureau of Agricultural Economics, U.S.D.A.\" \"8-31-40.\" Includes chart showing type of land use, acreage, and recommended use.",
+    "Imprint: [Washington, D.C.?] : U.S. Bureau of Agricultural Economics, [1940]",
+    "Scale: Scale not given.; Dimensions: 25 x 12 cm, on sheet 39 x 28 cm",
+    "Coordinates: W0865527 W0864056 N0385416 N0382941"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Martin County (Ind.). Land Use Planning Committee"
+  ],
   "dct_publisher_sm": [
-    "United States Bureau of Agricultural Economics"
+    "United States. Bureau of Agricultural Economics"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,9 +24,6 @@
   ],
   "dct_subject_sm": [
     "Land use"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -36,9 +39,9 @@
     "Indiana",
     "Indiana--Martin County"
   ],
-  "locn_geometry": "POLYGON((-86.91 38.9, -86.6601 38.9, -86.6601 38.4801, -86.91 38.4801, -86.91 38.9))",
-  "dcat_bbox": "ENVELOPE(-86.91,-86.6601,38.9,38.4801)",
-  "dcat_centroid": "38.69005,-86.78505",
+  "locn_geometry": "POLYGON((-86.910 38.900, -86.660 38.900, -86.660 38.480, -86.910 38.480, -86.910 38.900))",
+  "dcat_bbox": "ENVELOPE(-86.910,-86.660,38.900,38.480)",
+  "dcat_centroid": "38.69,-86.785",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00782\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00782\"}",
+  "gbl_wxsIdentifier_s": "hm50vw89c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00782\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hm50vw89c/manifest\"}",
   "id": "VAC3073-M-00782",
   "dct_identifier_sm": [
-    "VAC3073-M-00782"
+    "VAC3073-M-00782",
+    "G4093.M5G4 1940 .M37"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:13:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,8 +37,8 @@
     "Belarus--Charnova",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((28.5 54, 28.25 54, 28.25 53.833, 28.5 53.833, 28.5 54))",
-  "dcat_bbox": "ENVELOPE(28.5,28.25,54,53.833)",
+  "locn_geometry": "POLYGON((28.500 54.000, 28.250 54.000, 28.250 53.833, 28.500 53.833, 28.500 54.000))",
+  "dcat_bbox": "ENVELOPE(28.500,28.250,54.000,53.833)",
   "dcat_centroid": "53.9165,28.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000625\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000625\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/wd375w91p\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/3197zw37x/manifest\"}",
   "id": "VAC9619-000625",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000625",
     "G7000 s50 .S68 sheet N-35-81-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

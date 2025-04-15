@@ -1,20 +1,22 @@
 {
-  "dct_title_s": "Orange Co. Indiana",
+  "dct_title_s": "Orange County, Indiana",
   "dct_description_sm": [
-    "Scale approximately 1:110,000. Mfd. and copyrighted ... by Shedd & Wright Mfg. Co."
+    "Imprint: Austin, Minn. : Shedd and Wright Mfg. Co., [1908]",
+    "Dimensions: 30 x 30 cm; Scale: 1:110,000",
+    "Coordinates: W0864059 W0861827 N0384119 N0382338"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Shedd & Wright Mfg. Co."
+  ],
   "dct_publisher_sm": [
-    "Shedd & Wright Mfg. Company"
+    "Shedd & Wright Mfg. Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -30,9 +32,9 @@
     "Indiana",
     "Indiana--Orange County"
   ],
-  "locn_geometry": "POLYGON((-86.6601 38.68, -86.3 38.68, -86.3 38.3801, -86.6601 38.3801, -86.6601 38.68))",
-  "dcat_bbox": "ENVELOPE(-86.6601,-86.3,38.68,38.3801)",
-  "dcat_centroid": "38.53005,-86.48005",
+  "locn_geometry": "POLYGON((-86.660 38.680, -86.300 38.680, -86.300 38.380, -86.660 38.380, -86.660 38.680))",
+  "dcat_bbox": "ENVELOPE(-86.660,-86.300,38.680,38.380)",
+  "dcat_centroid": "38.53,-86.47999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +43,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00964\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00964\"}",
+  "gbl_wxsIdentifier_s": "bc387m79m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00964\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/bc387m79m/manifest\"}",
   "id": "VAC3073-M-00964",
   "dct_identifier_sm": [
-    "VAC3073-M-00964"
+    "VAC3073-M-00964",
+    "G4093.O6 1908 .S54"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

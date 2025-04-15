@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map of Jay County",
   "dct_description_sm": [
-    "Detached from: Soil survey of Jay County / Allen David Hole. In 39th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:84,000 Soils surveyed in 1914 by Allen D. Hole, assisted by J. Blair Mills, Ralph C.Z. Morris, and Elmer Barnes."
+    "Detached from: Soil survey of Jay County / Allen David Hole. In 39th Annual report of Department of Geology and Natural Resources, Indiana.    From page 54 of the 39th Annual Report.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources, Indiana], [1915]",
+    "Dimensions: 35 x 42 cm; Scale: 1:84,000",
+    "Coordinates: W0851312 W0844808 N0403419 N0401824"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,8 +16,7 @@
     "Morris, Ralph C. Z. (Soil surveyor)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -23,9 +25,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1914"
@@ -52,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01184\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01184\"}",
+  "gbl_wxsIdentifier_s": "34850m182",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01184\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/34850m182/manifest\"}",
   "id": "VAC3073-M-01184",
   "dct_identifier_sm": [
-    "VAC3073-M-01184"
+    "VAC3073-M-01184",
+    "G4093.J4J3 1914 .H6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

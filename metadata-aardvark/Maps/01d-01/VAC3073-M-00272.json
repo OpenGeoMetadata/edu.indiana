@@ -1,7 +1,9 @@
 {
-  "dct_title_s": "A map of the counties of Franklin, Union, Fayette and Wayne showing the location of sections and collecting localities and the boundary between the Ordovician and Silurian systems.",
+  "dct_title_s": "A map of the counties of Franklin, Union, Fayette and Wayne",
   "dct_description_sm": [
-    "Detached from: The stratigraphy and paleontology of the Cincinnati series of Indiana / E.R. Cumings. In 32nd Annual report of the Indiana Department of Geology and Natural Resources. 'Boundary after Foerste.' Scale approximately 1:126,720. 2 miles to the in."
+    "Showing the Location of sections and collecting localities and the boundary between the Ordovician and Silurian Systems.    Detached from: The stratigraphy and paleontology of the Ordovician rocks of Indiana / by R. E. Cumings. In Indiana Department of Geology and Natural Resources thirty-second annual report ... 1907. Indianapolis : Wm. B. Burford, 1908. Page 605.",
+    "Imprint: Indianapolis : 1908",
+    "Dimensions: 67 x 37 cm; Scale: Approximately 1:126,720. 2 miles = 1 inch"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,8 +12,7 @@
     "Foerste, Aug. F. (Aug. Frederic),1862-1936."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +21,10 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "",
+    "Geology",
+    "Mines and mineral resources"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -38,9 +40,9 @@
     "Indiana",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-85.2801 40, -84.8001 40, -84.8001 39.26, -85.2801 39.26, -85.2801 40))",
-  "dcat_bbox": "ENVELOPE(-85.2801,-84.8001,40,39.26)",
-  "dcat_centroid": "39.629999999999995,-85.0401",
+  "locn_geometry": "POLYGON((-85.280 40.000, -84.800 40.000, -84.800 39.260, -85.280 39.260, -85.280 40.000))",
+  "dcat_bbox": "ENVELOPE(-85.280,-84.800,40.000,39.260)",
+  "dcat_centroid": "39.629999999999995,-85.03999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00272\"}",
+  "gbl_wxsIdentifier_s": "xw42pb971",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00272\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/xw42pb971/manifest\"}",
   "id": "VAC3073-M-00272",
   "dct_identifier_sm": [
-    "VAC3073-M-00272"
+    "VAC3073-M-00272",
+    "QE109 .A2 1907 map p605"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

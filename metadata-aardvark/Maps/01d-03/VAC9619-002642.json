@@ -37,9 +37,9 @@
     "Ukraine--Narayivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((50.8333 28, 50.75 28, 50.75 27.8681, 50.8333 27.8681, 50.8333 28))",
-  "dcat_bbox": "ENVELOPE(50.8333,50.75,28,27.8681)",
-  "dcat_centroid": "27.93405,50.791650000000004",
+  "locn_geometry": "POLYGON((50.833 28.000, 50.750 28.000, 50.750 27.868, 50.833 27.868, 50.833 28.000))",
+  "dcat_bbox": "ENVELOPE(50.833,50.750,28.000,27.868)",
+  "dcat_centroid": "27.933999999999997,50.7915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002642\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002642\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/rn3012085\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/db78vq092/manifest\"}",
   "id": "VAC9619-002642",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002642",
     "G7000 s50 .S68 sheet M-35-44-Г-Ҕ"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

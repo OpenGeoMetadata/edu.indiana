@@ -16,8 +16,7 @@
   ],
   "dcat_keyword_sm": [
     "Soviet Union",
-    "Maps",
-    "sprint-oct2020"
+    "Maps"
   ],
   "dct_temporal_sm": [
     "between 1880 and 1942"
@@ -33,9 +32,9 @@
     "Russia--Nazarevo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((41 53.8336, 41.5 53.8336, 41.5 53.667, 41 53.667, 41 53.8336))",
-  "dcat_bbox": "ENVELOPE(41,41.5,53.8336,53.667)",
-  "dcat_centroid": "53.750299999999996,41.25",
+  "locn_geometry": "POLYGON((41.000 53.834, 41.500 53.834, 41.500 53.667, 41.000 53.667, 41.000 53.834))",
+  "dcat_bbox": "ENVELOPE(41.000,41.500,53.834,53.667)",
+  "dcat_centroid": "53.7505,41.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,12 +51,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001613\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001613\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/k930bx87p\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5138kr799/manifest\"}",
   "id": "VAC9619-001613",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001613",
     "G7000 s50 .S68 sheet N-37-83-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T16:19:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

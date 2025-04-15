@@ -34,8 +34,8 @@
     "Russia--Veselovka",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((21 54.8333, 20.75 54.8333, 20.75 54.6667, 21 54.6667, 21 54.8333))",
-  "dcat_bbox": "ENVELOPE(21,20.75,54.8333,54.6667)",
+  "locn_geometry": "POLYGON((21.000 54.833, 20.750 54.833, 20.750 54.667, 21.000 54.667, 21.000 54.833))",
+  "dcat_bbox": "ENVELOPE(21.000,20.750,54.833,54.667)",
   "dcat_centroid": "54.75,20.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000299\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000299\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/0z708x050\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5q47sz08z/manifest\"}",
   "id": "VAC9619-000299",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000299",
     "G7000 s50 .S68 N-34-42-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

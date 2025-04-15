@@ -1,14 +1,19 @@
 {
   "dct_title_s": "Soil map of Daviess County",
   "dct_description_sm": [
-    "Shows school houses, churches, roads, and railroads. Detached from: A soil survey of four counties of southern Indiana / Chas. W. Shannon and L.C. Snider. In 33rd Annual report of the Indiana Department of Geology and Natural Resources. Scale approximately 1:126,720"
+    "Shows school houses, churches, roads, and railroads.    Detached from: A soil survey of four counties of southern Indiana / Chas. W. Shannon and L.C. Snider. In Indiana Department of Geology and Natural Resources thirty-third annual report ... 1908. Indianapolis : Wm. B. Burford, 1909. Page 342.",
+    "Imprint: [Indianapolis] : [Indiana Department of Geology and Natural Resources], [1909]",
+    "Dimensions: 41 x 33 cm; Scale: Approximately 1:126,720",
+    "Coordinates: W0871645 W0865414 N0385415 N0382925"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. Department of Geology and Natural Resources"
+  ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "[Indiana Department of Geology and Natural Resources]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,10 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -37,9 +39,9 @@
     "Indiana",
     "Indiana--Randolph County"
   ],
-  "locn_geometry": "POLYGON((-87.2601 38.9, -86.9 38.9, -86.9 38.48, -87.2601 38.48, -87.2601 38.9))",
-  "dcat_bbox": "ENVELOPE(-87.2601,-86.9,38.9,38.48)",
-  "dcat_centroid": "38.69,-87.08005",
+  "locn_geometry": "POLYGON((-87.260 38.900, -86.900 38.900, -86.900 38.480, -87.260 38.480, -87.260 38.900))",
+  "dcat_bbox": "ENVELOPE(-87.260,-86.900,38.900,38.480)",
+  "dcat_centroid": "38.69,-87.08000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00883\"}",
+  "gbl_wxsIdentifier_s": "2b88rg257",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00883\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2b88rg257/manifest\"}",
   "id": "VAC3073-M-00883",
   "dct_identifier_sm": [
-    "VAC3073-M-00883"
+    "VAC3073-M-00883",
+    "G4093.D2J3 1908 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,14 +1,19 @@
 {
-  "dct_title_s": "St Joseph County",
+  "dct_title_s": "St. Joseph County",
   "dct_description_sm": [
-    "Shows dirt roads, improved roads, and railroads. Detached from: Soil survey of St. Joseph County / E.J. Quinn. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:90,000"
+    "Shows dirt roads, improved roads, and railroads.    Detached from: Soil survey of St. Joseph County / E.J. Quinn. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 300.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources], [1912]; Imprint: [Indianapolis] : [Wm. B. Burford], [1912]",
+    "Dimensions: 43 x 45 cm, on sheet 46 x 56 cm; Scale: Approximately 1:90,000",
+    "Coordinates: W0863136 W0860333 N0414538 N0412558"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. Department of Geology and Natural Resources"
+  ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,10 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -37,9 +39,9 @@
     "Indiana",
     "Indiana--Saint Joseph County"
   ],
-  "locn_geometry": "POLYGON((-86.5101 41.7501, -86.05 41.7501, -86.05 41.4101, -86.5101 41.4101, -86.5101 41.7501))",
-  "dcat_bbox": "ENVELOPE(-86.5101,-86.05,41.7501,41.4101)",
-  "dcat_centroid": "41.5801,-86.28004999999999",
+  "locn_geometry": "POLYGON((-86.510 41.750, -86.050 41.750, -86.050 41.410, -86.510 41.410, -86.510 41.750))",
+  "dcat_bbox": "ENVELOPE(-86.510,-86.050,41.750,41.410)",
+  "dcat_centroid": "41.58,-86.28",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01087\"}",
+  "gbl_wxsIdentifier_s": "8049h832f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01087\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8049h832f/manifest\"}",
   "id": "VAC3073-M-01087",
   "dct_identifier_sm": [
-    "VAC3073-M-01087"
+    "VAC3073-M-01087",
+    "G4093.S2J3 1911 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

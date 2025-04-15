@@ -34,8 +34,8 @@
     "Estonia--Kõpu Poolsaar",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((22.5 59, 22 59, 22 58.667, 22.5 58.667, 22.5 59))",
-  "dcat_bbox": "ENVELOPE(22.5,22,59,58.667)",
+  "locn_geometry": "POLYGON((22.500 59.000, 22.000 59.000, 22.000 58.667, 22.500 58.667, 22.500 59.000))",
+  "dcat_bbox": "ENVELOPE(22.500,22.000,59.000,58.667)",
   "dcat_centroid": "58.8335,22.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003175\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003175\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/g445cf07c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/v692vj33n/manifest\"}",
   "id": "VAC9619-003175",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003175",
     "G7000 s100 .S7 sheet O-34-45"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

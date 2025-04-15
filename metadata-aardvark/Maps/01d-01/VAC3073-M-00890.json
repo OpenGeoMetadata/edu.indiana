@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Scheduled airline flights",
   "dct_description_sm": [
-    "Source: Official airline guide, Sept. 15, 1969. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 82. Scale approximately 5,200,000"
+    "Shows average number of flights daily between cities. Data source: Official airline guide, Sept. 15, 1969.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 82.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:5,200,000; Dimensions: 26 x 18 cm, on sheet 28 x 21 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,10 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Traffic flow",
+    "Airways",
+    "Air travel"
   ],
   "dct_temporal_sm": [
     "1969"
@@ -51,11 +55,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00890\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00890\"}",
+  "gbl_wxsIdentifier_s": "nk323h74t",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00890\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/nk323h74t/manifest\"}",
   "id": "VAC3073-M-00890",
   "dct_identifier_sm": [
-    "VAC3073-M-00890"
+    "VAC3073-M-00890",
+    "G4091.P6 1969 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

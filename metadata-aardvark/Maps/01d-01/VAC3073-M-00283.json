@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Map of southwestern Indiana showing locations of surface and underground coal mines",
   "dct_description_sm": [
-    "Compilation complete through October 1997.' 'Base map digitized from 1:500,000 scale, 1978 U.S. Geological Survey map of Indiana.' Includes text and location map. Scale 1:400,000. Compiled by Nathan Eaton and Licia Weber."
+    "\"Minde data compilation complete through October 1997.\"     \"All mine data shown on this map are recompiled by IGS personnel as part of the Coal Mine Information System (CMIS).\"",
+    "Imprint: [Bloomington?] : Indiana Geological Survey, 2000.",
+    "Scale: 1:400,000; Dimensions: 82 x 44 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +13,7 @@
     "Weber, Licia"
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +23,8 @@
     "Mine maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Coal mines and mining"
   ],
   "dct_temporal_sm": [
     "2000"
@@ -38,9 +39,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.9 40.5801, -86.3301 40.5801, -86.3301 37.86, -87.9 37.86, -87.9 40.5801))",
-  "dcat_bbox": "ENVELOPE(-87.9,-86.3301,40.5801,37.86)",
-  "dcat_centroid": "39.22005,-87.11505",
+  "locn_geometry": "POLYGON((-87.900 40.580, -86.330 40.580, -86.330 37.860, -87.900 37.860, -87.900 40.580))",
+  "dcat_bbox": "ENVELOPE(-87.900,-86.330,40.580,37.860)",
+  "dcat_centroid": "39.22,-87.11500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00283\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00283\"}",
+  "gbl_wxsIdentifier_s": "mw22w856w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00283\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/mw22w856w/manifest\"}",
   "id": "VAC3073-M-00283",
   "dct_identifier_sm": [
-    "VAC3073-M-00283"
+    "VAC3073-M-00283",
+    "G4091 .H9 2000 .E386"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,8 +37,8 @@
     "Russia--Uspenskaya",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((41.5 46, 41 46, 41 45.667, 41.5 45.667, 41.5 46))",
-  "dcat_bbox": "ENVELOPE(41.5,41,46,45.667)",
+  "locn_geometry": "POLYGON((41.500 46.000, 41.000 46.000, 41.000 45.667, 41.500 45.667, 41.500 46.000))",
+  "dcat_bbox": "ENVELOPE(41.500,41.000,46.000,45.667)",
   "dcat_centroid": "45.8335,41.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002342\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002342\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/qr46r149x\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x633g886q/manifest\"}",
   "id": "VAC9619-002342",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002342",
     "G7000 s100 .S7 sheet L-37-83"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

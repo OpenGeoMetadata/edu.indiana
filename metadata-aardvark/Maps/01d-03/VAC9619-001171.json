@@ -37,8 +37,8 @@
     "Ukraine--Saksahan",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((34 48.333, 33.75 48.333, 33.75 48.167, 34 48.167, 34 48.333))",
-  "dcat_bbox": "ENVELOPE(34,33.75,48.333,48.167)",
+  "locn_geometry": "POLYGON((34.000 48.333, 33.750 48.333, 33.750 48.167, 34.000 48.167, 34.000 48.333))",
+  "dcat_bbox": "ENVELOPE(34.000,33.750,48.333,48.167)",
   "dcat_centroid": "48.25,33.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001171\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001171\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/jw827c262\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fq979514q/manifest\"}",
   "id": "VAC9619-001171",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001171",
     "GM G7000 S50 .S68 M-36-140-Б"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

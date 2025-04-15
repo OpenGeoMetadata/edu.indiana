@@ -37,9 +37,9 @@
     "China--Hunchun",
     "China"
   ],
-  "locn_geometry": "POLYGON((130.5 43, 130 43, 130 42.6667, 130.5 42.6667, 130.5 43))",
-  "dcat_bbox": "ENVELOPE(130.5,130,43,42.6667)",
-  "dcat_centroid": "42.833349999999996,130.25",
+  "locn_geometry": "POLYGON((130.500 43.000, 130.000 43.000, 130.000 42.667, 130.500 42.667, 130.500 43.000))",
+  "dcat_bbox": "ENVELOPE(130.500,130.000,43.000,42.667)",
+  "dcat_centroid": "42.8335,130.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000914\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000914\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/5712m732v\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qv33t588g/manifest\"}",
   "id": "VAC9619-000914",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000914",
     "G7000 s100 .S7 sheet K-52-45"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

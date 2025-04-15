@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Indiana in 1836",
   "dct_description_sm": [
-    "Negative photostat. Shows roads, railroads, canals, counties and cities. Scale not given. E.V. Shockley."
+    "Negative photostat.  Shows roads, railroads, canals, counties and cities.",
+    "Imprint: [Place of publication not identified] : [publisher not identified], 1836.",
+    "Scale: Scale not given.; Dimensions: 37 x 25 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Shockley, Ernest V. (Ernest Vivian),1878-1924"
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -17,11 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Transportation"
   ],
   "dct_temporal_sm": [
     "1836"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00791\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00791\"}",
+  "gbl_wxsIdentifier_s": "1j92hc11q",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00791\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1j92hc11q/manifest\"}",
   "id": "VAC3073-M-00791",
   "dct_identifier_sm": [
-    "VAC3073-M-00791"
+    "VAC3073-M-00791",
+    "G4091 .P1 1836 .S56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

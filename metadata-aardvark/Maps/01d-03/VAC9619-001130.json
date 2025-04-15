@@ -37,9 +37,9 @@
     "Ukraine--Fedorovka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((48.5 32.15, 48.3333 32.15, 48.3333 32, 48.5 32, 48.5 32.15))",
-  "dcat_bbox": "ENVELOPE(48.5,48.3333,32.15,32)",
-  "dcat_centroid": "32.075,48.416650000000004",
+  "locn_geometry": "POLYGON((48.500 32.150, 48.333 32.150, 48.333 32.000, 48.500 32.000, 48.500 32.150))",
+  "dcat_bbox": "ENVELOPE(48.500,48.333,32.150,32.000)",
+  "dcat_centroid": "32.075,48.4165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001130\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001130\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/gb19f660f\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/xg94jz69v/manifest\"}",
   "id": "VAC9619-001130",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001130",
     "G7000 s50 .S68 M-36-125-В"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

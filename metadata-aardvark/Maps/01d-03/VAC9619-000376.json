@@ -37,8 +37,8 @@
     "Poland--Długosiodło",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((21.75 52.8333, 21.5 52.8333, 21.5 52.6667, 21.75 52.6667, 21.75 52.8333))",
-  "dcat_bbox": "ENVELOPE(21.75,21.5,52.8333,52.6667)",
+  "locn_geometry": "POLYGON((21.750 52.833, 21.500 52.833, 21.500 52.667, 21.750 52.667, 21.750 52.833))",
+  "dcat_bbox": "ENVELOPE(21.750,21.500,52.833,52.667)",
   "dcat_centroid": "52.75,21.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000376\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000376\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/w6634433d\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/kw52kh37v/manifest\"}",
   "id": "VAC9619-000376",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000376",
     "G7000 s50 .S68 sheet N-34-116-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

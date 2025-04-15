@@ -1,7 +1,10 @@
 {
   "dct_title_s": "State forests",
   "dct_description_sm": [
-    "Lincoln Hills map shows Lincoln Heritage Trail, various Lincoln-related sites and other natural and cultural resources in Harrison, Crawford, Perry, and Spencer counties along the southern border of Indiana. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 84. Scale approximately 1:1,600,000"
+    "2 maps on 1 sheet, State Forests and The Lincoln Hills. Lincoln Hills map (1:690,000) shows Lincoln Heritage Trail, various Lincoln-related sites and other natural and cultural resources in Harrison, Crawford, Perry, and Spencer counties along the southern border of Indiana.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 84.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:1,600,000; Dimensions: each 13 x 18 cm, on sheet 28 x 21 cm",
+    "Coordinates: W0880610 W0844655 N0393200 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +24,9 @@
     "Thematic maps",
     "Tourist maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Forest reserves",
+    "Outdoor recreation"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -39,9 +42,9 @@
     "Indiana",
     "Indiana--Lincoln Hills Resource Conservation and Development Project Area"
   ],
-  "locn_geometry": "POLYGON((-88.1 39.53, -84.7601 39.53, -84.7601 37.76, -88.1 37.76, -88.1 39.53))",
-  "dcat_bbox": "ENVELOPE(-88.1,-84.7601,39.53,37.76)",
-  "dcat_centroid": "38.644999999999996,-86.43005",
+  "locn_geometry": "POLYGON((-88.100 39.530, -84.760 39.530, -84.760 37.760, -88.100 37.760, -88.100 39.530))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.760,39.530,37.760)",
+  "dcat_centroid": "38.644999999999996,-86.43",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +56,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00668\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00668\"}",
+  "gbl_wxsIdentifier_s": "mk61sk91g",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00668\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/mk61sk91g/manifest\"}",
   "id": "VAC3073-M-00668",
   "dct_identifier_sm": [
-    "VAC3073-M-00668"
+    "VAC3073-M-00668",
+    "G4091.K2 1970 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

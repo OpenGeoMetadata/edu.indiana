@@ -37,8 +37,8 @@
     "Russia--Monchegorsk",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33 68, 32 68, 32 67.667, 33 67.667, 33 68))",
-  "dcat_bbox": "ENVELOPE(33,32,68,67.667)",
+  "locn_geometry": "POLYGON((33.000 68.000, 32.000 68.000, 32.000 67.667, 33.000 67.667, 33.000 68.000))",
+  "dcat_bbox": "ENVELOPE(33.000,32.000,68.000,67.667)",
   "dcat_centroid": "67.8335,32.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002564\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002564\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/6969z159d\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5999pc88t/manifest\"}",
   "id": "VAC9619-002564",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002564",
     "G7000 s100 .S7 sheet Q-36-5"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

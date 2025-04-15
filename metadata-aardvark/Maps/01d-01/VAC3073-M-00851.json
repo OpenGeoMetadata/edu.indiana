@@ -1,23 +1,23 @@
 {
   "dct_title_s": "Indiana",
   "dct_description_sm": [
-    "Shows counties, cities and towns by population, and railroads. Includes area and populations statistics and indexes to counties and cities and towns. Scale approximately 1:1,600,000. C.S. Hammond & Co."
+    "Shows counties, cities and towns by population, and railroads.  Includes area and populations statistics and indexes to counties and cities and towns.",
+    "Imprint: New York : Hammond, [1907]",
+    "Dimensions: 27 x 20 cm; Scale: 1:1,600,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "C.S. Hammond & Company"
+  ],
   "dct_publisher_sm": [
-    "Hammond"
+    "C.S. Hammond & Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -44,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00851\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00851\"}",
+  "gbl_wxsIdentifier_s": "k0699964d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00851\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/k0699964d/manifest\"}",
   "id": "VAC3073-M-00851",
   "dct_identifier_sm": [
-    "VAC3073-M-00851"
+    "VAC3073-M-00851",
+    "G4090 1907 .C74"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,9 +34,9 @@
     "Finland--Kontiolahti",
     "Finland"
   ],
-  "locn_geometry": "POLYGON((30 63, 29.5 63, 29.5 62.6667, 30 62.6667, 30 63))",
-  "dcat_bbox": "ENVELOPE(30,29.5,63,62.6667)",
-  "dcat_centroid": "62.833349999999996,29.75",
+  "locn_geometry": "POLYGON((30.000 63.000, 29.500 63.000, 29.500 62.667, 30.000 62.667, 30.000 63.000))",
+  "dcat_bbox": "ENVELOPE(30.000,29.500,63.000,62.667)",
+  "dcat_centroid": "62.8335,29.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002316\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002316\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8910jv440\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/m326nb68v/manifest\"}",
   "id": "VAC9619-002316",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002316",
     "G7000 s100 .S7 sheet P-35-48"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

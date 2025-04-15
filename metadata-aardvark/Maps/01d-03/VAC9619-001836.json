@@ -37,8 +37,8 @@
     "Estonia--Saksi",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((26.25 59.333, 26 59.333, 26 59.167, 26.25 59.167, 26.25 59.333))",
-  "dcat_bbox": "ENVELOPE(26.25,26,59.333,59.167)",
+  "locn_geometry": "POLYGON((26.250 59.333, 26.000 59.333, 26.000 59.167, 26.250 59.167, 26.250 59.333))",
+  "dcat_bbox": "ENVELOPE(26.250,26.000,59.333,59.167)",
   "dcat_centroid": "59.25,26.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001836\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001836\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/sq87bv351\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/s4656s74z/manifest\"}",
   "id": "VAC9619-001836",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001836",
     "G7000 s50 .S68 sheet O-35-29-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

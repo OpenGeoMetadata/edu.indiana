@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Indiana showing locations of coal and industrial minerals operations",
   "dct_description_sm": [
-    "Includes pie graph and list of further reading. '1984 (Modified 1997).' Scale 1:500,000 By Nelson R. Shaffer."
+    "Includes pie chart and list of further reading. \"1984 (Modified 1997).\"",
+    "Imprint: [Bloomington, Ind.] : Indiana Geological Survey, 1998.",
+    "Scale: 1:500,000; Dimensions: 97 x 72 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Shaffer, Nelson R."
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Coal",
+    "Mines and mineral resources"
   ],
   "dct_temporal_sm": [
     "1998"
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00836\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00836\"}",
+  "gbl_wxsIdentifier_s": "5999p5993",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00836\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5999p5993/manifest\"}",
   "id": "VAC3073-M-00836",
   "dct_identifier_sm": [
-    "VAC3073-M-00836"
+    "VAC3073-M-00836",
+    "G4091.H5 1997 .S5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

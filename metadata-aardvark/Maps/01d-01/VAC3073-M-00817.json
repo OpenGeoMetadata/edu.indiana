@@ -1,10 +1,16 @@
 {
   "dct_title_s": "Indiana",
   "dct_description_sm": [
-    "Includes counties, railroads, and cities and towns by population. Scale approximately 1:1,600,000. Bormay & Co."
+    "Includes counties, rivers, roads, and towns by population.      Related name:  Bormay & Co.",
+    "Imprint: [New York?] : Americana Co., [1904]",
+    "Dimensions: 30 x 22 cm; Scale: 1:1,500,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Bormay & Co."
   ],
   "dct_publisher_sm": [
     "Americana Company"
@@ -12,12 +18,6 @@
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -44,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00817\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00817\"}",
+  "gbl_wxsIdentifier_s": "4j03f202v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00817\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4j03f202v/manifest\"}",
   "id": "VAC3073-M-00817",
   "dct_identifier_sm": [
-    "VAC3073-M-00817"
+    "VAC3073-M-00817",
+    "G4090 1904 .B67"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

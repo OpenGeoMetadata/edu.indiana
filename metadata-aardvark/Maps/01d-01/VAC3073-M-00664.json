@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Cram's railroad & township map of Indiana",
+  "dct_title_s": "Cram's railroad and township map of Indiana",
   "dct_description_sm": [
-    "Entered according to Act of Congress in the year 1878, by G.F. Cram in the Office of the Librarian of Congress, at Washington, D.C. Scale 1:1,203,840. 19 miles to an inch."
+    "\"Entered according to Act of Congress in the year 1878, by G.F. Cram in the Office of the Librarian of Congress, at Washington, D.C.",
+    "Imprint: Chicago : Geo. F. Cram, [1878]",
+    "Dimensions: 48 x 32 cm; Scale: 1:1,203,840",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Cram, George Franklin, 1841-1928"
   ],
   "dct_publisher_sm": [
-    "Geo. F. Cram"
+    "George F. Cram Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,10 +24,6 @@
   ],
   "dct_subject_sm": [
     "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1878"
@@ -51,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00664\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00664\"}",
+  "gbl_wxsIdentifier_s": "tb09k914w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00664\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tb09k914w/manifest\"}",
   "id": "VAC3073-M-00664",
   "dct_identifier_sm": [
-    "VAC3073-M-00664"
+    "VAC3073-M-00664",
+    "G4091.P3 1878 .C736"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

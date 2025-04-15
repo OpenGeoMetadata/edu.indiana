@@ -34,8 +34,8 @@
     "Russia--Putkovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((34.25 55, 34 55, 34 54.833, 34.25 54.833, 34.25 55))",
-  "dcat_bbox": "ENVELOPE(34.25,34,55,54.833)",
+  "locn_geometry": "POLYGON((34.250 55.000, 34.000 55.000, 34.000 54.833, 34.250 54.833, 34.250 55.000))",
+  "dcat_bbox": "ENVELOPE(34.250,34.000,55.000,54.833)",
   "dcat_centroid": "54.9165,34.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001317\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001317\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/n583xv65w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4f16dc875/manifest\"}",
   "id": "VAC9619-001317",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001317",
     "GM G7000 S50 .S68 N-36-45-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

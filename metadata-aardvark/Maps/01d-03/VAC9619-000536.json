@@ -37,9 +37,9 @@
     "Belarus--Byerazino",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((28.25 55, 28 55, 28 54.8333, 28.25 54.8333, 28.25 55))",
-  "dcat_bbox": "ENVELOPE(28.25,28,55,54.8333)",
-  "dcat_centroid": "54.916650000000004,28.125",
+  "locn_geometry": "POLYGON((28.250 55.000, 28.000 55.000, 28.000 54.833, 28.250 54.833, 28.250 55.000))",
+  "dcat_bbox": "ENVELOPE(28.250,28.000,55.000,54.833)",
+  "dcat_centroid": "54.9165,28.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000536\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000536\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/pg15bf69s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/jm215x644/manifest\"}",
   "id": "VAC9619-000536",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000536",
     "G7000 s50 .S68 sheet N-35-45-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

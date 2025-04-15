@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Hefel's natural gas & city map of Muncie, Indiana",
+  "dct_title_s": "Hefel's natural gas and city map of Muncie Ind.",
   "dct_description_sm": [
-    "Blueprint. Partial cadastral map showing landowners. Scale approximately 1:10,500. Made by Toney Hefel."
+    "Blueprint. Partial cadastral map showing landowners.",
+    "Imprint: [Place of publication not identified] : [publisher not identified], [1889?]",
+    "Dimensions: 61 x 85 cm; Scale: 1:10,500",
+    "Coordinates: W0852716 W0851914 N0401426 N0400856"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Hefel, Toney C."
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,9 +22,10 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Real property",
+    "Landowners",
+    "Natural gas"
   ],
   "dct_temporal_sm": [
     "1889"
@@ -34,9 +41,9 @@
     "Indiana--Muncie",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-85.45 40.23, -85.31 40.23, -85.31 40.1301, -85.45 40.1301, -85.45 40.23))",
-  "dcat_bbox": "ENVELOPE(-85.45,-85.31,40.23,40.1301)",
-  "dcat_centroid": "40.180049999999994,-85.38",
+  "locn_geometry": "POLYGON((-85.450 40.230, -85.310 40.230, -85.310 40.130, -85.450 40.130, -85.450 40.230))",
+  "dcat_bbox": "ENVELOPE(-85.450,-85.310,40.230,40.130)",
+  "dcat_centroid": "40.18,-85.38",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00839\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00839\"}",
+  "gbl_wxsIdentifier_s": "sb398c44r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00839\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sb398c44r/manifest\"}",
   "id": "VAC3073-M-00839",
   "dct_identifier_sm": [
-    "VAC3073-M-00839"
+    "VAC3073-M-00839",
+    "G4094.M9G46 1889 .H44"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

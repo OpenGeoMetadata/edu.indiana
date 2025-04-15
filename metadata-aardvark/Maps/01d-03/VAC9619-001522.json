@@ -37,9 +37,9 @@
     "Russia--Maslovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((36 53.1667, 35.75 53.1667, 35.75 53, 36 53, 36 53.1667))",
-  "dcat_bbox": "ENVELOPE(36,35.75,53.1667,53)",
-  "dcat_centroid": "53.083349999999996,35.875",
+  "locn_geometry": "POLYGON((36.000 53.167, 35.750 53.167, 35.750 53.000, 36.000 53.000, 36.000 53.167))",
+  "dcat_bbox": "ENVELOPE(36.000,35.750,53.167,53.000)",
+  "dcat_centroid": "53.0835,35.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001522\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001522\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/hh63sw60c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gf06hd42s/manifest\"}",
   "id": "VAC9619-001522",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001522",
     "G7000 s50 .S68 sheet N-36-108-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

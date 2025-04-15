@@ -1,23 +1,23 @@
 {
   "dct_title_s": "Indiana",
   "dct_description_sm": [
-    "Shows counties, railroads, and place names. '6.02.' Scale approximately 1:1,647,369. 26 miles to the inch. By the J.N. Matthews Co."
+    "Shows counties, railroads, and place names. \"6.02.\"",
+    "Imprint: New York : R.S. Peale, [1902]",
+    "Dimensions: 28 x 22 cm; Scale: 1:1,647,369",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Peale, R. S. (Richard S.)"
+  ],
   "dct_publisher_sm": [
-    "R.S. Peale"
+    "Matthews-Northrup Company , J.N. Matthews Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -44,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00880\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00880\"}",
+  "gbl_wxsIdentifier_s": "qj72qb995",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00880\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qj72qb995/manifest\"}",
   "id": "VAC3073-M-00880",
   "dct_identifier_sm": [
-    "VAC3073-M-00880"
+    "VAC3073-M-00880",
+    "G4090 1902 .J586"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

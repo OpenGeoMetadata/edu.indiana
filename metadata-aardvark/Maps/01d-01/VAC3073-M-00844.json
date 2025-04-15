@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map showing selected subsurface dye traces in south-central Indiana",
   "dct_description_sm": [
-    "Digital cartogrpahy by Kimberly H. Sowder.' Includes text, index map, location map, and 'Sources of subsurface dye trace information.' Scale 1:500,000. By Samuel S. Frushour, Denver Harper, and Christopher R. Dintaman."
+    "Digital cartogrpahy by Kimberly H. Sowder.\"   Includes index map and text: Abstract and \"Sources of subsurface dye trace information.\"",
+    "Imprint: Bloomington, Ind. : Indiana Geological Survey, 2000.",
+    "Dimensions: 19 x 19 cm or smaller, on sheet 58 x 92 cm; Scale: 1:500,000",
+    "Coordinates: W0865700 W0855900 N0393800 N0375400"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,7 +16,7 @@
     "Sowder, Kimberly H."
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -22,9 +25,10 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Subsurface drainage",
+    "Groundwater",
+    "Pollution"
   ],
   "dct_temporal_sm": [
     "2000"
@@ -50,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00844\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00844\"}",
+  "gbl_wxsIdentifier_s": "br86c679t",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00844\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/br86c679t/manifest\"}",
   "id": "VAC3073-M-00844",
   "dct_identifier_sm": [
-    "VAC3073-M-00844"
+    "VAC3073-M-00844",
+    "G4091 .C34 2000 .F7"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,8 +34,8 @@
     "Russia--Mys Chayachiy",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((19.875 54.6667, 19.75 54.6667, 19.75 54.5833, 19.875 54.5833, 19.875 54.6667))",
-  "dcat_bbox": "ENVELOPE(19.875,19.75,54.6667,54.5833)",
+  "locn_geometry": "POLYGON((19.875 54.667, 19.750 54.667, 19.750 54.583, 19.875 54.583, 19.875 54.667))",
+  "dcat_bbox": "ENVELOPE(19.875,19.750,54.667,54.583)",
   "dcat_centroid": "54.625,19.8125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003728\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003728\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/qn59q479d\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gb19gh82h/manifest\"}",
   "id": "VAC9619-003728",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003728",
     "G7063.K2 s25 .S6 sheet N-34-52-B-а"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

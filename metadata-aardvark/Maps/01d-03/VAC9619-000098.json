@@ -37,8 +37,8 @@
     "Azerbaijan--Lerik",
     "Azerbaijan"
   ],
-  "locn_geometry": "POLYGON((48.5 38.8333, 48.25 38.8333, 48.25 38.6667, 48.5 38.6667, 48.5 38.8333))",
-  "dcat_bbox": "ENVELOPE(48.5,48.25,38.8333,38.6667)",
+  "locn_geometry": "POLYGON((48.500 38.833, 48.250 38.833, 48.250 38.667, 48.500 38.667, 48.500 38.833))",
+  "dcat_bbox": "ENVELOPE(48.500,48.250,38.833,38.667)",
   "dcat_centroid": "38.75,48.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000098\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000098\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/td96k3352\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/dv141174z/manifest\"}",
   "id": "VAC9619-000098",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000098",
     "G7000 s50 .S68 sheet J-39-37-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

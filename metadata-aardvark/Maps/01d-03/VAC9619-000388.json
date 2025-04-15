@@ -34,9 +34,9 @@
     "Lithuania--Pumpėnai",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((24.5 56, 24.25 56, 24.25 55.8333, 24.5 55.8333, 24.5 56))",
-  "dcat_bbox": "ENVELOPE(24.5,24.25,56,55.8333)",
-  "dcat_centroid": "55.916650000000004,24.375",
+  "locn_geometry": "POLYGON((24.500 56.000, 24.250 56.000, 24.250 55.833, 24.500 55.833, 24.500 56.000))",
+  "dcat_bbox": "ENVELOPE(24.500,24.250,56.000,55.833)",
+  "dcat_centroid": "55.9165,24.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000388\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000388\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/xg94hq13c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1r66k9144/manifest\"}",
   "id": "VAC9619-000388",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000388",
     "G7000 s50 .S68 sheet N-35-1-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

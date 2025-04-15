@@ -37,8 +37,8 @@
     "Finland--Kerimäki",
     "Finland"
   ],
-  "locn_geometry": "POLYGON((29.5 62, 29 62, 29 61.667, 29.5 61.667, 29.5 62))",
-  "dcat_bbox": "ENVELOPE(29.5,29,62,61.667)",
+  "locn_geometry": "POLYGON((29.500 62.000, 29.000 62.000, 29.000 61.667, 29.500 61.667, 29.500 62.000))",
+  "dcat_bbox": "ENVELOPE(29.500,29.000,62.000,61.667)",
   "dcat_centroid": "61.8335,29.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002368\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002368\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/gf06g349p\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/05743151t/manifest\"}",
   "id": "VAC9619-002368",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002368",
     "G7000 s100 .S7 sheet P-35-83"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

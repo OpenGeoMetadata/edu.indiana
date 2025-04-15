@@ -34,8 +34,8 @@
     "Russia--Voskresensk",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((37 56, 36.5 56, 36.5 55.833, 37 55.833, 37 56))",
-  "dcat_bbox": "ENVELOPE(37,36.5,56,55.833)",
+  "locn_geometry": "POLYGON((37.000 56.000, 36.500 56.000, 36.500 55.833, 37.000 55.833, 37.000 56.000))",
+  "dcat_bbox": "ENVELOPE(37.000,36.500,56.000,55.833)",
   "dcat_centroid": "55.9165,36.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001583\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001583\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mp48sd55j\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tq57q252j/manifest\"}",
   "id": "VAC9619-001583",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001583",
     "G7000 s50 .S68 sheet N-37-2-A-Б"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

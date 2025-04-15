@@ -31,9 +31,9 @@
     "Kazakhstan--Turbat",
     "Kazakhstan"
   ],
-  "locn_geometry": "POLYGON((70 42, 69.5 42, 69.5 41.6667, 70 41.6667, 70 42))",
-  "dcat_bbox": "ENVELOPE(70,69.5,42,41.6667)",
-  "dcat_centroid": "41.833349999999996,69.75",
+  "locn_geometry": "POLYGON((70.000 42.000, 69.500 42.000, 69.500 41.667, 70.000 41.667, 70.000 42.000))",
+  "dcat_bbox": "ENVELOPE(70.000,69.500,42.000,41.667)",
+  "dcat_centroid": "41.8335,69.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,12 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000917\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000917\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/xg94hq166\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vt151t615/manifest\"}",
   "id": "VAC9619-000917",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000917",
     "G7000 s100 .S7 sheet K-42-80"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Indiana showing points of interest and state highways",
   "dct_description_sm": [
-    "Map furnished by Indiana State Highway Commission.' 'Information on hotels, trains and accommodations in state parks compiled by Chas. Sauers'--Map panel. Includes text and index to points of interest on verso. Scale approximately 1:963,000 R.F. Pickens."
+    "\"Map furnished by Indiana State Highway Commission.\" \"Information on hotels, trains and accommodations in state parks compiled by Chas. Sauers\"--Map panel. Includes text and index to points of interest on verso.",
+    "Imprint: [Indianapolis] : Dept. of Conservation, State of Indiana, 1923.",
+    "Scale: 1:963,000; Dimensions: 49 x 30 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Sauers, Chas. G. (Charles G.)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Conservation"
+    "Indiana. Department of Conservation"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +24,8 @@
     "Road maps",
     "Tourist maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1923"
@@ -50,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00760\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00760\"}",
+  "gbl_wxsIdentifier_s": "n583zx760",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00760\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/n583zx760/manifest\"}",
   "id": "VAC3073-M-00760",
   "dct_identifier_sm": [
-    "VAC3073-M-00760"
+    "VAC3073-M-00760",
+    "G4091 .E653 1923 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

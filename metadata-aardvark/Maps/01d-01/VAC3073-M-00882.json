@@ -1,20 +1,26 @@
 {
-  "dct_title_s": "A map of Bloomington & Monroe County, Indiana: including Ellettsville & Indiana University",
+  "dct_title_s": "Map of Bloomington & Monroe County, Indiana : including Ellettsville & Indiana University",
   "dct_description_sm": [
-    "Includes text, indexes, advertisement, and 10 indexed ancillary subdivision maps. Scales differ. Spectrum; presented by Bank One and Greater Bloomington Chamber of Commerce."
+    "Includes text, indexes, advertisement, and 10 indexed ancillary subdivision maps.",
+    "Imprint: Cincinnati, Ohio : Spectrum Map Pub., [1989?]",
+    "Scale: Scales differ.; Dimensions: 53 x 46 cm or smaller, sheet 70 x 57 cm",
+    "Coordinates: W0864108 W0861902 N0392120 N0385926"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Spectrum Map Publishing, Inc."
+  ],
   "dct_publisher_sm": [
-    "Spectrum Map Pub"
+    "Spectrum Map Publishing, Inc."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Indiana University, Bloomington"
   ],
   "dct_temporal_sm": [
     "1989"
@@ -43,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00882\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00882\"}",
+  "gbl_wxsIdentifier_s": "mc87qt22s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00882\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/mc87qt22s/manifest\"}",
   "id": "VAC3073-M-00882",
   "dct_identifier_sm": [
-    "VAC3073-M-00882"
+    "VAC3073-M-00882",
+    "G4094.B5 1989 .S6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

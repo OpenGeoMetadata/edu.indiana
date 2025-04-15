@@ -37,8 +37,8 @@
     "Ukraine--Velyka Vyska",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((32 48.667, 31.75 48.667, 31.75 48.5, 32 48.5, 32 48.667))",
-  "dcat_bbox": "ENVELOPE(32,31.75,48.667,48.5)",
+  "locn_geometry": "POLYGON((32.000 48.667, 31.750 48.667, 31.750 48.500, 32.000 48.500, 32.000 48.667))",
+  "dcat_bbox": "ENVELOPE(32.000,31.750,48.667,48.500)",
   "dcat_centroid": "48.5835,31.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001125\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001125\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/fn106z79v\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5q47t005h/manifest\"}",
   "id": "VAC9619-001125",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001125",
     "G7000 s50 .S68 sheet М-36-124-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

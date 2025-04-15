@@ -37,8 +37,8 @@
     "Russia--Mayevo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((30 56.667, 29.5 56.667, 29.5 56.333, 30 56.333, 30 56.667))",
-  "dcat_bbox": "ENVELOPE(30,29.5,56.667,56.333)",
+  "locn_geometry": "POLYGON((30.000 56.667, 29.500 56.667, 29.500 56.333, 30.000 56.333, 30.000 56.667))",
+  "dcat_bbox": "ENVELOPE(30.000,29.500,56.667,56.333)",
   "dcat_centroid": "56.5,29.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003213\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003213\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8p58pd70w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tb09kh810/manifest\"}",
   "id": "VAC9619-003213",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003213",
     "G7000 s100 .S7 sheet O-35-132"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

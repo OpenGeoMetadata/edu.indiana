@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Base map of Monroe County, Indiana",
   "dct_description_sm": [
-    "Blue line map. 'May 1, 1951, revised January 1, 1968.' Shows township and range numbers, section boundaries without numbers, State and National Forest boundaries, and city and town boundaries. Scale approximately 1:63,360. 1 inch to 1 mile.; Polyconic projection Compiled by W.H. Moran and A.J. Heisterkamp; Indiana Department of Conservation, Geological Survey."
+    "Blue line map.  \"May 1, 1951, revised January 1, 1968.\" Shows township and range numbers, section boundaries without numbers, State and National Forest boundaries, and city and town boundaries.",
+    "Imprint: [Bloomington, Ind.?] : The Survey, 1968.",
+    "Dimensions: 67 x 53 cm; Scale: 1:63,360",
+    "Coordinates: W0864100 W0861900 N0392100 N0390000"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,10 +23,6 @@
   "gbl_resourceType_sm": [
     "Outline maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1968"
   ],
@@ -38,8 +37,8 @@
     "Indiana",
     "Indiana--Monroe County"
   ],
-  "locn_geometry": "POLYGON((-86.68 39.35, -86.31 39.35, -86.31 39, -86.68 39, -86.68 39.35))",
-  "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,39)",
+  "locn_geometry": "POLYGON((-86.680 39.350, -86.310 39.350, -86.310 39.000, -86.680 39.000, -86.680 39.350))",
+  "dcat_bbox": "ENVELOPE(-86.680,-86.310,39.350,39.000)",
   "dcat_centroid": "39.175,-86.495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -49,11 +48,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00999\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00999\"}",
+  "gbl_wxsIdentifier_s": "p2677z42x",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00999\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/p2677z42x/manifest\"}",
   "id": "VAC3073-M-00999",
   "dct_identifier_sm": [
-    "VAC3073-M-00999"
+    "VAC3073-M-00999",
+    "G4093.M7A1 1968 .M67"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

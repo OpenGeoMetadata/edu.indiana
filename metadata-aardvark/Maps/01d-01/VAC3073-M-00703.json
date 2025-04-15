@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "General highway and transportation map, Madison County, Indiana",
+  "dct_title_s": "General highway and transportation map of Madison County, Indiana",
   "dct_description_sm": [
-    "Blueline. 'State roads revised to January 1, 1949.' '1937.' 'Data obtained from State-wide Highway Planning Survey.' Includes location map and chart of 'Culture in unincorporated places.' '48.' Scale 1:130,000. Not '1 inch =1 mile.'; Polyconic projection Prepared by the State Highway Commission of Indiana in cooperation with the U.S. Department of Agriculture, Bureau Public Roads."
+    "Blueline. \"State roads revised to January 1, 1949.\" \"1937.\" \"Data obtained from State-wide Highway Planning Survey.\" Includes location map and chart of \"Culture in unincorporated places.\" \"48.\"",
+    "Imprint: [Indianapolis?] : State Highway Commission of Indiana, 1949.",
+    "Scale: 1:130,000; Dimensions: 52 x 44 cm",
+    "Coordinates: W0855200 W0853500 N0402300 N0395700"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "dct_publisher_sm": [
     "State Highway Commission of Indiana"
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00703\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00703\"}",
+  "gbl_wxsIdentifier_s": "2227ns614",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00703\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2227ns614/manifest\"}",
   "id": "VAC3073-M-00703",
   "dct_identifier_sm": [
-    "VAC3073-M-00703"
+    "VAC3073-M-00703",
+    "G4093.M2 P2 1949 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Colton's Indiana",
   "dct_description_sm": [
-    "Prime meridian: Washington. Detached from an atlas, no. 41. Verso: The state of Michigan [text]. Scale approximately 1:1,300,000."
+    "Prime meridian: Washington. Detached from an atlas, no. 41. Verso: The state of Michigan [text]",
+    "Imprint: New York : J.H. Colton, [186-?]",
+    "Scale: 1:1,300,000; Dimensions: 36 x 29 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,17 +13,11 @@
     "Colton, J. H. (Joseph Hutchins), 1800-1893"
   ],
   "dct_publisher_sm": [
-    "J.H. Colton"
+    "J.H. Colton & Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1860"
@@ -36,9 +33,9 @@
     "Indiana",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-88.09776 41.760592, -84.784579 41.760592, -84.784579 37.771742, -88.09776 37.771742, -88.09776 41.760592))",
-  "dcat_bbox": "ENVELOPE(-88.09776,-84.784579,41.760592,37.771742)",
-  "dcat_centroid": "39.766167,-86.4411695",
+  "locn_geometry": "POLYGON((-88.098 41.761, -84.785 41.761, -84.785 37.772, -88.098 37.772, -88.098 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.098,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.44149999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00803\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00803\"}",
+  "gbl_wxsIdentifier_s": "b8516s01m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00803\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/b8516s01m/manifest\"}",
   "id": "VAC3073-M-00803",
   "dct_identifier_sm": [
-    "VAC3073-M-00803"
+    "VAC3073-M-00803",
+    "G4090 1860 .C65"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

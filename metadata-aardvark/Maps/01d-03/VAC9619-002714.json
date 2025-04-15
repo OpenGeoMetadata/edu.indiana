@@ -34,8 +34,8 @@
     "Czech Republic--Valašské Meziříčí",
     "Czech Republic"
   ],
-  "locn_geometry": "POLYGON((18 49.667, 17.5 49.667, 17.5 49.333, 18 49.333, 18 49.667))",
-  "dcat_bbox": "ENVELOPE(18,17.5,49.667,49.333)",
+  "locn_geometry": "POLYGON((18.000 49.667, 17.500 49.667, 17.500 49.333, 18.000 49.333, 18.000 49.667))",
+  "dcat_bbox": "ENVELOPE(18.000,17.500,49.667,49.333)",
   "dcat_centroid": "49.5,17.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002714\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002714\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/12579t05j\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rv0445143/manifest\"}",
   "id": "VAC9619-002714",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002714",
     "G7000 s100 .S7 sheet M-33-96"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,8 +37,8 @@
     "Russia--Vetmitsa",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((34 54, 33.75 54, 33.75 53.833, 34 53.833, 34 54))",
-  "dcat_bbox": "ENVELOPE(34,33.75,54,53.833)",
+  "locn_geometry": "POLYGON((34.000 54.000, 33.750 54.000, 33.750 53.833, 34.000 53.833, 34.000 54.000))",
+  "dcat_bbox": "ENVELOPE(34.000,33.750,54.000,53.833)",
   "dcat_centroid": "53.9165,33.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001417\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001417\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/5m60qs69b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x059dj63b/manifest\"}",
   "id": "VAC9619-001417",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001417",
     "GM G7000 S50 .S68 N-36-80-Б"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

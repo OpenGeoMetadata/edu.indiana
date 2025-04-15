@@ -34,9 +34,9 @@
     "Ukraine--Shyroke",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((30.5 46, 30 46, 30 45.6667, 30.5 45.6667, 30.5 46))",
-  "dcat_bbox": "ENVELOPE(30.5,30,46,45.6667)",
-  "dcat_centroid": "45.833349999999996,30.25",
+  "locn_geometry": "POLYGON((30.500 46.000, 30.000 46.000, 30.000 45.667, 30.500 45.667, 30.500 46.000))",
+  "dcat_bbox": "ENVELOPE(30.500,30.000,46.000,45.667)",
+  "dcat_centroid": "45.8335,30.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001925\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001925\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1831ck73z\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qj72qj99d/manifest\"}",
   "id": "VAC9619-001925",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001925",
     "G7000 s100 .S7 sheet L-36-73"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

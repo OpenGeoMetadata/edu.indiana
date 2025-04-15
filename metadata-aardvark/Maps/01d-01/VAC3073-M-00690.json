@@ -1,20 +1,23 @@
 {
-  "dct_title_s": "Map of Evansville Indiana and environs",
+  "dct_title_s": "Map of Evansville, Indiana and environs.",
   "dct_description_sm": [
-    "Includes street index. Shows address range on each block. Scale approximately 1:17,000. By E.E. Brownell Engineering Co."
+    "Includes street index. Shows address range on each block.",
+    "Imprint: Philadelphia, Pa. : E.E. Brownell Engineering Co., [1945]",
+    "Scale: 1:17,000; Dimensions: 47 x 73 cm",
+    "Coordinates: W0873815 W0872700 N0380324 N0375608"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "E.E. Brownell Engineering Co."
+  ],
   "dct_publisher_sm": [
-    "E.E. Brownell Engineering Company"
+    "E.E. Brownell Engineering Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1945"
@@ -41,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00690\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00690\"}",
+  "gbl_wxsIdentifier_s": "v118sg83r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00690\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/v118sg83r/manifest\"}",
   "id": "VAC3073-M-00690",
   "dct_identifier_sm": [
-    "VAC3073-M-00690"
+    "VAC3073-M-00690",
+    "G4094 .E9 1945 .E34"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:12:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

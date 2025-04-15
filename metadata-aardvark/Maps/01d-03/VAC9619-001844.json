@@ -37,9 +37,9 @@
     "Ukraine--Komyshuvakha",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((36 48, 35.5 48, 35.5 47.6667, 36 47.6667, 36 48))",
-  "dcat_bbox": "ENVELOPE(36,35.5,48,47.6667)",
-  "dcat_centroid": "47.833349999999996,35.75",
+  "locn_geometry": "POLYGON((36.000 48.000, 35.500 48.000, 35.500 47.667, 36.000 47.667, 36.000 48.000))",
+  "dcat_bbox": "ENVELOPE(36.000,35.500,48.000,47.667)",
+  "dcat_centroid": "47.8335,35.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001844\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001844\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/wp988k67k\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/ff366h81t/manifest\"}",
   "id": "VAC9619-001844",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001844",
     "G7000 s100 .S7 sheet L-36-12"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

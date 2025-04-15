@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Road map of Monroe County, Indiana: adopted January 20, 1966",
+  "dct_title_s": "Road map of Monroe County, Indiana [cartographic material] : adopted January 20, 1966",
   "dct_description_sm": [
-    "Blue line print. Includes text and indexes. Scale approximately 1:34,000. Map prepared by C.J. Klooz, Columbus Reproduction & Supply Co."
+    "Blue line print. Includes text and indexes.",
+    "Imprint: [Place of publication not identified] : [publisher not identified], [1966]",
+    "Dimensions: 123 x 100 cm; Scale: 1:34,000",
+    "Coordinates: W0864108 W0861902 N0392120 N0385926"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Klooz, C. J."
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1966"
@@ -44,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00906\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00906\"}",
+  "gbl_wxsIdentifier_s": "df65wb19w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00906\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/df65wb19w/manifest\"}",
   "id": "VAC3073-M-00906",
   "dct_identifier_sm": [
-    "VAC3073-M-00906"
+    "VAC3073-M-00906",
+    "G4093.M7P2 1966 .K66"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

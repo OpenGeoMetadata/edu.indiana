@@ -37,8 +37,8 @@
     "Ukraine--Katerynopil",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((31 49, 30.75 49, 30.75 48.833, 31 48.833, 31 49))",
-  "dcat_bbox": "ENVELOPE(31,30.75,49,48.833)",
+  "locn_geometry": "POLYGON((31.000 49.000, 30.750 49.000, 30.750 48.833, 31.000 48.833, 31.000 49.000))",
+  "dcat_bbox": "ENVELOPE(31.000,30.750,49.000,48.833)",
   "dcat_centroid": "48.9165,30.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001087\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001087\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/kp78gg95n\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/db78vp48j/manifest\"}",
   "id": "VAC9619-001087",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001087",
     "G7000 s50 .S68 М-36-110-Б"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

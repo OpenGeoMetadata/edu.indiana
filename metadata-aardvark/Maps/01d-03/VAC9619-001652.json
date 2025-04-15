@@ -34,9 +34,9 @@
     "Romania--Făgăraș",
     "Romania"
   ],
-  "locn_geometry": "POLYGON((25 46, 24.5 46, 24.5 45.6667, 25 45.6667, 25 46))",
-  "dcat_bbox": "ENVELOPE(25,24.5,46,45.6667)",
-  "dcat_centroid": "45.833349999999996,24.75",
+  "locn_geometry": "POLYGON((25.000 46.000, 24.500 46.000, 24.500 45.667, 25.000 45.667, 25.000 46.000))",
+  "dcat_bbox": "ENVELOPE(25.000,24.500,46.000,45.667)",
+  "dcat_centroid": "45.8335,24.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001652\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001652\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/sj1392681\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/jm216060m/manifest\"}",
   "id": "VAC9619-001652",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001652",
     "G7000 s100 .S7 sheet L-35-74"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

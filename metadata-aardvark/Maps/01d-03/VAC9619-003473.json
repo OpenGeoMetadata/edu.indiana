@@ -34,8 +34,8 @@
     "Russia--Ramen'ye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((34.25 56.5, 34 56.5, 34 56.333, 34.25 56.333, 34.25 56.5))",
-  "dcat_bbox": "ENVELOPE(34.25,34,56.5,56.333)",
+  "locn_geometry": "POLYGON((34.250 56.500, 34.000 56.500, 34.000 56.333, 34.250 56.333, 34.250 56.500))",
+  "dcat_bbox": "ENVELOPE(34.250,34.000,56.500,56.333)",
   "dcat_centroid": "56.4165,34.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003473\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003473\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/zs25x937m\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pg15cs844/manifest\"}",
   "id": "VAC9619-003473",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003473",
     "G7000 s50 .S68 sheet O-36-129-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

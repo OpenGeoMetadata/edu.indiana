@@ -37,9 +37,9 @@
     "Poland--Swory",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((23 52.1667, 22.75 52.1667, 22.75 52, 23 52, 23 52.1667))",
-  "dcat_bbox": "ENVELOPE(23,22.75,52.1667,52)",
-  "dcat_centroid": "52.083349999999996,22.875",
+  "locn_geometry": "POLYGON((23.000 52.167, 22.750 52.167, 22.750 52.000, 23.000 52.000, 23.000 52.167))",
+  "dcat_bbox": "ENVELOPE(23.000,22.750,52.167,52.000)",
+  "dcat_centroid": "52.0835,22.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000385\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000385\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/7m01bm33m\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x059df658/manifest\"}",
   "id": "VAC9619-000385",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000385",
     "G7000 s50 .S68 sheet N-34-142-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

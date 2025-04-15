@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Locations of clay and shale operations in Indiana",
   "dct_description_sm": [
-    "Includes generalized columnar section, 'Sectionized township,' and index of producers of clay and clay products. 'Base modified from U.S. Geological Survey, Base map of Indiana; 1950.' Scale 1:1,000,000. Compiled by Wiliam M. Webb, March 1967."
+    "Includes generalized columnar section, \"Sectionized township,\" and index of producers of clay and clay products. \"Base modified from U.S. Geological Survey, Base map of Indiana, 1950.\"",
+    "Imprint: [Bloomington] : Indiana Geological Survey, 1968.",
+    "Dimensions: 51 x 64 cm; Scale: 1:1,000,000",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Webb, William M."
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,10 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Shale",
+    "Clay industries",
+    "Clay"
   ],
   "dct_temporal_sm": [
     "1968"
@@ -48,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00832\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00832\"}",
+  "gbl_wxsIdentifier_s": "g158cm90z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00832\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/g158cm90z/manifest\"}",
   "id": "VAC3073-M-00832",
   "dct_identifier_sm": [
-    "VAC3073-M-00832"
+    "VAC3073-M-00832",
+    "G4091.M2 1968 .W42"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

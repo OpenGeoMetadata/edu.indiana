@@ -37,9 +37,9 @@
     "Ukraine--Oleksandrivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((31 46.3333, 30.5 46.3333, 30.5 46, 31 46, 31 46.3333))",
-  "dcat_bbox": "ENVELOPE(31,30.5,46.3333,46)",
-  "dcat_centroid": "46.166650000000004,30.75",
+  "locn_geometry": "POLYGON((31.000 46.333, 30.500 46.333, 30.500 46.000, 31.000 46.000, 31.000 46.333))",
+  "dcat_bbox": "ENVELOPE(31.000,30.500,46.333,46.000)",
+  "dcat_centroid": "46.1665,30.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001916\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001916\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/9019s3253\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zs25zm07x/manifest\"}",
   "id": "VAC9619-001916",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001916",
     "G7000 s100 .S7 sheet L-36-62"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

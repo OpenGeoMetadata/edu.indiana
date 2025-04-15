@@ -37,8 +37,8 @@
     "Ukraine--Yurove",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((28 51.667, 27.5 51.667, 27.5 51.333, 28 51.333, 28 51.667))",
-  "dcat_bbox": "ENVELOPE(28,27.5,51.667,51.333)",
+  "locn_geometry": "POLYGON((28.000 51.667, 27.500 51.667, 27.500 51.333, 28.000 51.333, 28.000 51.667))",
+  "dcat_bbox": "ENVELOPE(28.000,27.500,51.667,51.333)",
   "dcat_centroid": "51.5,27.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003052\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003052\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/v405sb13x\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hq37x0083/manifest\"}",
   "id": "VAC9619-003052",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003052",
     "G7000 s100 .S7 sheet M-35-20"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

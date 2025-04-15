@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "Road map--Lake Co., Indiana",
+  "dct_title_s": "Road Map--Lake Co., Ind.",
   "dct_description_sm": [
-    "Blueprint. Scale approximately 1:130,000. By F. Knight & Sons."
+    "Blueprint.",
+    "Imprint: Crown Point, Ind. : F. Knight & Sons, 1904.",
+    "Scale: 1:130,000; Dimensions: on sheet 52 x 26 cm",
+    "Coordinates: W0873136 W0871307 N0414539 N0410943"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "F.L. Knight & Sons"
   ],
   "dct_publisher_sm": [
     "F.L. Knight & Sons"
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -33,9 +39,9 @@
     "Indiana--Lake County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.5101 41.7501, -87.21 41.7501, -87.21 41.1501, -87.5101 41.1501, -87.5101 41.7501))",
-  "dcat_bbox": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
-  "dcat_centroid": "41.450100000000006,-87.36005",
+  "locn_geometry": "POLYGON((-87.510 41.750, -87.210 41.750, -87.210 41.150, -87.510 41.150, -87.510 41.750))",
+  "dcat_bbox": "ENVELOPE(-87.510,-87.210,41.750,41.150)",
+  "dcat_centroid": "41.45,-87.36",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00717\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00717\"}",
+  "gbl_wxsIdentifier_s": "xk81kq23n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00717\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/xk81kq23n/manifest\"}",
   "id": "VAC3073-M-00717",
   "dct_identifier_sm": [
-    "VAC3073-M-00717"
+    "VAC3073-M-00717",
+    "G4093.L3 P2 1904 .F575"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

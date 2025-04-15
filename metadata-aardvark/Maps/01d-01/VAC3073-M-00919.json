@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of Lake County Indiana: for schools and offices: scale one half inch to the mile",
+  "dct_title_s": "Map of Lake County Indiana for Schools and Offices",
   "dct_description_sm": [
-    "Blue line. Scale 1:126,720. 1/2 inch to the mile. By T.H. Ball."
+    "Blue line.",
+    "Imprint: Crown Point, Ind. : T. H. Ball, [1890]",
+    "Dimensions: 57 x 40 cm; Scale: 1:126,720",
+    "Coordinates: W0873136 W0871307 N0414539 N0410943"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,15 +13,11 @@
     "Ball, T. H. (Timothy Horton), 1826-1913"
   ],
   "dct_publisher_sm": [
-    "T.H. Ball"
+    "Ball, T. H. (Timothy Horton), 1826-1913"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1890"
@@ -34,9 +33,9 @@
     "Indiana--Lake County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.5101 41.7501, -87.21 41.7501, -87.21 41.1501, -87.5101 41.1501, -87.5101 41.7501))",
-  "dcat_bbox": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
-  "dcat_centroid": "41.450100000000006,-87.36005",
+  "locn_geometry": "POLYGON((-87.510 41.750, -87.210 41.750, -87.210 41.150, -87.510 41.150, -87.510 41.750))",
+  "dcat_bbox": "ENVELOPE(-87.510,-87.210,41.750,41.150)",
+  "dcat_centroid": "41.45,-87.36",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00919\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00919\"}",
+  "gbl_wxsIdentifier_s": "x920h1465",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00919\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x920h1465/manifest\"}",
   "id": "VAC3073-M-00919",
   "dct_identifier_sm": [
-    "VAC3073-M-00919"
+    "VAC3073-M-00919",
+    "G4093.L3 1890 .B355"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

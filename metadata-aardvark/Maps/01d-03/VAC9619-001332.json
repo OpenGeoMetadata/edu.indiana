@@ -37,9 +37,9 @@
     "Belarus--Gorodets",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((31.5 54.5, 31.25 54.5, 31.25 54.3333, 31.5 54.3333, 31.5 54.5))",
-  "dcat_bbox": "ENVELOPE(31.5,31.25,54.5,54.3333)",
-  "dcat_centroid": "54.416650000000004,31.375",
+  "locn_geometry": "POLYGON((31.500 54.500, 31.250 54.500, 31.250 54.333, 31.500 54.333, 31.500 54.500))",
+  "dcat_bbox": "ENVELOPE(31.500,31.250,54.500,54.333)",
+  "dcat_centroid": "54.4165,31.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001332\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001332\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/6d56zx46d\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8c97n1550/manifest\"}",
   "id": "VAC9619-001332",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001332",
     "GM G7000 S50 .S68 N-36-51-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

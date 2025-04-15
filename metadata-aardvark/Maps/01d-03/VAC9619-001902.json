@@ -37,9 +37,9 @@
     "Belarus--Chavusy",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((31 54, 30.5 54, 30.5 53.6667, 31 53.6667, 31 54))",
-  "dcat_bbox": "ENVELOPE(31,30.5,54,53.6667)",
-  "dcat_centroid": "53.833349999999996,30.75",
+  "locn_geometry": "POLYGON((31.000 54.000, 30.500 54.000, 30.500 53.667, 31.000 53.667, 31.000 54.000))",
+  "dcat_bbox": "ENVELOPE(31.000,30.500,54.000,53.667)",
+  "dcat_centroid": "53.8335,30.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001902\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001902\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/k930bx897\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cz30r2986/manifest\"}",
   "id": "VAC9619-001902",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001902",
     "G7000 s100 .S7 sheet N-36-74"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

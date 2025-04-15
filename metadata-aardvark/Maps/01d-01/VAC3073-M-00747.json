@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of the state of Indiana compiled from the United States surveys",
+  "dct_title_s": "Map of the State of Indiana compiled from the United States Surveys: exhibiting the sections and fractional sections, the situation and boundaries of counties, the location of cities, villages & post offices, canals, rail-roads, and other internal improve",
   "dct_description_sm": [
-    "Insets: Michigan City--La Fayette--Logansport & West Logan--Terre Haute--Indianapolis--New Albany, Jeffersonville, Louisville and the Falls of Ohio--Evansville and Lamasco City--Lawrenceburgh--Madison. Inset scales vary. Prime meridian: Washington D.C. Scale 1:316,800. By S.D. King; exhibiting the sections & fractional sections, the situation and boundaries of counties, the location of cities, villages & post offices, canals, rail-roads and other internal improvements."
+    "Insets: Michigan City--LaFayette--Logansport & West Logan--Terre Haute--Indianapolis--New Albany, Jeffersonville, Louisville and the Falls of Ohio--Evansville and Lamasco City--Lawrenceburgh--Madison. Inset scales vary. Prime meridian: Washington D.C.",
+    "Imprint: New York : J.H. Colton, 1838.",
+    "Scale: 1:316,800; Dimensions: 158 x 118 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,15 +14,11 @@
     "King, S. D."
   ],
   "dct_publisher_sm": [
-    "J.H. Colton"
+    "J.H. Colton & Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1838"
@@ -52,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00747\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00747\"}",
+  "gbl_wxsIdentifier_s": "hh63v002f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00747\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hh63v002f/manifest\"}",
   "id": "VAC3073-M-00747",
   "dct_identifier_sm": [
-    "VAC3073-M-00747"
+    "VAC3073-M-00747",
+    "G4090 1838 .K5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

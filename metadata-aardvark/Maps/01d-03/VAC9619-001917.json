@@ -37,9 +37,9 @@
     "Ukraine--Svobodnyy Port",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((32 46.3333, 31.5 46.3333, 31.5 46, 32 46, 32 46.3333))",
-  "dcat_bbox": "ENVELOPE(32,31.5,46.3333,46)",
-  "dcat_centroid": "46.166650000000004,31.75",
+  "locn_geometry": "POLYGON((32.000 46.333, 31.500 46.333, 31.500 46.000, 32.000 46.000, 32.000 46.333))",
+  "dcat_bbox": "ENVELOPE(32.000,31.500,46.333,46.000)",
+  "dcat_centroid": "46.1665,31.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001917\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001917\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/5h73px05r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zk51wr22v/manifest\"}",
   "id": "VAC9619-001917",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001917",
     "G7000 s100 .S7 sheet L-36-64"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,8 +34,8 @@
     "Kazakhstan--Shet District",
     "Kazakhstan"
   ],
-  "locn_geometry": "POLYGON((74 47, 73.5 47, 73.5 46.667, 74 46.667, 74 47))",
-  "dcat_bbox": "ENVELOPE(74,73.5,47,46.667)",
+  "locn_geometry": "POLYGON((74.000 47.000, 73.500 47.000, 73.500 46.667, 74.000 46.667, 74.000 47.000))",
+  "dcat_bbox": "ENVELOPE(74.000,73.500,47.000,46.667)",
   "dcat_centroid": "46.8335,73.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002540\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002540\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/6w924c58k\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/c534h0162/manifest\"}",
   "id": "VAC9619-002540",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002540",
     "G7000 s100 .S7 sheet L-43-40"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

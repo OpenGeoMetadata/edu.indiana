@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Industrial Terre Haute",
   "dct_description_sm": [
-    "Includes text, steam and electric interurban railroads, roads, electric power plants, distances to major cities, and 5 mi. distance circles to 25 mi. Scale approximately 1:65,000. By Wm. Robert Paige."
+    "Includes text, steam and electric interurban railroads, roads, electric power plants, distances to major cities, and 5 mi. distance circles to 25 mi.",
+    "Imprint: [Terre Haute] : Wm. Robert Paige, [1927]",
+    "Dimensions: 28 x 22 cm; Scale: 1:65,000",
+    "Coordinates: W0872810 W0871636 N0393142 N0392405"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Paige, Wm. Robert"
   ],
   "dct_publisher_sm": [
-    "Wm. Robert Paige"
+    "Paige, Wm. Robert"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,11 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Industries"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -39,9 +38,9 @@
   "dct_spatial_sm": [
     "Indiana--Terre Haute"
   ],
-  "locn_geometry": "POLYGON((-87.46 39.5101, -87.2601 39.5101, -87.2601 39.4, -87.46 39.4, -87.46 39.5101))",
-  "dcat_bbox": "ENVELOPE(-87.46,-87.2601,39.5101,39.4)",
-  "dcat_centroid": "39.45505,-87.36005",
+  "locn_geometry": "POLYGON((-87.460 39.510, -87.260 39.510, -87.260 39.400, -87.460 39.400, -87.460 39.510))",
+  "dcat_bbox": "ENVELOPE(-87.460,-87.260,39.510,39.400)",
+  "dcat_centroid": "39.455,-87.36",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00914\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00914\"}",
+  "gbl_wxsIdentifier_s": "tm70nx689",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00914\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tm70nx689/manifest\"}",
   "id": "VAC3073-M-00914",
   "dct_identifier_sm": [
-    "VAC3073-M-00914"
+    "VAC3073-M-00914",
+    "G4094.T4M1 1927 .P35"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

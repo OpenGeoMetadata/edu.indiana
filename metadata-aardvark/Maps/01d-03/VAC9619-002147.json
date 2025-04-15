@@ -37,8 +37,8 @@
     "Russia--Moshenskoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((35 58.6667, 34.5 58.6667, 34.5 58.3333, 35 58.3333, 35 58.6667))",
-  "dcat_bbox": "ENVELOPE(35,34.5,58.6667,58.3333)",
+  "locn_geometry": "POLYGON((35.000 58.667, 34.500 58.667, 34.500 58.333, 35.000 58.333, 35.000 58.667))",
+  "dcat_bbox": "ENVELOPE(35.000,34.500,58.667,58.333)",
   "dcat_centroid": "58.5,34.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002147\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002147\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8k71nh893\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/z029qf673/manifest\"}",
   "id": "VAC9619-002147",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002147",
     "G7000 s100 .S7 sheet O-36-58"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

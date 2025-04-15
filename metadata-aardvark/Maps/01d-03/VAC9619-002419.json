@@ -37,8 +37,8 @@
     "Russia--Ozero Ozhma",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((30.5 64, 30 64, 30 63.667, 30.5 63.667, 30.5 64))",
-  "dcat_bbox": "ENVELOPE(30.5,30,64,63.667)",
+  "locn_geometry": "POLYGON((30.500 64.000, 30.000 64.000, 30.000 63.667, 30.500 63.667, 30.500 64.000))",
+  "dcat_bbox": "ENVELOPE(30.500,30.000,64.000,63.667)",
   "dcat_centroid": "63.8335,30.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002419\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002419\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8336h2709\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4q77h267n/manifest\"}",
   "id": "VAC9619-002419",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002419",
     "G7000 s100 .S7 sheet P-36-1"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

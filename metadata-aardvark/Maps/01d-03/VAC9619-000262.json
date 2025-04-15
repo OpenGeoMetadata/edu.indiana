@@ -34,9 +34,9 @@
     "Lithuania--Šilutė",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((21.5 55.5, 21.25 55.5, 21.25 55.3333, 21.5 55.3333, 21.5 55.5))",
-  "dcat_bbox": "ENVELOPE(21.5,21.25,55.5,55.3333)",
-  "dcat_centroid": "55.416650000000004,21.375",
+  "locn_geometry": "POLYGON((21.500 55.500, 21.250 55.500, 21.250 55.333, 21.500 55.333, 21.500 55.500))",
+  "dcat_bbox": "ENVELOPE(21.500,21.250,55.500,55.333)",
+  "dcat_centroid": "55.4165,21.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000262\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000262\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mp48sd49d\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cf95kk10k/manifest\"}",
   "id": "VAC9619-000262",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000262",
     "G7000 s50 .S68 N-34-19-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

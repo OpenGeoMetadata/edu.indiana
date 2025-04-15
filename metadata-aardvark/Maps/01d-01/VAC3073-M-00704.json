@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of southwestern Indiana showing locations of active coal mines",
+  "dct_title_s": "Map of Southwestern Indiana showing locations of active coal mines",
   "dct_description_sm": [
-    "Blue line print. 'Base modified from Indiana Department of Conservation, Geological Survey. Base map of portion of western Indiana, 1951.' Includes 'Outline map of Indiana showing location of map area', 'Township diagram', and index of 'Active coal mines in Indiana (as of February 1, 1975).' Scale approximately 1:325,000. Compiled by Harold C. Hutchison."
+    "Blue line print. \"Base modified from Indiana Department of Conservation, Geological Survey, Base map of portion of western Indiana, 1951.\" Includes \"Outline map of Indiana showing location of map area\", \"Township diagram\", and index of \"Active coal mines in Indiana (as of February 1, 1975).\"",
+    "Imprint: [Bloomington, Ind.] : Indiana Dept. of Conservation, Geological Survey, [1975]",
+    "Scale: 1:325,000; Dimensions: 88 x 54 cm",
+    "Coordinates: W0872723 W0862628 N0403749 N0374618"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Coal mines and mining"
   ],
   "dct_temporal_sm": [
     "1975"
@@ -36,9 +38,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.45 40.6101, -86.43 40.6101, -86.43 37.76, -87.45 37.76, -87.45 40.6101))",
-  "dcat_bbox": "ENVELOPE(-87.45,-86.43,40.6101,37.76)",
-  "dcat_centroid": "39.185050000000004,-86.94",
+  "locn_geometry": "POLYGON((-87.450 40.610, -86.430 40.610, -86.430 37.760, -87.450 37.760, -87.450 40.610))",
+  "dcat_bbox": "ENVELOPE(-87.450,-86.430,40.610,37.760)",
+  "dcat_centroid": "39.185,-86.94",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00704\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00704\"}",
+  "gbl_wxsIdentifier_s": "8w32s842s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00704\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8w32s842s/manifest\"}",
   "id": "VAC3073-M-00704",
   "dct_identifier_sm": [
-    "VAC3073-M-00704"
+    "VAC3073-M-00704",
+    "G4091 .H9 1975 .H8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

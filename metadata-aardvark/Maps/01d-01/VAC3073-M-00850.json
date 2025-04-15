@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of southwestern Indiana showing areas underground mined for coal",
+  "dct_title_s": "Map of Southwestern Indiana showing areas underground mined for coal",
   "dct_description_sm": [
-    "Blue line print. Includes location map. Scale approximately 1:350,000. Compiled by Licia A. Weber, January 1986."
+    "Blue line print. Includes location map.",
+    "Imprint: [Bloomington, IN]: Indiana, Geological Survey, [1986]",
+    "Dimensions: 93 x 44 cm; Scale: 1:350,000",
+    "Coordinates: W0880500 W0861800 N0404200 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Weber, Licia"
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Coal mines and mining"
   ],
   "dct_temporal_sm": [
     "1986"
@@ -47,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00850\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00850\"}",
+  "gbl_wxsIdentifier_s": "3n2052393",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00850\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/3n2052393/manifest\"}",
   "id": "VAC3073-M-00850",
   "dct_identifier_sm": [
-    "VAC3073-M-00850"
+    "VAC3073-M-00850",
+    "G4091.H9 1986 .W4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

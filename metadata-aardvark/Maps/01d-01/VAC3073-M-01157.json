@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil map, Indiana, Vermillion County sheet",
+  "dct_title_s": "Soil map Indiana Vermillion County sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of Vermillion County / H.N. Coryell. In 38th Annual report of Department of Geology and Natural Resources, Indiana. Scale 1:84,480. 1 mile = 3/4 in. H.N. Coryell."
+    "Detached from: Soil survey and Vermillion County / H.N. Coryell. In Indiana Department of Geology and Natural Resources thirty-eighth annual report ... 1913. Indianapolis : Wm. B. Burford, 1914. Page 70.",
+    "Imprint: [Indianapolis] : State of Indiana, Department of Geology, [1914]  [Indianapolis] : [Wm. B. Burford], [1914]",
+    "Scale: Approximately 1:84,480; Dimensions: 73 x 21 cm",
+    "Coordinates: W0873159 W0872113 N0400854 N0393626"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,8 +13,7 @@
     "Coryell, Horace Noble,1888-1965"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -38,9 +39,9 @@
     "Indiana--Vermillion County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.5101 40.1301, -87.35 40.1301, -87.35 39.6, -87.5101 39.6, -87.5101 40.1301))",
-  "dcat_bbox": "ENVELOPE(-87.5101,-87.35,40.1301,39.6)",
-  "dcat_centroid": "39.86505,-87.43005",
+  "locn_geometry": "POLYGON((-87.510 40.130, -87.350 40.130, -87.350 39.600, -87.510 39.600, -87.510 40.130))",
+  "dcat_bbox": "ENVELOPE(-87.510,-87.350,40.130,39.600)",
+  "dcat_centroid": "39.865,-87.43",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01157\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01157\"}",
+  "gbl_wxsIdentifier_s": "t722jd639",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01157\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/t722jd639/manifest\"}",
   "id": "VAC3073-M-01157",
   "dct_identifier_sm": [
-    "VAC3073-M-01157"
+    "VAC3073-M-01157",
+    "G4093.V4J3 1913 .C6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

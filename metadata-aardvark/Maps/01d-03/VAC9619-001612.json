@@ -34,9 +34,9 @@
     "Romania--Adjud",
     "Romania"
   ],
-  "locn_geometry": "POLYGON((27.5 46.3333, 27 46.3333, 27 46, 27.5 46, 27.5 46.3333))",
-  "dcat_bbox": "ENVELOPE(27.5,27,46.3333,46)",
-  "dcat_centroid": "46.166650000000004,27.25",
+  "locn_geometry": "POLYGON((27.500 46.333, 27.000 46.333, 27.000 46.000, 27.500 46.000, 27.500 46.333))",
+  "dcat_bbox": "ENVELOPE(27.500,27.000,46.333,46.000)",
+  "dcat_centroid": "46.1665,27.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001612\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001612\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8w32r630d\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/xs55np63d/manifest\"}",
   "id": "VAC9619-001612",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001612",
     "G7000 s100 .S7 sheet L-35-67"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "See Indiana",
   "dct_description_sm": [
-    "Pictorial map. Includes lists of 'Places to visit' and 'Places to see.' Text and photographs on verso. Scale not given. Drawn by George Jo Mess."
+    "Pictorial map. Includes lists of \"Places to visit\" and \"Places to see.\" Text and photographs on verso.",
+    "Imprint: Indiana Dept. of Conservation: Indiana Historical Bureau, [1948?]; Imprint: Indianapolis : Dept. of Commerce and Public Relations",
+    "Scale: Scale not given.; Dimensions: 56 x 44 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Mess, George Joseph, 1898-1962"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Commerce and Public Relations, Indiana Department of Conservation, Indiana Historical Bureau"
+    "Indiana. Department of Commerce, Agriculture, Industry, and Public Relations"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,10 +22,6 @@
   "gbl_resourceType_sm": [
     "Tourist maps",
     "Pictorial maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1948"
@@ -49,11 +48,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00820\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00820\"}",
+  "gbl_wxsIdentifier_s": "b27750019",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00820\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/b27750019/manifest\"}",
   "id": "VAC3073-M-00820",
   "dct_identifier_sm": [
-    "VAC3073-M-00820"
+    "VAC3073-M-00820",
+    "G4091 .E635 1948 .M47"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

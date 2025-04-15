@@ -37,9 +37,9 @@
     "Russia--Maksatikha",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((36 58, 35.5 58, 35.5 57.6667, 36 57.6667, 36 58))",
-  "dcat_bbox": "ENVELOPE(36,35.5,58,57.6667)",
-  "dcat_centroid": "57.833349999999996,35.75",
+  "locn_geometry": "POLYGON((36.000 58.000, 35.500 58.000, 35.500 57.667, 36.000 57.667, 36.000 58.000))",
+  "dcat_bbox": "ENVELOPE(36.000,35.500,58.000,57.667)",
+  "dcat_centroid": "57.8335,35.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002184\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002184\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/h702q7302\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/6h442379b/manifest\"}",
   "id": "VAC9619-002184",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002184",
     "G7000 s100 .S7 sheet О-36-84"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

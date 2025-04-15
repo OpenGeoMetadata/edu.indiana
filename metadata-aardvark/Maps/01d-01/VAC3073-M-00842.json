@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil map, Indiana, Posey Co sheet",
+  "dct_title_s": "Soil map, Indiana, Posey Co. sheet",
   "dct_description_sm": [
-    "Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1902.' 'Julius Bien & Co. Lith. N.Y.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils; soils surveyed by Herbert W. Marean."
+    "Shows soil types classification by colors and symbols. \"Field Operations, Bureau of Soils, 1902.\" \"Julius Bien & Co., Lith. N.Y.\"",
+    "Imprint: [Washington, D.C.?] : The Bureau, [1902]",
+    "Dimensions: 80 x 52 cm; Scale: 1:63,360",
+    "Coordinates: W0880600 W0874100 N0381400 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Marean, Herbert W."
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils",
+    "Classification"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -48,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00842\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00842\"}",
+  "gbl_wxsIdentifier_s": "rr173165w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00842\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rr173165w/manifest\"}",
   "id": "VAC3073-M-00842",
   "dct_identifier_sm": [
-    "VAC3073-M-00842"
+    "VAC3073-M-00842",
+    "G4093 .P6J3 1902 .M37"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

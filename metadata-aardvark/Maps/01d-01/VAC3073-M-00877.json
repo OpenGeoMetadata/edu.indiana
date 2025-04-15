@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "A map of Indiana showing its history, points of interest, and the holdings of the Indiana Dept. of Conservation",
+  "dct_title_s": "Map of Indiana showing its history, points of interest, and the holdings of the Dept of Conservation",
   "dct_description_sm": [
-    "Pictorial map. Cited in LC's Trails bibliography, no. 111. Scale 1:600,000. Lee Carter, cartographer, 1932."
+    "Pictorial map. Cited LC's Trails bibliography, no. 111.",
+    "Imprint: [Indianapolis] : Indiana Dept. of Conservation, [1954]",
+    "Dimensions: 86 x 61 cm; Scale: 1:600,000",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Carter, Lee (Cartographer)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Conservation"
+    "Indiana. Department of Conservation"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Pictorial maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "History"
   ],
   "dct_temporal_sm": [
     "1954"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00877\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00877\"}",
+  "gbl_wxsIdentifier_s": "7h14bt07j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00877\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/7h14bt07j/manifest\"}",
   "id": "VAC3073-M-00877",
   "dct_identifier_sm": [
-    "VAC3073-M-00877"
+    "VAC3073-M-00877",
+    "G4091 .S1 1954 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

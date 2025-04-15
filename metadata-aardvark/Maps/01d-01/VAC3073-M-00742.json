@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Gary and Vicinity",
+  "dct_title_s": "Gary and vicinity",
   "dct_description_sm": [
-    "Drawn by A.P. Melton, City Engr., Gary, Jan. 07.' Shows the area from Chicago Harbor east to Michigan City, Indiana and south to Crown Point, Indiana. Scale approximately 1:170,000."
+    "Drawn by A. P. Melton, City Engr. Gary Jan '07.  Shows the area from Chicago Harbor east to Michigan City, Indiana and south to Crown Point, Indiana.",
+    "Imprint: [Hammond, Ind.?] : [A.F. Knotts?], [1907]",
+    "Dimensions: 33 x 40 cm; Scale: 1:170,000",
+    "Coordinates: W0874044 W0865058 N0415336 N0412348"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,15 +13,11 @@
     "Melton, A. P."
   ],
   "dct_publisher_sm": [
-    "A.F. Knotts"
+    "[A.F. Knotts?]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -33,9 +32,9 @@
   "dct_spatial_sm": [
     "Indiana--Gary"
   ],
-  "locn_geometry": "POLYGON((-87.6601 41.8801, -86.8301 41.8801, -86.8301 41.3801, -87.6601 41.3801, -87.6601 41.8801))",
-  "dcat_bbox": "ENVELOPE(-87.6601,-86.8301,41.8801,41.3801)",
-  "dcat_centroid": "41.6301,-87.24510000000001",
+  "locn_geometry": "POLYGON((-87.660 41.880, -86.830 41.880, -86.830 41.380, -87.660 41.380, -87.660 41.880))",
+  "dcat_bbox": "ENVELOPE(-87.660,-86.830,41.880,41.380)",
+  "dcat_centroid": "41.63,-87.245",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +43,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00742\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00742\"}",
+  "gbl_wxsIdentifier_s": "6m312r739",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00742\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/6m312r739/manifest\"}",
   "id": "VAC3073-M-00742",
   "dct_identifier_sm": [
-    "VAC3073-M-00742"
+    "VAC3073-M-00742",
+    "G4094.G2 1907 .M45"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

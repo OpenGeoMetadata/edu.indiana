@@ -34,8 +34,8 @@
     "Czech Republic--Broumov",
     "Czech Republic"
   ],
-  "locn_geometry": "POLYGON((16.5 50.6667, 16 50.6667, 16 50.3333, 16.5 50.3333, 16.5 50.6667))",
-  "dcat_bbox": "ENVELOPE(16.5,16,50.6667,50.3333)",
+  "locn_geometry": "POLYGON((16.500 50.667, 16.000 50.667, 16.000 50.333, 16.500 50.333, 16.500 50.667))",
+  "dcat_bbox": "ENVELOPE(16.500,16.000,50.667,50.333)",
   "dcat_centroid": "50.5,16.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002673\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002673\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8w32r6362\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5m60s2550/manifest\"}",
   "id": "VAC9619-002673",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002673",
     "G7000 s100 .S7 sheet M-33-57"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

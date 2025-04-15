@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of Grant County, Indiana",
+  "dct_title_s": "Map of Grant County, Ind.",
   "dct_description_sm": [
-    "Cadastral map showing landowners. 'F. W. White, draftsman.' Scale 1:31,680. 2 inches = 1 mile. Compiled and made from records and surveys and published by Ansel R. Smith."
+    "Cadastral map showing landowners. \"F.W. White, draftsman.\"",
+    "Imprint: Marion, Ind. : Ansel R. Smith, 1906.",
+    "Dimensions: 105 x 115 cm; Scale: 1:31,680",
+    "Coordinates: W0855153 W0852639 N0403913 N0402242"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "White, Frank W., C.E."
   ],
   "dct_publisher_sm": [
-    "Ansel R. Smith"
+    "Smith, Ansel R."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Real property",
+    "Landowners"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -38,9 +41,9 @@
     "Indiana",
     "Indiana--Grant County"
   ],
-  "locn_geometry": "POLYGON((-85.8501 40.65, -85.4301 40.65, -85.4301 40.3601, -85.8501 40.3601, -85.8501 40.65))",
-  "dcat_bbox": "ENVELOPE(-85.8501,-85.4301,40.65,40.3601)",
-  "dcat_centroid": "40.50505,-85.64009999999999",
+  "locn_geometry": "POLYGON((-85.850 40.650, -85.430 40.650, -85.430 40.360, -85.850 40.360, -85.850 40.650))",
+  "dcat_bbox": "ENVELOPE(-85.850,-85.430,40.650,40.360)",
+  "dcat_centroid": "40.504999999999995,-85.64",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00872\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00872\"}",
+  "gbl_wxsIdentifier_s": "1831dp85j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00872\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1831dp85j/manifest\"}",
   "id": "VAC3073-M-00872",
   "dct_identifier_sm": [
-    "VAC3073-M-00872"
+    "VAC3073-M-00872",
+    "G4093.G6G46 1906 .S65"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

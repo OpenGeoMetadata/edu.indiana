@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Monroe County soil map.",
+  "dct_title_s": "Monroe County soil map",
   "dct_description_sm": [
-    "Shows dirt roads, improved roads, railroads, school houses, and churches. Detached from: Soil survey of Monroe, Brown, Lawrence, Martin, Orange, Washington, and Jackson counties / C.W. Shannon and L.C. Snider. In 32nd Annual report of the Indiana Department of Geology and Natural Resources. Scale approximately 1:63,360"
+    "Shows roads, earth and improved, railroads, school houses, and churches.    Detached from: Soil survey of Monroe, Brown, Lawrence, Martin, Orange, Washington, and Jackson counties / C.W. Shannon and L.C. Snider. In Indiana Department of Geology and Natural Resources thirty-second annual report ... 1907. Indianapolis : Wm. B. Burford, 1908.",
+    "Imprint: [Indianapolis] : [Indiana Department of Geology and Natural Resources], [1908]",
+    "Dimensions: 66 x 52 cm; Scale: Approximately 1:63,360",
+    "Coordinates: W0864108 W0861902 N0392120 N0385926"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,8 +14,7 @@
     "Snider, Luther C. (Luther Crocker),1882-1947"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -22,11 +24,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -53,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01241\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01241\"}",
+  "gbl_wxsIdentifier_s": "w3764b41n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01241\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/w3764b41n/manifest\"}",
   "id": "VAC3073-M-01241",
   "dct_identifier_sm": [
-    "VAC3073-M-01241"
+    "VAC3073-M-01241",
+    "G4093.M7J3 1907 .S5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

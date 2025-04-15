@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Clark County [Indiana] land use map: preliminary",
+  "dct_title_s": "Clark County [Indiana] land use map",
   "dct_description_sm": [
-    "Includes chart showing type of land use, acreage, and recommended use. Scale not given. Prepared by Clark County Land Use Planning Committee."
+    "Includes chart showing type of land use, acreage, and recommended use.",
+    "Imprint: [Jeffersonville, Ind.?] : The Committee, [1940?]",
+    "Scale: Scale not given.; Dimensions: 26 x 19 cm, on sheet 39 x 28 cm",
+    "Coordinates: W0855940 W0852455 N0383624 N0381601"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Clark County (Ind.). Land Use Planning Committee"
+  ],
   "dct_publisher_sm": [
-    "The Committee"
+    "Clark County (Ind.). Land Use Planning Committee"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,9 +24,6 @@
   ],
   "dct_subject_sm": [
     "Land use"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -36,9 +39,9 @@
     "Indiana",
     "Indiana--Clark County"
   ],
-  "locn_geometry": "POLYGON((-85.9801 38.6, -85.4001 38.6, -85.4001 38.26, -85.9801 38.26, -85.9801 38.6))",
-  "dcat_bbox": "ENVELOPE(-85.9801,-85.4001,38.6,38.26)",
-  "dcat_centroid": "38.43,-85.6901",
+  "locn_geometry": "POLYGON((-85.980 38.600, -85.400 38.600, -85.400 38.260, -85.980 38.260, -85.980 38.600))",
+  "dcat_bbox": "ENVELOPE(-85.980,-85.400,38.600,38.260)",
+  "dcat_centroid": "38.43,-85.69",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00765\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00765\"}",
+  "gbl_wxsIdentifier_s": "gx41nn224",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00765\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gx41nn224/manifest\"}",
   "id": "VAC3073-M-00765",
   "dct_identifier_sm": [
-    "VAC3073-M-00765"
+    "VAC3073-M-00765",
+    "G4093.C4G4 1940 C53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

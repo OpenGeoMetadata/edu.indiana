@@ -37,8 +37,8 @@
     "Russia--Prigorod Kor’yala",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((29 60.833, 28.75 60.833, 28.75 60.667, 29 60.667, 29 60.833))",
-  "dcat_bbox": "ENVELOPE(29,28.75,60.833,60.667)",
+  "locn_geometry": "POLYGON((29.000 60.833, 28.750 60.833, 28.750 60.667, 29.000 60.667, 29.000 60.833))",
+  "dcat_bbox": "ENVELOPE(29.000,28.750,60.833,60.667)",
   "dcat_centroid": "60.75,28.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002982\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002982\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/gq67js06p\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/0z70b744w/manifest\"}",
   "id": "VAC9619-002982",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002982",
     "GM G7000 s50 .S68 sheet P-35-118-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

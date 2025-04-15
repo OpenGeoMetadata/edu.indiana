@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, Tipton County sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of Tipton County, Indiana / Lewis A. Hurst and E.J. Grimes. In 37th Annual report of Department of Geology and Natural Resouces, Indiana. Scale approximately 1:63,360 U.S. Dept. of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by Lewis H. Hurst of the U.S. Department of Agriculture and E.J. Grimes of the Indiana Department of Geology."
+    "Detached from: Soil survey of Tipton County, Indiana / Lewis A. Hurst and E.J. Grimes. In Thirty-seventh annual report of Department of Geology and Natural Resources, Indiana ... 1912. Indianapolis : Wm. B. Burford, 1913. Page 38.",
+    "Imprint: [Indianapolis] : State of Indiana, Department of Geology, [1913]  [Indianapolis] : [Wm. B. Burford], [1913]",
+    "Dimensions: 33 x 51 cm; Scale: Approixmately 1:63,360",
+    "Coordinates: W0860411 W0860109 N0401751 N0401602"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,8 +14,7 @@
     "Hurst, Lewis A.(Lewis Alexander), 1874-cartographer."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +23,10 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geology",
+    "Soils",
+    "Mines and mineral resources"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -39,9 +42,9 @@
     "Indiana",
     "Indiana--Tipton County"
   ],
-  "locn_geometry": "POLYGON((-86.06 40.2801, -86.01 40.2801, -86.01 40.26, -86.06 40.26, -86.06 40.2801))",
-  "dcat_bbox": "ENVELOPE(-86.06,-86.01,40.2801,40.26)",
-  "dcat_centroid": "40.27005,-86.035",
+  "locn_geometry": "POLYGON((-86.060 40.280, -86.010 40.280, -86.010 40.260, -86.060 40.260, -86.060 40.280))",
+  "dcat_bbox": "ENVELOPE(-86.060,-86.010,40.280,40.260)",
+  "dcat_centroid": "40.269999999999996,-86.035",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01154\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01154\"}",
+  "gbl_wxsIdentifier_s": "tx31rn367",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01154\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tx31rn367/manifest\"}",
   "id": "VAC3073-M-01154",
   "dct_identifier_sm": [
-    "VAC3073-M-01154"
+    "VAC3073-M-01154",
+    "G4093.T5J3 1912 .H88"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

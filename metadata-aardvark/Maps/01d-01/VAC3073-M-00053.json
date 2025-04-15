@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Indiana",
   "dct_description_sm": [
-    "Shows bank towns, county boundaries, and railroads. Prime meridians: Greenwich and Washington. Includes index to counties. On verso: explanation of bank towns including index to railroads and express companies and advertisement for the Capital National Bank. Scale approximately 1:1,500,000 By J.W. White."
+    "Shows bank towns, county boundaries, and railroads. Prime meridians: Greenwich and Washington. Includes index to counties. On verso: explanation of bank towns including index to railroads and express companies and advertisement for the Capital National Bank.",
+    "Imprint: [Place of publication not identified] : J.W. White, [1899]",
+    "Scale: 1:1,500,000; Dimensions: 32 x 25 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,19 +13,11 @@
     "White, J. W. (Cartographer)"
   ],
   "dct_publisher_sm": [
-    "J.W. White"
+    "White, J. W. (Cartographer)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "County boundaries",
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -49,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00053\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00053\"}",
+  "gbl_wxsIdentifier_s": "9w033620r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00053\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9w033620r/manifest\"}",
   "id": "VAC3073-M-00053",
   "dct_identifier_sm": [
-    "VAC3073-M-00053"
+    "VAC3073-M-00053",
+    "G4090 1899 .W485"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

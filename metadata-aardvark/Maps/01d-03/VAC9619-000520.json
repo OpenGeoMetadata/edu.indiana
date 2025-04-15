@@ -37,9 +37,9 @@
     "Lithuania--Rumšiškės",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((24.25 55, 24 55, 24 54.8333, 24.25 54.8333, 24.25 55))",
-  "dcat_bbox": "ENVELOPE(24.25,24,55,54.8333)",
-  "dcat_centroid": "54.916650000000004,24.125",
+  "locn_geometry": "POLYGON((24.250 55.000, 24.000 55.000, 24.000 54.833, 24.250 54.833, 24.250 55.000))",
+  "dcat_bbox": "ENVELOPE(24.250,24.000,55.000,54.833)",
+  "dcat_centroid": "54.9165,24.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000520\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000520\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/kd17ct53c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gq67m029k/manifest\"}",
   "id": "VAC9619-000520",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000520",
     "G7000 s50 .S68 sheet N-35-37-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

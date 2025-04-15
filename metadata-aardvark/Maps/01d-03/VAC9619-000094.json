@@ -37,9 +37,9 @@
     "Azerbaijan--Xıllı",
     "Azerbaijan"
   ],
-  "locn_geometry": "POLYGON((49.25 39.5, 49 39.5, 49 39.3333, 49.25 39.3333, 49.25 39.5))",
-  "dcat_bbox": "ENVELOPE(49.25,49,39.5,39.3333)",
-  "dcat_centroid": "39.416650000000004,49.125",
+  "locn_geometry": "POLYGON((49.250 39.500, 49.000 39.500, 49.000 39.333, 49.250 39.333, 49.250 39.500))",
+  "dcat_bbox": "ENVELOPE(49.250,49.000,39.500,39.333)",
+  "dcat_centroid": "39.4165,49.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000094\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000094\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/f1881m64w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/0p097g16m/manifest\"}",
   "id": "VAC9619-000094",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000094",
     "G7000 s50 .S68 sheet J-39-15-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

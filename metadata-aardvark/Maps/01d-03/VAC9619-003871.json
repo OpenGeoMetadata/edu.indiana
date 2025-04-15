@@ -34,8 +34,8 @@
     "Poland--Drawsko Pomorskie",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((16 53.667, 15.5 53.667, 15.5 53.333, 16 53.333, 16 53.667))",
-  "dcat_bbox": "ENVELOPE(16,15.5,53.667,53.333)",
+  "locn_geometry": "POLYGON((16.000 53.667, 15.500 53.667, 15.500 53.333, 16.000 53.333, 16.000 53.667))",
+  "dcat_bbox": "ENVELOPE(16.000,15.500,53.667,53.333)",
   "dcat_centroid": "53.5,15.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003871\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003871\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/z029p565q\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pk02dp48h/manifest\"}",
   "id": "VAC9619-003871",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003871",
     "G7000 s100 .S7 sheet N-33-92"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

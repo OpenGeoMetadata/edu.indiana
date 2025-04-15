@@ -37,8 +37,8 @@
     "Russia--Staraya Kuzema",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((34.5 65.667, 34 65.667, 34 65.333, 34.5 65.333, 34.5 65.667))",
-  "dcat_bbox": "ENVELOPE(34.5,34,65.667,65.333)",
+  "locn_geometry": "POLYGON((34.500 65.667, 34.000 65.667, 34.000 65.333, 34.500 65.333, 34.500 65.667))",
+  "dcat_bbox": "ENVELOPE(34.500,34.000,65.667,65.333)",
   "dcat_centroid": "65.5,34.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002616\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002616\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/vd66w052c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1r66kc27m/manifest\"}",
   "id": "VAC9619-002616",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002616",
     "G7000 s100 .S7 sheet Q-36-93"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

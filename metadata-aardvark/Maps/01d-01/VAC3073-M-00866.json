@@ -1,23 +1,23 @@
 {
-  "dct_title_s": "Rand, McNally & Co's sectional map of Indiana",
+  "dct_title_s": "Rand, McNally & Co's Sectional map of Indiana",
   "dct_description_sm": [
-    "Shows county boundaries, sections, railroads, and cities and towns. Scale 1:508,880. 8 miles to 1 inch. Rand, McNally & Co."
+    "Shows county boundaries, sections, railroads, and cities and towns.",
+    "Imprint: Chicago : Rand, McNally, [1908]",
+    "Scale: 1:508,880; Dimensions: 95 x 61 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Rand McNally and Company"
+  ],
   "dct_publisher_sm": [
-    "Rand McNally"
+    "Rand McNally and Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -44,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00866\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00866\"}",
+  "gbl_wxsIdentifier_s": "sn00c164r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00866\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sn00c164r/manifest\"}",
   "id": "VAC3073-M-00866",
   "dct_identifier_sm": [
-    "VAC3073-M-00866"
+    "VAC3073-M-00866",
+    "G4090 1908 .R363"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

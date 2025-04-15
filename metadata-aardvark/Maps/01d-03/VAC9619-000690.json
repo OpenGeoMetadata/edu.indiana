@@ -37,9 +37,9 @@
     "Ukraine--Maryanske",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((34 47.6667, 33.75 47.6667, 33.75 47.5, 34 47.5, 34 47.6667))",
-  "dcat_bbox": "ENVELOPE(34,33.75,47.6667,47.5)",
-  "dcat_centroid": "47.583349999999996,33.875",
+  "locn_geometry": "POLYGON((34.000 47.667, 33.750 47.667, 33.750 47.500, 34.000 47.500, 34.000 47.667))",
+  "dcat_bbox": "ENVELOPE(34.000,33.750,47.667,47.500)",
+  "dcat_centroid": "47.5835,33.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000690\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000690\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/2j62s5576\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8910m379w/manifest\"}",
   "id": "VAC9619-000690",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000690",
     "G7000 s50 .S68 sheet L-36-20-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

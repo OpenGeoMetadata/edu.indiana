@@ -37,9 +37,9 @@
     "Ukraine--Novomoskovsk",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((35.5 48.6667, 35.25 48.6667, 35.25 48.5, 35.5 48.5, 35.5 48.6667))",
-  "dcat_bbox": "ENVELOPE(35.5,35.25,48.6667,48.5)",
-  "dcat_centroid": "48.583349999999996,35.375",
+  "locn_geometry": "POLYGON((35.500 48.667, 35.250 48.667, 35.250 48.500, 35.500 48.500, 35.500 48.667))",
+  "dcat_bbox": "ENVELOPE(35.500,35.250,48.667,48.500)",
+  "dcat_centroid": "48.5835,35.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001155\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001155\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/d504rm16q\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/08613z75p/manifest\"}",
   "id": "VAC9619-001155",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001155",
     "GM G7000 s50 .S68 M-36-131-Б"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

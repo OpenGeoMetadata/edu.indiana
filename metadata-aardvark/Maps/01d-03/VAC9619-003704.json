@@ -34,8 +34,8 @@
     "Russia--Krasnoznamensk",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((22.5 55, 22.375 55, 22.375 54.913, 22.5 54.913, 22.5 55))",
-  "dcat_bbox": "ENVELOPE(22.5,22.375,55,54.913)",
+  "locn_geometry": "POLYGON((22.500 55.000, 22.375 55.000, 22.375 54.913, 22.500 54.913, 22.500 55.000))",
+  "dcat_bbox": "ENVELOPE(22.500,22.375,55.000,54.913)",
   "dcat_centroid": "54.9565,22.4375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003704\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003704\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/j9602148h\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vt151v981/manifest\"}",
   "id": "VAC9619-003704",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003704",
     "G7063.K2 s25 .S6 sheet N-34-45-B-b"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

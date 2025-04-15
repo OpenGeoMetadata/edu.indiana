@@ -34,8 +34,8 @@
     "Estonia--Haapsalu",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((23.75 59, 23.5 59, 23.5 58.833, 23.75 58.833, 23.75 59))",
-  "dcat_bbox": "ENVELOPE(23.75,23.5,59,58.833)",
+  "locn_geometry": "POLYGON((23.750 59.000, 23.500 59.000, 23.500 58.833, 23.750 58.833, 23.750 59.000))",
+  "dcat_bbox": "ENVELOPE(23.750,23.500,59.000,58.833)",
   "dcat_centroid": "58.9165,23.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001687\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001687\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/h989r4102\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sn00c739n/manifest\"}",
   "id": "VAC9619-001687",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001687",
     "G7000 s50 .S68 sheet O-34-48-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

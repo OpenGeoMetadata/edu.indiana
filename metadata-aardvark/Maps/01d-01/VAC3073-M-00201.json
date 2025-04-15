@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Glacial geology.",
+  "dct_title_s": "Glacial geology",
   "dct_description_sm": [
-    "Shows outwash (lake and river sediments), end moraines, drift and un-glaciated bedrock Also shows Illinoian glacial boundary and Kansas glacial boundary. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 16. Scale approximately 2,000,000"
+    "Shows outwash (lake and river sediments), end moraines, drift and un-glaciated bedrock. Also shows Illinoian glacial boundary and Kansas glacial boundary.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 16.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:2,000,000; Dimensions: 26 x 18 cm, on sheet 28 x 21 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,10 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Glacial landforms",
+    "Geology",
+    "Drift"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -51,11 +55,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00201\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00201\"}",
+  "gbl_wxsIdentifier_s": "gb19g919h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00201\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gb19g919h/manifest\"}",
   "id": "VAC3073-M-00201",
   "dct_identifier_sm": [
-    "VAC3073-M-00201"
+    "VAC3073-M-00201",
+    "G4091.C5 1970 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,13 +1,19 @@
 {
   "dct_title_s": "City guide street map of beautiful, romantic, historic Vincennes, Indiana",
   "dct_description_sm": [
-    "Includes index. North oriented toward upper right. Text and ill. on verso. Scale not given. Provided through the courtesy of the Vincennes Chamber of Commerce."
+    "North oriented toward upper right. Text and ill. on verso.",
+    "Imprint: Vincennes, Ind. : Vincent Print, Co., [1955?]",
+    "Scale: Scale not given.; Dimensions: 41 x 54 cm",
+    "Coordinates: W0873257 W0872807 N0384335 N0383840"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Vincennes Chamber of Commerce"
+  ],
   "dct_publisher_sm": [
-    "Vincent Print. Company"
+    "Vincent Print, Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -15,9 +21,6 @@
   ],
   "gbl_resourceType_sm": [
     "Pictorial maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1955"
@@ -33,9 +36,9 @@
     "Indiana",
     "Indiana--Vincennes"
   ],
-  "locn_geometry": "POLYGON((-87.5301 38.71, -87.46 38.71, -87.46 38.6301, -87.5301 38.6301, -87.5301 38.71))",
-  "dcat_bbox": "ENVELOPE(-87.5301,-87.46,38.71,38.6301)",
-  "dcat_centroid": "38.67005,-87.49504999999999",
+  "locn_geometry": "POLYGON((-87.530 38.710, -87.460 38.710, -87.460 38.630, -87.530 38.630, -87.530 38.710))",
+  "dcat_bbox": "ENVELOPE(-87.530,-87.460,38.710,38.630)",
+  "dcat_centroid": "38.67,-87.495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01244\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01244\"}",
+  "gbl_wxsIdentifier_s": "ff366988h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01244\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/ff366988h/manifest\"}",
   "id": "VAC3073-M-01244",
   "dct_identifier_sm": [
-    "VAC3073-M-01244"
+    "VAC3073-M-01244",
+    "G4094.V5 1955 .V5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,9 +34,9 @@
     "Russia--Tominskiy",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((61.25 55, 61 55, 61 54.8667, 61.25 54.8667, 61.25 55))",
-  "dcat_bbox": "ENVELOPE(61.25,61,55,54.8667)",
-  "dcat_centroid": "54.933350000000004,61.125",
+  "locn_geometry": "POLYGON((61.250 55.000, 61.000 55.000, 61.000 54.867, 61.250 54.867, 61.250 55.000))",
+  "dcat_bbox": "ENVELOPE(61.250,61.000,55.000,54.867)",
+  "dcat_centroid": "54.933499999999995,61.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001667\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001667\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/n296wz83k\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fq9796067/manifest\"}",
   "id": "VAC9619-001667",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001667",
     "G7000 s50 .S68 sheet N-41-39-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

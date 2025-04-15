@@ -34,8 +34,8 @@
     "Latvia--Apšuciems",
     "Latvia"
   ],
-  "locn_geometry": "POLYGON((23.5 57.167, 23.25 57.167, 23.25 57, 23.5 57, 23.5 57.167))",
-  "dcat_bbox": "ENVELOPE(23.5,23.25,57.167,57)",
+  "locn_geometry": "POLYGON((23.500 57.167, 23.250 57.167, 23.250 57.000, 23.500 57.000, 23.500 57.167))",
+  "dcat_bbox": "ENVELOPE(23.500,23.250,57.167,57.000)",
   "dcat_centroid": "57.0835,23.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001728\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001728\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/jd472x116\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sq87d4882/manifest\"}",
   "id": "VAC9619-001728",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001728",
     "G7000 s50 .S68 sheet O-34-107-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, Boone County sheet",
   "dct_description_sm": [
-    "Shows soil types classification by colors and symbols. 'Field Operations Bureau of Soils 1912.' 'A. Hoen & Co. Lith. Baltimore, Md.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by W.E. Tharp, of the U.S. Department of Agriculture and E.J. Quinn of the Indiana Department of Geology."
+    "Shows soil types classification by colors and symbols. \"Field Operations Bureau of Soils 1912.\" \"A. Hoen & Co. Lith. Baltimore, Md.\"",
+    "Imprint: [Washington, D.C.?] : The Bureau, [1912?]",
+    "Scale: 1:63,360; Dimensions: 47 x 63 cm",
+    "Coordinates: W0864200 W0861500 N0401100 N0395600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Tharp, W. E. (William Edgar)"
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils",
+    "Classification"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00766\"}",
+  "gbl_wxsIdentifier_s": "cj82m9600",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00766\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cj82m9600/manifest\"}",
   "id": "VAC3073-M-00766",
   "dct_identifier_sm": [
-    "VAC3073-M-00766"
+    "VAC3073-M-00766",
+    "G4093 .B6J3 1912 .T493"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }
