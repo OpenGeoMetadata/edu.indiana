@@ -37,8 +37,8 @@
     "Russia--Bol'shoye Dolzhenkovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((36 51.8333, 35.75 51.8333, 35.75 51.6667, 36 51.6667, 36 51.8333))",
-  "dcat_bbox": "ENVELOPE(36,35.75,51.8333,51.6667)",
+  "locn_geometry": "POLYGON((36.000 51.833, 35.750 51.833, 35.750 51.667, 36.000 51.667, 36.000 51.833))",
+  "dcat_bbox": "ENVELOPE(36.000,35.750,51.833,51.667)",
   "dcat_centroid": "51.75,35.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000909\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000909\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/d217qq270\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/dn39zb89k/manifest\"}",
   "id": "VAC9619-000909",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000909",
     "G7000 s50 .S68 sheet M-36-12-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

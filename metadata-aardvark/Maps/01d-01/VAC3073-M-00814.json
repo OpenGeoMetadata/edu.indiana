@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Indiana; minor civil divisions, townships.",
+  "dct_title_s": "Indiana. Minor civil divisions, townships",
   "dct_description_sm": [
-    "Geo. M-12-40.' Scale approximately 1:500,000."
+    "\"Geo. M-12-40.\"",
+    "Imprint: Washington, D.C. : U.S.G.P.O., 1940.",
+    "Dimensions: 94 x 61 cm; Scale: 1:500,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "United States. Bureau of the Census"
+  ],
   "dct_publisher_sm": [
-    "United States G.P.O."
+    "United States. Government Printing Office"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Administrative and political divisions"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00814\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00814\"}",
+  "gbl_wxsIdentifier_s": "wp989p549",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00814\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/wp989p549/manifest\"}",
   "id": "VAC3073-M-00814",
   "dct_identifier_sm": [
-    "VAC3073-M-00814"
+    "VAC3073-M-00814",
+    "G4091 .F7 1940 .U5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,8 +37,8 @@
     "Estonia--Suure-Jaani",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((25.5 58.6667, 25 58.6667, 25 58.3333, 25.5 58.3333, 25.5 58.6667))",
-  "dcat_bbox": "ENVELOPE(25.5,25,58.6667,58.3333)",
+  "locn_geometry": "POLYGON((25.500 58.667, 25.000 58.667, 25.000 58.333, 25.500 58.333, 25.500 58.667))",
+  "dcat_bbox": "ENVELOPE(25.500,25.000,58.667,58.333)",
   "dcat_centroid": "58.5,25.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002038\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002038\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/wp988k68v\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/6t054s28p/manifest\"}",
   "id": "VAC9619-002038",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002038",
     "G7000 s100 .S7 sheet O-35-51"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

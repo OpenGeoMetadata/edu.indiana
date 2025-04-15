@@ -34,8 +34,8 @@
     "Poland--Wohyń",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((23 51.833, 22.75 51.833, 22.75 51.667, 23 51.667, 23 51.833))",
-  "dcat_bbox": "ENVELOPE(23,22.75,51.833,51.667)",
+  "locn_geometry": "POLYGON((23.000 51.833, 22.750 51.833, 22.750 51.667, 23.000 51.667, 23.000 51.833))",
+  "dcat_bbox": "ENVELOPE(23.000,22.750,51.833,51.667)",
   "dcat_centroid": "51.75,22.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002633\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002633\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/cv43nx607\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sq87d5004/manifest\"}",
   "id": "VAC9619-002633",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002633",
     "GM G7000 s50 .S68 sheet M-34-10-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

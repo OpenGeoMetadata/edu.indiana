@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of Shelby & Johnson Counties, Indiana: [city plans] from actual surveys",
+  "dct_title_s": "Map of Shelby & Johnson Counties, Indiana : from actual surveys",
   "dct_description_sm": [
-    "Cadastral maps showing landowners and businesses. Includes tables of distances for Shelby Co.and Johnson Co. Scales differ. By A. Warner."
+    "Cadastral maps showing landowners and businesses.    Includes tables of distances for Shelby Co.and Johnson Co.",
+    "Imprint: Philadelphia : C.O. Titus, 1867, [1866]",
+    "Dimensions: 51 x 77 cm; Scale: Scales differ.",
+    "Coordinates: W0861020 W0853744 N0394156 N0392050"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Warner, A."
   ],
   "dct_publisher_sm": [
-    "C.O. Titus"
+    "Titus, C. O."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,10 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Cities and towns",
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1866"
@@ -36,9 +40,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.16 39.6801, -85.6101 39.6801, -85.6101 39.3301, -86.16 39.3301, -86.16 39.6801))",
-  "dcat_bbox": "ENVELOPE(-86.16,-85.6101,39.6801,39.3301)",
-  "dcat_centroid": "39.5051,-85.88505",
+  "locn_geometry": "POLYGON((-86.160 39.680, -85.610 39.680, -85.610 39.330, -86.160 39.330, -86.160 39.680))",
+  "dcat_bbox": "ENVELOPE(-86.160,-85.610,39.680,39.330)",
+  "dcat_centroid": "39.504999999999995,-85.88499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00977\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00977\"}",
+  "gbl_wxsIdentifier_s": "j0990g203",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00977\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/j0990g203/manifest\"}",
   "id": "VAC3073-M-00977",
   "dct_identifier_sm": [
-    "VAC3073-M-00977"
+    "VAC3073-M-00977",
+    "G4093.S4 G46 1866 .W3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

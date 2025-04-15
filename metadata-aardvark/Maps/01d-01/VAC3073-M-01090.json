@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Marion County sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of Marion County, Indiana / W.J. Geib and Frank C. Schroeder. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:63,360 Soils surveyed by W.J. Geib and Frank C. Schroeder, U.S. Bureau of Soils."
+    "Detached from: Soil survey of Marion County, Indiana / W.J. Geib and Frank C. Schroeder. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 456.",
+    "Imprint: [Indianapolis] : [Wm. B. Burford], [1912]; Imprint: [Indianapolis] : [Department of Geology and Natural Resources], [1912]",
+    "Scale: Approximately 1:63,360; Dimensions: 53 x 53 cm",
+    "Coordinates: W0861941 W0855614 N0395538 N0393755"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,8 +14,7 @@
     "Schroeder, Frank C."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +23,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -39,9 +40,9 @@
     "Indiana",
     "Indiana--Marion County"
   ],
-  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
-  "dcat_centroid": "39.7601,-86.12005",
+  "locn_geometry": "POLYGON((-86.310 39.910, -85.930 39.910, -85.930 39.610, -86.310 39.610, -86.310 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.930,39.910,39.610)",
+  "dcat_centroid": "39.76,-86.12",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01090\"}",
+  "gbl_wxsIdentifier_s": "t148gk55x",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01090\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/t148gk55x/manifest\"}",
   "id": "VAC3073-M-01090",
   "dct_identifier_sm": [
-    "VAC3073-M-01090"
+    "VAC3073-M-01090",
+    "G4093.M3J3 1911 .G4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,8 +34,8 @@
     "Russia--Pesochnya",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((35 53.3333, 34.75 53.3333, 34.75 53.1667, 35 53.1667, 35 53.3333))",
-  "dcat_bbox": "ENVELOPE(35,34.75,53.3333,53.1667)",
+  "locn_geometry": "POLYGON((35.000 53.333, 34.750 53.333, 34.750 53.167, 35.000 53.167, 35.000 53.333))",
+  "dcat_bbox": "ENVELOPE(35.000,34.750,53.333,53.167)",
   "dcat_centroid": "53.25,34.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001511\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001511\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/4x51hj75m\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/3r076664d/manifest\"}",
   "id": "VAC9619-001511",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001511",
     "G7000 s50 .S68 sheet N-36-106-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

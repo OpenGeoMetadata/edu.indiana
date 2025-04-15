@@ -1,7 +1,10 @@
 {
   "dct_title_s": "North end map of Porter County Indiana",
   "dct_description_sm": [
-    "Cadastral map showing landowners. 'March 1927.' Scale approximately 1:12,000. Not '1 inch = 1000 feet.' Drawn by K. Russell Anderson."
+    "Cadastral map showing landowners. \"March 1927.\"",
+    "Imprint: [Valparaiso, Ind.?] : [Wm. E. Morthland?], [1927]",
+    "Dimensions: 35 x 64 cm; Scale: 1:12,000",
+    "Coordinates: W0871322 W0865545 N0414540 N0411310"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Morthland, Wm. E."
   ],
   "dct_publisher_sm": [
-    "Wm. E. Morthland"
+    "[Wm. E. Morthland?]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -38,9 +41,9 @@
     "Indiana--Porter County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.21 41.7501, -86.9101 41.7501, -86.9101 41.21, -87.21 41.21, -87.21 41.7501))",
-  "dcat_bbox": "ENVELOPE(-87.21,-86.9101,41.7501,41.21)",
-  "dcat_centroid": "41.480050000000006,-87.06004999999999",
+  "locn_geometry": "POLYGON((-87.210 41.750, -86.910 41.750, -86.910 41.210, -87.210 41.210, -87.210 41.750))",
+  "dcat_bbox": "ENVELOPE(-87.210,-86.910,41.750,41.210)",
+  "dcat_centroid": "41.480000000000004,-87.06",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00849\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00849\"}",
+  "gbl_wxsIdentifier_s": "f4753k269",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00849\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/f4753k269/manifest\"}",
   "id": "VAC3073-M-00849",
   "dct_identifier_sm": [
-    "VAC3073-M-00849"
+    "VAC3073-M-00849",
+    "G4093.P5 G46 1927 .A53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

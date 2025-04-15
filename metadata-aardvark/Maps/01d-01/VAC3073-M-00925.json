@@ -1,10 +1,15 @@
 {
-  "dct_title_s": "Hendricks Co. Indiana",
+  "dct_title_s": "Hendricks Co. Ind.",
   "dct_description_sm": [
-    "Scale approximately 1:65,000. The Scarborough Co."
+    "Imprint: Indianapolis, Ind.: Scarborough Co., [1909]",
+    "Dimensions: 56 x 46 cm; Scale: 1:65,000",
+    "Coordinates: W0864200 W0862000 N0395600 N0393600"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Scarborough Company"
   ],
   "dct_publisher_sm": [
     "Scarborough Company"
@@ -12,9 +17,6 @@
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1909"
@@ -41,11 +43,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00925\"}",
+  "gbl_wxsIdentifier_s": "76538416p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00925\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/76538416p/manifest\"}",
   "id": "VAC3073-M-00925",
   "dct_identifier_sm": [
-    "VAC3073-M-00925"
+    "VAC3073-M-00925",
+    "G4093.H5 1909 .S23"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

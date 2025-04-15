@@ -37,9 +37,9 @@
     "Russia--Levokumskoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((45 45, 44.5 45, 44.5 44.6667, 45 44.6667, 45 45))",
-  "dcat_bbox": "ENVELOPE(45,44.5,45,44.6667)",
-  "dcat_centroid": "44.833349999999996,44.75",
+  "locn_geometry": "POLYGON((45.000 45.000, 44.500 45.000, 44.500 44.667, 45.000 44.667, 45.000 45.000))",
+  "dcat_bbox": "ENVELOPE(45.000,44.500,45.000,44.667)",
+  "dcat_centroid": "44.8335,44.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002202\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002202\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/5t34sk294\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/7s75fr02k/manifest\"}",
   "id": "VAC9619-002202",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002202",
     "G7000 s100 .S7 sheet L-38-114"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

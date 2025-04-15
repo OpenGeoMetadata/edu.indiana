@@ -37,8 +37,8 @@
     "Ukraine--Pancheve",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((32 48.833, 31.75 48.833, 31.75 48.667, 32 48.667, 32 48.833))",
-  "dcat_bbox": "ENVELOPE(32,31.75,48.833,48.667)",
+  "locn_geometry": "POLYGON((32.000 48.833, 31.750 48.833, 31.750 48.667, 32.000 48.667, 32.000 48.833))",
+  "dcat_bbox": "ENVELOPE(32.000,31.750,48.833,48.667)",
   "dcat_centroid": "48.75,31.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001089\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001089\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/gx41mj565\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/ff366h050/manifest\"}",
   "id": "VAC9619-001089",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001089",
     "G7000 s50 .S68 М-36-112-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

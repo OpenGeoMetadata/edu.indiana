@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "A new gazetteer map of Monroe County, Indiana: showing the township, range section and quarter section lines, the civil townships, the outlines of each person's tract of land, with the owner's name thereon, the streams, rail roads, state and county roads, towns, villages, post offices, public buildings, churches, school houses, mills &c. &c.",
+  "dct_title_s": "New gazetteer map of Monroe County, Indiana",
   "dct_description_sm": [
-    "Includes 'Statistics for Monroe County for 1856,' advertisements, and views of the county courthouse, Indiana University. and the home of Bloomington resident C. Hunter. Scale not given. By R.S. Davis, civil eng. and surveyor."
+    "Includes \"Statistics for Monroe County for 1856\", advertisements, and views of the county courthouse, Indiana University, and the home of Bloomington resident C. Hunter.",
+    "Imprint: [Columbus, Indiana] : Davis & Kennedy, 1856; Imprint: Louisville, Ky. : Robyn & Co. Lithog., [1856]",
+    "Scale: Scale not given.",
+    "Coordinates: W0864108 W0861902 N0392120 N0385926"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,9 +13,7 @@
     "Davis, R. S. (Surveyor)"
   ],
   "dct_publisher_sm": [
-    "Davis & Kennedy",
-    "Louisville, Kentucky",
-    "Robyn & Company Lithog"
+    "Davis & Kennedy"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Real property",
+    "Landowners"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -50,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01195\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01195\"}",
+  "gbl_wxsIdentifier_s": "76538417z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01195\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/76538417z/manifest\"}",
   "id": "VAC3073-M-01195",
   "dct_identifier_sm": [
-    "VAC3073-M-01195"
+    "VAC3073-M-01195",
+    "G4093.M7G46 1856 .D38"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

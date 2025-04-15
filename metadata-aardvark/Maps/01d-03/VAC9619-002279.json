@@ -31,9 +31,9 @@
     "Russia--Bolshoy Sundyr",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((47 56.3333, 46.5 56.3333, 46.5 56, 47 56, 47 56.3333))",
-  "dcat_bbox": "ENVELOPE(47,46.5,56.3333,56)",
-  "dcat_centroid": "56.166650000000004,46.75",
+  "locn_geometry": "POLYGON((47.000 56.333, 46.500 56.333, 46.500 56.000, 47.000 56.000, 47.000 56.333))",
+  "dcat_bbox": "ENVELOPE(47.000,46.500,56.333,56.000)",
+  "dcat_centroid": "56.1665,46.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,12 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002279\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002279\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/k643b187m\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/wd377581f/manifest\"}",
   "id": "VAC9619-002279",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002279",
     "G7000 s100 .S7 sheet O-38-142"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

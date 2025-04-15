@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Density of population per square mile by townships: [Indiana]",
+  "dct_title_s": "Density of population per square mile by townships",
   "dct_description_sm": [
-    "Blueprint. '1936.' Scale approximately 1:500,000. State Planning Board of Indiana."
+    "Blueprint. \"1936.\"",
+    "Imprint: [Indianapolis] : The Board, 1936.",
+    "Dimensions: 99 x 70 cm; Scale: 1:500,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. State Planning Board"
+  ],
   "dct_publisher_sm": [
-    "The Board"
+    "Indiana. State Planning Board"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Population density"
   ],
   "dct_temporal_sm": [
     "1936"
@@ -43,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00852\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00852\"}",
+  "gbl_wxsIdentifier_s": "cf95kf14v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00852\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cf95kf14v/manifest\"}",
   "id": "VAC3073-M-00852",
   "dct_identifier_sm": [
-    "VAC3073-M-00852"
+    "VAC3073-M-00852",
+    "G4091 .E2 1936 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

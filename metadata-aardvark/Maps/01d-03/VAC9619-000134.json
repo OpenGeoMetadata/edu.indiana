@@ -37,8 +37,8 @@
     "Ukraine--Marfivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((36.25 45.3333, 36 45.3333, 36 45.1667, 36.25 45.1667, 36.25 45.3333))",
-  "dcat_bbox": "ENVELOPE(36.25,36,45.3333,45.1667)",
+  "locn_geometry": "POLYGON((36.250 45.333, 36.000 45.333, 36.000 45.167, 36.250 45.167, 36.250 45.333))",
+  "dcat_bbox": "ENVELOPE(36.250,36.000,45.333,45.167)",
   "dcat_centroid": "45.25,36.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000134\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000134\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mc87pq89c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/q237k190f/manifest\"}",
   "id": "VAC9619-000134",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000134",
     "G7000 s50 .S68 sheet L-37-97-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

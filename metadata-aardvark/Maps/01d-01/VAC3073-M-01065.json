@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the main Trenton Rock oil field of Indiana",
   "dct_description_sm": [
-    "Shows good, fair, and light oil territory, gas territory, dry or salt water territory, and pumping stations. Detached from: 28th Annual report of the Department of Geology and Natural Resources of Indiana, 1903. 'January 1, 1904.' Scale 1:126,720. 2 miles = 1 in. By W.S. Blatchley, state geologist."
+    "\"January 1, 1904.\" Shows good, fair, and light oil territory, gas territory, dry or salt water territory, and pumping stations.    Detached from: The petroleum industry in Indiana in 1903 / by W. S. Blatchley. In Indiana Department of Geology and Natural Resources twenty-eighth annual report ... 1903. Indianapolis : Wm. B. Burford, 1904. Page 102.",
+    "Imprint: [Indianapolis] : Department of Geology and Natural Resources of Indiana,[1904]; Imprint: Indianapolis, Ind. : Wm. B. Burford, [1904]",
+    "Dimensions: 53 x 67 cm, folded to 22 x 12 cm; Scale: Approximately Scale 1:126,720. 2 miles = 1 in.",
+    "Coordinates: W0854720 W0844820 N0404500 N0400900"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,8 +13,7 @@
     "Blatchley, W. S. (Willis Stanley), 1859-1940"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Oil fields"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -48,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01065\"}",
+  "gbl_wxsIdentifier_s": "z029q7153",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01065\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/z029q7153/manifest\"}",
   "id": "VAC3073-M-01065",
   "dct_identifier_sm": [
-    "VAC3073-M-01065"
+    "VAC3073-M-01065",
+    "G4091.H8 1903 .B5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

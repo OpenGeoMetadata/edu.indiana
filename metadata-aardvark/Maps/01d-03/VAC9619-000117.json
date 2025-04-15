@@ -37,9 +37,9 @@
     "Iran--Maku",
     "Iran"
   ],
-  "locn_geometry": "POLYGON((45 39.3333, 44.5 39.3333, 44.5 39, 45 39, 45 39.3333))",
-  "dcat_bbox": "ENVELOPE(45,44.5,39.3333,39)",
-  "dcat_centroid": "39.166650000000004,44.75",
+  "locn_geometry": "POLYGON((45.000 39.333, 44.500 39.333, 44.500 39.000, 45.000 39.000, 45.000 39.333))",
+  "dcat_bbox": "ENVELOPE(45.000,44.500,39.333,39.000)",
+  "dcat_centroid": "39.1665,44.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000117\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000117\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/41687j305\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pg15cq28c/manifest\"}",
   "id": "VAC9619-000117",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000117",
     "G7000 s100 .S7 sheet J-38-30"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

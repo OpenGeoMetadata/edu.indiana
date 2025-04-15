@@ -37,8 +37,8 @@
     "Russia--Posolodino",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((29.25 58.5, 29 58.5, 29 58.333, 29.25 58.333, 29.25 58.5))",
-  "dcat_bbox": "ENVELOPE(29.25,29,58.5,58.333)",
+  "locn_geometry": "POLYGON((29.250 58.500, 29.000 58.500, 29.000 58.333, 29.250 58.333, 29.250 58.500))",
+  "dcat_bbox": "ENVELOPE(29.250,29.000,58.500,58.333)",
   "dcat_centroid": "58.4165,29.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000029\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000029\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/vt150j88r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4m90g0869/manifest\"}",
   "id": "VAC9619-000029",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000029",
     "G7000 s50 .S68 sheet O-35-59-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

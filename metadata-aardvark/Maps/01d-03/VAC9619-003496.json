@@ -37,8 +37,8 @@
     "Russia--Kostino",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((32.5 56.3333, 32.25 56.3333, 32.25 56.1667, 32.5 56.1667, 32.5 56.3333))",
-  "dcat_bbox": "ENVELOPE(32.5,32.25,56.3333,56.1667)",
+  "locn_geometry": "POLYGON((32.500 56.333, 32.250 56.333, 32.250 56.167, 32.500 56.167, 32.500 56.333))",
+  "dcat_bbox": "ENVELOPE(32.500,32.250,56.333,56.167)",
   "dcat_centroid": "56.25,32.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003496\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003496\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/zg64tm67b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/h989sf481/manifest\"}",
   "id": "VAC9619-003496",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003496",
     "G7000 s50 .S68 sheet O-36-137-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, Grant County sheet",
   "dct_description_sm": [
-    "Shows soil types classification by colors and symbols. 'Field Operations Bureau of Soils.' 'Snyder & Black, N.Y.' Scale 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils [and] State of Indiana, Department of Geology; soils surveyed by Lewis A. Hurst, W.I. Watkins, and W.E. Tharp, of the U.S. Department of Agriculture, and Earl Hertenstein and Philip Middleton, of the Indiana Department of Geology."
+    "U.S. Dept. of Agriculture, Bureau of Soils [and] State of Indiana, Department of Geology , soils surveyed by Lewis A. Hurst, W.I. Watkins, and W.E. Tharp, of the U.S. Department of Agriculture, and Earl Hertenstein and Philip Middleton, of the Indiana Department of Geology.  Shows soil types classification by colors and symbols. \"Field Operations Bureau of Soils.\" \"Snyder & Black, N.Y.\"",
+    "Imprint: [Washington, D.C.?] : Bureau of Soils, [1915]",
+    "Scale: 1:63,360. 1 inch = 1 mile; Dimensions: 48 x 57 cm",
+    "Coordinates: W0855200 W0852700 N0403900 N0402300"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +17,7 @@
     "Watkins, W. I. (William Isaac),1888-1973,surveyor."
   ],
   "dct_publisher_sm": [
-    "Bureau of Soils"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -23,9 +26,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1915"
@@ -52,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00933\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00933\"}",
+  "gbl_wxsIdentifier_s": "p8419q84q",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00933\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/p8419q84q/manifest\"}",
   "id": "VAC3073-M-00933",
   "dct_identifier_sm": [
-    "VAC3073-M-00933"
+    "VAC3073-M-00933",
+    "G4093 .G6J3 1915 .H87"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

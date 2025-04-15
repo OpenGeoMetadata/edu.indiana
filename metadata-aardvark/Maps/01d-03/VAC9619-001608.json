@@ -34,8 +34,8 @@
     "Russia--Pankovichi",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((37.25 54.3333, 37 54.3333, 37 54.1667, 37.25 54.1667, 37.25 54.3333))",
-  "dcat_bbox": "ENVELOPE(37.25,37,54.3333,54.1667)",
+  "locn_geometry": "POLYGON((37.250 54.333, 37.000 54.333, 37.000 54.167, 37.250 54.167, 37.250 54.333))",
+  "dcat_bbox": "ENVELOPE(37.250,37.000,54.333,54.167)",
   "dcat_centroid": "54.25,37.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001608\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001608\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/jw827c31x\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qn59rf97c/manifest\"}",
   "id": "VAC9619-001608",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001608",
     "G7000 s50 .S68 sheet N-37-63-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

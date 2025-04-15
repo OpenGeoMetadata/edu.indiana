@@ -37,8 +37,8 @@
     "Belarus--Dolginovo",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((27.5 54.667, 27 54.667, 27 54.333, 27.5 54.333, 27.5 54.667))",
-  "dcat_bbox": "ENVELOPE(27.5,27,54.667,54.333)",
+  "locn_geometry": "POLYGON((27.500 54.667, 27.000 54.667, 27.000 54.333, 27.500 54.333, 27.500 54.667))",
+  "dcat_bbox": "ENVELOPE(27.500,27.000,54.667,54.333)",
   "dcat_centroid": "54.5,27.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004057\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004057\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/3197xm861\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/s1785x68s/manifest\"}",
   "id": "VAC9619-004057",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004057",
     "G7000 s100 .S7 sheet N-35-55"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Greene County sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of Greene County, Indiana / W.E. Tharp and Charles J. Mann. In 36th Annual report of Department of Geology and Natural Resources, Indiana. 'U.S. Dept. of Agriculture, Bureau of Soils.' Scale approximately 1:80,000 Soils surveyed by W.E. Tharp and Charles J. Mann, 1906."
+    "Detached from: Soil survey of Greene County (1901) / by W. E. Tharp and Charles J. Mann, of the U. S. Bureau of Soils. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 416.",
+    "Imprint: [Indianapolis] : State of Indiana, Department of Geology, [1912]  [Indianapolis] : [Wm. B. Burford], [1912]",
+    "Dimensions: 35 x 52 cm; Scale: 1:80,000",
+    "Coordinates: W0871427 W0864055 N0391018 N0385408"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,8 +14,7 @@
     "Tharp, W. E. (William Edgar)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,9 +23,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -39,9 +40,9 @@
     "Indiana--Greene County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.23 39.16, -86.6601 39.16, -86.6601 38.9, -87.23 38.9, -87.23 39.16))",
-  "dcat_bbox": "ENVELOPE(-87.23,-86.6601,39.16,38.9)",
-  "dcat_centroid": "39.03,-86.94505000000001",
+  "locn_geometry": "POLYGON((-87.230 39.160, -86.660 39.160, -86.660 38.900, -87.230 38.900, -87.230 39.160))",
+  "dcat_bbox": "ENVELOPE(-87.230,-86.660,39.160,38.900)",
+  "dcat_centroid": "39.03,-86.945",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01159\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01159\"}",
+  "gbl_wxsIdentifier_s": "sn00c168v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01159\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sn00c168v/manifest\"}",
   "id": "VAC3073-M-01159",
   "dct_identifier_sm": [
-    "VAC3073-M-01159"
+    "VAC3073-M-01159",
+    "G4093.G7J3 1906 .T5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

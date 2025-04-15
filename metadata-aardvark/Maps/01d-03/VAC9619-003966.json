@@ -34,8 +34,8 @@
     "Poland--Lidzbark Warmiński",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((20 53.333, 19.5 53.333, 19.5 53, 20 53, 20 53.333))",
-  "dcat_bbox": "ENVELOPE(20,19.5,53.333,53)",
+  "locn_geometry": "POLYGON((20.000 53.333, 19.500 53.333, 19.500 53.000, 20.000 53.000, 20.000 53.333))",
+  "dcat_bbox": "ENVELOPE(20.000,19.500,53.333,53.000)",
   "dcat_centroid": "53.1665,19.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003966\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003966\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8w32r639w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vx022s41b/manifest\"}",
   "id": "VAC9619-003966",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003966",
     "G7000 s100 .S7 sheet N-34-100"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

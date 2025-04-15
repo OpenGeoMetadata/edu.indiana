@@ -37,9 +37,9 @@
     "Ukraine--Lyubotyn",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((36 50, 35.75 50, 35.75 49.8333, 36 49.8333, 36 50))",
-  "dcat_bbox": "ENVELOPE(36,35.75,50,49.8333)",
-  "dcat_centroid": "49.916650000000004,35.875",
+  "locn_geometry": "POLYGON((36.000 50.000, 35.750 50.000, 35.750 49.833, 36.000 49.833, 36.000 50.000))",
+  "dcat_bbox": "ENVELOPE(36.000,35.750,50.000,49.833)",
+  "dcat_centroid": "49.9165,35.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001016\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001016\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/f7623d44w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9z904798p/manifest\"}",
   "id": "VAC9619-001016",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001016",
     "G7000 s50 .S68 sheet M-36-84-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

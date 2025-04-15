@@ -34,8 +34,8 @@
     "Ukraine--Velyki Sorochyntsi",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((34 50.333, 33.5 50.333, 33.5 50, 34 50, 34 50.333))",
-  "dcat_bbox": "ENVELOPE(34,33.5,50.333,50)",
+  "locn_geometry": "POLYGON((34.000 50.333, 33.500 50.333, 33.500 50.000, 34.000 50.000, 34.000 50.333))",
+  "dcat_bbox": "ENVELOPE(34.000,33.500,50.333,50.000)",
   "dcat_centroid": "50.1665,33.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003297\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003297\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/x059c836m\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9p291p127/manifest\"}",
   "id": "VAC9619-003297",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003297",
     "G7000 s100 .S7 sheet M-36-68"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

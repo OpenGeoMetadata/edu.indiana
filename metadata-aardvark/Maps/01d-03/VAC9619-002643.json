@@ -37,8 +37,8 @@
     "Russia--Kurgolovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((28.25 59.833, 28 59.833, 28 59.667, 28.25 59.667, 28.25 59.833))",
-  "dcat_bbox": "ENVELOPE(28.25,28,59.833,59.667)",
+  "locn_geometry": "POLYGON((28.250 59.833, 28.000 59.833, 28.000 59.667, 28.250 59.667, 28.250 59.833))",
+  "dcat_bbox": "ENVELOPE(28.250,28.000,59.833,59.667)",
   "dcat_centroid": "59.75,28.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002643\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002643\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/x920fx90r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pk02dp124/manifest\"}",
   "id": "VAC9619-002643",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002643",
     "GM G7000 s50 .S68 sheet M-35-9-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

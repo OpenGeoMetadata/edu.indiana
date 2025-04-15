@@ -37,9 +37,9 @@
     "Ukraine--Kerch",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((36.5 45.5, 36.25 45.5, 36.25 45.3333, 36.5 45.3333, 36.5 45.5))",
-  "dcat_bbox": "ENVELOPE(36.5,36.25,45.5,45.3333)",
-  "dcat_centroid": "45.416650000000004,36.375",
+  "locn_geometry": "POLYGON((36.500 45.500, 36.250 45.500, 36.250 45.333, 36.500 45.333, 36.500 45.500))",
+  "dcat_bbox": "ENVELOPE(36.500,36.250,45.500,45.333)",
+  "dcat_centroid": "45.4165,36.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000128\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000128\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mw22v610p\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/xg94jx648/manifest\"}",
   "id": "VAC9619-000128",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000128",
     "G7000 s50 .S68 sheet L-37-85-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

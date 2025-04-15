@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil Map, Indiana, Boonville sheet",
+  "dct_title_s": "Soil map, Indiana, Boonville sheet",
   "dct_description_sm": [
-    "Relief shown by contours. Map covers portions of Spencer and Warrick Counties in Indiana. Shows soil types classification by colors and symbols. 'Field Operations, Bureau of Soils, 1904.' 'Base map from U.S. Geological Survey sheets.' 'Julius Bien & Co. Lith. N.Y.' Scale 1:62,500. U.S. Dept. of Agriculture, Bureau of Soils; soils surveyed by A.W. Mangum and N.P Neill."
+    "Relief shown by contours. Map covers portions of Spencer and Warrick Counties in Indiana. Shows soil types classification by colors and symbols. \"Field Operations, Bureau of Soils, 1904.\" \"Base map from U. S. Geological Survey sheets.\" \"Julius Bien & Co. Lith. N.Y.\"",
+    "Imprint: [Washington, D.C.?] : The Bureau, [1904?]",
+    "Scale: 1:63,360",
+    "Coordinates: W0871000 W0870000 N0380500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Neill, N. P. (Nelson Prentice)"
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils",
+    "Classification"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -39,8 +42,8 @@
     "Indiana--Warrick County",
     "Indiana--Boonville"
   ],
-  "locn_geometry": "POLYGON((-87.16 38.08, -87 38.08, -87 37.76, -87.16 37.76, -87.16 38.08))",
-  "dcat_bbox": "ENVELOPE(-87.16,-87,38.08,37.76)",
+  "locn_geometry": "POLYGON((-87.160 38.080, -87.000 38.080, -87.000 37.760, -87.160 37.760, -87.160 38.080))",
+  "dcat_bbox": "ENVELOPE(-87.160,-87.000,38.080,37.760)",
   "dcat_centroid": "37.92,-87.08",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -50,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00804\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00804\"}",
+  "gbl_wxsIdentifier_s": "5q47ss65j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00804\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5q47ss65j/manifest\"}",
   "id": "VAC3073-M-00804",
   "dct_identifier_sm": [
-    "VAC3073-M-00804"
+    "VAC3073-M-00804",
+    "G4093 .S5J3 1904 .M36"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

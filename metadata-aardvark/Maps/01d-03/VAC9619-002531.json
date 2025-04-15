@@ -31,8 +31,8 @@
     "Russia--Karalat",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((48.5 46, 48 46, 48 45.667, 48.5 45.667, 48.5 46))",
-  "dcat_bbox": "ENVELOPE(48.5,48,46,45.667)",
+  "locn_geometry": "POLYGON((48.500 46.000, 48.000 46.000, 48.000 45.667, 48.500 45.667, 48.500 46.000))",
+  "dcat_bbox": "ENVELOPE(48.500,48.000,46.000,45.667)",
   "dcat_centroid": "45.8335,48.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -50,12 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002531\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002531\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/js956g74g\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/b8517017x/manifest\"}",
   "id": "VAC9619-002531",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002531",
     "G7000 s100 .S7 sheet L-39-73"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

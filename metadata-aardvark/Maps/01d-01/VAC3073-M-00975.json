@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Indiana showing bedrock geology",
   "dct_description_sm": [
-    "Includes geological cross-section. Scale approximately 1:1,800,000. Adapted from Regional Geologic Map series, Indiana Geological Survey; drafted by Roger L. Purcell."
+    "Includes geological cross-section.",
+    "Imprint: Indianapolis, Ind. : Indiana Geological Survey, 1970.",
+    "Scale: 1:1,800,000; Dimensions: 31 x 22 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Purcell, Roger L."
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00975\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00975\"}",
+  "gbl_wxsIdentifier_s": "2514pp74f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00975\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2514pp74f/manifest\"}",
   "id": "VAC3073-M-00975",
   "dct_identifier_sm": [
-    "VAC3073-M-00975"
+    "VAC3073-M-00975",
+    "G4091 .C5 1970 .P87"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

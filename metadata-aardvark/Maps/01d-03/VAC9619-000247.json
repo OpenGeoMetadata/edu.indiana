@@ -34,9 +34,9 @@
     "Lithuania--Plungė",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((22 56, 21.75 56, 21.75 55.8333, 22 55.8333, 22 56))",
-  "dcat_bbox": "ENVELOPE(22,21.75,56,55.8333)",
-  "dcat_centroid": "55.916650000000004,21.875",
+  "locn_geometry": "POLYGON((22.000 56.000, 21.750 56.000, 21.750 55.833, 22.000 55.833, 22.000 56.000))",
+  "dcat_bbox": "ENVELOPE(22.000,21.750,56.000,55.833)",
+  "dcat_centroid": "55.9165,21.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000247\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000247\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/2801ph02v\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/j3861g17n/manifest\"}",
   "id": "VAC9619-000247",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000247",
     "G7000 s50 .S68 N-34-8-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "Lake Monroe land suitability study: vegetation map",
+  "dct_title_s": "Lake Monroe land suitability study : vegetation map",
   "dct_description_sm": [
-    "Appears to be a reprint of a map from the 1975 Lake Monroe Land Suitability Study. Scale 1:24,000."
+    "Appears to be a reprint of a map from the 1975 Lake Monroe Land Suitability Study.",
+    "Imprint: [Place of publication not identified] : [publisher not identified], [197?]",
+    "Scale: 1:24,000; Dimensions: 67 x 94 cm",
+    "Coordinates: W0863138 W0861831 N0390711 N0385936"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -13,8 +19,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Phytogeography"
   ],
   "dct_temporal_sm": [
     "1975"
@@ -29,9 +35,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.5101 39.11, -86.3 39.11, -86.3 38.9801, -86.5101 38.9801, -86.5101 39.11))",
-  "dcat_bbox": "ENVELOPE(-86.5101,-86.3,39.11,38.9801)",
-  "dcat_centroid": "39.04505,-86.40504999999999",
+  "locn_geometry": "POLYGON((-86.510 39.110, -86.300 39.110, -86.300 38.980, -86.510 38.980, -86.510 39.110))",
+  "dcat_bbox": "ENVELOPE(-86.510,-86.300,39.110,38.980)",
+  "dcat_centroid": "39.045,-86.405",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,11 +46,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00799\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00799\"}",
+  "gbl_wxsIdentifier_s": "xk81kq44d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00799\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/xk81kq44d/manifest\"}",
   "id": "VAC3073-M-00799",
   "dct_identifier_sm": [
-    "VAC3073-M-00799"
+    "VAC3073-M-00799",
+    "G4092.M6 D2 1975 .L3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:12:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

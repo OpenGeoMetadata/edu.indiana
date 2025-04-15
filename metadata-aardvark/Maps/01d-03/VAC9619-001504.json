@@ -37,8 +37,8 @@
     "Russia--Bolotnya",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33 53.3333, 32.75 53.3333, 32.75 53.1667, 33 53.1667, 33 53.3333))",
-  "dcat_bbox": "ENVELOPE(33,32.75,53.3333,53.1667)",
+  "locn_geometry": "POLYGON((33.000 53.333, 32.750 53.333, 32.750 53.167, 33.000 53.167, 33.000 53.333))",
+  "dcat_bbox": "ENVELOPE(33.000,32.750,53.333,53.167)",
   "dcat_centroid": "53.25,32.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001504\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001504\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/qr46r147c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tx31rw11t/manifest\"}",
   "id": "VAC9619-001504",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001504",
     "G7000 s50 .S68 sheet N-36-105-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

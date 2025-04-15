@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of Perry County Indiana",
+  "dct_title_s": "Map of Perry County, Indiana",
   "dct_description_sm": [
-    "Cadastral map showing landowners. Includes statistical chart for Perry County. Scale 1:42,240. 1 1/2 inches per mile. Compiled and drawn from the records and copyrighted by George Minto."
+    "Cadastral map showing landowners. Includes statistical chart for Perry County.",
+    "Imprint: Cannelton, Ind. : George Minto, 1894.",
+    "Dimensions: 115 x 84 cm, pieces 61 x 44 cm; Scale: 1:42,240",
+    "Coordinates: W0864900 W0862600 N0382600 N0375000"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Minto, George"
   ],
   "dct_publisher_sm": [
-    "George Minto"
+    "Minto, George"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -48,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00801\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00801\"}",
+  "gbl_wxsIdentifier_s": "3t946v35j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00801\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/3t946v35j/manifest\"}",
   "id": "VAC3073-M-00801",
   "dct_identifier_sm": [
-    "VAC3073-M-00801"
+    "VAC3073-M-00801",
+    "G4093 .P3G46 1894 .M56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

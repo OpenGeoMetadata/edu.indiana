@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Bridgman's new sectional and township map of Indiana from the latest official and other authentic sources for school, library or office",
+  "dct_title_s": "Bridgman's new sectional and township map of Indiana from the latest official and other authentic sources for school, library or office.",
   "dct_description_sm": [
-    "Shows counties, townships, sections and railroads. Prime meridians: Greenwich and Washington. Includes 'Geological map of Indiana'; List of territorial and state governors, 1787-1893; 'State items'; 'The United States General Land Office township system'; Population graph, 1920-1890; 'State institutions'; 'Comparative areas' map of Indiana and England; map of 'Congressional districts of Indiana'; 'Rank and populations of largest cities'; 'Hypsometric map of Indiana'; 'Civil government' chart and 'Concise county gazetteer.' Scale approximately 1:264,000. E.C. Bridgman."
+    "Shows counties, townships, sections and railroads. Prime meridians: Greenwich and Washington. Includes \"Geological map of Indiana\" , List of territorial and state governors, 1787-1893 , \"State items\" , \"The United States General Land Office township system\" , Population graph, 1920-1890 , \"State institutions\" , \"Comparative areas\" map of Indiana and England : map of \"Congressional districts of Indiana\" , \"Rank and populations of largest cities\" , \"Hypsometric map of Indiana\" , \"Civil government\" chart and \"Concise county gazetteer.\"",
+    "Imprint: New York : E. C. Bridgman, [1894]",
+    "Dimensions: 181 x 137 cm, on sheets 71 x 92 cm; Scale: 1:264,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,18 +13,11 @@
     "Bridgman, E. C."
   ],
   "dct_publisher_sm": [
-    "E.C. Bridgman"
+    "Bridgman, E. C."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -48,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00696\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00696\"}",
+  "gbl_wxsIdentifier_s": "fx71bp906",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00696\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fx71bp906/manifest\"}",
   "id": "VAC3073-M-00696",
   "dct_identifier_sm": [
-    "VAC3073-M-00696"
+    "VAC3073-M-00696",
+    "G4090 1894 .B75"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

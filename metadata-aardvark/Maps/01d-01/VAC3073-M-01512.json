@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map, Indiana, Starke County sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of Starke County, Indiana / E.J. Grimes, Wendell Barrett, and T.M. Bushnell. In 40th Annual report of Department of Geology and Natural Resources, Indiana. In lower margin: Field Operations, Bureau of Soils, 1915. Scale approximately 1:63,360. 1 in. = 1 mile U.S. Deptartment of Agriculture, Bureau of Soils [and] State of Indiana Department of Geology; soils surveyed by E.J. Grimes, in charge, and Wendell Barrett of the Indiana Department of Geology and T.M. Bushnell of the U.S. Deptartment of Agriculture."
+    "Detached from: Soil survey of Starke County, Indiana / E.J. Grimes, Wendell Barrett, and T.M. Bushnell. In 40th Annual report of Department of Geology and Natural Resources, Indiana.    From page 157 of the 40th Annual Report.",
+    "Imprint: [Indianapolis] : State of Indiana, Department of Geology, [1916]",
+    "Scale: 1:63,360",
+    "Coordinates: W0865548 W0862758 N0412558 N0411016"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,9 +15,7 @@
     "Grimes, E. J. (Earl Jerome),1893-cartographer."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "Fort Wayne",
-    "Fort Wayne Printing Company"
+    "Indiana. Department of Geology"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -23,9 +24,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1915"
@@ -41,9 +41,9 @@
     "Indiana--Starke County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.9101 41.4101, -86.4501 41.4101, -86.4501 41.16, -86.9101 41.16, -86.9101 41.4101))",
-  "dcat_bbox": "ENVELOPE(-86.9101,-86.4501,41.4101,41.16)",
-  "dcat_centroid": "41.28505,-86.68010000000001",
+  "locn_geometry": "POLYGON((-86.910 41.410, -86.450 41.410, -86.450 41.160, -86.910 41.160, -86.910 41.410))",
+  "dcat_bbox": "ENVELOPE(-86.910,-86.450,41.410,41.160)",
+  "dcat_centroid": "41.285,-86.68",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01512\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01512\"}",
+  "gbl_wxsIdentifier_s": "s4656k52p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01512\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/s4656k52p/manifest\"}",
   "id": "VAC3073-M-01512",
   "dct_identifier_sm": [
-    "VAC3073-M-01512"
+    "VAC3073-M-01512",
+    "G4093.S6J3 1915 .G76"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,8 +34,8 @@
     "Poland--Kobułty",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((21.25 53.8333, 21 53.8333, 21 53.6667, 21.25 53.6667, 21.25 53.8333))",
-  "dcat_bbox": "ENVELOPE(21.25,21,53.8333,53.6667)",
+  "locn_geometry": "POLYGON((21.250 53.833, 21.000 53.833, 21.000 53.667, 21.250 53.667, 21.250 53.833))",
+  "dcat_bbox": "ENVELOPE(21.250,21.000,53.833,53.667)",
   "dcat_centroid": "53.75,21.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,13 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000357\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000357\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/bz60cw99t\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5712ng33r/manifest\"}",
   "id": "VAC9619-000357",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000357",
     "G7000 s50 .S68",
     "zsheet N-34-79-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

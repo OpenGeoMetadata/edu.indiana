@@ -34,8 +34,8 @@
     "Russia--Znamenskoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((53.75 53.3333, 53.5 53.3333, 53.5 53.1667, 53.75 53.1667, 53.75 53.3333))",
-  "dcat_bbox": "ENVELOPE(53.75,53.5,53.3333,53.1667)",
+  "locn_geometry": "POLYGON((53.750 53.333, 53.500 53.333, 53.500 53.167, 53.750 53.167, 53.750 53.333))",
+  "dcat_bbox": "ENVELOPE(53.750,53.500,53.333,53.167)",
   "dcat_centroid": "53.25,53.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001519\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001519\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/jq085k63r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/s1785x91k/manifest\"}",
   "id": "VAC9619-001519",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001519",
     "G7000 s50 .S68 sheet N-36-108-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

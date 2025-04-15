@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Vermillion County, Indiana",
   "dct_description_sm": [
-    "Shows towns, railroads, coal, mills, iron furnaces, timber, and prairie. Scale approximately 1:85,000. 3/4 of an inch to one mile. Drawn by John Collett for the 1st annual report of Prof. E.T. Cox, State Geologist, 1869."
+    "Shows towns, railroads, coal, mills, iron furnaces, timber, and prairie.    Detached from: First annual report of the Geological Survey of Indiana ... 1869. Indianapolis : Alexander M. Conner, 1869.",
+    "Imprint: [Indianapolis] : [Alexander H. Conner, State Printer], [1869]",
+    "Scale: Approximately 1:85,000; Dimensions: 77 x 32 cm",
+    "Coordinates: W0873159 W0872113 N0400854 N0393626"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Cox, E. T. (Edward Travers), 1821-1907"
   ],
   "dct_publisher_sm": [
-    "Braden"
+    "W. & J. Braden"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,11 +24,9 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Lumber trade",
+    "Iron mines and mining",
+    "Coal mines and mining"
   ],
   "dct_temporal_sm": [
     "1869"
@@ -41,9 +42,9 @@
     "Indiana--Vermillion County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.5101 40.1301, -87.35 40.1301, -87.35 39.6, -87.5101 39.6, -87.5101 40.1301))",
-  "dcat_bbox": "ENVELOPE(-87.5101,-87.35,40.1301,39.6)",
-  "dcat_centroid": "39.86505,-87.43005",
+  "locn_geometry": "POLYGON((-87.510 40.130, -87.350 40.130, -87.350 39.600, -87.510 39.600, -87.510 40.130))",
+  "dcat_bbox": "ENVELOPE(-87.510,-87.350,40.130,39.600)",
+  "dcat_centroid": "39.865,-87.43",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01001\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01001\"}",
+  "gbl_wxsIdentifier_s": "k356b649j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01001\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/k356b649j/manifest\"}",
   "id": "VAC3073-M-01001",
   "dct_identifier_sm": [
-    "VAC3073-M-01001"
+    "VAC3073-M-01001",
+    "G4093.V4 1869 .C6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

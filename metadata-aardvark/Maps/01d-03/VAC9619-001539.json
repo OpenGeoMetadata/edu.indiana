@@ -37,9 +37,9 @@
     "Russia--Korzhovka-Golubovka",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((32.5 52.8667, 32.25 52.8667, 32.25 52.6667, 32.5 52.6667, 32.5 52.8667))",
-  "dcat_bbox": "ENVELOPE(32.5,32.25,52.8667,52.6667)",
-  "dcat_centroid": "52.7667,32.375",
+  "locn_geometry": "POLYGON((32.500 52.867, 32.250 52.867, 32.250 52.667, 32.500 52.667, 32.500 52.867))",
+  "dcat_bbox": "ENVELOPE(32.500,32.250,52.867,52.667)",
+  "dcat_centroid": "52.766999999999996,32.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001539\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001539\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/6q182k74h\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/q237k456r/manifest\"}",
   "id": "VAC9619-001539",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001539",
     "G7000 s50 .S68 sheet N-36-113-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

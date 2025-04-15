@@ -34,9 +34,9 @@
     "Russia--Kalyazin",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((38 57.3333, 37.5 57.3333, 37.5 57, 38 57, 38 57.3333))",
-  "dcat_bbox": "ENVELOPE(38,37.5,57.3333,57)",
-  "dcat_centroid": "57.166650000000004,37.75",
+  "locn_geometry": "POLYGON((38.000 57.333, 37.500 57.333, 37.500 57.000, 38.000 57.000, 38.000 57.333))",
+  "dcat_bbox": "ENVELOPE(38.000,37.500,57.333,57.000)",
+  "dcat_centroid": "57.1665,37.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002240\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002240\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1n79h5105\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/69700b556/manifest\"}",
   "id": "VAC9619-002240",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002240",
     "G7000 s100 .S7 sheet O-37-100"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

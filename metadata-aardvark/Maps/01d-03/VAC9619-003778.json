@@ -34,8 +34,8 @@
     "Poland--Kumiecie Małe",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((22.375 54.4167, 22.25 54.4167, 22.25 54.3333, 22.375 54.3333, 22.375 54.4167))",
-  "dcat_bbox": "ENVELOPE(22.375,22.25,54.4167,54.3333)",
+  "locn_geometry": "POLYGON((22.375 54.417, 22.250 54.417, 22.250 54.333, 22.375 54.333, 22.375 54.417))",
+  "dcat_bbox": "ENVELOPE(22.375,22.250,54.417,54.333)",
   "dcat_centroid": "54.375,22.3125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003778\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003778\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/n296wz918\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2514px49j/manifest\"}",
   "id": "VAC9619-003778",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003778",
     "G7063.K2 s25 .S6 sheet N-34-57-D-c"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

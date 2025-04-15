@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Hoosier National Forest",
   "dct_description_sm": [
-    "Shows recreation areas. Scale approximately 1:370,000. Robt. C. Kingsbury."
+    "Shows recreation areas.",
+    "Imprint: [Bloomington, Ind.] : Dept. of Geography, Indiana University, [1965]",
+    "Scale: 1:370,000; Dimensions: 43 x 31 cm",
+    "Coordinates: W0870300 W0855100 N0391600 N0375300"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Recreational use"
   ],
   "dct_temporal_sm": [
     "1965"
@@ -52,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00930\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00930\"}",
+  "gbl_wxsIdentifier_s": "qb98nj99p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00930\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qb98nj99p/manifest\"}",
   "id": "VAC3073-M-00930",
   "dct_identifier_sm": [
-    "VAC3073-M-00930"
+    "VAC3073-M-00930",
+    "G4092.H6 E63 1965 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

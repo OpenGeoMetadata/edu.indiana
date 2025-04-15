@@ -34,8 +34,8 @@
     "Russia--Razino",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((21.25 55, 21.125 55, 21.125 54.913, 21.25 54.913, 21.25 55))",
-  "dcat_bbox": "ENVELOPE(21.25,21.125,55,54.913)",
+  "locn_geometry": "POLYGON((21.250 55.000, 21.125 55.000, 21.125 54.913, 21.250 54.913, 21.250 55.000))",
+  "dcat_bbox": "ENVELOPE(21.250,21.125,55.000,54.913)",
   "dcat_centroid": "54.9565,21.1875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003669\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003669\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/f7623d544\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/7m01cx19t/manifest\"}",
   "id": "VAC9619-003669",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003669",
     "G7063.K2 s25 .S6 sheet N-34-43-A-b"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

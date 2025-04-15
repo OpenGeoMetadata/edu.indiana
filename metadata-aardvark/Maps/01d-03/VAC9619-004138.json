@@ -34,9 +34,9 @@
     "Belarus--Luninyets",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((27 52.3333, 26.5 52.3333, 26.5 52, 27 52, 27 52.3333))",
-  "dcat_bbox": "ENVELOPE(27,26.5,52.3333,52)",
-  "dcat_centroid": "52.166650000000004,26.75",
+  "locn_geometry": "POLYGON((27.000 52.333, 26.500 52.333, 26.500 52.000, 27.000 52.000, 27.000 52.333))",
+  "dcat_bbox": "ENVELOPE(27.000,26.500,52.333,52.000)",
+  "dcat_centroid": "52.1665,26.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004138\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004138\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1v53jx842\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hh63v700b/manifest\"}",
   "id": "VAC9619-004138",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004138",
     "G7000 s100 .S7 sheet N-35-138"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

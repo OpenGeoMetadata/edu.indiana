@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil map: Indiana, Starke County sheet",
+  "dct_title_s": "Soil map, Indiana, Starke County sheet",
   "dct_description_sm": [
-    "Relief shown by contours. Shows distribution of soil types by colors and symbols. In lower margin: A. Hoen & Co. Baltimore, Md. Scale approximately 1:63,360. 1 inch = 1 mile. U.S. Dept. of Agriculture, Bureau of Soils [and] State of Indiana Department of Geology; soils surveyed by E.J. Grimes [and others]."
+    "Relief shown by contours. Shows distribution of soil types by colors and symbols. In lower margin: A. Hoen & Co. Baltimore, Md.",
+    "Imprint: [Washington] : The Bureau, 1915.",
+    "Scale: 1:63,360; Dimensions: 48 x 63 cm",
+    "Coordinates: W0865548 W0862758 N0412558 N0411016"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Grimes, E. J. (Earl Jerome),1893-cartographer."
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Classification",
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1915"
@@ -36,9 +39,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.9101 41.4101, -86.4501 41.4101, -86.4501 41.16, -86.9101 41.16, -86.9101 41.4101))",
-  "dcat_bbox": "ENVELOPE(-86.9101,-86.4501,41.4101,41.16)",
-  "dcat_centroid": "41.28505,-86.68010000000001",
+  "locn_geometry": "POLYGON((-86.910 41.410, -86.450 41.410, -86.450 41.160, -86.910 41.160, -86.910 41.410))",
+  "dcat_bbox": "ENVELOPE(-86.910,-86.450,41.410,41.160)",
+  "dcat_centroid": "41.285,-86.68",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00812\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00812\"}",
+  "gbl_wxsIdentifier_s": "34850m157",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00812\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/34850m157/manifest\"}",
   "id": "VAC3073-M-00812",
   "dct_identifier_sm": [
-    "VAC3073-M-00812"
+    "VAC3073-M-00812",
+    "G4093 .S6J3 1915 .G75"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

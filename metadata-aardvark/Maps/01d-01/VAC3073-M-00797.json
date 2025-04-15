@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Garrison Chapel Karst Area, Monroe County Indiana",
   "dct_description_sm": [
-    "Blue line print. 'Base prepared from Bloomington, Clear Creek, Stanford and Whitehall topographic quadrangles, U.S.G.S, by the Indiana Geological Survey, 1964.' 'Cavern maps by members of several organizations, B.I.G., C.I.G., W.C.G., R.P.I., & I.U.S.C.' Scale 1:6,000. Compiled by R.L. Powell."
+    "Blue line print.  _x000d_   \"Base prepared from Bloomington, Clear Creek, Stanford and Whitehall topographic quadrangles, U.S.G.S, by the Indiana Geological Survey, 1964.\" \"Cavern maps by members of several organizations, B.I.G., C.I.G., W.C.G., R,P.I., & I.U.S.C.\"",
+    "Imprint: [Place of publication not identified] : [publisher not identified], [1968?]",
+    "Scale: 1:6,000; Dimensions: 91 x 92 cm",
+    "Coordinates: W0864058 W0863422 N0390956 N0390443"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Powell, Richard L."
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Karst",
+    "Caves"
   ],
   "dct_temporal_sm": [
     "1968"
@@ -35,9 +41,9 @@
     "Indiana--Monroe County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.6601 39.1501, -86.56 39.1501, -86.56 39.0601, -86.6601 39.0601, -86.6601 39.1501))",
-  "dcat_bbox": "ENVELOPE(-86.6601,-86.56,39.1501,39.0601)",
-  "dcat_centroid": "39.1051,-86.61005",
+  "locn_geometry": "POLYGON((-86.660 39.150, -86.560 39.150, -86.560 39.060, -86.660 39.060, -86.660 39.150))",
+  "dcat_bbox": "ENVELOPE(-86.660,-86.560,39.150,39.060)",
+  "dcat_centroid": "39.105000000000004,-86.61",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00797\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00797\"}",
+  "gbl_wxsIdentifier_s": "2514pp71m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00797\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2514pp71m/manifest\"}",
   "id": "VAC3073-M-00797",
   "dct_identifier_sm": [
-    "VAC3073-M-00797"
+    "VAC3073-M-00797",
+    "G4094.V28 C23 1968 .P69"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

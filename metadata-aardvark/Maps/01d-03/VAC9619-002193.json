@@ -34,9 +34,9 @@
     "Russia--Kuvshinovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((34.5 57.3333, 34 57.3333, 34 57, 34.5 57, 34.5 57.3333))",
-  "dcat_bbox": "ENVELOPE(34.5,34,57.3333,57)",
-  "dcat_centroid": "57.166650000000004,34.25",
+  "locn_geometry": "POLYGON((34.500 57.333, 34.000 57.333, 34.000 57.000, 34.500 57.000, 34.500 57.333))",
+  "dcat_bbox": "ENVELOPE(34.500,34.000,57.333,57.000)",
+  "dcat_centroid": "57.1665,34.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002193\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002193\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/sn009z76s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/w0893n49v/manifest\"}",
   "id": "VAC9619-002193",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002193",
     "G7000 s100 .S7 sheet O-36-105"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

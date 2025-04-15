@@ -37,8 +37,8 @@
     "Russia--Dubrovki",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33.25 56.833, 33 56.833, 33 56.667, 33.25 56.667, 33.25 56.833))",
-  "dcat_bbox": "ENVELOPE(33.25,33,56.833,56.667)",
+  "locn_geometry": "POLYGON((33.250 56.833, 33.000 56.833, 33.000 56.667, 33.250 56.667, 33.250 56.833))",
+  "dcat_bbox": "ENVELOPE(33.250,33.000,56.833,56.667)",
   "dcat_centroid": "56.75,33.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002893\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002893\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/cr56n1737\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/0c484w15z/manifest\"}",
   "id": "VAC9619-002893",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002893",
     "GM G7000 s50 .S68 sheet O-36-115-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

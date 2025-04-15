@@ -1,14 +1,19 @@
 {
   "dct_title_s": "Perry County soil map",
   "dct_description_sm": [
-    "Shows school houses, public roads, and railroads. Detached from: A soil survey of four counties of southern Indiana / Chas. W. Shannon and L.C. Snider. In 33rd Annual report of the Indiana Deptartment of Geology and Natural Resources. Scale approximately 1:126,720"
+    "Shows school houses, public roads, and railroads.    Detached from: A soil survey of four counties of southern Indiana / Chas. W. Shannon and L.C. Snider. In 33rd Annual report of the Indiana Department of Geology and Natural Resources. Indianapolis : Indiana Department of Geology and Natural Resources, 1909. Page 300.",
+    "Imprint: [Indianapolis] : [Indiana Department of Geology and Natural Resources], [1909]",
+    "Dimensions: 41 x 38 cm; Scale: Approximately 1:126,720",
+    "Coordinates: W0864853 W0862548 N0381558 N0375029"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. Department of Geology and Natural Resources"
+  ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,10 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -37,9 +39,9 @@
     "Indiana",
     "Indiana--Perry County"
   ],
-  "locn_geometry": "POLYGON((-86.8001 38.2501, -86.4101 38.2501, -86.4101 37.83, -86.8001 37.83, -86.8001 38.2501))",
-  "dcat_bbox": "ENVELOPE(-86.8001,-86.4101,38.2501,37.83)",
-  "dcat_centroid": "38.04005,-86.6051",
+  "locn_geometry": "POLYGON((-86.800 38.250, -86.410 38.250, -86.410 37.830, -86.800 37.830, -86.800 38.250))",
+  "dcat_bbox": "ENVELOPE(-86.800,-86.410,38.250,37.830)",
+  "dcat_centroid": "38.04,-86.60499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00164\"}",
+  "gbl_wxsIdentifier_s": "ng452k94v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00164\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/ng452k94v/manifest\"}",
   "id": "VAC3073-M-00164",
   "dct_identifier_sm": [
-    "VAC3073-M-00164"
+    "VAC3073-M-00164",
+    "G4093.P3J3 1908 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

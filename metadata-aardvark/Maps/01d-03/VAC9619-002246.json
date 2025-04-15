@@ -37,9 +37,9 @@
     "Russia--Kayasula",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((45.5 44.3333, 45 44.3333, 45 44, 45.5 44, 45.5 44.3333))",
-  "dcat_bbox": "ENVELOPE(45.5,45,44.3333,44)",
-  "dcat_centroid": "44.166650000000004,45.25",
+  "locn_geometry": "POLYGON((45.500 44.333, 45.000 44.333, 45.000 44.000, 45.500 44.000, 45.500 44.333))",
+  "dcat_bbox": "ENVELOPE(45.500,45.000,44.333,44.000)",
+  "dcat_centroid": "44.1665,45.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002246\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002246\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/fb4949078\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x346fc96q/manifest\"}",
   "id": "VAC9619-002246",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002246",
     "G7000 s100 .S7 sheet L-38-139"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

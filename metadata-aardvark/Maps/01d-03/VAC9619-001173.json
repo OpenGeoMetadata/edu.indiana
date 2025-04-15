@@ -37,8 +37,8 @@
     "Ukraine--Sofiyivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((34 48.167, 33.75 48.167, 33.75 48, 34 48, 34 48.167))",
-  "dcat_bbox": "ENVELOPE(34,33.75,48.167,48)",
+  "locn_geometry": "POLYGON((34.000 48.167, 33.750 48.167, 33.750 48.000, 34.000 48.000, 34.000 48.167))",
+  "dcat_bbox": "ENVELOPE(34.000,33.750,48.167,48.000)",
   "dcat_centroid": "48.0835,33.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001173\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001173\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/b8515n98q\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pr76gd53p/manifest\"}",
   "id": "VAC9619-001173",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001173",
     "GM G7000 S50 .S68 M-36-140-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,8 +34,8 @@
     "Russia--Pavlinovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((34 54.5, 33.75 54.5, 33.75 54.333, 34 54.333, 34 54.5))",
-  "dcat_bbox": "ENVELOPE(34,33.75,54.5,54.333)",
+  "locn_geometry": "POLYGON((34.000 54.500, 33.750 54.500, 33.750 54.333, 34.000 54.333, 34.000 54.500))",
+  "dcat_bbox": "ENVELOPE(34.000,33.750,54.500,54.333)",
   "dcat_centroid": "54.4165,33.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001353\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001353\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/ng451j33r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2f75sm401/manifest\"}",
   "id": "VAC9619-001353",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001353",
     "GM G7000 S50 .S68 N-36-56-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

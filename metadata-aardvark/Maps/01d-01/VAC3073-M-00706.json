@@ -1,13 +1,19 @@
 {
   "dct_title_s": "Map showing sanitary sewer system",
   "dct_description_sm": [
-    "Blueprint. At head of title: Bloomington, Indiana. '1946.' Scale approximately 1:3,900. Office of City Civil Engineer, Bloomington, Indiana."
+    "Blueprint. At head of title: Bloomington, Indiana.",
+    "Imprint: [Bloomington, Ind.?] : [City of Bloomington?], [1946?]",
+    "Scale: 1:3,900; Dimensions: 105 x 131 cm",
+    "Coordinates: W0863532 W0862816 N0391315 N0390716"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Bloomington (Ind.). Office of City Civil Engineer"
+  ],
   "dct_publisher_sm": [
-    "City of Bloomington"
+    "[City of Bloomington?]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Sewerage"
   ],
   "dct_temporal_sm": [
     "1946"
@@ -43,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00706\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00706\"}",
+  "gbl_wxsIdentifier_s": "cz30qx13w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00706\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cz30qx13w/manifest\"}",
   "id": "VAC3073-M-00706",
   "dct_identifier_sm": [
-    "VAC3073-M-00706"
+    "VAC3073-M-00706",
+    "G4094.B5N46 1946 .B56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:13:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

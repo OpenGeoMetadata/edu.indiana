@@ -37,8 +37,8 @@
     "Ukraine--Voloske",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((35.25 48.333, 35 48.333, 35 48.167, 35.25 48.167, 35.25 48.333))",
-  "dcat_bbox": "ENVELOPE(35.25,35,48.333,48.167)",
+  "locn_geometry": "POLYGON((35.250 48.333, 35.000 48.333, 35.000 48.167, 35.250 48.167, 35.250 48.333))",
+  "dcat_bbox": "ENVELOPE(35.250,35.000,48.333,48.167)",
   "dcat_centroid": "48.25,35.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001177\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001177\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/w3763765f\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fj237942r/manifest\"}",
   "id": "VAC9619-001177",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001177",
     "GM G7000 S50 .S68 M-36-143-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

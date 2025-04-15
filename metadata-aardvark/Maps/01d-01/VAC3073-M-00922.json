@@ -1,7 +1,9 @@
 {
-  "dct_title_s": "Map of Gary Indiana and vicinity",
+  "dct_title_s": "Map of Gary, Indiana and vicinity",
   "dct_description_sm": [
-    "Hand drawn map showing streets, railroads, schools, parks, and industrial sites. Stamped \"November 27 1929\". Scale not given."
+    "Imprint: [Gary, Ind.?] : [City of Gary?], [1929]",
+    "Scale: Scale not given.; Dimensions: 60 x 83 cm",
+    "Coordinates: W0872601 W0871319 N0413919 N0413118"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,15 +12,11 @@
     "Cottingham, W. P."
   ],
   "dct_publisher_sm": [
-    "City of Gary"
+    "[City of Gary?]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -45,11 +43,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00922\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00922\"}",
+  "gbl_wxsIdentifier_s": "4j03f2034",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00922\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4j03f2034/manifest\"}",
   "id": "VAC3073-M-00922",
   "dct_identifier_sm": [
-    "VAC3073-M-00922"
+    "VAC3073-M-00922",
+    "G4094.G2 1929 .C68"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

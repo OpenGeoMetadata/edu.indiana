@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil map, Boonville sheet",
+  "dct_title_s": "Soil map Boonville sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of the Boonville area, Indiana / A.W. Mangum and N.P. Neill. In 36th Annual report of Deptartment of Geology and Natural Resources, Indiana. 'U.S. Dept. of Agriculture, Bureau of Soils.' Scale approximately 1:63,000 Soils surveyed by A.W. Mangum and N.P. Neill, 1904."
+    "\"U.S. Dept. of Agriculture, Bureau of Soils.\"    Detached from: Soil survey of Scott County, Indiana / A.W. Mangum and N.P. Neill. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 340.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources, Indiana], [1912]; Imprint: [Indianapolis] : [Wm. B. Burford], [1912]",
+    "Dimensions: 55 x 48 cm; Scale: Approximately 1:63,000",
+    "Coordinates: W0872000 W0870000 N0380500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,8 +15,7 @@
     "Neill, N. P. (Nelson Prentice)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "[Department of Geology and Natural Resources, Indiana]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -22,9 +24,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -39,8 +40,8 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.33 38.08, -87 38.08, -87 37.76, -87.33 37.76, -87.33 38.08))",
-  "dcat_bbox": "ENVELOPE(-87.33,-87,38.08,37.76)",
+  "locn_geometry": "POLYGON((-87.330 38.080, -87.000 38.080, -87.000 37.760, -87.330 37.760, -87.330 38.080))",
+  "dcat_bbox": "ENVELOPE(-87.330,-87.000,38.080,37.760)",
   "dcat_centroid": "37.92,-87.16499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -50,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01086\"}",
+  "gbl_wxsIdentifier_s": "sx61fr09p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01086\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sx61fr09p/manifest\"}",
   "id": "VAC3073-M-01086",
   "dct_identifier_sm": [
-    "VAC3073-M-01086"
+    "VAC3073-M-01086",
+    "G4094.B6J3 1904 .M3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Indiana University, Bloomington campus",
   "dct_description_sm": [
-    "Folded title: Indiana University, Bloomington, campus map. Buildings shown pictorially. 'Aerial survey map courtesy, city of Bloomington Planning Office.' Indexed. Text and 6 maps on verso. Scale not given. Design, Kevin Byrne; prepared by University Relations Office; edited and printed by Indiana University."
+    "Folded title: Indiana University, Bloomington, campus map. Buildings shown pictorially.     \"Aerial survey map courtesy, city of Bloomington Planning Office.\"     Indexed.     Text and 6 maps on verso.",
+    "Imprint: [Bloomington] : Indiana University, 1977.",
+    "Dimensions: 56 x 71 cm; Scale: Scale not given.",
+    "Coordinates: W0863532 W0862816 N0391315 N0390716"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,9 +19,8 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Indiana University, Bloomington"
   ],
   "dct_temporal_sm": [
     "1977"
@@ -44,11 +46,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00700\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00700\"}",
+  "gbl_wxsIdentifier_s": "1z40mw146",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00700\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1z40mw146/manifest\"}",
   "id": "VAC3073-M-00700",
   "dct_identifier_sm": [
-    "VAC3073-M-00700"
+    "VAC3073-M-00700",
+    "G4094.B5:2I6 1977 .B9"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

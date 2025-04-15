@@ -37,8 +37,8 @@
     "Ukraine--Muzykivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((32.75 46.8333, 32.5 46.8333, 32.5 46.6667, 32.75 46.6667, 32.75 46.8333))",
-  "dcat_bbox": "ENVELOPE(32.75,32.5,46.8333,46.6667)",
+  "locn_geometry": "POLYGON((32.750 46.833, 32.500 46.833, 32.500 46.667, 32.750 46.667, 32.750 46.833))",
+  "dcat_bbox": "ENVELOPE(32.750,32.500,46.833,46.667)",
   "dcat_centroid": "46.75,32.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000112\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000112\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/79407x83t\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/z029qc42t/manifest\"}",
   "id": "VAC9619-000112",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000112",
     "G7000 s50 .S68 sheet L-36-42-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

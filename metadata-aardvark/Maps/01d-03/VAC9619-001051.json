@@ -37,9 +37,9 @@
     "Ukraine--Shlyakhove",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((36 49.5, 35.75 49.5, 35.75 49.3333, 36 49.3333, 36 49.5))",
-  "dcat_bbox": "ENVELOPE(36,35.75,49.5,49.3333)",
-  "dcat_centroid": "49.416650000000004,35.875",
+  "locn_geometry": "POLYGON((36.000 49.500, 35.750 49.500, 35.750 49.333, 36.000 49.333, 36.000 49.500))",
+  "dcat_bbox": "ENVELOPE(36.000,35.750,49.500,49.333)",
+  "dcat_centroid": "49.4165,35.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001051\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001051\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8p58pd626\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/6395xh810/manifest\"}",
   "id": "VAC9619-001051",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001051",
     "G7000 s50 .S68 sheet M-36-96-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

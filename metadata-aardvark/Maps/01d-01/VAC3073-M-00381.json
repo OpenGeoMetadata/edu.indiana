@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Geologic map of the Knobstone group, Indiana (New Albany sheet)",
+  "dct_title_s": "Geologic map of the Knobstone Group, Indiana (New Albany sheet)",
   "dct_description_sm": [
-    "Relief shown by contour lines. From the 26th Annual report of the Department of Geology and Natural Resources of Indiana, 1901. 'Plate III.' Scale 1:190,080. 3 miles = 1 in. By J.F. Newsom, director, and assistants."
+    "Relief shown by contour lines. \"Plate III.\"    Detached from: A geologic and topographic section across Southern Indiana / by J. F. Newsom. In Indiana Department of Geology and Natural Resources twenty-sixth annual report ... 1901. Indianapolis : Wm. B. Burford, 1902. Page 260.",
+    "Imprint: [Indianapolis, Ind.] : [Indiana Department of Geology and Natural Resources], [1901]; Imprint:   Indianapolis, Ind. : Wm. B. Burford, [1902]",
+    "Scale: Scale approximately 1:190,080. 3 miles = 1 in.; Dimensions: 69 x 49 cm, on sheet 76 x 52 cm",
+    "Coordinates: W0863410 W0853500 N0390430 N0375720"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,8 +13,7 @@
     "Newsom, John F. (John Flesher), 1869-1928"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +22,11 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Mines and mineral resources",
+    "Geology",
+    "Geology, Stratigraphic",
+    "Limestone"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -49,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00381\"}",
+  "gbl_wxsIdentifier_s": "r781xj50c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00381\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/r781xj50c/manifest\"}",
   "id": "VAC3073-M-00381",
   "dct_identifier_sm": [
-    "VAC3073-M-00381"
+    "VAC3073-M-00381",
+    "G4091.C5 1901 .N43"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

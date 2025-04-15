@@ -21,9 +21,7 @@
     "Military maps"
   ],
   "dcat_keyword_sm": [
-    "Soviet Union",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Soviet Union"
   ],
   "dct_temporal_sm": [
     "1893-1940"
@@ -39,9 +37,9 @@
     "Ukraine--Lisichansk",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((38.335964 48.97182, 38.502152 48.97182, 38.502152 48.842227, 38.335964 48.842227, 38.335964 48.97182))",
-  "dcat_bbox": "ENVELOPE(38.335964,38.502152,48.97182,48.842227)",
-  "dcat_centroid": "48.9070235,38.419058",
+  "locn_geometry": "POLYGON((38.336 48.972, 38.502 48.972, 38.502 48.842, 38.336 48.842, 38.336 48.972))",
+  "dcat_bbox": "ENVELOPE(38.336,38.502,48.972,48.842)",
+  "dcat_centroid": "48.907,38.419",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003401\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003401\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/cc08hg48w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/44559r21g/manifest\"}",
   "id": "VAC9619-003401",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003401",
     "G7000 s100 .S7 sheet M-37-113"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

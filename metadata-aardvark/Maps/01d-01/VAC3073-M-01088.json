@@ -1,14 +1,19 @@
 {
   "dct_title_s": "Bartholomew County",
   "dct_description_sm": [
-    "Shows roads and railroads. Detached from: Soil survey of Bartholomew County / E.J. Quinn. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:85,000"
+    "Shows roads and railroads.    Detached from: Soil survey of Bartholomew County / E.J. Quinn. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 326.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources], [1912]; Imprint: [Indianapolis] : [Wm. B. Burford], [1912]",
+    "Dimensions: 40 x 41 cm, on sheet 44 x 49 cm; Scale: Approximately 1:85,000",
+    "Coordinates: W0860508 W0854104 N0392100 N0390209"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. Department of Geology and Natural Resources"
+  ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,10 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01088\"}",
+  "gbl_wxsIdentifier_s": "05742t83p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01088\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/05742t83p/manifest\"}",
   "id": "VAC3073-M-01088",
   "dct_identifier_sm": [
-    "VAC3073-M-01088"
+    "VAC3073-M-01088",
+    "G4093.B3J3 1911 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

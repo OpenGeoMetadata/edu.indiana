@@ -1,23 +1,23 @@
 {
   "dct_title_s": "Indiana",
   "dct_description_sm": [
-    "Relief shown by hachures. Includes index to cities and towns, with population, in left margin and index to railroads. On verso: index to Indiana counties, creeks, lakes, rivers and towns. Scale approximately 1:696,960. 11 miles = 1 inch. Rand, McNally & Co."
+    "Relief shown by hachures. Includes index to cities and towns, with population, in left margin and index to railroads. On verso: index to Indiana counties, creeks, lakes, rivers and towns.",
+    "Imprint: Chicago : Rand McNally, 1902.",
+    "Scale: 1:696,000; Dimensions: 65 x 47 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Rand McNally and Company"
+  ],
   "dct_publisher_sm": [
-    "Rand McNally"
+    "Rand McNally and Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -44,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00775\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00775\"}",
+  "gbl_wxsIdentifier_s": "gf06h571s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00775\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gf06h571s/manifest\"}",
   "id": "VAC3073-M-00775",
   "dct_identifier_sm": [
-    "VAC3073-M-00775"
+    "VAC3073-M-00775",
+    "G4090 1902 .R36"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

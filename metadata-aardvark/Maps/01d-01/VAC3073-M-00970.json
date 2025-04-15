@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Water resources",
   "dct_description_sm": [
-    "Detached from: Kingsbury, Robert C. Atlas of Indiana, page 19. Scale approximately 3,500,000"
+    "4 maps on 1 sheet, River discharge, Major reservoirs, Average annual runoff and Ground water. Includes index for Major reservoirs map.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 19.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:3,500,000; Dimensions: on sheet 28 x 21 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,12 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Water-supply",
+    "Groundwater",
+    "Reservoirs",
+    "Runoff",
+    "Streamflow"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -51,11 +57,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00970\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00970\"}",
+  "gbl_wxsIdentifier_s": "c534gs186",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00970\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/c534gs186/manifest\"}",
   "id": "VAC3073-M-00970",
   "dct_identifier_sm": [
-    "VAC3073-M-00970"
+    "VAC3073-M-00970",
+    "G1400 .K53 1970"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

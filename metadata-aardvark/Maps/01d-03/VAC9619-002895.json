@@ -37,8 +37,8 @@
     "Russia--Berezug",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33.75 57, 33.5 57, 33.5 56.833, 33.75 56.833, 33.75 57))",
-  "dcat_bbox": "ENVELOPE(33.75,33.5,57,56.833)",
+  "locn_geometry": "POLYGON((33.750 57.000, 33.500 57.000, 33.500 56.833, 33.750 56.833, 33.750 57.000))",
+  "dcat_bbox": "ENVELOPE(33.750,33.500,57.000,56.833)",
   "dcat_centroid": "56.9165,33.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002895\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002895\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1j92g833z\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/x633g895p/manifest\"}",
   "id": "VAC9619-002895",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002895",
     "GM G7000 s50 .S68 sheet O-36-116-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

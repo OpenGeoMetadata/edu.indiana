@@ -37,9 +37,9 @@
     "Belarus--Tikhinichi",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((30 53.1667, 29.75 53.1667, 29.75 53, 30 53, 30 53.1667))",
-  "dcat_bbox": "ENVELOPE(30,29.75,53.1667,53)",
-  "dcat_centroid": "53.083349999999996,29.875",
+  "locn_geometry": "POLYGON((30.000 53.167, 29.750 53.167, 29.750 53.000, 30.000 53.000, 30.000 53.167))",
+  "dcat_bbox": "ENVELOPE(30.000,29.750,53.167,53.000)",
+  "dcat_centroid": "53.0835,29.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000706\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000706\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/qz20st187\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qb98nq843/manifest\"}",
   "id": "VAC9619-000706",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000706",
     "GM G7000 s50 .S68 N-35-108-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

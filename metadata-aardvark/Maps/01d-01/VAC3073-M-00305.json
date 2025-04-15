@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Bedrock geology",
   "dct_description_sm": [
-    "Detached from: Kingsbury, Robert C. Atlas of Indiana, page 17. Scale approximately 2,150,000"
+    "Includes geological time table.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 17.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Dimensions: 26 x 18 cm, on sheet 28 x 21 cm; Scale: Approximately 1:2,150,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geology",
+    "Geology, Structural"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -51,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00305\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00305\"}",
+  "gbl_wxsIdentifier_s": "gm80jz20k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00305\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gm80jz20k/manifest\"}",
   "id": "VAC3073-M-00305",
   "dct_identifier_sm": [
-    "VAC3073-M-00305"
+    "VAC3073-M-00305",
+    "G4091.C5 1970 .K57"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

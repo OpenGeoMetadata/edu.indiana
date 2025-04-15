@@ -34,9 +34,9 @@
     "Finland--Savitaipale",
     "Finland"
   ],
-  "locn_geometry": "POLYGON((28 61.3333, 27.5 61.3333, 27.5 61, 28 61, 28 61.3333))",
-  "dcat_bbox": "ENVELOPE(28,27.5,61.3333,61)",
-  "dcat_centroid": "61.166650000000004,27.75",
+  "locn_geometry": "POLYGON((28.000 61.333, 27.500 61.333, 27.500 61.000, 28.000 61.000, 28.000 61.333))",
+  "dcat_bbox": "ENVELOPE(28.000,27.500,61.333,61.000)",
+  "dcat_centroid": "61.1665,27.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002381\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002381\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/bc386j96p\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1z40n336n/manifest\"}",
   "id": "VAC9619-002381",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002381",
     "G7000 s100 .S7 sheet P-35-104"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

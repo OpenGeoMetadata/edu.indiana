@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Geologic map of the 1° x 2° Cincinnati Quadrangle, Indiana and Ohio, showing bedrock and unconsolidated deposits",
+  "dct_title_s": "Geologic map of the 1¬¨‚àû x 2¬¨‚àû Cincinnati Quadrangle, Indiana and Ohio, showing bedrock and unconsolidated deposits",
   "dct_description_sm": [
-    "Base map modified from Army Map Service, Map NJ 16-3, 1964.' Includes text, cross section, columnar section, diagram, schematic section, ancillary map, and index map. Scale 1:250,000; Transverse Mercator projection By Henry H. Gray, Jane L. Forsyth, Allan F. Schneider, and Ansel M. Gooding."
+    "By Henry H. Gray, Jane L. Forsyth, Allan F. Schneider, and Ansel M. Gooding. Transverse Mercator projection. \"Base map modified from Army Map Service, Map NJ 16-3, 1964.\" Includes text, cross section, columnar section, diagram, schematic section, ancillary map, and index map.",
+    "Imprint: [Bloomington, Ind.] : Indiana Geological Survey, 1972",
+    "Dimensions: 73 x 66 cm; Scale: 1:250,000",
+    "Coordinates: W0860000 W0840000 N0400000 N0390000"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,7 +16,7 @@
     "Schneider, Allan F. (Allan Frank),1926-cartographer."
   ],
   "dct_publisher_sm": [
-    "Indiana Geological Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -22,9 +25,9 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geology, Stratigraphic",
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1972"
@@ -42,8 +45,8 @@
     "Ohio",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-86 40, -84 40, -84 39, -86 39, -86 40))",
-  "dcat_bbox": "ENVELOPE(-86,-84,40,39)",
+  "locn_geometry": "POLYGON((-86.000 40.000, -84.000 40.000, -84.000 39.000, -86.000 39.000, -86.000 40.000))",
+  "dcat_bbox": "ENVELOPE(-86.000,-84.000,40.000,39.000)",
   "dcat_centroid": "39.5,-85.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,11 +56,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01245\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01245\"}",
+  "gbl_wxsIdentifier_s": "t722jd64k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01245\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/t722jd64k/manifest\"}",
   "id": "VAC3073-M-01245",
   "dct_identifier_sm": [
-    "VAC3073-M-01245"
+    "VAC3073-M-01245",
+    "G4091 .C5 1972 .G455"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

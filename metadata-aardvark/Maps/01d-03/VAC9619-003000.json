@@ -33,8 +33,8 @@
   "gbl_dateRange_drsim": [
     "[1923 TO 1923]"
   ],
-  "locn_geometry": "POLYGON((32 60, 31.75 60, 31.75 59.833, 32 59.833, 32 60))",
-  "dcat_bbox": "ENVELOPE(32,31.75,60,59.833)",
+  "locn_geometry": "POLYGON((32.000 60.000, 31.750 60.000, 31.750 59.833, 32.000 59.833, 32.000 60.000))",
+  "dcat_bbox": "ENVELOPE(32.000,31.750,60.000,59.833)",
   "dcat_centroid": "59.9165,31.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,12 +52,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003000\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003000\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/q811kk352\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gt54n069d/manifest\"}",
   "id": "VAC9619-003000",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003000",
     "GM G7000 s50 .S68 sheet O-36-4-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

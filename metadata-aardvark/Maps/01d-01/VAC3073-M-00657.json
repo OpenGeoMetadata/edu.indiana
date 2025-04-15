@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "Central Indiana Power Company subsidiaries",
+  "dct_title_s": "Central Indiana Power Company Subsidiaries",
   "dct_description_sm": [
-    "Shows electric transmission lines and electric interurban railway lines of the Central Indiana Power Company. Scale approximately 1:1,250,000."
+    "Shows electric transmission lines and electric interurban railway lines of the Central Indiana Power Company.",
+    "Imprint: New York : Poor's Publishing Company, [1927]",
+    "Scale: 1:1,250,000; Dimensions: 31 x 20 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Poor's Publishing Company"
   ],
   "dct_publisher_sm": [
     "Poor's Publishing Company"
@@ -17,10 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Central Indiana Power Company"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -46,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00657\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00657\"}",
+  "gbl_wxsIdentifier_s": "wh247v711",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00657\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/wh247v711/manifest\"}",
   "id": "VAC3073-M-00657",
   "dct_identifier_sm": [
-    "VAC3073-M-00657"
+    "VAC3073-M-00657",
+    "G4091.N4 1927 .P66"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

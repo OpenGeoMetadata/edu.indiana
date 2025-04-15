@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "General highway and transportation map, Vanderburg County, Indiana",
+  "dct_title_s": "General highway and transportation map of Vanderburg County, Indiana",
   "dct_description_sm": [
-    "Blueline. 'State roads revised to January 1949.' 'Data obtained from Statewide Highway Planning Survey.' '1937.' '82.' Scale approximately 1:130,000. Not '1 inch=1 mile'; Polyconic projection Prepared by the State Highway Commission of Indiana in cooperation with the U.S. Department of Agriculture, Bureau Public Roads."
+    "Blueline. \"State roads revised to January 1949.\" \"Data obtained from State-wide Highway Planning Survey\". \"1937.\" \"82.\"",
+    "Imprint: [Indianapolis?] : State Highway Commission of Indiana, [1949?]",
+    "Scale: 1:130,000; Dimensions: 44 x 52 cm",
+    "Coordinates: W0874200 W0872700 N0381000 N0375000"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "dct_publisher_sm": [
     "State Highway Commission of Indiana"
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00957\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00957\"}",
+  "gbl_wxsIdentifier_s": "vd66x285h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00957\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vd66x285h/manifest\"}",
   "id": "VAC3073-M-00957",
   "dct_identifier_sm": [
-    "VAC3073-M-00957"
+    "VAC3073-M-00957",
+    "G4093.V3 P2 1949 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

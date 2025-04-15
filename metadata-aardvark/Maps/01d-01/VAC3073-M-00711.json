@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of southwestern Indiana showing locations of active coal mines",
+  "dct_title_s": "Map of Southwestern Indiana showing locations of active coal mines",
   "dct_description_sm": [
-    "Blue line print. 'Base modified from Indiana Department of Conservation, Geological Survey. Base map of portion of western Indiana, 1951.' Includes 'Outline map of Indiana showing location of map area', 'Township diagram', and index of 'Active coal mines in Indiana (as of February 1, 1974).' Scale approximately 1:325,000. Compiled by Harold C. Hutchison."
+    "Blue line print. \"Base modified from Indiana Department of Conservation, Geological Survey. Base map of portion of western Indiana, 1951.\" Includes \"Outline map of Indiana showing location of map area\", \"Township diagram\", and Index of \"Active coal mines in Indiana (as of February 1, 1974).\"",
+    "Imprint: [Bloomington, Ind.] : Indiana Dept. of Conservation, Geological Survey, [1974]",
+    "Scale: 1:325,000; Dimensions: 88 x 54 cm",
+    "Coordinates: W0880100 W0862800 N0403900 N0374500"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Hutchison, Harold C. (Harold Christy), 1925-"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,8 @@
     "Mine maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Coal mines and mining"
   ],
   "dct_temporal_sm": [
     "1974"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00711\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00711\"}",
+  "gbl_wxsIdentifier_s": "5x21vh95b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00711\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5x21vh95b/manifest\"}",
   "id": "VAC3073-M-00711",
   "dct_identifier_sm": [
-    "VAC3073-M-00711"
+    "VAC3073-M-00711",
+    "G4091 .H9 1974 .H8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

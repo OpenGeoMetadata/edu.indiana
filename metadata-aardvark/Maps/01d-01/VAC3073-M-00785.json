@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Map of Vermillion County, Indiana with principal towns",
+  "dct_title_s": "Map of Vermillion County Indiana with principal towns",
   "dct_description_sm": [
-    "Cadastral map showing landowners. Shows Commissioners Districts. Includes maps of Perrysville, Eugene, Newport, railroads of Indiana, and Clinton and drawing of Court House. Scale 1:42,240. 1 mile to 1 1/2 inches. Compiled and drafted from original surveys and records of the county by Jas. Tarrance."
+    "Cadastral map showing landowners. Shows Commissioners Districts. Includes maps of Perrysville, Eugene, Newport, railroads of Indiana, and Clinton and drawing of Court House.",
+    "Imprint: [Place of publication not identified] : [publisher not identified], 1872.",
+    "Scale: 1:42,240; Dimensions: 148 x 61 cm, pieces 51 x 65 and 52 x 65 cm",
+    "Coordinates: W0873200 W0872300 N0400900 N0393700"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Tarrance, James"
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -17,11 +23,9 @@
     "Cadastral maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Railroads",
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1872"
@@ -53,11 +57,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00785\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00785\"}",
+  "gbl_wxsIdentifier_s": "mp48tg43b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00785\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/mp48tg43b/manifest\"}",
   "id": "VAC3073-M-00785",
   "dct_identifier_sm": [
-    "VAC3073-M-00785"
+    "VAC3073-M-00785",
+    "G4093 .V4G46 1872 .T37"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "General highway and transportation map, Bartholomew County, Indiana",
+  "dct_title_s": "General highway and transportation map of Bartholomew County, Indiana",
   "dct_description_sm": [
-    "Blue line print. 'State roads revised January 1, 1949.' '1937.' 'Data obtained from Statewide Highway Planning Survey.' '3.' Includes location map. Scale 1:63,360. 1 inch =1 mile.; Polyconic projection Prepared by the State Highway Commission of Indiana in cooperation with the U.S. Department of Agriculture, Bureau Public Roads."
+    "Blue line print. \"State roads revised January 1, 1949.\" \"1937.\" \"Data obtained from State-wide Highway Planning Survey.\" \"3.\"  Includes location map.",
+    "Imprint: [Indianapolis?] : State Highway Commission of Indiana, 1949.",
+    "Dimensions: 91 x 107 cm; Scale: 1:63,360",
+    "Coordinates: W0860500 W0844100 N0392100 N0390200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. State Highway Commission (1919-1953)"
+  ],
   "dct_publisher_sm": [
-    "The Commission"
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00950\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00950\"}",
+  "gbl_wxsIdentifier_s": "kh04fs58k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00950\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/kh04fs58k/manifest\"}",
   "id": "VAC3073-M-00950",
   "dct_identifier_sm": [
-    "VAC3073-M-00950"
+    "VAC3073-M-00950",
+    "G4093.B3P2 1949 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,8 +37,8 @@
     "Russia--Chelnovaya",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33 55, 32.75 55, 32.75 54.833, 33 54.833, 33 55))",
-  "dcat_bbox": "ENVELOPE(33,32.75,55,54.833)",
+  "locn_geometry": "POLYGON((33.000 55.000, 32.750 55.000, 32.750 54.833, 33.000 54.833, 33.000 55.000))",
+  "dcat_bbox": "ENVELOPE(33.000,32.750,55.000,54.833)",
   "dcat_centroid": "54.9165,32.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001308\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001308\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/9z903062p\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rr173742t/manifest\"}",
   "id": "VAC9619-001308",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001308",
     "GM G7000 S50 .S68 N-36-42-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

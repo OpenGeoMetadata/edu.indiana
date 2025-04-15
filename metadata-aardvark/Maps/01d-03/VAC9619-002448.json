@@ -37,8 +37,8 @@
     "Russia--Tsimlyansk Reservoir",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((43 48, 42.5 48, 42.5 47.667, 43 47.667, 43 48))",
-  "dcat_bbox": "ENVELOPE(43,42.5,48,47.667)",
+  "locn_geometry": "POLYGON((43.000 48.000, 42.500 48.000, 42.500 47.667, 43.000 47.667, 43.000 48.000))",
+  "dcat_bbox": "ENVELOPE(43.000,42.500,48.000,47.667)",
   "dcat_centroid": "47.8335,42.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002448\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002448\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/fx719n25h\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zp38xr19p/manifest\"}",
   "id": "VAC9619-002448",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002448",
     "G7000 s100 .S7 sheet L-38-2"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

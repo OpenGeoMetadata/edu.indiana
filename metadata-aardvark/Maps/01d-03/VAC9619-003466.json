@@ -34,8 +34,8 @@
     "Russia--Luk’yanovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((32 56.5, 31.75 56.5, 31.75 56.333, 32 56.333, 32 56.5))",
-  "dcat_bbox": "ENVELOPE(32,31.75,56.5,56.333)",
+  "locn_geometry": "POLYGON((32.000 56.500, 31.750 56.500, 31.750 56.333, 32.000 56.333, 32.000 56.500))",
+  "dcat_bbox": "ENVELOPE(32.000,31.750,56.500,56.333)",
   "dcat_centroid": "56.4165,31.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003466\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003466\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/7h149q64c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tt44qx80k/manifest\"}",
   "id": "VAC9619-003466",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003466",
     "GM G7000 s50 .S68 sheet O-36-124-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

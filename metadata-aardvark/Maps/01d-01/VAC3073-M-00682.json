@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Geological map of Indiana",
   "dct_description_sm": [
-    "Vertical section of the geological strata of Indiana from Fox River, Ill. to Oxford, O / arranged from Prof. Christy.' 'Vertical section of the geological strata of Indiana from the mouth of Wabash Rivir [sic] through Fort Wayne to Lake Erie.' Scales differ. Geological formations delineated by Nelson Sayler."
+    "\"Vertical section of the geological strata of Indiana from Fox River, Ill. to Oxford, O / arranged from Prof. Christy.\"   \"Vertical section of the geological strata of Indiana from the mouth of Wabash Rivir [sic] through Fort Wayne to Lake Erie.\"",
+    "Imprint: Cincinnati : E. Mendenhall, 1865.",
+    "Scale: Scales differ.; Dimensions: 47 x 33 cm, on sheet 71 x 63 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Sayler, Nelson"
   ],
   "dct_publisher_sm": [
-    "E. Mendenhall"
+    "Mendenhall, Edward"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,10 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geology, Stratigraphic",
+    "Valleys",
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1865"
@@ -48,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00682\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00682\"}",
+  "gbl_wxsIdentifier_s": "8910kz12h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00682\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8910kz12h/manifest\"}",
   "id": "VAC3073-M-00682",
   "dct_identifier_sm": [
-    "VAC3073-M-00682"
+    "VAC3073-M-00682",
+    "G4091.C5 1865 .S29"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

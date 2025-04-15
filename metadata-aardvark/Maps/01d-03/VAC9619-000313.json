@@ -34,9 +34,9 @@
     "Russia--Krasnoznamensk",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((22.5 55, 22.25 55, 22.25 54.8333, 22.5 54.8333, 22.5 55))",
-  "dcat_bbox": "ENVELOPE(22.5,22.25,55,54.8333)",
-  "dcat_centroid": "54.916650000000004,22.375",
+  "locn_geometry": "POLYGON((22.500 55.000, 22.250 55.000, 22.250 54.833, 22.500 54.833, 22.500 55.000))",
+  "dcat_bbox": "ENVELOPE(22.500,22.250,55.000,54.833)",
+  "dcat_centroid": "54.9165,22.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000313\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000313\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/5712m7288\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/m613p561r/manifest\"}",
   "id": "VAC9619-000313",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000313",
     "G7000 s50 .S68 N-34-45-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

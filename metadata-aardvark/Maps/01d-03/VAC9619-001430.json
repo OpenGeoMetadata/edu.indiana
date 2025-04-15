@@ -34,9 +34,9 @@
     "Russia--Ulyanovo Pervoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((35.75 53.8667, 35.5 53.8667, 35.5 53.6667, 35.75 53.6667, 35.75 53.8667))",
-  "dcat_bbox": "ENVELOPE(35.75,35.5,53.8667,53.6667)",
-  "dcat_centroid": "53.7667,35.625",
+  "locn_geometry": "POLYGON((35.750 53.867, 35.500 53.867, 35.500 53.667, 35.750 53.667, 35.750 53.867))",
+  "dcat_bbox": "ENVELOPE(35.750,35.500,53.867,53.667)",
+  "dcat_centroid": "53.766999999999996,35.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001430\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001430\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/t148fj085\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5712nk25p/manifest\"}",
   "id": "VAC9619-001430",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001430",
     "GM G7000 S50 .S68 N-36-84-В"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

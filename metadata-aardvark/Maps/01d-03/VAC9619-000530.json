@@ -34,8 +34,8 @@
     "Belarus--Knyahinin",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((27.25 54.8333, 27 54.8333, 27 54.6667, 27.25 54.6667, 27.25 54.8333))",
-  "dcat_bbox": "ENVELOPE(27.25,27,54.8333,54.6667)",
+  "locn_geometry": "POLYGON((27.250 54.833, 27.000 54.833, 27.000 54.667, 27.250 54.667, 27.250 54.833))",
+  "dcat_bbox": "ENVELOPE(27.250,27.000,54.833,54.667)",
   "dcat_centroid": "54.75,27.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000530\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000530\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/0z708x08t\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zk51wp31d/manifest\"}",
   "id": "VAC9619-000530",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000530",
     "G7000 s50 .S68 sheet N-35-43-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

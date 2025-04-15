@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "General highway and transportation map, Monroe County, Indiana",
+  "dct_title_s": "General highway and transportation map of Monroe County, Indiana",
   "dct_description_sm": [
-    "Blueline. '1937.' '53.' 'Corrected to January 1, 1937.' Includes location map and chart of 'Culture in unincorporated places.' Scale approximately 1:130,000.; Polyconic projection Prepared by the State Highway Commission of Indiana, in cooperation with the U.S. Department of Agriculture, Bureau of Public Roads."
+    "Blueline. \"1937.\" \"53.\" \"Corrected to January 1, 1937.\" Includes location map and chart of \"Culture in unincorporated places.\"",
+    "Imprint: [Indianapolis] : State Highway Commission of Indiana, 1937.",
+    "Scale: 1:130,000",
+    "Coordinates: W0864100 W0861900 N0392100 N0390000"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. State Highway Commission (1919-1953)"
+  ],
   "dct_publisher_sm": [
-    "State Highway Commission of Indiana"
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1937"
@@ -33,8 +39,8 @@
     "Indiana",
     "Indiana--Monroe County"
   ],
-  "locn_geometry": "POLYGON((-86.68 39.35, -86.31 39.35, -86.31 39, -86.68 39, -86.68 39.35))",
-  "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,39)",
+  "locn_geometry": "POLYGON((-86.680 39.350, -86.310 39.350, -86.310 39.000, -86.680 39.000, -86.680 39.350))",
+  "dcat_bbox": "ENVELOPE(-86.680,-86.310,39.350,39.000)",
   "dcat_centroid": "39.175,-86.495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00994\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00994\"}",
+  "gbl_wxsIdentifier_s": "9306v268q",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00994\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9306v268q/manifest\"}",
   "id": "VAC3073-M-00994",
   "dct_identifier_sm": [
-    "VAC3073-M-00994"
+    "VAC3073-M-00994",
+    "G4093.M7P2 1937 .I52"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

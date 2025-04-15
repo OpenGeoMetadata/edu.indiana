@@ -38,9 +38,9 @@
     "Ukraine--Republic Of Crimea",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((33.5 46, 33 46, 33 45.6667, 33.5 45.6667, 33.5 46))",
-  "dcat_bbox": "ENVELOPE(33.5,33,46,45.6667)",
-  "dcat_centroid": "45.833349999999996,33.25",
+  "locn_geometry": "POLYGON((33.500 46.000, 33.000 46.000, 33.000 45.667, 33.500 45.667, 33.500 46.000))",
+  "dcat_bbox": "ENVELOPE(33.500,33.000,46.000,45.667)",
+  "dcat_centroid": "45.8335,33.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,12 +57,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001940\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001940\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/qb98mg305\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4f16dc921/manifest\"}",
   "id": "VAC9619-001940",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001940",
     "G7000 s100 .S7 sheet L-36-79"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

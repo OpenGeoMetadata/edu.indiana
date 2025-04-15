@@ -37,8 +37,8 @@
     "Russia--Baltutino",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33 54.667, 32.75 54.667, 32.75 54.5, 33 54.5, 33 54.667))",
-  "dcat_bbox": "ENVELOPE(33,32.75,54.667,54.5)",
+  "locn_geometry": "POLYGON((33.000 54.667, 32.750 54.667, 32.750 54.500, 33.000 54.500, 33.000 54.667))",
+  "dcat_bbox": "ENVELOPE(33.000,32.750,54.667,54.500)",
   "dcat_centroid": "54.5835,32.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001342\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001342\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/5h73px00c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/n009xc170/manifest\"}",
   "id": "VAC9619-001342",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001342",
     "GM G7000 S50 .S68 N-36-54-Б"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

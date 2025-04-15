@@ -37,8 +37,8 @@
     "Russia--Vidzha",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((31.25 57.8333, 31 57.8333, 31 57.6667, 31.25 57.6667, 31.25 57.8333))",
-  "dcat_bbox": "ENVELOPE(31.25,31,57.8333,57.6667)",
+  "locn_geometry": "POLYGON((31.250 57.833, 31.000 57.833, 31.000 57.667, 31.250 57.667, 31.250 57.833))",
+  "dcat_bbox": "ENVELOPE(31.250,31.000,57.833,57.667)",
   "dcat_centroid": "57.75,31.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003524\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003524\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/1v53jx817\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qf85pp737/manifest\"}",
   "id": "VAC9619-003524",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003524",
     "GM G7000 s50 .S68 sheet O-36-75-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

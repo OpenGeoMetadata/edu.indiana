@@ -34,8 +34,8 @@
     "Estonia--Rapla",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((25 59.167, 24.75 59.167, 24.75 59, 25 59, 25 59.167))",
-  "dcat_bbox": "ENVELOPE(25,24.75,59.167,59)",
+  "locn_geometry": "POLYGON((25.000 59.167, 24.750 59.167, 24.750 59.000, 25.000 59.000, 25.000 59.167))",
+  "dcat_bbox": "ENVELOPE(25.000,24.750,59.167,59.000)",
   "dcat_centroid": "59.0835,24.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001826\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001826\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/2b88qd012\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rf560j319/manifest\"}",
   "id": "VAC9619-001826",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001826",
     "G7000 s50 .S68 sheet O-35-26-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

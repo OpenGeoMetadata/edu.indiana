@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Urban population change, 1910-1960",
   "dct_description_sm": [
-    "Detached from: Kingsbury, Robert C. Atlas of Indiana, page 43. Computer generated isopleth map obtained through use of the facilities of Indiana University's Research Computer Center. Scale approximately 1:2,500,000"
+    "Computer generated isopleth map obtained through use of the facilities of Indiana University's Research Computer Center. ASCII-art map created using SYMAP or similar technique.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 43.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Dimensions: 26 x 18 cm, on sheet 28 x 21 cm; Scale: Approximately 1:2,500,000",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,11 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Population geography",
+    "Historical geography",
+    "SYMAP (Computer program language)",
+    "City dwellers"
   ],
   "dct_temporal_sm": [
     "1960"
@@ -50,11 +55,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00926\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00926\"}",
+  "gbl_wxsIdentifier_s": "p8419q83f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00926\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/p8419q83f/manifest\"}",
   "id": "VAC3073-M-00926",
   "dct_identifier_sm": [
-    "VAC3073-M-00926"
+    "VAC3073-M-00926",
+    "G4091.E2 1960 .K52"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

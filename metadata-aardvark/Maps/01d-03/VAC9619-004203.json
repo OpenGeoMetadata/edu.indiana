@@ -34,8 +34,8 @@
     "Russia--Novozybkov",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((32 52.667, 31.5 52.667, 31.5 52.333, 32 52.333, 32 52.667))",
-  "dcat_bbox": "ENVELOPE(32,31.5,52.667,52.333)",
+  "locn_geometry": "POLYGON((32.000 52.667, 31.500 52.667, 31.500 52.333, 32.000 52.333, 32.000 52.667))",
+  "dcat_bbox": "ENVELOPE(32.000,31.500,52.667,52.333)",
   "dcat_centroid": "52.5,31.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004203\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004203\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/nk322f16b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/c821hw33s/manifest\"}",
   "id": "VAC9619-004203",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-004203",
     "G7000 s100 .S7 sheet N-36-124"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

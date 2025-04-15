@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Cattle and calves distribution, 1964 /by Robert C. Kingsbury ; with contributions from John M. Hollingsworth and others.",
+  "dct_title_s": "Cattle and calves distribution, 1964",
   "dct_description_sm": [
-    "Includes ancillary computer generated isopleth map Cattle and calves: number per 1,000 acres of cropland, 1964.; Detached from: Kingsbury, Robert C. Atlas of Indiana, page 71."
+    "Dot distribution map. Includes ancillary computer generated isopleth map Cattle and calves: number per 1,000 acres of cropland, 1964. ASCII-art map created using SYMAP or similar technique.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 71.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: 1:2,534,400; Dimensions: 26 x 18 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,14 +22,14 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Cattle",
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "SYMAP (Computer program language)",
+    "Cattle--Geographical distribution"
   ],
   "dct_temporal_sm": [
     "1970"
   ],
+  "dct_issued_s": "1970",
   "gbl_indexYear_im": [
     "1970"
   ],
@@ -50,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00066\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00066\"}",
+  "gbl_wxsIdentifier_s": "jd474071d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00066\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/jd474071d/manifest\"}",
   "id": "VAC3073-M-00066",
   "dct_identifier_sm": [
-    "VAC3073-M-00066"
+    "VAC3073-M-00066",
+    "G4091.J5 1964 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

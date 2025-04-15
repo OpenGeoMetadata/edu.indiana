@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Road map of Monroe County, Indiana",
   "dct_description_sm": [
-    "Includes text and indexes and logo of the Monroe County Department of Highways. Shows '2 mile fringe' and 'Ellettsville Corp. Bdry.' in red. 'Approved May 1, 1987, Board of Commissioners of Monroe County, Indiana.' 'Home of 1987 NCAA champions.' Scale approximately 1:63,360. Map prepared by C.J. Klooz, Columbus Reproduction & Supply Co."
+    "Includes text and indexes and logo of the Monroe County Department of Highways.   Shows \"2 mile fringe\" and \"Ellettsville Corp. Bdry.\" in red.   \"Approved May 1, 1987, Board of Commissioners of Monroe County, Indiana.\"   \"Home of 1987 NCAA champions.\"",
+    "Imprint: Columbus, Ind. : The Company, 1987.",
+    "Scale: 1:63,360; Dimensions: 68 x 55 cm",
+    "Coordinates: W0864100 W0861900 N0392100 N0390000"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Klooz, C. J."
   ],
   "dct_publisher_sm": [
-    "The Company"
+    "Columbus Reproduction & Supply Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1987"
@@ -37,8 +39,8 @@
     "Indiana",
     "Indiana--Monroe County"
   ],
-  "locn_geometry": "POLYGON((-86.68 39.35, -86.31 39.35, -86.31 39, -86.68 39, -86.68 39.35))",
-  "dcat_bbox": "ENVELOPE(-86.68,-86.31,39.35,39)",
+  "locn_geometry": "POLYGON((-86.680 39.350, -86.310 39.350, -86.310 39.000, -86.680 39.000, -86.680 39.350))",
+  "dcat_bbox": "ENVELOPE(-86.680,-86.310,39.350,39.000)",
   "dcat_centroid": "39.175,-86.495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00800\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00800\"}",
+  "gbl_wxsIdentifier_s": "w6635623r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00800\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/w6635623r/manifest\"}",
   "id": "VAC3073-M-00800",
   "dct_identifier_sm": [
-    "VAC3073-M-00800"
+    "VAC3073-M-00800",
+    "G4093.M7P2 1987 .K6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

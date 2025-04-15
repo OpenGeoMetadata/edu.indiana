@@ -37,8 +37,8 @@
     "Russia--Kalach-Kurtlak",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((42.5 49, 42 49, 42 48.667, 42.5 48.667, 42.5 49))",
-  "dcat_bbox": "ENVELOPE(42.5,42,49,48.667)",
+  "locn_geometry": "POLYGON((42.500 49.000, 42.000 49.000, 42.000 48.667, 42.500 48.667, 42.500 49.000))",
+  "dcat_bbox": "ENVELOPE(42.500,42.000,49.000,48.667)",
   "dcat_centroid": "48.8335,42.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003425\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003425\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/mw22v622g\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/3f463g52d/manifest\"}",
   "id": "VAC9619-003425",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003425",
     "G7000 s100 .S7 sheet M-38-109"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

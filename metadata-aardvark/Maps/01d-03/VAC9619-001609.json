@@ -34,9 +34,9 @@
     "Russia--Sloboda",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((37.25 54.1667, 37 54.1667, 37 54, 37.25 54, 37.25 54.1667))",
-  "dcat_bbox": "ENVELOPE(37.25,37,54.1667,54)",
-  "dcat_centroid": "54.083349999999996,37.125",
+  "locn_geometry": "POLYGON((37.250 54.167, 37.000 54.167, 37.000 54.000, 37.250 54.000, 37.250 54.167))",
+  "dcat_bbox": "ENVELOPE(37.250,37.000,54.167,54.000)",
+  "dcat_centroid": "54.0835,37.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001609\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001609\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/r781wg88q\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/v979wd73x/manifest\"}",
   "id": "VAC9619-001609",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001609",
     "G7000 s50 .S68 sheet N-37-63-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

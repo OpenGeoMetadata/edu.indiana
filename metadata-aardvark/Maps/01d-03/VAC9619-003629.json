@@ -37,9 +37,9 @@
     "Lithuania--Josvainiai",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((23.875 55.25, 23.75 55.25, 23.75 55.1667, 23.875 55.1667, 23.875 55.25))",
-  "dcat_bbox": "ENVELOPE(23.875,23.75,55.25,55.1667)",
-  "dcat_centroid": "55.208349999999996,23.8125",
+  "locn_geometry": "POLYGON((23.875 55.250, 23.750 55.250, 23.750 55.167, 23.875 55.167, 23.875 55.250))",
+  "dcat_bbox": "ENVELOPE(23.875,23.750,55.250,55.167)",
+  "dcat_centroid": "55.2085,23.8125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003629\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003629\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/g732d9837\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rn302b77d/manifest\"}",
   "id": "VAC9619-003629",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003629",
     "G7063.K2 s25 .S6 sheet N-34-36-B-c"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

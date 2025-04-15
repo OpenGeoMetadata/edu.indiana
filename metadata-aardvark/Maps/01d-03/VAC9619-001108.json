@@ -37,9 +37,9 @@
     "Ukraine--Chaplinka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((35 48.8667, 34.75 48.8667, 34.75 48.6667, 35 48.6667, 35 48.8667))",
-  "dcat_bbox": "ENVELOPE(35,34.75,48.8667,48.6667)",
-  "dcat_centroid": "48.7667,34.875",
+  "locn_geometry": "POLYGON((35.000 48.867, 34.750 48.867, 34.750 48.667, 35.000 48.667, 35.000 48.867))",
+  "dcat_bbox": "ENVELOPE(35.000,34.750,48.867,48.667)",
+  "dcat_centroid": "48.766999999999996,34.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001108\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001108\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/dv13zv051\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sn00c6563/manifest\"}",
   "id": "VAC9619-001108",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001108",
     "G7000 s50 .S68 М-36-118-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

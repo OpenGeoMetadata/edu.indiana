@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Parke County soil map",
   "dct_description_sm": [
-    "Detached from: Soil survey of Parke County / Harold Orahood. In 38th Annual report of Department of Geology and Natural Resources, Indiana. 'State survey'--Upper margin. Also shows railroads, rural roads, main thoroughfares, school houses and churches. Scale approximately 1:63,360 Harold Orahood."
+    "Detached from: Soil Survey of Parke County / Harold Orahood. In 38th Annual report of Department of Geology and Natural Resources, Indiana. \"State survey\"-- Upper margin. Also shows railroads, rural roads, main thoroughfares, school houses and churches. From page 119 of the 38th Annual Report.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources, Indiana], [1914]",
+    "Scale: 1:63,360; Dimensions: 61 x 55 cm",
+    "Coordinates: W0872602 W0870034 N0395712 N0393617"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,8 +13,7 @@
     "Orahood, C. H. (Charley Harold),1882-cartographer."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,11 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -41,8 +39,8 @@
     "Indiana",
     "Indiana--Parke County"
   ],
-  "locn_geometry": "POLYGON((-87.43 39.95, -87 39.95, -87 39.6, -87.43 39.6, -87.43 39.95))",
-  "dcat_bbox": "ENVELOPE(-87.43,-87,39.95,39.6)",
+  "locn_geometry": "POLYGON((-87.430 39.950, -87.000 39.950, -87.000 39.600, -87.430 39.600, -87.430 39.950))",
+  "dcat_bbox": "ENVELOPE(-87.430,-87.000,39.950,39.600)",
   "dcat_centroid": "39.775000000000006,-87.215",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01500\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01500\"}",
+  "gbl_wxsIdentifier_s": "1c18fj597",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01500\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1c18fj597/manifest\"}",
   "id": "VAC3073-M-01500",
   "dct_identifier_sm": [
-    "VAC3073-M-01500"
+    "VAC3073-M-01500",
+    "G4093.P2J3 1913 .O7"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

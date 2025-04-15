@@ -34,8 +34,8 @@
     "Russia--Kaliningradskaya Oblast",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((20.375 54.6667, 20.25 54.6667, 20.25 54.5833, 20.375 54.5833, 20.375 54.6667))",
-  "dcat_bbox": "ENVELOPE(20.375,20.25,54.6667,54.5833)",
+  "locn_geometry": "POLYGON((20.375 54.667, 20.250 54.667, 20.250 54.583, 20.375 54.583, 20.375 54.667))",
+  "dcat_bbox": "ENVELOPE(20.375,20.250,54.667,54.583)",
   "dcat_centroid": "54.625,20.3125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003736\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003736\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/6d56zx52j\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pk02dp477/manifest\"}",
   "id": "VAC9619-003736",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003736",
     "G7063.K2 s25 .S6 sheet N-34-53-B-а"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

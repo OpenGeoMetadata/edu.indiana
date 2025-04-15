@@ -37,8 +37,8 @@
     "Belarus--Balashevichy",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((29 53, 28.75 53, 28.75 52.833, 29 52.833, 29 53))",
-  "dcat_bbox": "ENVELOPE(29,28.75,53,52.833)",
+  "locn_geometry": "POLYGON((29.000 53.000, 28.750 53.000, 28.750 52.833, 29.000 52.833, 29.000 53.000))",
+  "dcat_bbox": "ENVELOPE(29.000,28.750,53.000,52.833)",
   "dcat_centroid": "52.9165,28.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002822\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002822\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/c247ds79w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/kw52kk38j/manifest\"}",
   "id": "VAC9619-002822",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002822",
     "G7000 s50 .s68 sheet N-35-119-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

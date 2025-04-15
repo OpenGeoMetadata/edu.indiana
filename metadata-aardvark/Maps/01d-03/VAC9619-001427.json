@@ -37,8 +37,8 @@
     "Russia--Khotkovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((35.25 53.833, 35 53.833, 35 53.667, 35.25 53.667, 35.25 53.833))",
-  "dcat_bbox": "ENVELOPE(35.25,35,53.833,53.667)",
+  "locn_geometry": "POLYGON((35.250 53.833, 35.000 53.833, 35.000 53.667, 35.250 53.667, 35.250 53.833))",
+  "dcat_bbox": "ENVELOPE(35.250,35.000,53.833,53.667)",
   "dcat_centroid": "53.75,35.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001427\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001427\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/73666511g\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/ws85bt35s/manifest\"}",
   "id": "VAC9619-001427",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001427",
     "GM G7000 S50 .S68 N-36-83-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

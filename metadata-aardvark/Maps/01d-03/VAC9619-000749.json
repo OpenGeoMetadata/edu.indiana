@@ -34,9 +34,9 @@
     "Belarus--Vyalikiya Chuchavichy",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((27 52.6667, 26.75 52.6667, 26.75 52.5, 27 52.5, 27 52.6667))",
-  "dcat_bbox": "ENVELOPE(27,26.75,52.6667,52.5)",
-  "dcat_centroid": "52.583349999999996,26.875",
+  "locn_geometry": "POLYGON((27.000 52.667, 26.750 52.667, 26.750 52.500, 27.000 52.500, 27.000 52.667))",
+  "dcat_bbox": "ENVELOPE(27.000,26.750,52.667,52.500)",
+  "dcat_centroid": "52.5835,26.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000749\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000749\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/x920fx79r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/bn99bf90d/manifest\"}",
   "id": "VAC9619-000749",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000749",
     "G7000 s50 .s68 sheet N-35-126-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

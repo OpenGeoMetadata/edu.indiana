@@ -34,8 +34,8 @@
     "Ukraine--Lypne",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((26.25 51.167, 26 51.167, 26 51, 26.25 51, 26.25 51.167))",
-  "dcat_bbox": "ENVELOPE(26.25,26,51.167,51)",
+  "locn_geometry": "POLYGON((26.250 51.167, 26.000 51.167, 26.000 51.000, 26.250 51.000, 26.250 51.167))",
+  "dcat_bbox": "ENVELOPE(26.250,26.000,51.167,51.000)",
   "dcat_centroid": "51.0835,26.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000206\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000206\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/ms35t933r\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cj82mg17r/manifest\"}",
   "id": "VAC9619-000206",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000206",
     "G7000 s50 .S68 sheet M-35-29-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

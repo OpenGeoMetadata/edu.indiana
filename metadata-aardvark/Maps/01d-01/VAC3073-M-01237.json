@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Where shall we go? Map showing points of interest in Indiana Information on hotels, trains and accommodations in state parks",
+  "dct_title_s": "Where shall we go? Map showing points of interest in Indiana. Information on hotels, trains and accommodations in state parks",
   "dct_description_sm": [
-    "Map title: Map of Indiana showing points of interest and state highways. 'Map furnished by Indiana State Highway Commission, R.F. Pickens, del.' On verso: text about points of interest and key to map. Scale 1:963,000.1 11/16 inches equals 25 miles. Compiled by Chas. G. Sauers."
+    "Map title: Map of Indiana showing points of interest and state highways. \"Map furnished by Indiana State Highway Commission, R.F. Pickens, del.\" On verso: text about points of interest and key to map.",
+    "Imprint: [Indianapolis] : The Department of Conservation, [approximately 1925]",
+    "Dimensions: 50 x 31 cm; Scale: 1:963,000",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Sauers, Chas. G. (Charles G.),compiler."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources"
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Tourist maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Parks",
+    "Roads"
   ],
   "dct_temporal_sm": [
     "About 1925"
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01237\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01237\"}",
+  "gbl_wxsIdentifier_s": "z890sw52j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01237\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/z890sw52j/manifest\"}",
   "id": "VAC3073-M-01237",
   "dct_identifier_sm": [
-    "VAC3073-M-01237"
+    "VAC3073-M-01237",
+    "G4091.E635 1925 .I6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

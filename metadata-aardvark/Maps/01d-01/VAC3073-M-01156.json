@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil map, Indiana, Hamilton County",
+  "dct_title_s": "Soil map, Indiana, Hamilton County sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of Hamilton County, Indiana / Lewis A. Hurst [and others]. In 37th Annual report of Deptartment of Geology and Natural Resources, Indiana. Scale approximately 1:95,000 U.S. Department of Agriculture, Bureau of Soils; State of Indiana, Department of Geology; soils surveyed by Lewis A. Hurst of the U.S. Deptartment of Agriculture, Bureau of Soils; E.J. Grimes, R.S. Hesler, and H.G. Young of the Indiana Department of Geology."
+    "Detached from: Soil survey of Hamilton County, Indiana / Lewis A. Hurst [and others]. In Thirty-seventh annual report of Department of Geology and Natural Resources, Indiana ... 1912. Indianapolis : Wm. B. Burford, 1913. Page 68.",
+    "Imprint: [Indianapolis] : State of Indiana, Department of Geology, [1913]  [Indianapolis] : [Wm. B. Burford], [1913]",
+    "Dimensions: 34 x 34 cm; Scale: Approximately 1:95,000",
+    "Coordinates: W0861433 W0855142 N0401308 N0395533"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,8 +16,7 @@
     "Young, H. G. (Soil surveyor)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -23,9 +25,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -41,9 +42,9 @@
     "Indiana--Hamilton County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.23 40.21, -85.8501 40.21, -85.8501 39.91, -86.23 39.91, -86.23 40.21))",
-  "dcat_bbox": "ENVELOPE(-86.23,-85.8501,40.21,39.91)",
-  "dcat_centroid": "40.06,-86.04005000000001",
+  "locn_geometry": "POLYGON((-86.230 40.210, -85.850 40.210, -85.850 39.910, -86.230 39.910, -86.230 40.210))",
+  "dcat_bbox": "ENVELOPE(-86.230,-85.850,40.210,39.910)",
+  "dcat_centroid": "40.06,-86.03999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01156\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01156\"}",
+  "gbl_wxsIdentifier_s": "h989s685q",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01156\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/h989s685q/manifest\"}",
   "id": "VAC3073-M-01156",
   "dct_identifier_sm": [
-    "VAC3073-M-01156"
+    "VAC3073-M-01156",
+    "G4093.H2J3 1912 .H88"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,8 +37,8 @@
     "Russia--Grushevskaya",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((40 47.6667, 39.5 47.6667, 39.5 47.3333, 40 47.3333, 40 47.6667))",
-  "dcat_bbox": "ENVELOPE(40,39.5,47.6667,47.3333)",
+  "locn_geometry": "POLYGON((40.000 47.667, 39.500 47.667, 39.500 47.333, 40.000 47.333, 40.000 47.667))",
+  "dcat_bbox": "ENVELOPE(40.000,39.500,47.667,47.333)",
   "dcat_centroid": "47.5,39.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002006\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002006\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/f7623d498\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vh53z494r/manifest\"}",
   "id": "VAC9619-002006",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002006",
     "G7000 s100 .S7 sheet L-37-20"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

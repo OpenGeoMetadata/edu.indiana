@@ -18,9 +18,7 @@
     "Military maps"
   ],
   "dcat_keyword_sm": [
-    "Soviet Union",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Soviet Union"
   ],
   "dct_temporal_sm": [
     "1939-1941"
@@ -36,9 +34,9 @@
     "Russia--Klyuksovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33.100237 54.200197, 33.450254 54.200197, 33.450254 54.100164, 33.100237 54.100164, 33.100237 54.200197))",
-  "dcat_bbox": "ENVELOPE(33.100237,33.450254,54.200197,54.100164)",
-  "dcat_centroid": "54.150180500000005,33.2752455",
+  "locn_geometry": "POLYGON((33.100 54.200, 33.450 54.200, 33.450 54.100, 33.100 54.100, 33.100 54.200))",
+  "dcat_bbox": "ENVELOPE(33.100,33.450,54.200,54.100)",
+  "dcat_centroid": "54.150000000000006,33.275000000000006",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001388\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001388\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/7s75dd02b\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4t64hz078/manifest\"}",
   "id": "VAC9619-001388",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001388",
     "GM G7000 S50 .S68 N-36-67-Г"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Mendenhall's guide and road map of Indiana: showing main touring routes & good roads",
+  "dct_title_s": "Mendenhall's guide and road map to Indiana : showing main touring routes & good roads",
   "dct_description_sm": [
-    "Insets: Marion County, Ind.--New Albany, Jeffersonville and Louisville District. Includes 20 p. text describing 163 different tour routes. Scale approximately 1:550,000. Published by C.S. Mendenhall."
+    "Insets: Marion County, Ind.--New Albany, Jeffersonville and louisville District. Includes 20 p. text describing 163 different tour routes.",
+    "Imprint: Cincinnati : C.S. Mendenhall, [1906]",
+    "Scale: 1:550,000; Dimensions: 89 x 68 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "C.S. Mendenhall (Firm)"
+  ],
   "dct_publisher_sm": [
-    "C.S. Mendenhall"
+    "C.S. Mendenhall (Firm)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00687\"}",
+  "gbl_wxsIdentifier_s": "fb495d09m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00687\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fb495d09m/manifest\"}",
   "id": "VAC3073-M-00687",
   "dct_identifier_sm": [
-    "VAC3073-M-00687"
+    "VAC3073-M-00687",
+    "G4091.P2 1906 .C74"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

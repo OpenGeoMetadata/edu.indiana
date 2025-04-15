@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Owen County [Indiana] land use map: preliminary",
+  "dct_title_s": "Owen County [Indiana] land use map : preliminary",
   "dct_description_sm": [
-    "Includes chart showing type of land use, acreage, and recommended use. Scale not given. Prepared by Owen County Land Use Planning Committee."
+    "Includes chart showing type of land use, acreage, and recommended use.",
+    "Imprint: [Spencer, Ind.?] : The Committee, [1940?]",
+    "Dimensions: 22 x 24 cm, on sheet 39 x 28 cm; Scale: Scale not given.",
+    "Coordinates: W0870317 W0863750 N0392824 N0390956"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Owen County (Ind.). Land Use Planning Committee"
+  ],
   "dct_publisher_sm": [
-    "The Committee"
+    "Owen County (Ind.). Land Use Planning Committee"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,9 +24,6 @@
   ],
   "dct_subject_sm": [
     "Land use"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -36,9 +39,9 @@
     "Indiana",
     "Indiana--Owen County"
   ],
-  "locn_geometry": "POLYGON((-87.05 39.46, -86.6101 39.46, -86.6101 39.1501, -87.05 39.1501, -87.05 39.46))",
-  "dcat_bbox": "ENVELOPE(-87.05,-86.6101,39.46,39.1501)",
-  "dcat_centroid": "39.30505,-86.83005",
+  "locn_geometry": "POLYGON((-87.050 39.460, -86.610 39.460, -86.610 39.150, -87.050 39.150, -87.050 39.460))",
+  "dcat_bbox": "ENVELOPE(-87.050,-86.610,39.460,39.150)",
+  "dcat_centroid": "39.305,-86.83",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00753\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00753\"}",
+  "gbl_wxsIdentifier_s": "rx914s909",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00753\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rx914s909/manifest\"}",
   "id": "VAC3073-M-00753",
   "dct_identifier_sm": [
-    "VAC3073-M-00753"
+    "VAC3073-M-00753",
+    "G4093.O8G4 1940 O94"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

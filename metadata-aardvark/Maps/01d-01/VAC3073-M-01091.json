@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Posey County sheet",
   "dct_description_sm": [
-    "Detached from: Soil survey of Posey County, Indiana / Herbert W. Marean. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:66,000 Soils surveyed by Herbert W. Marean, 1902, U.S. Bureau of Soils."
+    "Soils surveyed by Herbert W. Marean, 1902, U.S. Bureau of Soils.    Detached from: Soil survey of Posey County, Indiana / Herbert W. Marean. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 388.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources], [1912]; Imprint: [Indianapolis] : [Wm. B. Burford], [1912]",
+    "Dimensions: 79 x 55 cm; Scale: Approximately 1:66,000",
+    "Coordinates: W0880557 W0874117 N0381349 N0374618"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,8 +13,7 @@
     "Marean, Herbert W."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -38,9 +39,9 @@
     "Indiana--Posey County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-88.0801 38.2101, -87.68 38.2101, -87.68 37.76, -88.0801 37.76, -88.0801 38.2101))",
-  "dcat_bbox": "ENVELOPE(-88.0801,-87.68,38.2101,37.76)",
-  "dcat_centroid": "37.98505,-87.88005000000001",
+  "locn_geometry": "POLYGON((-88.080 38.210, -87.680 38.210, -87.680 37.760, -88.080 37.760, -88.080 38.210))",
+  "dcat_bbox": "ENVELOPE(-88.080,-87.680,38.210,37.760)",
+  "dcat_centroid": "37.985,-87.88",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01091\"}",
+  "gbl_wxsIdentifier_s": "8049h833q",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01091\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8049h833q/manifest\"}",
   "id": "VAC3073-M-01091",
   "dct_identifier_sm": [
-    "VAC3073-M-01091"
+    "VAC3073-M-01091",
+    "G4093.P6J3 1902 .M3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

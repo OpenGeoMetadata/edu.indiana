@@ -34,8 +34,8 @@
     "Poland--Toruń",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((19 53.333, 18.5 53.333, 18.5 53, 19 53, 19 53.333))",
-  "dcat_bbox": "ENVELOPE(19,18.5,53.333,53)",
+  "locn_geometry": "POLYGON((19.000 53.333, 18.500 53.333, 18.500 53.000, 19.000 53.000, 19.000 53.333))",
+  "dcat_bbox": "ENVELOPE(19.000,18.500,53.333,53.000)",
   "dcat_centroid": "53.1665,18.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003964\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003964\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/qj72p7940\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/rx9151275/manifest\"}",
   "id": "VAC9619-003964",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003964",
     "G7000 s100 .S7 sheet N-34-98"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

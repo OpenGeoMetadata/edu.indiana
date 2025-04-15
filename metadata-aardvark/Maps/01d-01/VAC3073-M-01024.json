@@ -1,10 +1,19 @@
 {
-  "dct_title_s": "Post route map, Indiana",
+  "dct_title_s": "Post route map : Indiana",
   "dct_description_sm": [
-    "Includes index to counties of Indiana.' 'Published by order of Postmaster General Arthur E. Summerfield.' 'September 3, 1957.' Scale approximately 1:443,520. Post Office Department, United States of America."
+    "\"Includes index to counties of Indiana.\" \"Published by order of Postmaster General Arthur E. Summerfield.\" \"September 3, 1957.\"",
+    "Imprint: [Washington, D.C.] : Dept., 1957",
+    "Dimensions: 104 x 66 cm; Scale: 1:443,520",
+    "Coordinates: W0880700 W0840500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "United States. Post Office Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Post Office Department"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -13,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Postal service"
   ],
   "dct_temporal_sm": [
     "1957"
@@ -40,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01024\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01024\"}",
+  "gbl_wxsIdentifier_s": "5t34tp67b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01024\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/5t34tp67b/manifest\"}",
   "id": "VAC3073-M-01024",
   "dct_identifier_sm": [
-    "VAC3073-M-01024"
+    "VAC3073-M-01024",
+    "G4091.P8 1957 .U6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:15:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

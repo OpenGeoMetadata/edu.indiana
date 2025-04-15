@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Settlements with a population of 1,000--25,000, 1960",
+  "dct_title_s": "Settlements with a population of 1,000-25,000, 1960",
   "dct_description_sm": [
-    "Detached from: Kingsbury, Robert C. Atlas of Indiana, page 29. Scale approximately 1:1,950,000"
+    "Graduated symbol map. At head of map: 3. Population characteristics.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 29.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:1,950,000; Dimensions: 23 x 18 cm, on sheet 28 x 21 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,10 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Population geography",
+    "Cities and towns",
+    "Population"
   ],
   "dct_temporal_sm": [
     "1960"
@@ -51,11 +55,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00406\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00406\"}",
+  "gbl_wxsIdentifier_s": "hh63tz72r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00406\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hh63tz72r/manifest\"}",
   "id": "VAC3073-M-00406",
   "dct_identifier_sm": [
-    "VAC3073-M-00406"
+    "VAC3073-M-00406",
+    "G4094.A1 1960 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

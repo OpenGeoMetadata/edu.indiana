@@ -1,20 +1,23 @@
 {
-  "dct_title_s": "Indianapolis and environs",
+  "dct_title_s": "Indianapolis and environs.",
   "dct_description_sm": [
-    "From Rand, McNally & Company's Indexed atlas of the world, 1902, p. 203-206. Includes inset of 'Business portion of Indianapolis.' A portion of the place name index on p. 203 and 206 on verso. Scale approximately 1:31,680. Rand McNally & Co."
+    "From Rand, McNally & Company's Indexed atlas of the world, 1902, p.203-206. Includes inset of \"Business portion of Indianapolis.\" A portion of the place name index on p. 203 and 206 on verso.",
+    "Imprint: [Chicago] :  Rand, McNally & Co., [1902]",
+    "Dimensions: 65 x 47 cm; Scale: 1:31,680",
+    "Coordinates: W0861941 W0855614 N0395538 N0393755"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Rand McNally and Company"
+  ],
   "dct_publisher_sm": [
-    "Rand McNally"
+    "Rand McNally and Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -30,9 +33,9 @@
     "Indiana--Indianapolis",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.3101 39.9101, -85.93 39.9101, -85.93 39.6101, -86.3101 39.6101, -86.3101 39.9101))",
-  "dcat_bbox": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
-  "dcat_centroid": "39.7601,-86.12005",
+  "locn_geometry": "POLYGON((-86.310 39.910, -85.930 39.910, -85.930 39.610, -86.310 39.610, -86.310 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.930,39.910,39.610)",
+  "dcat_centroid": "39.76,-86.12",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +44,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00676\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00676\"}",
+  "gbl_wxsIdentifier_s": "bv73d331w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00676\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/bv73d331w/manifest\"}",
   "id": "VAC3073-M-00676",
   "dct_identifier_sm": [
-    "VAC3073-M-00676"
+    "VAC3073-M-00676",
+    "G4094.I4 1902 .R3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

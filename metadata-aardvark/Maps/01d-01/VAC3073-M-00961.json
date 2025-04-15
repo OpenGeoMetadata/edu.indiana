@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Bloomington map, downtown Bloomington & Indiana University.",
+  "dct_title_s": "Bloomington map, downtown Bloomington & Indiana University",
   "dct_description_sm": [
-    "Includes distance map on map panel and indexes for the Bloomington and Indiana University, Bloomington campus maps. 'Breakaway to Bloomington, Indiana, official travel information source.' Scales differ."
+    "Includes distance map on map panel and indexes for the Bloomington and Indiana University, Bloomington campus maps.    \"Breakaway to Bloomington, Indiana, official travel information source.\"",
+    "Imprint: [Bloomington, Ind.] : [Bloomington/Monroe County Convention and Visitors Bureau], [2002?]",
+    "Dimensions: 46 x 43 cm; Scale: Scales differ.",
+    "Coordinates: W0863532 W0862816 N0391315 N0390716"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,8 +19,8 @@
   "gbl_resourceType_sm": [
     "Tourist maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Indiana University, Bloomington"
   ],
   "dct_temporal_sm": [
     "2002"
@@ -44,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00961\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00961\"}",
+  "gbl_wxsIdentifier_s": "vt151n45r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00961\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vt151n45r/manifest\"}",
   "id": "VAC3073-M-00961",
   "dct_identifier_sm": [
-    "VAC3073-M-00961"
+    "VAC3073-M-00961",
+    "G4094.B5 E635 2002 .B5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

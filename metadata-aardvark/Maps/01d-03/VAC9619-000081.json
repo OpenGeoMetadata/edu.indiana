@@ -37,9 +37,9 @@
     "Armenia--Lichk",
     "Armenia"
   ],
-  "locn_geometry": "POLYGON((46.25 39.1667, 46 39.1667, 46 39, 46.25 39, 46.25 39.1667))",
-  "dcat_bbox": "ENVELOPE(46.25,46,39.1667,39)",
-  "dcat_centroid": "39.083349999999996,46.125",
+  "locn_geometry": "POLYGON((46.250 39.167, 46.000 39.167, 46.000 39.000, 46.250 39.000, 46.250 39.167))",
+  "dcat_bbox": "ENVELOPE(46.250,46.000,39.167,39.000)",
+  "dcat_centroid": "39.0835,46.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000081\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000081\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/gq67jr918\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9306v593p/manifest\"}",
   "id": "VAC9619-000081",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000081",
     "G7000 s50 .S68 sheet J-38-33-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

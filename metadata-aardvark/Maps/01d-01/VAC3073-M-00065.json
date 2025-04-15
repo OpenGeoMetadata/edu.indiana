@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Higher education",
   "dct_description_sm": [
-    "Shows locations of Indiana universities and colleges. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 11. Scale approximately 1:2,500,000"
+    "Shows locations of Indiana universities and colleges. Includes index of Institutions accredited by the North Central Association and other institutions.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 11.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:2,500,000; Dimensions: 26 x 18 cm, on sheet 28 x 21 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Education, higher",
+    "Universities and colleges"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -51,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00065\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00065\"}",
+  "gbl_wxsIdentifier_s": "z316r461f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00065\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/z316r461f/manifest\"}",
   "id": "VAC3073-M-00065",
   "dct_identifier_sm": [
-    "VAC3073-M-00065"
+    "VAC3073-M-00065",
+    "G4091.E68 1970 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

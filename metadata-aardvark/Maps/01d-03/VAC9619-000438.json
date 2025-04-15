@@ -34,9 +34,9 @@
     "Lithuania--Lėnas",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((24.75 55.5, 24.5 55.5, 24.5 55.3333, 24.75 55.3333, 24.75 55.5))",
-  "dcat_bbox": "ENVELOPE(24.75,24.5,55.5,55.3333)",
-  "dcat_centroid": "55.416650000000004,24.625",
+  "locn_geometry": "POLYGON((24.750 55.500, 24.500 55.500, 24.500 55.333, 24.750 55.333, 24.750 55.500))",
+  "dcat_bbox": "ENVELOPE(24.750,24.500,55.500,55.333)",
+  "dcat_centroid": "55.4165,24.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000438\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000438\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/0v838136x\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/jw828k39j/manifest\"}",
   "id": "VAC9619-000438",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000438",
     "G7000 s50 .S68 sheet N-35-14-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

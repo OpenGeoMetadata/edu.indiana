@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Total intensity aeromagnetic map of Dubois County, Indiana: relative to arbitrary datum",
+  "dct_title_s": "Total intensity aeromagnetic map of DuBois County, Indiana relative to arbitrary datum",
   "dct_description_sm": [
-    "Includes text and location map. Scale approximately 1:63,360. Survey by J.R. Henderson and J.L. Meuschke; compilation directed by J.R. Henderson; Department of the Interior, United States Geological Survey; prepared in cooperation with Indiana Department of Conservation, Division of Geology."
+    "Includes text and location map.",
+    "Imprint: [Washington, D.C.] : U.S. Geological Survey, 1950.",
+    "Scale: 1:63,360; Dimensions: 57 x 64 cm",
+    "Coordinates: W0870423 W0864044 N0383135 N0381210"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Meuschke, J. L."
   ],
   "dct_publisher_sm": [
-    "United States Geological Survey"
+    "Geological Survey (U.S.)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -21,11 +24,8 @@
     "Geological maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Geological maps",
-    "Thematic maps",
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geomagnetism"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -40,9 +40,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.06 38.51, -86.6601 38.51, -86.6601 38.2, -87.06 38.2, -87.06 38.51))",
-  "dcat_bbox": "ENVELOPE(-87.06,-86.6601,38.51,38.2)",
-  "dcat_centroid": "38.355000000000004,-86.86005",
+  "locn_geometry": "POLYGON((-87.060 38.510, -86.660 38.510, -86.660 38.200, -87.060 38.200, -87.060 38.510))",
+  "dcat_bbox": "ENVELOPE(-87.060,-86.660,38.510,38.200)",
+  "dcat_centroid": "38.355000000000004,-86.86",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00835\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00835\"}",
+  "gbl_wxsIdentifier_s": "cz30qw182",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00835\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cz30qw182/manifest\"}",
   "id": "VAC3073-M-00835",
   "dct_identifier_sm": [
-    "VAC3073-M-00835"
+    "VAC3073-M-00835",
+    "G4093.D8C93 1950 .H46"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

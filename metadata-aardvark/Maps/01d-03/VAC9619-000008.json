@@ -37,9 +37,9 @@
     "Russia--Prokshenitsy",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33 60, 32.75 60, 32.75 59.8333, 33 59.8333, 33 60))",
-  "dcat_bbox": "ENVELOPE(33,32.75,60,59.8333)",
-  "dcat_centroid": "59.916650000000004,32.875",
+  "locn_geometry": "POLYGON((33.000 60.000, 32.750 60.000, 32.750 59.833, 33.000 59.833, 33.000 60.000))",
+  "dcat_bbox": "ENVELOPE(33.000,32.750,60.000,59.833)",
+  "dcat_centroid": "59.9165,32.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000008\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000008\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/kp78gg933\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/fj237630b/manifest\"}",
   "id": "VAC9619-000008",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000008",
     "G7000 s50 .S68 sheet O-36-6-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,9 +34,9 @@
     "Romania--Tileagd",
     "Romania"
   ],
-  "locn_geometry": "POLYGON((22.5 47.3333, 22 47.3333, 22 47, 22.5 47, 22.5 47.3333))",
-  "dcat_bbox": "ENVELOPE(22.5,22,47.3333,47)",
-  "dcat_centroid": "47.166650000000004,22.25",
+  "locn_geometry": "POLYGON((22.500 47.333, 22.000 47.333, 22.000 47.000, 22.500 47.000, 22.500 47.333))",
+  "dcat_bbox": "ENVELOPE(22.500,22.000,47.333,47.000)",
+  "dcat_centroid": "47.1665,22.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001158\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001158\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/c821gk48c\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/df65wh39d/manifest\"}",
   "id": "VAC9619-001158",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001158",
     "G7000 s100 .S7 sheet L-34-33"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

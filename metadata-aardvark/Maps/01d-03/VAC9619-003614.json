@@ -37,8 +37,8 @@
     "Lithuania--Žygaičiai",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((22.125 55.333, 22 55.333, 22 55.25, 22.125 55.25, 22.125 55.333))",
-  "dcat_bbox": "ENVELOPE(22.125,22,55.333,55.25)",
+  "locn_geometry": "POLYGON((22.125 55.333, 22.000 55.333, 22.000 55.250, 22.125 55.250, 22.125 55.333))",
+  "dcat_bbox": "ENVELOPE(22.125,22.000,55.333,55.250)",
   "dcat_centroid": "55.2915,22.0625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003614\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003614\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/cn69m503h\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/td96md21r/manifest\"}",
   "id": "VAC9619-003614",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003614",
     "G7063.K2 s25 .S6 sheet N-34-33-A-а"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

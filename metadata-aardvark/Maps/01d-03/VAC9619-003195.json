@@ -34,8 +34,8 @@
     "Latvia--Balvi",
     "Latvia"
   ],
-  "locn_geometry": "POLYGON((27.5 57.333, 27 57.333, 27 57, 27.5 57, 27.5 57.333))",
-  "dcat_bbox": "ENVELOPE(27.5,27,57.333,57)",
+  "locn_geometry": "POLYGON((27.500 57.333, 27.000 57.333, 27.000 57.000, 27.500 57.000, 27.500 57.333))",
+  "dcat_bbox": "ENVELOPE(27.500,27.000,57.333,57.000)",
   "dcat_centroid": "57.1665,27.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003195\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003195\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/p5547s24n\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/j0990p791/manifest\"}",
   "id": "VAC9619-003195",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003195",
     "G7000 s100 .S7 sheet O-35-103"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

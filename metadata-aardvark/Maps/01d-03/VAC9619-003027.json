@@ -34,8 +34,8 @@
     "Ukraine--Drohobych",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((24 49.667, 23.5 49.667, 23.5 49.333, 24 49.333, 24 49.667))",
-  "dcat_bbox": "ENVELOPE(24,23.5,49.667,49.333)",
+  "locn_geometry": "POLYGON((24.000 49.667, 23.500 49.667, 23.500 49.333, 24.000 49.333, 24.000 49.667))",
+  "dcat_bbox": "ENVELOPE(24.000,23.500,49.667,49.333)",
   "dcat_centroid": "49.5,23.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003027\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003027\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/pv63g102m\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/wd377616b/manifest\"}",
   "id": "VAC9619-003027",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003027",
     "G7000 s100 .S7 sheet M-34-96"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:01:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

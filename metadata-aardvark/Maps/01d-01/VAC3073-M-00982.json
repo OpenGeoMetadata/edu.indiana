@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Precinct map of Lake County, Indiana, April 1924",
+  "dct_title_s": "Precinct map of Lake County Indiana",
   "dct_description_sm": [
-    "Blue line. Scale approximately 1:63,360. C.K. Wallace."
+    "Blue line.",
+    "Imprint: [Crown Point, Ind.?] : [Lake County Engineer?], [1924?]",
+    "Scale: 1:63,360; Dimensions: 100 x 44 cm",
+    "Coordinates: W0873136 W0871307 N0414539 N0410943"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Wallace, C. K."
   ],
   "dct_publisher_sm": [
-    "Lake County Engineer"
+    "[Lake County Engineer?]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Administrative and political divisions"
   ],
   "dct_temporal_sm": [
     "1924"
@@ -37,9 +39,9 @@
     "Indiana--Lake County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.5101 41.7501, -87.21 41.7501, -87.21 41.1501, -87.5101 41.1501, -87.5101 41.7501))",
-  "dcat_bbox": "ENVELOPE(-87.5101,-87.21,41.7501,41.1501)",
-  "dcat_centroid": "41.450100000000006,-87.36005",
+  "locn_geometry": "POLYGON((-87.510 41.750, -87.210 41.750, -87.210 41.150, -87.510 41.150, -87.510 41.750))",
+  "dcat_bbox": "ENVELOPE(-87.510,-87.210,41.750,41.150)",
+  "dcat_centroid": "41.45,-87.36",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00982\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00982\"}",
+  "gbl_wxsIdentifier_s": "736676388",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00982\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/736676388/manifest\"}",
   "id": "VAC3073-M-00982",
   "dct_identifier_sm": [
-    "VAC3073-M-00982"
+    "VAC3073-M-00982",
+    "G4093.L3 F7 1924 .W35"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

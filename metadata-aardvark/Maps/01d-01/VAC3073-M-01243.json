@@ -1,23 +1,26 @@
 {
-  "dct_title_s": "Map of Evansville, Indiana, and environs",
+  "dct_title_s": "Map of Evansville, Indiana, and environs.",
   "dct_description_sm": [
-    "Includes index to streets and 'Explanations for street name prefixing.' Shows railroads, roads, churches, schools, fire houses, other public buildings, cemeteries, parks, and mail routes. Also shows address range on each block. Scale 1:18000. 1 inch = 1,500 feet. By E.E. Brownell Engineering Co."
+    "Includes index to streets and \"Explanations for street name prefixing.\" Shows railroads, roads, churches, schools, fire houses, other public buildings, cemeteries, parks, and mail routes. Also shows address range on each block.",
+    "Imprint: Philadelphia, Penna. : E.E. Brownell, [1929]",
+    "Dimensions: 45 x 68 cm, on sheet 56 x 86 cm; Scale: 1:18,000",
+    "Coordinates: W0873815 W0872700 N0380324 N0375608"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "E.E. Brownell Engineering Co."
+  ],
   "dct_publisher_sm": [
-    "E.E. Brownell Engineering Company"
+    "E.E. Brownell Engineering Co."
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Streets"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -45,11 +48,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01243\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01243\"}",
+  "gbl_wxsIdentifier_s": "nz8072265",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01243\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/nz8072265/manifest\"}",
   "id": "VAC3073-M-01243",
   "dct_identifier_sm": [
-    "VAC3073-M-01243"
+    "VAC3073-M-01243",
+    "G4094.E9 1929 .E3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:12:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

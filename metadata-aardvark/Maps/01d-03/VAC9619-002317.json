@@ -34,8 +34,8 @@
     "Finland--Joensuu",
     "Finland"
   ],
-  "locn_geometry": "POLYGON((30 62.6667, 29.5 62.6667, 29.5 62.3333, 30 62.3333, 30 62.6667))",
-  "dcat_bbox": "ENVELOPE(30,29.5,62.6667,62.3333)",
+  "locn_geometry": "POLYGON((30.000 62.667, 29.500 62.667, 29.500 62.333, 30.000 62.333, 30.000 62.667))",
+  "dcat_bbox": "ENVELOPE(30.000,29.500,62.667,62.333)",
   "dcat_centroid": "62.5,29.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002317\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002317\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/pz50gw77j\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zg64vx40z/manifest\"}",
   "id": "VAC9619-002317",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002317",
     "G7000 s100 .S7 sheet P-35-60"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

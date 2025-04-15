@@ -34,9 +34,9 @@
     "Russia--Kornevo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((20.5 54.5, 20.25 54.5, 20.25 54.3333, 20.5 54.3333, 20.5 54.5))",
-  "dcat_bbox": "ENVELOPE(20.5,20.25,54.5,54.3333)",
-  "dcat_centroid": "54.416650000000004,20.375",
+  "locn_geometry": "POLYGON((20.500 54.500, 20.250 54.500, 20.250 54.333, 20.500 54.333, 20.500 54.500))",
+  "dcat_bbox": "ENVELOPE(20.500,20.250,54.500,54.333)",
+  "dcat_centroid": "54.4165,20.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000315\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000315\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/tq57nr580\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/f4753q28p/manifest\"}",
   "id": "VAC9619-000315",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000315",
     "G7000 s50 .S68 sheet N-34-53-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

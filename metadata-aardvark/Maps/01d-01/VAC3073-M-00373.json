@@ -1,14 +1,19 @@
 {
-  "dct_title_s": "Soil map of Randolph County",
+  "dct_title_s": "Soil map of Randolph county",
   "dct_description_sm": [
-    "Shows railroads and public roads. Includes notes on general topography. Detached from: A soil survey of Randolph, Wayne, Henry, Rush, Fayette, Union and Franklin counties / Arthur E. Taylor. In 34th Annual report of the Indiana Department of Geology and Natural Resources. Scale approximately 1:126,720"
+    "Shows railroads and public roads. Includes notes on general topography.     Detached from: A soil survey of Randolph, Wayne, Henry, Rush, Fayette, Union and Franklin counties / Arthur E. Taylor. In Indiana Department of Geology and Natural Resources thirty-fourth annual report ... 1909. Indianapolis : Wm. B. Burford, 1910. Page 42.",
+    "Imprint: [Indianapolis] : [Indiana Department of Geology and Natural Resources], [1910]",
+    "Dimensions: 27 x 29 cm; Scale: Approximately 1:126,720",
+    "Coordinates: W0851307 W0844813 N0401836 N0400014"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. Department of Geology and Natural Resources"
+  ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "[Indiana Department of Geology and Natural Resources]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -18,10 +23,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1909"
@@ -37,9 +39,9 @@
     "Indiana",
     "Indiana--Randolph County"
   ],
-  "locn_geometry": "POLYGON((-85.21 40.3001, -84.8 40.3001, -84.8 40, -85.21 40, -85.21 40.3001))",
-  "dcat_bbox": "ENVELOPE(-85.21,-84.8,40.3001,40)",
-  "dcat_centroid": "40.15005,-85.005",
+  "locn_geometry": "POLYGON((-85.210 40.300, -84.800 40.300, -84.800 40.000, -85.210 40.000, -85.210 40.300))",
+  "dcat_bbox": "ENVELOPE(-85.210,-84.800,40.300,40.000)",
+  "dcat_centroid": "40.15,-85.005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00373\"}",
+  "gbl_wxsIdentifier_s": "70796d13s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00373\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/70796d13s/manifest\"}",
   "id": "VAC3073-M-00373",
   "dct_identifier_sm": [
-    "VAC3073-M-00373"
+    "VAC3073-M-00373",
+    "G4093.R3J3 1909 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

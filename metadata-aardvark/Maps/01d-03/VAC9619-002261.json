@@ -37,9 +37,9 @@
     "Russia--Ivanovo",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((41 57.3333, 40.5 57.3333, 40.5 57, 41 57, 41 57.3333))",
-  "dcat_bbox": "ENVELOPE(41,40.5,57.3333,57)",
-  "dcat_centroid": "57.166650000000004,40.75",
+  "locn_geometry": "POLYGON((41.000 57.333, 40.500 57.333, 40.500 57.000, 41.000 57.000, 41.000 57.333))",
+  "dcat_bbox": "ENVELOPE(41.000,40.500,57.333,57.000)",
+  "dcat_centroid": "57.1665,40.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002261\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002261\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/x633f175k\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9w033d642/manifest\"}",
   "id": "VAC9619-002261",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002261",
     "G7000 s100 .S7 sheet O-37-106"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

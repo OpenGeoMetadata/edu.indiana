@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Oats acreage, 1964",
   "dct_description_sm": [
-    "Includes ancillary computer generated isopleth map Oats as a percent of all cropland, 1964. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 68. Scale approximately 1:2,534,400"
+    "Dot distribution map. Includes ancillary computer generated isopleth map Oats as a percent of all cropland, 1964. ASCII-art map created using SYMAP or similar technique.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 68.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Dimensions: 26 x 18 cm, on sheet 28 x 21 cm; Scale: Approximately 1:2,534,400",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "SYMAP (Computer program language)",
+    "Oats--Geographical distribution"
   ],
   "dct_temporal_sm": [
     "1964"
@@ -51,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00391\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00391\"}",
+  "gbl_wxsIdentifier_s": "df65w983q",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00391\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/df65w983q/manifest\"}",
   "id": "VAC3073-M-00391",
   "dct_identifier_sm": [
-    "VAC3073-M-00391"
+    "VAC3073-M-00391",
+    "G4091.J61 1964 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

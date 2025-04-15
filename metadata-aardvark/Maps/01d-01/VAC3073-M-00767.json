@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "General highway map, Adams County, Indiana",
+  "dct_title_s": "General highway and transportation map of Adams County, Indiana",
   "dct_description_sm": [
-    "Blue line print. 'Corrected to May 1, 1941.' 'Data obtained from Statewide Highway Planning Survey.' Includes location map and charts 'Highway and street mileages' and 'Bridge and grade separation chart.' 'No. 1.' Scale 1:63,360. 1 inch =1 mile.; Polyconic projection Prepared by the State Highway Commission of Indiana in cooperation with the Federal Works Agency, Public Roads Administration."
+    "Blue line print. \"Corrected to May 1, 1941.\" \"Data obtained from State-wide Highway Planning Survey.\" Includes location map and charts \"Highway and street mileages\" and \"Bridge and grade separation chart.\" \"No. 1.\"",
+    "Imprint: [Indianapolis?] : The Commission, 1941.",
+    "Scale: 1:63,360; Dimensions: 89 x 104 cm",
+    "Coordinates: W0850400 W0844800 N0405500 N0403400"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. State Highway Commission (1919-1953)"
+  ],
   "dct_publisher_sm": [
-    "The Commission"
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1941"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00767\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00767\"}",
+  "gbl_wxsIdentifier_s": "g158cm88x",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00767\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/g158cm88x/manifest\"}",
   "id": "VAC3073-M-00767",
   "dct_identifier_sm": [
-    "VAC3073-M-00767"
+    "VAC3073-M-00767",
+    "G4093.A2P2 1949 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

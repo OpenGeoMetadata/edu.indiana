@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map showing location of clay and shale pits and ceramic plants in Indiana",
   "dct_description_sm": [
-    "Base from Map of Indiana, 1950 edition, published by U.S. Geological Survey. Minor revisions and additions made from Indiana Department of Conservation, Geological Survey, county base maps.' Scale 1:1,000,000 Compiled by H.H. Murray."
+    "\"Base from Map of Indiana, 1950 edition, published by U.S. Geological Survey. Minor revisions and additions made from Indiana Department of Conservation, Geological Survey, county base maps.\"",
+    "Imprint: [Bloomington, Ind.?] : Indiana Department of Conservation, Geological Survey, 1952.",
+    "Dimensions: 45 x 31 cm; Scale: 1:1,000,000",
+    "Coordinates: W0880000 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Murray, Haydn H. (Haydn Herbert),1924-cartographer."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,12 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Shale gas industry",
+    "Shale",
+    "Ceramic industries",
+    "Clay",
+    "Clay industries"
   ],
   "dct_temporal_sm": [
     "1952"
@@ -37,8 +43,8 @@
     "Indiana",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-88 41.75, -84.75 41.75, -84.75 37.86, -88 37.86, -88 41.75))",
-  "dcat_bbox": "ENVELOPE(-88,-84.75,41.75,37.86)",
+  "locn_geometry": "POLYGON((-88.000 41.750, -84.750 41.750, -84.750 37.860, -88.000 37.860, -88.000 41.750))",
+  "dcat_bbox": "ENVELOPE(-88.000,-84.750,41.750,37.860)",
   "dcat_centroid": "39.805,-86.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -48,11 +54,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00981\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00981\"}",
+  "gbl_wxsIdentifier_s": "jw828f41r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00981\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/jw828f41r/manifest\"}",
   "id": "VAC3073-M-00981",
   "dct_identifier_sm": [
-    "VAC3073-M-00981"
+    "VAC3073-M-00981",
+    "G4091.H5 1952 .M8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

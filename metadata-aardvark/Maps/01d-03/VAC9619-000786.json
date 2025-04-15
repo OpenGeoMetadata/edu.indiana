@@ -37,9 +37,9 @@
     "Russia--Alagir",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((44.5 43.3333, 44 43.3333, 44 43, 44.5 43, 44.5 43.3333))",
-  "dcat_bbox": "ENVELOPE(44.5,44,43.3333,43)",
-  "dcat_centroid": "43.166650000000004,44.25",
+  "locn_geometry": "POLYGON((44.500 43.333, 44.000 43.333, 44.000 43.000, 44.500 43.000, 44.500 43.333))",
+  "dcat_bbox": "ENVELOPE(44.500,44.000,43.333,43.000)",
+  "dcat_centroid": "43.1665,44.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000786\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000786\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/d217qq26q\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/t148gr72m/manifest\"}",
   "id": "VAC9619-000786",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000786",
     "G7000 s100 .S7 sheet K-38-29"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

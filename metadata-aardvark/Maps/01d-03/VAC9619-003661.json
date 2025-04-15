@@ -34,8 +34,8 @@
     "Russia--Slavyanskoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((21 54.913, 20.875 54.913, 20.875 54.833, 21 54.833, 21 54.913))",
-  "dcat_bbox": "ENVELOPE(21,20.875,54.913,54.833)",
+  "locn_geometry": "POLYGON((21.000 54.913, 20.875 54.913, 20.875 54.833, 21.000 54.833, 21.000 54.913))",
+  "dcat_bbox": "ENVELOPE(21.000,20.875,54.913,54.833)",
   "dcat_centroid": "54.873,20.9375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003661\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003661\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/tt44pn77f\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/h415qn14g/manifest\"}",
   "id": "VAC9619-003661",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003661",
     "G7063.K2 s25 .S6 sheet N-34-42-B-d"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

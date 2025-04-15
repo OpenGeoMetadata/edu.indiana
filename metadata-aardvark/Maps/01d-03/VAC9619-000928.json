@@ -37,9 +37,9 @@
     "Russia--Sherekino",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((35.25 51.6667, 35 51.6667, 35 51.5, 35.25 51.5, 35.25 51.6667))",
-  "dcat_bbox": "ENVELOPE(35.25,35,51.6667,51.5)",
-  "dcat_centroid": "51.583349999999996,35.125",
+  "locn_geometry": "POLYGON((35.250 51.667, 35.000 51.667, 35.000 51.500, 35.250 51.500, 35.250 51.667))",
+  "dcat_bbox": "ENVELOPE(35.250,35.000,51.667,51.500)",
+  "dcat_centroid": "51.5835,35.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000928\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000928\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/z316q243x\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/vq280x48c/manifest\"}",
   "id": "VAC9619-000928",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000928",
     "G7000 s50 .S68 sheet M-36-23-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

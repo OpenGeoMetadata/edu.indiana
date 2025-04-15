@@ -37,8 +37,8 @@
     "Russia--Ozero Verkhneye Chalmozero",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((32 68, 31 68, 31 67.667, 32 67.667, 32 68))",
-  "dcat_bbox": "ENVELOPE(32,31,68,67.667)",
+  "locn_geometry": "POLYGON((32.000 68.000, 31.000 68.000, 31.000 67.667, 32.000 67.667, 32.000 68.000))",
+  "dcat_bbox": "ENVELOPE(32.000,31.000,68.000,67.667)",
   "dcat_centroid": "67.8335,31.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002563\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002563\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/wh246t01z\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/db78vq08s/manifest\"}",
   "id": "VAC9619-002563",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002563",
     "G7000 s100 .S7 sheet Q-36-3"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

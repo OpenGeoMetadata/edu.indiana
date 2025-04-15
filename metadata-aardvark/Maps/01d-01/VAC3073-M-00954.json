@@ -1,10 +1,16 @@
 {
   "dct_title_s": "Indiana University, distribution of salaried employees",
   "dct_description_sm": [
-    "Blue line print. Shows numbers of Indiana University salaried employees by home cities and towns with graduated circles. Includes graphs. Scale approximately 1:500,000. R.D.W."
+    "Blue line print. Shows numbers of Indiana University salaried employees by home cities and towns with graduated circles.  Includes graphs.",
+    "Imprint: [Place of publication not identified] : [publisher not identified], [between 1950 and 1969?]",
+    "Scale: 1:500,000; Dimensions: 46 x 36 cm",
+    "Coordinates: W0873300 W0855300 N0394700 N0384000"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_publisher_sm": [
+    "[publisher not identified]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -13,8 +19,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Labor supply",
+    "Indiana University, Bloomington"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -40,11 +47,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00954\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00954\"}",
+  "gbl_wxsIdentifier_s": "02871z881",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00954\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/02871z881/manifest\"}",
   "id": "VAC3073-M-00954",
   "dct_identifier_sm": [
-    "VAC3073-M-00954"
+    "VAC3073-M-00954",
+    "G4094.B5 G8 1950 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

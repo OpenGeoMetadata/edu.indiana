@@ -34,9 +34,9 @@
     "Moldova--Chisinau",
     "Moldova"
   ],
-  "locn_geometry": "POLYGON((29 47.3333, 28.5 47.3333, 28.5 47, 29 47, 29 47.3333))",
-  "dcat_bbox": "ENVELOPE(29,28.5,47.3333,47)",
-  "dcat_centroid": "47.166650000000004,28.75",
+  "locn_geometry": "POLYGON((29.000 47.333, 28.500 47.333, 28.500 47.000, 29.000 47.000, 29.000 47.333))",
+  "dcat_bbox": "ENVELOPE(29.000,28.500,47.333,47.000)",
+  "dcat_centroid": "47.1665,28.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001530\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001530\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/ns064674s\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/kw52kk97q/manifest\"}",
   "id": "VAC9619-001530",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001530",
     "G7000 s100 .S7 sheet L-35-34"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

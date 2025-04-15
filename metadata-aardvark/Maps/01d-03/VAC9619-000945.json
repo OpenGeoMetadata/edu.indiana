@@ -37,9 +37,9 @@
     "Ukraine--Nosivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((31.75 51, 31.5 51, 31.5 50.8333, 31.75 50.8333, 31.75 51))",
-  "dcat_bbox": "ENVELOPE(31.75,31.5,51,50.8333)",
-  "dcat_centroid": "50.916650000000004,31.625",
+  "locn_geometry": "POLYGON((31.750 51.000, 31.500 51.000, 31.500 50.833, 31.750 50.833, 31.750 51.000))",
+  "dcat_bbox": "ENVELOPE(31.750,31.500,51.000,50.833)",
+  "dcat_centroid": "50.9165,31.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000945\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000945\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/hx11xf95h\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/kd17f384c/manifest\"}",
   "id": "VAC9619-000945",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000945",
     "G7000 s50 .S68 sheet M-36-40-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

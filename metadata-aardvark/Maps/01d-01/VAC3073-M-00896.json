@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Soil map, Indiana, Lake County Sheet",
+  "dct_title_s": "Soil map, Indiana, Lake County sheet",
   "dct_description_sm": [
-    "Map shows distribution of soil types by color and symbol. Soils surveyed by T.M . Bushnell of the U.S. Department of Agriculture, and Wendell Barret of the Indiana Department of Geology. 'Field operations, Bureau of Soils, 1917.' Scale approximately 1:63,360. 1 inch = 1 mile. U.S. Department of Agriculture, Bureau of Soils, State of Indiana Department of Geology."
+    "Map shows distribution of soil types by color and symbol. Soils surveyed by T.M. Bushnell of the U.S. Department of Agriculture, and Wendell Barret of the Indiana Department of Geology. \"Field operations, Bureau of Soils, 1917.\"",
+    "Imprint: [Washington, D.C.?] : [The Bureau], [1917?]",
+    "Scale: 1:63,360; Dimensions: 99 x 44 cm",
+    "Coordinates: W0873100 W0871330 N0374230 N0411000"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Bushnell, T. M. (Thomas Mark),1889-1976"
   ],
   "dct_publisher_sm": [
-    "The Bureau"
+    "United States. Bureau of Soils"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,9 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Soils",
+    "Classification"
   ],
   "dct_temporal_sm": [
     "1917"
@@ -49,11 +52,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00896\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00896\"}",
+  "gbl_wxsIdentifier_s": "f4753k27k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00896\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/f4753k27k/manifest\"}",
   "id": "VAC3073-M-00896",
   "dct_identifier_sm": [
-    "VAC3073-M-00896"
+    "VAC3073-M-00896",
+    "G4093 .L3J3 1917 .B8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

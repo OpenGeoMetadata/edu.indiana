@@ -37,8 +37,8 @@
     "Belarus--Chernyewka",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((31 54.167, 30.75 54.167, 30.75 54, 31 54, 31 54.167))",
-  "dcat_bbox": "ENVELOPE(31,30.75,54.167,54)",
+  "locn_geometry": "POLYGON((31.000 54.167, 30.750 54.167, 30.750 54.000, 31.000 54.000, 31.000 54.167))",
+  "dcat_bbox": "ENVELOPE(31.000,30.750,54.167,54.000)",
   "dcat_centroid": "54.0835,30.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001367\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001367\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/bk128b612\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/69700b45z/manifest\"}",
   "id": "VAC9619-001367",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001367",
     "GM G7000 S50 .S68 N-36-62-Г"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

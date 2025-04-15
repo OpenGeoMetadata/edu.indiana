@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Soil map of Shelby County",
   "dct_description_sm": [
-    "Detached from: Soil survey of Hancock, Shelby, and Johnson counties / Allen David Hole. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:86,000 Soils surveyed in 1911 by Allen D. Hole, assisted by B.W. Kelly, Mark Baldwin, and W.A. Roberts."
+    "Soils surveyed in 1911 by Allen D. Hole, assisted by B.W. Kelly, Mark Baldwin, and W.A. Roberts.    Detached from: Soil survey of Hancock, Shelby, and Johnson counties / Allen David Hole. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 64.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources, Indiana], [1912]; Imprint: [Indianapolis] : [Wm. B. Burford], [1912]",
+    "Scale: Approximately 1:86,000; Dimensions: 46 x 32 cm",
+    "Coordinates: W0855711 W0853744 N0394156 N0392050"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,8 +16,7 @@
     "Roberts, W. A. (Soil surveyor)"
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -23,9 +25,10 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geology",
+    "Soils",
+    "Mines and mineral resources"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -41,9 +44,9 @@
     "Indiana--Shelby County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-85.95 39.6801, -85.6101 39.6801, -85.6101 39.3301, -85.95 39.3301, -85.95 39.6801))",
-  "dcat_bbox": "ENVELOPE(-85.95,-85.6101,39.6801,39.3301)",
-  "dcat_centroid": "39.5051,-85.78005",
+  "locn_geometry": "POLYGON((-85.950 39.680, -85.610 39.680, -85.610 39.330, -85.950 39.330, -85.950 39.680))",
+  "dcat_bbox": "ENVELOPE(-85.950,-85.610,39.680,39.330)",
+  "dcat_centroid": "39.504999999999995,-85.78",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +55,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01072\"}",
+  "gbl_wxsIdentifier_s": "0c484n792",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01072\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/0c484n792/manifest\"}",
   "id": "VAC3073-M-01072",
   "dct_identifier_sm": [
-    "VAC3073-M-01072"
+    "VAC3073-M-01072",
+    "G4093.S4.J3 1911 .H6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

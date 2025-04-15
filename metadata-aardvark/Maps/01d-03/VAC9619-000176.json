@@ -34,8 +34,8 @@
     "Poland--Rzepiennik Biskupi",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((21.25 49.8333, 21 49.8333, 21 49.6667, 21.25 49.6667, 21.25 49.8333))",
-  "dcat_bbox": "ENVELOPE(21.25,21,49.8333,49.6667)",
+  "locn_geometry": "POLYGON((21.250 49.833, 21.000 49.833, 21.000 49.667, 21.250 49.667, 21.250 49.833))",
+  "dcat_bbox": "ENVELOPE(21.250,21.000,49.833,49.667)",
   "dcat_centroid": "49.75,21.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000176\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000176\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/j098zb93g\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/hq37ww37r/manifest\"}",
   "id": "VAC9619-000176",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000176",
     "G7000 s50 .S68 sheet M-34-79-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

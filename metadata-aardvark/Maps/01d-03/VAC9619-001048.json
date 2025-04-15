@@ -37,9 +37,9 @@
     "Ukraine--Starovirivka",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((35.75 49.6667, 35.5 49.6667, 35.5 49.5, 35.75 49.5, 35.75 49.6667))",
-  "dcat_bbox": "ENVELOPE(35.75,35.5,49.6667,49.5)",
-  "dcat_centroid": "49.583349999999996,35.625",
+  "locn_geometry": "POLYGON((35.750 49.667, 35.500 49.667, 35.500 49.500, 35.750 49.500, 35.750 49.667))",
+  "dcat_bbox": "ENVELOPE(35.750,35.500,49.667,49.500)",
+  "dcat_centroid": "49.5835,35.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001048\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001048\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/ng451j316\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zg64vw828/manifest\"}",
   "id": "VAC9619-001048",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001048",
     "G7000 s50 .S68 sheet M-36-96-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

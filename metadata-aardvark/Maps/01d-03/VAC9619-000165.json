@@ -34,8 +34,8 @@
     "Poland--Siedliszcze",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((23.25 51.3333, 23 51.3333, 23 51.1667, 23.25 51.1667, 23.25 51.3333))",
-  "dcat_bbox": "ENVELOPE(23.25,23,51.3333,51.1667)",
+  "locn_geometry": "POLYGON((23.250 51.333, 23.000 51.333, 23.000 51.167, 23.250 51.167, 23.250 51.333))",
+  "dcat_bbox": "ENVELOPE(23.250,23.000,51.333,51.167)",
   "dcat_centroid": "51.25,23.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000165\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000165\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/sf268585f\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/bz60f369p/manifest\"}",
   "id": "VAC9619-000165",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000165",
     "G7000 s50 .S68 sheet M-34-35-A"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,8 +34,8 @@
     "Russia--Otradnoye",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((20.125 55, 20 55, 20 54.917, 20.125 54.917, 20.125 55))",
-  "dcat_bbox": "ENVELOPE(20.125,20,55,54.917)",
+  "locn_geometry": "POLYGON((20.125 55.000, 20.000 55.000, 20.000 54.917, 20.125 54.917, 20.125 55.000))",
+  "dcat_bbox": "ENVELOPE(20.125,20.000,55.000,54.917)",
   "dcat_centroid": "54.9585,20.0625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003640\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/14701157\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003640\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/v692t6944\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1r66kc70w/manifest\"}",
   "id": "VAC9619-003640",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-003640",
     "G7063.K2 s25 .S6 sheet N-34-41-A-а"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

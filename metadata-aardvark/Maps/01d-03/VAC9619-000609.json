@@ -37,8 +37,8 @@
     "Belarus--Shapyalyevichy",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((29.75 54.167, 29.5 54.167, 29.5 54, 29.75 54, 29.75 54.167))",
-  "dcat_bbox": "ENVELOPE(29.75,29.5,54.167,54)",
+  "locn_geometry": "POLYGON((29.750 54.167, 29.500 54.167, 29.500 54.000, 29.750 54.000, 29.750 54.167))",
+  "dcat_bbox": "ENVELOPE(29.750,29.500,54.167,54.000)",
   "dcat_centroid": "54.0835,29.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000609\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000609\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/4b29b6652\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/jh345129g/manifest\"}",
   "id": "VAC9619-000609",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000609",
     "G7000 s50 .S68 sheet N-35-72-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

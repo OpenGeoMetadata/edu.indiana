@@ -31,8 +31,8 @@
     "Russia--Bolshaya Selga",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33.25 61.167, 33 61.167, 33 61, 33.25 61, 33.25 61.167))",
-  "dcat_bbox": "ENVELOPE(33.25,33,61.167,61)",
+  "locn_geometry": "POLYGON((33.250 61.167, 33.000 61.167, 33.000 61.000, 33.250 61.000, 33.250 61.167))",
+  "dcat_bbox": "ENVELOPE(33.250,33.000,61.167,61.000)",
   "dcat_centroid": "61.0835,33.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -50,12 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002930\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002930\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/2514nm312\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2v23x5178/manifest\"}",
   "id": "VAC9619-002930",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002930",
     "G7000 s50 .S68 sheet P-36-103-C"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

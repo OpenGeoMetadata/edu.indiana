@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "1929 road map Indiana",
+  "dct_title_s": "1929 Road Map Indiana",
   "dct_description_sm": [
-    "Issued by the State Automobile Insurance Association. Includes place name index on recto. Advertisements and 'Section of transcontinental highway map' showing the United States south of a line from Bangor, Maine to Wahpeton, North Dakota and east of a line from Limon, Colorado to Sanderson, Texas on verso. Scale 1:860,000. Engravers and publishers, the George F. Cram Company."
+    "Issued by the State Automobile Insurance Association.  Includes place name index on recto.  Advertisements and \"Section of transcontinental highway map\" showing the United States south of a line from Bangor, Maine to Wahpeton, North Dakota and east of a line from Limon, Colorado to Sanderson, Texas on verso.",
+    "Imprint: Indianapolis : Cram, 1929.",
+    "Dimensions: 58 x 38 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0375200"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "George F. Cram Company"
+  ],
   "dct_publisher_sm": [
-    "Cram"
+    "George F. Cram Company"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00794\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00794\"}",
+  "gbl_wxsIdentifier_s": "sq87cz249",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00794\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/sq87cz249/manifest\"}",
   "id": "VAC3073-M-00794",
   "dct_identifier_sm": [
-    "VAC3073-M-00794"
+    "VAC3073-M-00794",
+    "G4091.P2 1929 .G46"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

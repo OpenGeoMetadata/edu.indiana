@@ -37,9 +37,9 @@
     "Russia--Semenovshchina",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33 58, 32.5 58, 32.5 57.6667, 33 57.6667, 33 58))",
-  "dcat_bbox": "ENVELOPE(33,32.5,58,57.6667)",
-  "dcat_centroid": "57.833349999999996,32.75",
+  "locn_geometry": "POLYGON((33.000 58.000, 32.500 58.000, 32.500 57.667, 33.000 57.667, 33.000 58.000))",
+  "dcat_bbox": "ENVELOPE(33.000,32.500,58.000,57.667)",
+  "dcat_centroid": "57.8335,32.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002180\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002180\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/rn301207w\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/c821hv796/manifest\"}",
   "id": "VAC9619-002180",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002180",
     "G7000 s100 .S7 sheet O-36-78"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

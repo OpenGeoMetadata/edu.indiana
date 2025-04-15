@@ -37,9 +37,9 @@
     "Lithuania--Marijampolė",
     "Lithuania"
   ],
-  "locn_geometry": "POLYGON((23.5 54.6667, 23.25 54.6667, 23.25 54.5, 23.5 54.5, 23.5 54.6667))",
-  "dcat_bbox": "ENVELOPE(23.5,23.25,54.6667,54.5)",
-  "dcat_centroid": "54.583349999999996,23.375",
+  "locn_geometry": "POLYGON((23.500 54.667, 23.250 54.667, 23.250 54.500, 23.500 54.500, 23.500 54.667))",
+  "dcat_bbox": "ENVELOPE(23.500,23.250,54.667,54.500)",
+  "dcat_centroid": "54.5835,23.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000345\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000345\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/0p0967691\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/pz50j3642/manifest\"}",
   "id": "VAC9619-000345",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000345",
     "G7000 s50 .S68 sheet N-34-59-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

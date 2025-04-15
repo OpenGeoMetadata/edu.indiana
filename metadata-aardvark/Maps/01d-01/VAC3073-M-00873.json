@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Preliminary sewer survey: City of Jeffersonville & suburbs, County of Clark, State of Indiana",
   "dct_description_sm": [
-    "Shows 1884 and 1937 high water lines and floodwall. Blueprint. Includes diagram of Louisville and Portland Canal gages showing high water on various dates. 'April 1946.' 'Plate no. 1.' Scale approximately 1:6,000. Compiled by J.W. Bruner; drawn by Chester F. Stemler."
+    "Shows 1884 and 1937 high water lines and floodwall.     Blueprint.     Includes diagram of Louisville and Portland Canal gages showing high water on various dates. \"April 1946.\" \"Plate no. 1.\"",
+    "Imprint: [Jeffersonville, Ind.?] : Board of Public Works & Safety, [1946]",
+    "Scale: 1:6,000; Dimensions: 87 x 123 cm",
+    "Coordinates: W0854556 W0854143 N0381820 N0381537"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,9 +23,8 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Sewerage"
   ],
   "dct_temporal_sm": [
     "1946"
@@ -37,9 +39,9 @@
   "dct_spatial_sm": [
     "Indiana--Jeffersonville"
   ],
-  "locn_geometry": "POLYGON((-85.7501 38.3, -85.6801 38.3, -85.6801 38.2501, -85.7501 38.2501, -85.7501 38.3))",
-  "dcat_bbox": "ENVELOPE(-85.7501,-85.6801,38.3,38.2501)",
-  "dcat_centroid": "38.27505,-85.7151",
+  "locn_geometry": "POLYGON((-85.750 38.300, -85.680 38.300, -85.680 38.250, -85.750 38.250, -85.750 38.300))",
+  "dcat_bbox": "ENVELOPE(-85.750,-85.680,38.300,38.250)",
+  "dcat_centroid": "38.275,-85.715",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00873\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00873\"}",
+  "gbl_wxsIdentifier_s": "8c97mt25v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00873\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8c97mt25v/manifest\"}",
   "id": "VAC3073-M-00873",
   "dct_identifier_sm": [
-    "VAC3073-M-00873"
+    "VAC3073-M-00873",
+    "G4094.J4 N46 1946 .B78"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

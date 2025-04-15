@@ -37,9 +37,9 @@
     "Poland--Różan",
     "Poland"
   ],
-  "locn_geometry": "POLYGON((21.5 53, 21.25 53, 21.25 52.8333, 21.5 52.8333, 21.5 53))",
-  "dcat_bbox": "ENVELOPE(21.5,21.25,53,52.8333)",
-  "dcat_centroid": "52.916650000000004,21.375",
+  "locn_geometry": "POLYGON((21.500 53.000, 21.250 53.000, 21.250 52.833, 21.500 52.833, 21.500 53.000))",
+  "dcat_bbox": "ENVELOPE(21.500,21.250,53.000,52.833)",
+  "dcat_centroid": "52.9165,21.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000373\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000373\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/g732d962g\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/tq57pz74s/manifest\"}",
   "id": "VAC9619-000373",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-000373",
     "G7000 s50 .S68 sheet N-34-115-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

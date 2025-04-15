@@ -37,8 +37,8 @@
     "Russia--Taman",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((37 45.333, 36.5 45.333, 36.5 45, 37 45, 37 45.333))",
-  "dcat_bbox": "ENVELOPE(37,36.5,45.333,45)",
+  "locn_geometry": "POLYGON((37.000 45.333, 36.500 45.333, 36.500 45.000, 37.000 45.000, 37.000 45.333))",
+  "dcat_bbox": "ENVELOPE(37.000,36.500,45.333,45.000)",
   "dcat_centroid": "45.1665,36.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002358\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002358\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/ks65hd112\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4742bn36b/manifest\"}",
   "id": "VAC9619-002358",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002358",
     "G7000 s100 .S7 sheet L-37-98"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

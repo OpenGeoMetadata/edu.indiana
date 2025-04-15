@@ -31,8 +31,8 @@
     "Russia--Vazhinka River",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((34 61.667, 33.75 61.667, 33.75 61.5, 34 61.5, 34 61.667))",
-  "dcat_bbox": "ENVELOPE(34,33.75,61.667,61.5)",
+  "locn_geometry": "POLYGON((34.000 61.667, 33.750 61.667, 33.750 61.500, 34.000 61.500, 34.000 61.667))",
+  "dcat_bbox": "ENVELOPE(34.000,33.750,61.667,61.500)",
   "dcat_centroid": "61.5835,33.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -50,12 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002921\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002921\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/g445cf05t\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/gq67m269z/manifest\"}",
   "id": "VAC9619-002921",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002921",
     "GM G7000 s50 .S68 sheet P-36-92-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

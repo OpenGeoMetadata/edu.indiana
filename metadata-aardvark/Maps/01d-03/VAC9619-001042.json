@@ -37,9 +37,9 @@
     "Ukraine--Novi Sanzhary",
     "Ukraine"
   ],
-  "locn_geometry": "POLYGON((34.5 49.5, 34.25 49.5, 34.25 49.3333, 34.5 49.3333, 34.5 49.5))",
-  "dcat_bbox": "ENVELOPE(34.5,34.25,49.5,49.3333)",
-  "dcat_centroid": "49.416650000000004,34.375",
+  "locn_geometry": "POLYGON((34.500 49.500, 34.250 49.500, 34.250 49.333, 34.500 49.333, 34.500 49.500))",
+  "dcat_bbox": "ENVELOPE(34.500,34.250,49.500,49.333)",
+  "dcat_centroid": "49.4165,34.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001042\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001042\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/d504rm15f\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1j92hj228/manifest\"}",
   "id": "VAC9619-001042",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001042",
     "G7000 s50 .S68 sheet M-36-93-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

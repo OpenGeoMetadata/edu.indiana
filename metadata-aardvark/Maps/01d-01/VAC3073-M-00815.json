@@ -1,7 +1,10 @@
 {
   "dct_title_s": "State and national highways",
   "dct_description_sm": [
-    "Shows two lane and four lane federal highways and two lane and four lane state highways. Detached from: Kingsbury, Robert C. Atlas of Indiana, page 81. Scale approximately 2,000,000"
+    "Shows two lane and four lane federal highways and two lane and four lane state highways.    Detached from: An atlas of Indiana / by Robert C. Kingsbury , with contributions from John M. Hollingsworth and others. Bloomington, Indiana : Department of Geography, Indiana University, [1970]. Page 81.",
+    "Imprint: Bloomington, Indiana : Department of Geography, Indiana University, [1970]",
+    "Scale: Approximately 1:2,000,000; Dimensions: 26 x 18 cm, on sheet 28 x 21 cm",
+    "Coordinates: W0880700 W0844500 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Kingsbury, Robert C."
   ],
   "dct_publisher_sm": [
-    "Department of Geography, Indiana University"
+    "Indiana University. Department of Geography"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1970"
@@ -51,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00815\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00815\"}",
+  "gbl_wxsIdentifier_s": "2v23wx80d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00815\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2v23wx80d/manifest\"}",
   "id": "VAC3073-M-00815",
   "dct_identifier_sm": [
-    "VAC3073-M-00815"
+    "VAC3073-M-00815",
+    "G4091.P2 1970 .K56"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

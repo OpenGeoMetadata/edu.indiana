@@ -37,9 +37,9 @@
     "Belarus--Pirevichi",
     "Belarus"
   ],
-  "locn_geometry": "POLYGON((30.5 52.8667, 30.25 52.8667, 30.25 52.6667, 30.5 52.6667, 30.5 52.8667))",
-  "dcat_bbox": "ENVELOPE(30.5,30.25,52.8667,52.6667)",
-  "dcat_centroid": "52.7667,30.375",
+  "locn_geometry": "POLYGON((30.500 52.867, 30.250 52.867, 30.250 52.667, 30.500 52.667, 30.500 52.867))",
+  "dcat_bbox": "ENVELOPE(30.500,30.250,52.867,52.667)",
+  "dcat_centroid": "52.766999999999996,30.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001526\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001526\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/ws859g42z\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/z890t3740/manifest\"}",
   "id": "VAC9619-001526",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001526",
     "G7000 s50 .S68 sheet N-36-109-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:05:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

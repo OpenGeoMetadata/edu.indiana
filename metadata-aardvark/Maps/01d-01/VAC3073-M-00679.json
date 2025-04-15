@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "Coal map of Indiana",
+  "dct_title_s": "Coal Map of Indiana.",
   "dct_description_sm": [
-    "Inset : [key map, state of Indiana]. Includes text: 'List of coal mining companies shipping by rail'; 'List of rail shipping mines in the state of Indiana.' Detail: [coal producing counties: Warren County, south to Ohio River]. Scale approximately 1:250,000. Compiled by Department of Geology, Indiana State Teachers College, under the auspices of Coal Trade Association of Indiana; Allison L. Vrydagh, cart."
+    "Inset: [key map, state of Indiana]. Includes text: \"List of coal mining companies shipping by rail\", \"List of rail shipping mines in the state of Indiana\".  Detail: [coal producing counties: Warren County, south to Ohio River]",
+    "Imprint: [Terre Haute, Ind.] : [Dept.], [1938]",
+    "Scale: 1:250,000; Dimensions: 108 x 59 cm",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Vrydagh, Allison L."
+  ],
+  "dct_publisher_sm": [
+    "[Dept.]"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,9 +22,8 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Mines and mineral resources"
   ],
   "dct_temporal_sm": [
     "1939"
@@ -44,11 +49,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00679\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00679\"}",
+  "gbl_wxsIdentifier_s": "9c67xs002",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00679\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9c67xs002/manifest\"}",
   "id": "VAC3073-M-00679",
   "dct_identifier_sm": [
-    "VAC3073-M-00679"
+    "VAC3073-M-00679",
+    "G4091.H8 1938 .V79"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

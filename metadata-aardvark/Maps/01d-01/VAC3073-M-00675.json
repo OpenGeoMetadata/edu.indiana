@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Indiana showing unconsolidated deposits",
   "dct_description_sm": [
-    "Modified from Regional Geologic Map Series, Indiana Geological Survey.' Includes insets of 'Thickness of unconsolidated materials' and 'Distribution of surface tills.' Scale approximately 1:1,900,000. Indiana Geological Survey; drafted by James R. Tolen."
+    "\"Modified from Regional Geologic Map Series, Indiana Geological Survey.\" Includes insets of \"Thickness of unconsolidated materials\" and \"Distribution of surface tills.\"",
+    "Imprint: [Bloomington, Ind.] : The Survey, 1979.",
+    "Dimensions: 31 x 22 cm; Scale: 1:1,900,000",
+    "Coordinates: W0880500 W0844700 N0414500 N0374600"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Tolen, James R."
   ],
   "dct_publisher_sm": [
-    "The Survey"
+    "Indiana. Geological Survey"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Sediments (Geology)",
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1979"
@@ -47,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00675\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00675\"}",
+  "gbl_wxsIdentifier_s": "2b88rf89k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00675\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2b88rf89k/manifest\"}",
   "id": "VAC3073-M-00675",
   "dct_identifier_sm": [
-    "VAC3073-M-00675"
+    "VAC3073-M-00675",
+    "G4091 .C5 1979 .I5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

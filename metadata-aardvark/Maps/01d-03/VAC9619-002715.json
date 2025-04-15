@@ -34,8 +34,8 @@
     "Czech Republic--Brno",
     "Czech Republic"
   ],
-  "locn_geometry": "POLYGON((17 49.333, 16.5 49.333, 16.5 49, 17 49, 17 49.333))",
-  "dcat_bbox": "ENVELOPE(17,16.5,49.333,49)",
+  "locn_geometry": "POLYGON((17.000 49.333, 16.500 49.333, 16.500 49.000, 17.000 49.000, 17.000 49.333))",
+  "dcat_bbox": "ENVELOPE(17.000,16.500,49.333,49.000)",
   "dcat_centroid": "49.1665,16.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002715\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002715\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/8336h2734\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/zg64vx46m/manifest\"}",
   "id": "VAC9619-002715",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002715",
     "G7000 s100 .S7 sheet M-33-106"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:02:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

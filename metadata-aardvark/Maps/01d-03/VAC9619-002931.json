@@ -31,8 +31,8 @@
     "Russia--Pechnaya Selga",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((33.5 61.167, 33.25 61.167, 33.25 61, 33.5 61, 33.5 61.167))",
-  "dcat_bbox": "ENVELOPE(33.5,33.25,61.167,61)",
+  "locn_geometry": "POLYGON((33.500 61.167, 33.250 61.167, 33.250 61.000, 33.500 61.000, 33.500 61.167))",
+  "dcat_bbox": "ENVELOPE(33.500,33.250,61.167,61.000)",
   "dcat_centroid": "61.0835,33.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -50,12 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002931\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002931\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/s7526d31k\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4b29ch300/manifest\"}",
   "id": "VAC9619-002931",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002931",
     "G7000 s50 .S68 sheet P-36-103-D"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:03:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

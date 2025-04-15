@@ -1,10 +1,16 @@
 {
-  "dct_title_s": "General highway and transportation map, Henry County, Indiana",
+  "dct_title_s": "General highway and transportation map of Henry County, Indiana",
   "dct_description_sm": [
-    "Blueline. 'State roads revised to January 1, 1949.' 'Data obtained from Statewide Highway Planning Survey.' Includes chart 'Culture in unincorporated places' and location map. '33.' Scale 1:130,000. Not '1 inch=1 mile.'; Polyconic projection Prepared by the State Highway Commission of Indiana in cooperation with the U.S. Department of Agriculture, Bureau Public Roads."
+    "Blueline. \"State roads revised to January 1, 1949.\" \"Data obtained from Statewide Highway Planning Survey.\" Includes chart \"Culture in unincorporated places\" and location map. \"33.\"",
+    "Imprint: [Indianapolis?] : State Highway Commission of Indiana, 1949.",
+    "Scale: 1:130,000; Dimensions: 89 x 105 cm",
+    "Coordinates: W0853600 W0852500 N0400500 N0394700"
   ],
   "dct_language_sm": [
     "eng"
+  ],
+  "dct_creator_sm": [
+    "Indiana. State Highway Commission (1919-1953)"
   ],
   "dct_publisher_sm": [
     "State Highway Commission of Indiana"
@@ -16,8 +22,8 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps"
+  "dct_subject_sm": [
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -44,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00688\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00688\"}",
+  "gbl_wxsIdentifier_s": "8c97ms93s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00688\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8c97ms93s/manifest\"}",
   "id": "VAC3073-M-00688",
   "dct_identifier_sm": [
-    "VAC3073-M-00688"
+    "VAC3073-M-00688",
+    "G4093.H6P2 1949 .I53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

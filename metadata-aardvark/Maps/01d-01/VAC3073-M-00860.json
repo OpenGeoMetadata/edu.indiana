@@ -1,13 +1,19 @@
 {
-  "dct_title_s": "This is your map of the trails in Brown County State Park (near Nashville)",
+  "dct_title_s": "This is your map of the trails in Brown County State Park (Near Nashville)",
   "dct_description_sm": [
-    "3-50--120M'--Back panel. Includes ancillary map 'Detail map of the trails in the day use area' (scale approximately 12,500), location map and text on recto; text on verso. Scale approximately 1:36,000. Indiana Department of Conservation, Division of State Parks, Lands and Waters."
+    "\"3-50--120M:--Back panel. Includes ancillary map \"Detail map of the trails in the day use area\" (scale approximately 12,500), location map and text on recto, text on verso.",
+    "Imprint: [Indianapolis?] : Indiana Department of Conservation, Division of State Parks, Lands, and Waters, [1950]",
+    "Dimensions: 37 x 28 cm, on sheet 41 x 56 cm; Scale: 1:36,000",
+    "Coordinates: W0861349 W0861339 N0390851 N0390842"
   ],
   "dct_language_sm": [
     "eng"
   ],
+  "dct_creator_sm": [
+    "Indiana. Division of State Parks, Lands, and Waters"
+  ],
   "dct_publisher_sm": [
-    "Indiana Department of Conservation, Division of State Parks, Lands, and Waters"
+    "Indiana. Division of State Parks, Lands, and Waters"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -16,10 +22,8 @@
   "gbl_resourceType_sm": [
     "Tourist maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+  "dct_subject_sm": [
+    "Trails"
   ],
   "dct_temporal_sm": [
     "1950"
@@ -35,9 +39,9 @@
     "Indiana--Brown County State Park",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.283906 39.200585, -86.193526 39.200585, -86.193526 39.096248, -86.283906 39.096248, -86.283906 39.200585))",
-  "dcat_bbox": "ENVELOPE(-86.283906,-86.193526,39.200585,39.096248)",
-  "dcat_centroid": "39.148416499999996,-86.23871600000001",
+  "locn_geometry": "POLYGON((-86.284 39.201, -86.194 39.201, -86.194 39.096, -86.284 39.096, -86.284 39.201))",
+  "dcat_bbox": "ENVELOPE(-86.284,-86.194,39.201,39.096)",
+  "dcat_centroid": "39.1485,-86.239",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00860\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00860\"}",
+  "gbl_wxsIdentifier_s": "q237jw79f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00860\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/q237jw79f/manifest\"}",
   "id": "VAC3073-M-00860",
   "dct_identifier_sm": [
-    "VAC3073-M-00860"
+    "VAC3073-M-00860",
+    "G4092.B73 1950 .I5"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

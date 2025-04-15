@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Boone County, Indiana",
   "dct_description_sm": [
-    "Cadastral map showing landowners. Scale not given. Drawn by Chas. Martin."
+    "Cadastral map showing landowners.",
+    "Imprint: [Indiana?] : E.C. Gullion, 1936.",
+    "Scale: Scale not given.; Dimensions: 43 x 56 cm",
+    "Coordinates: W0864144 W0861423 N0401050 N0395521"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,9 +22,9 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1936"
@@ -37,9 +40,9 @@
     "Indiana--Boone County",
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-86.6801 40.1601, -86.23 40.1601, -86.23 39.91, -86.6801 39.91, -86.6801 40.1601))",
-  "dcat_bbox": "ENVELOPE(-86.6801,-86.23,40.1601,39.91)",
-  "dcat_centroid": "40.03505,-86.45505",
+  "locn_geometry": "POLYGON((-86.680 40.160, -86.230 40.160, -86.230 39.910, -86.680 39.910, -86.680 40.160))",
+  "dcat_bbox": "ENVELOPE(-86.680,-86.230,40.160,39.910)",
+  "dcat_centroid": "40.035,-86.45500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +51,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00796\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00796\"}",
+  "gbl_wxsIdentifier_s": "c534gs16n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00796\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/c534gs16n/manifest\"}",
   "id": "VAC3073-M-00796",
   "dct_identifier_sm": [
-    "VAC3073-M-00796"
+    "VAC3073-M-00796",
+    "G4093.B6G46 1936 .M37"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

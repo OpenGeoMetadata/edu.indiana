@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Total intensity aeromagnetic map of Benton County, Indiana: relative to arbitrary datum",
+  "dct_title_s": "Total intensity aeromagnetic map of Benton County, Indiana relative to arbitrary datum",
   "dct_description_sm": [
-    "Includes text and location map. Scale 1:63360. United States Department of the Interior, Geological Survey; aeromagnetic survey 1947 by W.J. Dempsey, J.R. Henderson and R.T. Duffner; prepared in cooperation with Indiana Department of Conservation, Division of Geology."
+    "Includes text and location map.",
+    "Imprint: [Washington, D.C.] : For sale by U.S. Geological Survey, 1949.",
+    "Dimensions: 59 x 75 cm; Scale: 1:63360.",
+    "Coordinates: W0873135 W0870536 N0404413 N0402832"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,7 +15,7 @@
     "Henderson, John R."
   ],
   "dct_publisher_sm": [
-    "For sale by United States Geological Survey"
+    "Geological Survey (U.S.)"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -22,11 +25,8 @@
     "Geological maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Geological maps",
-    "Thematic maps",
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+  "dct_subject_sm": [
+    "Geomagnetism"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -42,9 +42,9 @@
     "Indiana",
     "Indiana--Benton County"
   ],
-  "locn_geometry": "POLYGON((-87.51 40.73, -87.0801 40.73, -87.0801 40.46, -87.51 40.46, -87.51 40.73))",
-  "dcat_bbox": "ENVELOPE(-87.51,-87.0801,40.73,40.46)",
-  "dcat_centroid": "40.595,-87.29505",
+  "locn_geometry": "POLYGON((-87.510 40.730, -87.080 40.730, -87.080 40.460, -87.510 40.460, -87.510 40.730))",
+  "dcat_bbox": "ENVELOPE(-87.510,-87.080,40.730,40.460)",
+  "dcat_centroid": "40.595,-87.295",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00829\",\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00829\"}",
+  "gbl_wxsIdentifier_s": "9p291f64j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00829\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/9p291f64j/manifest\"}",
   "id": "VAC3073-M-00829",
   "dct_identifier_sm": [
-    "VAC3073-M-00829"
+    "VAC3073-M-00829",
+    "G4093.B4C93 1949 .G46"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

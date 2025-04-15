@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Sullivan County soil map",
+  "dct_title_s": "Sullivan County",
   "dct_description_sm": [
-    "Shows dirt roads and improved public roads, railroads, schools, cemeteries, churches, and coal mines. Detached from: Soil survey of Clay, Knox, Sullivan, and Vigo counties, Indiana / Chas. W. Shannon. In 36th Annual report of Department of Geology and Natural Resources, Indiana. Scale approximately 1:63,360 C.W. & M.E. Shannon, 1911."
+    "Shows dirt roads and improved public roads, railroads, schools, cemeteries, churches, and coal mines.    Detached from: Soil survey of Clay, Knox, Sullivan, and Vigo counties, Indiana / Chas. W. Shannon. In Thirty-sixth annual report of Department of Geology and Natural Resources, Indiana, 1911. Indianapolis: Wm. B. Burford, 1912. Page 246.",
+    "Imprint: [Indianapolis] : [Department of Geology and Natural Resources, Indiana], [1912]  [Indianapolis] : [Wm. B. Burford], [1912]",
+    "Scale: Approximately 1:63,360; Dimensions: 64 x 59 cm",
+    "Coordinates: W0873933 W0871425 N0391534 N0385405"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,8 +14,7 @@
     "Shannon, M. E."
   ],
   "dct_publisher_sm": [
-    "Indiana Department of Geology and Natural Resources",
-    "William B. Burford"
+    "Indiana. Department of Geology and Natural Resources"
   ],
   "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
@@ -22,11 +24,7 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Indiana Historic Maps",
-    "2022-creator-sprint"
+    "Soils"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -52,11 +50,12 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01095\"}",
+  "gbl_wxsIdentifier_s": "v979w6871",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01095\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/v979w6871/manifest\"}",
   "id": "VAC3073-M-01095",
   "dct_identifier_sm": [
-    "VAC3073-M-01095"
+    "VAC3073-M-01095",
+    "G4093.S8J3 1911 .S5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

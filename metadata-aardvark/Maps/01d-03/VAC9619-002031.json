@@ -37,9 +37,9 @@
     "Estonia--Lohusuu",
     "Estonia"
   ],
-  "locn_geometry": "POLYGON((27.5 59, 27 59, 27 58.6667, 27.5 58.6667, 27.5 59))",
-  "dcat_bbox": "ENVELOPE(27.5,27,59,58.6667)",
-  "dcat_centroid": "58.833349999999996,27.25",
+  "locn_geometry": "POLYGON((27.500 59.000, 27.000 59.000, 27.000 58.667, 27.500 58.667, 27.500 59.000))",
+  "dcat_bbox": "ENVELOPE(27.500,27.000,59.000,58.667)",
+  "dcat_centroid": "58.8335,27.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,12 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002031\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020129\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002031\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/br86b4380\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/ms35vk54b/manifest\"}",
   "id": "VAC9619-002031",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-002031",
     "G7000 s100 .S7 sheet O-35-43"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

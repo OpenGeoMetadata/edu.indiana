@@ -34,9 +34,9 @@
     "Russia--Mokraya Kor",
     "Russia"
   ],
-  "locn_geometry": "POLYGON((38 54.6667, 37.75 54.6667, 37.75 54.5, 38 54.5, 38 54.6667))",
-  "dcat_bbox": "ENVELOPE(38,37.75,54.6667,54.5)",
-  "dcat_centroid": "54.583349999999996,37.875",
+  "locn_geometry": "POLYGON((38.000 54.667, 37.750 54.667, 37.750 54.500, 38.000 54.500, 38.000 54.667))",
+  "dcat_bbox": "ENVELOPE(38.000,37.750,54.667,54.500)",
+  "dcat_centroid": "54.5835,37.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,12 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001597\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://iucat.iu.edu/catalog/5020131\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001597\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://datacore.iu.edu/concern/data_sets/4f16c344j\",\"label\":\"GeoTIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/4f16dd48p/manifest\"}",
   "id": "VAC9619-001597",
   "dct_identifier_sm": [
     "http://purl.dlib.indiana.edu/iudl/images/VAC9619/VAC9619-001597",
     "G7000 s50 .S68 sheet N-37-52-B"
   ],
-  "gbl_mdModified_dt": "2023-05-09T06:04:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }
