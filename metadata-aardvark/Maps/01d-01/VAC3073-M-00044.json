@@ -1,0 +1,32 @@
+{
+  "dct_title_s": "Map of the Maumee-Miame glacial lobe",
+  "dct_description_sm": [
+    "In Glacial formations and drainage features of the Erie and Ohio Basins. U.S.G.S. Monograph 41.",
+    "Imprint: Washington, DC: Government Printing Office, 1902."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Leverett, Frank, 1859-1943"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "b5645t16k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00044\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/b5645t16k/manifest\"}",
+  "id": "VAC3073-M-00044",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,35 @@
+{
+  "dct_title_s": "Hotel Allen Washington at Webster Fort Wayne.",
+  "dct_description_sm": [
+    "28 x 22 cm. Black on white map showing location of Hotel Allen and other streets and public facilities in downtown Fort Wayne.",
+    "Imprint: Fort Wayne, In.: George R. Craw, 1936."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "c534gr66n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00124\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/c534gr66n/manifest\"}",
+  "id": "VAC3073-M-00124",
+  "dct_identifier_sm": [
+    "831-d D-1936"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

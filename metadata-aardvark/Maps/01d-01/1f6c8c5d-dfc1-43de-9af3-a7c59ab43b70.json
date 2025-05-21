@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Map showing sanitary sewer system",
+  "dct_description_sm": [
+    "Blue line print.; At head of title: Bloomington, Indiana.; July 1954.; J.M. Cason, engineer. Scale approximately 1:7,700."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "City of Bloomington?"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Sewerage"
+  ],
+  "dct_temporal_sm": [
+    "1954?"
+  ],
+  "gbl_indexYear_im": [
+    "1954"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Bloomington",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-86.550 39.160, -86.500 39.160, -86.500 39.150, -86.550 39.150, -86.550 39.160))",
+  "dcat_bbox": "ENVELOPE(-86.550,-86.500,39.160,39.150)",
+  "dcat_centroid": "39.155,-86.525",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00369\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00369\",\"label\":\"JPEG\"}]}",
+  "id": "1f6c8c5d-dfc1-43de-9af3-a7c59ab43b70",
+  "dct_identifier_sm": [
+    "1f6c8c5d-dfc1-43de-9af3-a7c59ab43b70"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

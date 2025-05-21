@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Soil map, Morgan County Indiana",
+  "dct_description_sm": [
+    "Shows soils types classification by colors and symbols.; Surveyed in 1937. Series 1937.; Lith. A. Hoen & Co., Inc. Scale 1:24,000; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Ulrich, H. P. (Herbert Paul), 1904-cartographer."
+  ],
+  "dct_publisher_sm": [
+    "The Bureau"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils"
+  ],
+  "dct_temporal_sm": [
+    "1937?"
+  ],
+  "gbl_indexYear_im": [
+    "1937"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1937]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Morgan County"
+  ],
+  "locn_geometry": "POLYGON((-86.68 39.63, -86.25 39.63, -86.25 39.35, -86.68 39.35, -86.68 39.63))",
+  "dcat_bbox": "ENVELOPE(-86.68,-86.25,39.63,39.35)",
+  "dcat_centroid": "39.49,-86.465",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00635\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00635\",\"label\":\"JPEG\"}]}",
+  "id": "4325d886-7390-422b-b672-0013f14d9634",
+  "dct_identifier_sm": [
+    "4325d886-7390-422b-b672-0013f14d9634"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

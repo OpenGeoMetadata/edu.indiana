@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Kingsbury's Atlas of Indiana",
+  "dct_description_sm": [
+    "An Atlas of Indiana features over one hundred maps of the state. The maps are chiefly thematic, featuring \"a broad coverage of both natural conditions and human activities on a state-wide basis\" (Kingsbury, page 3). The atlas covers a little of everything: annual precipitation, bedrock geology, population distribution, income, industry, agriculture, and scheduled airline flights. The atlas sources data from the latest federal census materials available in 1968-69."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Hollingsworth, John McHenry, 1823-1889",
+    "Kingsbury, Robert C."
+  ],
+  "dct_publisher_sm": [
+    "Department of Geography, Indiana University"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Indiana Historic Maps",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1963-1970"
+  ],
+  "dct_issued_s": "1970",
+  "gbl_indexYear_im": [
+    "1963"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1963 TO 1970]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.11 41.75, -84.75 41.75, -84.75 37.76, -88.11 37.76, -88.11 41.75))",
+  "dcat_bbox": "ENVELOPE(-88.11,-84.75,41.75,37.76)",
+  "dcat_centroid": "39.754999999999995,-86.43",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_rights_sm": [
+    "The images in the Indiana Historic Maps collection may be used for non-commercial educational or research purposes. If you use or reproduce our materials in any format\\\\, we ask that the IUB Map Collections be cited as the source of the material with the credit line: Courtesy\\\\, Wells Library Map Collections\\\\, Indiana University\\\\, Bloomington\\\\, Indiana. For commercial uses\\\\, please contact the Map Collections\\\\, 1320 E. 10th Street\\\\, Bloomington\\\\, Indiana\\\\, 47405 or at https://libraries.indiana.edu/gimms"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://libraries.indiana.edu/kingsbury-table-contents\"}",
+  "id": "059156a1-7283-4aa0-8427-c8a583c8dd50",
+  "dct_identifier_sm": [
+    "059156a1-7283-4aa0-8427-c8a583c8dd50"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

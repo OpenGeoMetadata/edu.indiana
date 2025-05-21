@@ -1,0 +1,45 @@
+{
+  "dct_title_s": "Vertical section of the geological formations from Green Castle to Terre Haute : made from outcrops and sections of bores along the line of T.H. & I.R. Railroad",
+  "dct_description_sm": [
+    "Published as a supplement to the Annual report of the Geological Survey of Indiana, made during the year 1869.",
+    "Imprint: [Indianapolis, Ind.? : s.n.], 1869."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Geological cross-sections"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ],
+  "dct_issued_s": "1869",
+  "gbl_indexYear_im": [
+    "1869"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1869 TO 1869]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "qj72qb553",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01163\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/qj72qb553/manifest\"}",
+  "id": "VAC3073-M-01163",
+  "gbl_mdVersion_s": "Aardvark"
+}

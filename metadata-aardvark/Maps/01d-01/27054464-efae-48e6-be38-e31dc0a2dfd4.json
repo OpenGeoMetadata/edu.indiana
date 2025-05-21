@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Soil map Indiana Elkhart County sheet",
+  "dct_description_sm": [
+    "Shows soil types classification by colors and symbols.; Field Operations Bureau of Soils 1914.; Snyder & Black, N.Y. Scale 1:63,360. 1 inch = 1 mile"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Jones, Grove B., 1877- cartographer."
+  ],
+  "dct_publisher_sm": [
+    "Bureau of Soils"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils"
+  ],
+  "dct_temporal_sm": [
+    "1914?"
+  ],
+  "gbl_indexYear_im": [
+    "1914"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Elkhart County",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-86.05 41.76, -85.66 41.76, -85.66 41.43, -86.05 41.43, -86.05 41.76))",
+  "dcat_bbox": "ENVELOPE(-86.05,-85.66,41.76,41.43)",
+  "dcat_centroid": "41.595,-85.85499999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00299\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00299\",\"label\":\"JPEG\"}]}",
+  "id": "27054464-efae-48e6-be38-e31dc0a2dfd4",
+  "dct_identifier_sm": [
+    "27054464-efae-48e6-be38-e31dc0a2dfd4"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

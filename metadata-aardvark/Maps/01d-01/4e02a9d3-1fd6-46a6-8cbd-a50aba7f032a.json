@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Lowell",
+  "dct_description_sm": [
+    "Blueprint.; Cadastral map showing landowners. Scale 1:1,200. 1 inch = 100 feet."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "F.L. Knight & Sons"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dcat_keyword_sm": [
+    "Cadastral",
+    "Landowners",
+    "Land ownership",
+    "Real property"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Lake County",
+    "Indiana",
+    "Indiana--Lowell"
+  ],
+  "locn_geometry": "POLYGON((-87.430 41.300, -87.380 41.300, -87.380 41.260, -87.430 41.260, -87.430 41.300))",
+  "dcat_bbox": "ENVELOPE(-87.430,-87.380,41.300,41.260)",
+  "dcat_centroid": "41.28,-87.405",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00384\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00384\",\"label\":\"JPEG\"}]}",
+  "id": "4e02a9d3-1fd6-46a6-8cbd-a50aba7f032a",
+  "dct_identifier_sm": [
+    "4e02a9d3-1fd6-46a6-8cbd-a50aba7f032a"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

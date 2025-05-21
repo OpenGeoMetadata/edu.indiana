@@ -1,0 +1,51 @@
+{
+  "dct_title_s": "Drainage basins of the Indian Creek Karst Valley Area",
+  "dct_description_sm": [
+    "Blue line print.; Rlp-1970.; Base map from USGS 7.5 minute topographic quadrangles, 1964. Scale approximately 1:12,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Powell, Richard L., cartographer."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Watersheds",
+    "Karst"
+  ],
+  "dct_temporal_sm": [
+    "1970?"
+  ],
+  "gbl_indexYear_im": [
+    "1970"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Van Buren",
+    "Indiana--Monroe County"
+  ],
+  "locn_geometry": "POLYGON((-86.660 39.150, -86.630 39.150, -86.630 39.100, -86.660 39.100, -86.660 39.150))",
+  "dcat_bbox": "ENVELOPE(-86.660,-86.630,39.150,39.100)",
+  "dcat_centroid": "39.125,-86.645",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00338\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00338\",\"label\":\"JPEG\"}]}",
+  "id": "3d1b635a-e287-41ad-9b47-f9cd6910b0ee",
+  "dct_identifier_sm": [
+    "3d1b635a-e287-41ad-9b47-f9cd6910b0ee"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

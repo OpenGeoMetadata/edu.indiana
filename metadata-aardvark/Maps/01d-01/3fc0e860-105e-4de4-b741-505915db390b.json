@@ -1,0 +1,46 @@
+{
+  "dct_title_s": "Wayne County, Ind.",
+  "dct_description_sm": [
+    "Shows townships.; A. Zeese & Co., Engrs., Chi. Scale approximately 1:158,260."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Wissler, B. F., cartographer."
+  ],
+  "dct_publisher_sm": [
+    "A. Zeese & Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "gbl_indexYear_im": [
+    "1888"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Wayne County"
+  ],
+  "locn_geometry": "POLYGON((-85.210 40.000, -84.800 40.000, -84.800 39.700, -85.210 39.700, -85.210 40.000))",
+  "dcat_bbox": "ENVELOPE(-85.210,-84.800,40.000,39.700)",
+  "dcat_centroid": "39.85,-85.005",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00376\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00376\",\"label\":\"JPEG\"}]}",
+  "id": "3fc0e860-105e-4de4-b741-505915db390b",
+  "dct_identifier_sm": [
+    "3fc0e860-105e-4de4-b741-505915db390b"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

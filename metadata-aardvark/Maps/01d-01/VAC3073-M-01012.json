@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Evansville Indiana the heart of the hard wood territory of the United States 1888",
+  "dct_description_sm": [
+    "Heart shaped map, centered on Evansville, Indiana, covering an area from Chicago on the North to Birmingham, Ala. on the South, and Burlington, Iowa on the west to Columbus, Ohio on the East. Shows hardwood areas in Kentucky, Tennessee, and Alabama , \"lead mines and spar\" area in Illinois , and \"Oolitic bldg. stone\" in Indiana. Includes railroads and major cities.",
+    "Imprint: Chicago : A. Zeese & Co., [c1888?].",
+    "Dimensions: 25 x 21 cm, on sheet 29 x 23 cm; Scale: Scale not given."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "A. Zeese & Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Hardwoods",
+    "Limestone",
+    "Lead mines and mining"
+  ],
+  "dct_temporal_sm": [
+    "Circa 1888"
+  ],
+  "dct_issued_s": "Circa 1888",
+  "gbl_indexYear_im": [
+    "1888"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Tennessee",
+    "Alabama",
+    "Kentucky",
+    "Illinois"
+  ],
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "2b88rf74z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01012\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/2b88rf74z/manifest\"}",
+  "id": "VAC3073-M-01012",
+  "dct_identifier_sm": [
+    "G4041.K2 1888 .A2"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

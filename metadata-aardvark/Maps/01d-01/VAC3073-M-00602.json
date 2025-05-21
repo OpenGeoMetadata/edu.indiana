@@ -1,0 +1,41 @@
+{
+  "dct_title_s": "Monroe Lake Indiana",
+  "dct_description_sm": [
+    "Color map with description on reverse including history, location, a look into the future, man and his environment, and operating levels.",
+    "Imprint: Louisville, Ky.: U.S. Army Engineer District, n.d."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "U.S. Army Engineer District."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Lakes"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "k930d1055",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00602\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/k930d1055/manifest\"}",
+  "id": "VAC3073-M-00602",
+  "dct_identifier_sm": [
+    "831-c E-N.D. Monroe Lake"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

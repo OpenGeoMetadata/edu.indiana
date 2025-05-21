@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "School and road district map of Wayne County.",
+  "dct_description_sm": [
+    "From Rerick Brothers' County of Wayne, Indiana, an imperial atlas and art folio, including chronological chart, statistical tables, and description of rectangular survey, 1893.; 7. Scale approximately 1:110,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Rerick Bros.?"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Administrative and political divisions",
+    "School districts"
+  ],
+  "dct_temporal_sm": [
+    "1893?"
+  ],
+  "gbl_indexYear_im": [
+    "1893"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Wayne County"
+  ],
+  "locn_geometry": "POLYGON((-85.210 40.000, -84.800 40.000, -84.800 39.700, -85.210 39.700, -85.210 40.000))",
+  "dcat_bbox": "ENVELOPE(-85.210,-84.800,40.000,39.700)",
+  "dcat_centroid": "39.85,-85.005",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00578\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00578\",\"label\":\"JPEG\"}]}",
+  "id": "001dacc4-5977-4e75-ae94-2601c746b58e",
+  "dct_identifier_sm": [
+    "001dacc4-5977-4e75-ae94-2601c746b58e"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

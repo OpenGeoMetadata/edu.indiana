@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Soil map, Indiana, Lawrence County sheet",
+  "dct_description_sm": [
+    "Shows soil types classification by colors and symbols.; Soils surveyed by W.E. Tharp, of the U.S. Department of Agriculture, in charge, and T.M. Bushnell and J.E. Adams of the Purdue University Agricultural Experiment Station.; Field operations Bureau of Soils 1922. Scale 1:63,360. 1 inch =1 mile."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Tharp, W. E.(William Edgar), cartographer."
+  ],
+  "dct_publisher_sm": [
+    "The Bureau"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils"
+  ],
+  "dct_temporal_sm": [
+    "1922?"
+  ],
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Lawrence County"
+  ],
+  "locn_geometry": "POLYGON((-86.684 38.992, -86.275 38.992, -86.275 38.687, -86.684 38.687, -86.684 38.992))",
+  "dcat_bbox": "ENVELOPE(-86.684,-86.275,38.992,38.687)",
+  "dcat_centroid": "38.8395,-86.4795",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00580\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00580\",\"label\":\"JPEG\"}]}",
+  "id": "aec9d230-b399-4a9d-8917-58634eafbedf",
+  "dct_identifier_sm": [
+    "aec9d230-b399-4a9d-8917-58634eafbedf"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

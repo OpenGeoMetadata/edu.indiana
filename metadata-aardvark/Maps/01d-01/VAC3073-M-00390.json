@@ -1,0 +1,39 @@
+{
+  "dct_title_s": "1952 traffic flow map Indiana",
+  "dct_description_sm": [
+    "Gray on white, includes insets of Indianapolis/Marion County, Evansville, Terre Haute, Richmond, Pendleton, Anderson, Muncie, Lafayette, Marion, Valparaiso, Calumet area, Michigan City, South Bend/Mishawaka/Elkhart, and Fort Wayne.",
+    "Imprint: Indianapolis, In.: Indiana State Highway Commission, 1952."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Flow maps",
+    "Road maps"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "1z40mw06h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00390\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/1z40mw06h/manifest\"}",
+  "id": "VAC3073-M-00390",
+  "dct_identifier_sm": [
+    "831 D-1952"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

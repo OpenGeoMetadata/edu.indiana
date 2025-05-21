@@ -1,0 +1,43 @@
+{
+  "dct_title_s": "Map of Lake Co., Ind.",
+  "dct_description_sm": [
+    "Blueprint.; Shows additions and subdivisions of cities and towns. Scale approximately 1:40,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Crown Point Register"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Lake County",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-87.500 41.680, -87.230 41.680, -87.230 41.150, -87.500 41.150, -87.500 41.680))",
+  "dcat_bbox": "ENVELOPE(-87.500,-87.230,41.680,41.150)",
+  "dcat_centroid": "41.415,-87.36500000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00061\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074135/LARGE\",\"label\":\"JPEG\"}]}",
+  "id": "36d642a8-a128-4fb9-b8d6-3c7b74f4e24d",
+  "dct_identifier_sm": [
+    "36d642a8-a128-4fb9-b8d6-3c7b74f4e24d"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,39 @@
+{
+  "dct_title_s": "1966 traffic map state of Indiana",
+  "dct_description_sm": [
+    "24 hour annual average total traffic, with insets of Clark/Floyd counties and Marion County.",
+    "Imprint: Indianapolis, In.: Indiana State Highway Commission, 1966."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Flow maps",
+    "Road maps"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "dv140w36j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00160\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/dv140w36j/manifest\"}",
+  "id": "VAC3073-M-00160",
+  "dct_identifier_sm": [
+    "831 D-1966"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Dyer School Urban Renewal Area no. 1, Ind. R-30: composite map",
+  "dct_description_sm": [
+    "Blue line print.; Drawn by J.B., checked by D.A.H., approved by C.M.C.; Revised Aug. 1964. Scale 1:600. 1 = 50'."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "The Dept.?"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Urban renewal",
+    "Sewerage"
+  ],
+  "dct_temporal_sm": [
+    "1964?"
+  ],
+  "gbl_indexYear_im": [
+    "1964"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Bloomington",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-86.230 39.210, -86.200 39.210, -86.200 39.180, -86.230 39.180, -86.230 39.210))",
+  "dcat_bbox": "ENVELOPE(-86.230,-86.200,39.210,39.180)",
+  "dcat_centroid": "39.195,-86.215",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00223\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00223\",\"label\":\"JPEG\"}]}",
+  "id": "9307c28f-ea89-4501-8eee-1b43bbeb992e",
+  "dct_identifier_sm": [
+    "9307c28f-ea89-4501-8eee-1b43bbeb992e"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,36 @@
+{
+  "dct_title_s": "Jefferson County map",
+  "dct_description_sm": [
+    "Black and white map, probably 1960's, with map of Madison on reverse with street index.",
+    "Imprint: Madison, In.: Madison Chamber of Commerce, n.d."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Madison Area Chamber of Commerce (Madison, Ind.)"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Jefferson County",
+    "Indiana"
+  ],
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "dn39z503z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00184\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/dn39z503z/manifest\"}",
+  "id": "VAC3073-M-00184",
+  "dct_identifier_sm": [
+    "831-c D-N.D. Jefferson County"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

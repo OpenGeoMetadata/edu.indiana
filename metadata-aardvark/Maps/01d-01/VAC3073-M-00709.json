@@ -1,0 +1,47 @@
+{
+  "dct_title_s": "City of Shelbyville, Indiana : street and city map",
+  "dct_description_sm": [
+    "Black on white, on canvas. Photocopy, 31 x 36 cm.",
+    "Imprint: Shelbyville, In.: Keith C. Cawood, 1940.",
+    "Dimensions: 31 x 36 cm"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "City Engineer?"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "dct_issued_s": "1940",
+  "gbl_indexYear_im": [
+    "1940"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Shelbyville",
+    "Indiana"
+  ],
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "8s45rd18p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00709\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/8s45rd18p/manifest\"}",
+  "id": "VAC3073-M-00709",
+  "dct_identifier_sm": [
+    "G4094.S5 1940 .C39"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

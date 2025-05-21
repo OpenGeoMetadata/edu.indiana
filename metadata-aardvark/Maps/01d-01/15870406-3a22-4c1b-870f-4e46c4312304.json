@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Soil map, St. Joseph County, Indiana",
+  "dct_description_sm": [
+    "Shows soil types classification by colors and symbols.; Surveyed in 1938. Series 1938. Scale 1:31,680. 2 inches = 1 mile; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Ulrich, H. P. (Herbert Paul), 1904-cartographer."
+  ],
+  "dct_publisher_sm": [
+    "The Bureau"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils"
+  ],
+  "dct_temporal_sm": [
+    "1938?"
+  ],
+  "gbl_indexYear_im": [
+    "1938"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1938]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Saint Joseph County"
+  ],
+  "locn_geometry": "POLYGON((-86.51 41.76, -86.05 41.76, -86.05 41.43, -86.51 41.43, -86.51 41.76))",
+  "dcat_bbox": "ENVELOPE(-86.51,-86.05,41.76,41.43)",
+  "dcat_centroid": "41.595,-86.28",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00081\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00081\",\"label\":\"JPEG\"}]}",
+  "id": "15870406-3a22-4c1b-870f-4e46c4312304",
+  "dct_identifier_sm": [
+    "15870406-3a22-4c1b-870f-4e46c4312304"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

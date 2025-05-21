@@ -1,0 +1,47 @@
+{
+  "dct_title_s": "[1970 census enumeration district and census tract map of Monroe County, Indiana].",
+  "dct_description_sm": [
+    "Title supplied by cataloger.; Blue line print.; Base map: General Highway and transportation map, Monroe County, Indiana / prepared by the Indiana State Highway Commission, Division of Planning, 1963.; Shows census enumeration district and census tract boundaries and numbers for the 1970 census. Scale approximately 1:126,720."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "United States Bureau of the Census, Geography Division"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Census data",
+    "Census"
+  ],
+  "dct_temporal_sm": [
+    "1970?"
+  ],
+  "gbl_indexYear_im": [
+    "1970"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Monroe County"
+  ],
+  "locn_geometry": "POLYGON((-86.680 39.350, -86.310 39.350, -86.310 39.000, -86.680 39.000, -86.680 39.350))",
+  "dcat_bbox": "ENVELOPE(-86.680,-86.310,39.350,39.000)",
+  "dcat_centroid": "39.175,-86.495",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00254\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00254\",\"label\":\"JPEG\"}]}",
+  "id": "2a872c04-f83b-47ac-a3ac-298968ad6c4a",
+  "dct_identifier_sm": [
+    "2a872c04-f83b-47ac-a3ac-298968ad6c4a"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,43 @@
+{
+  "dct_title_s": "Hendricks County, Ind.",
+  "dct_description_sm": [
+    "Distributed by James A. Downard, Farm and City Loans. Scale approximately 1:115,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Shedd & Wright Mfg. Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "gbl_indexYear_im": [
+    "1908"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Hendricks County",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-86.680 39.910, -86.310 39.910, -86.310 39.600, -86.680 39.600, -86.680 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.680,-86.310,39.910,39.600)",
+  "dcat_centroid": "39.754999999999995,-86.495",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00049\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00049\",\"label\":\"JPEG\"}]}",
+  "id": "580e0e04-cdc2-407a-b56f-b35b101cfc24",
+  "dct_identifier_sm": [
+    "580e0e04-cdc2-407a-b56f-b35b101cfc24"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "New railroad map of Indiana, Ohio, and part of Illinois.",
+  "dct_description_sm": [
+    "Prime meridians: Greenwich, Washington.; Entered according to Act of Congress in the year 1875 by G.W. & C.B. Colton Co. in the Office of the Librarian of Congress, at Washington. Scale approximately 1:1,267,200. 20 statute miles to an inch."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "G.W. & C.B. Colton & Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dct_subject_sm": [
+    "Railroads"
+  ],
+  "dcat_keyword_sm": [
+    "Railroads",
+    "Roads"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "gbl_indexYear_im": [
+    "1875"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Ohio--State of Ohio",
+    "Illinois--State of Illinois"
+  ],
+  "locn_geometry": "POLYGON((-90.000 42.000, -80.000 42.000, -80.000 37.000, -90.000 37.000, -90.000 42.000))",
+  "dcat_bbox": "ENVELOPE(-90.000,-80.000,42.000,37.000)",
+  "dcat_centroid": "39.5,-85.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00005\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00005\",\"label\":\"JPEG\"}]}",
+  "id": "36d72dad-5119-4edf-b7c2-96fdd14ebe39",
+  "dct_identifier_sm": [
+    "36d72dad-5119-4edf-b7c2-96fdd14ebe39"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "General highway and transportation map, Sullivan County, Indiana",
+  "dct_description_sm": [
+    "Blueline.; State roads revised January 1, 1949.; 1937.; 77.; Data obtained from State-wide Highway Planning Survey.; Includes ancillary map of Original land locations and surveys, chart of Culture in unincorporated places, and location map. Scale 1:130,000. not 1 inch =1 mile; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "State Highway Commission of Indiana"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads"
+  ],
+  "dct_temporal_sm": [
+    "1949?"
+  ],
+  "gbl_indexYear_im": [
+    "1949"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Sullivan County"
+  ],
+  "locn_geometry": "POLYGON((-87.66 39.26, -87.23 39.26, -87.23 38.9, -87.66 38.9, -87.66 39.26))",
+  "dcat_bbox": "ENVELOPE(-87.66,-87.23,39.26,38.9)",
+  "dcat_centroid": "39.08,-87.445",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00197\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00197\",\"label\":\"JPEG\"}]}",
+  "id": "e4412bdc-dcc0-4c7a-8026-a84f01f5672a",
+  "dct_identifier_sm": [
+    "e4412bdc-dcc0-4c7a-8026-a84f01f5672a"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

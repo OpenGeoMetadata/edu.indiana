@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "City of Valparaiso, in sec's 23, 24, 25 and 26 T. 35, R. 6 W, Porter Co., Ind.",
+  "dct_description_sm": [
+    "Text and illustrations surround the map. Scale approximately 1:9,108. 46+ rods = 1 inch"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "George Omsted"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Tourist maps"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_issued_s": "1890",
+  "gbl_indexYear_im": [
+    "1890"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Valparaiso"
+  ],
+  "locn_geometry": "POLYGON((-87.075 41.479, -87.046 41.479, -87.046 41.454, -87.075 41.454, -87.075 41.479))",
+  "dcat_bbox": "ENVELOPE(-87.075,-87.046,41.479,41.454)",
+  "dcat_centroid": "41.466499999999996,-87.0605",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00123\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00123\",\"label\":\"JPEG\"}]}",
+  "id": "afaf88a2-2c88-4522-95f0-dc7b07dc34ba",
+  "dct_identifier_sm": [
+    "afaf88a2-2c88-4522-95f0-dc7b07dc34ba"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

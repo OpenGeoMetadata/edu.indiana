@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "[Indianapolis and Marion County]",
+  "dct_description_sm": [
+    "Blue-line print.; Hand annotated in color to show locations of industrial groups.; Typewritten legend with colored annotations and annotations in ink 1957 with some amendments after the other title, By courtesy of the Metropolitan Planning Department, City Hall, Indianapolis, and pencil annotation Spring 1961 affixed to map.; Appears to be a student class project from the Indiana University, Geography Department. Scale approximately 1:32,500."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Metropolitan Planning Dept."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Industrial"
+  ],
+  "dct_temporal_sm": [
+    "1961?"
+  ],
+  "gbl_indexYear_im": [
+    "1961"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Indianapolis",
+    "Indiana--Marion County"
+  ],
+  "locn_geometry": "POLYGON((-86.310 39.910, -85.930 39.910, -85.930 39.610, -86.310 39.610, -86.310 39.910))",
+  "dcat_bbox": "ENVELOPE(-86.310,-85.930,39.910,39.610)",
+  "dcat_centroid": "39.76,-86.12",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00085\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00085\",\"label\":\"JPEG\"}]}",
+  "id": "e8df4094-a52c-4dea-af62-dd8549777883",
+  "dct_identifier_sm": [
+    "e8df4094-a52c-4dea-af62-dd8549777883"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

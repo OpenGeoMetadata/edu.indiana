@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "NO MAP - Reconstruction '93 : you'll love it down the road!",
+  "dct_description_sm": [
+    "Color map, 44 x 28 cm. Folded to 22 x 10cm.",
+    "Imprint: Indianapolis: Indiana Dept. of Transportation., [1993?]",
+    "Dimensions: 44 x 28 cm"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Indiana. Department of Transportation"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Tracts (Ephemera)"
+  ],
+  "dct_subject_sm": [
+    "Roads",
+    "Maps",
+    "Maintenance and repair"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_issued_s": "1993",
+  "gbl_indexYear_im": [
+    "1993"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "ng452k822",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00823\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/ng452k822/manifest\"}",
+  "id": "VAC3073-M-00823",
+  "dct_identifier_sm": [
+    "G4091 .P2 1992 .I53"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "General highway and transportation map, Kosciusko County, Indiana",
+  "dct_description_sm": [
+    "State roads revised to January 1, 1949.; 1937.; Data obtained from State-wide Highway Planning Survey.; Includes location map and chart of Culture in unincorporated places.; Supplementary sheet includes maps of Lake Wawasee, Tippecanoe Lake, Webster Lake, and a group of Bantam Lake, Irish Lake, Mable Lake, Plew Lake, Kuhn Lake, Barbee lake, Hammon Lake, and Heron Lake.; 49, 49A (supplementary sheet). Scale 1:130,000. not 1 inch =1 mile; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "State Highway Commission of Indiana"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads"
+  ],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    "1949"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Kosciusko County"
+  ],
+  "locn_geometry": "POLYGON((-86.08 41.43, -85.66 41.43, -85.66 41.05, -86.08 41.05, -86.08 41.43))",
+  "dcat_bbox": "ENVELOPE(-86.08,-85.66,41.43,41.05)",
+  "dcat_centroid": "41.239999999999995,-85.87",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00156\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00156\",\"label\":\"JPEG\"}]}",
+  "id": "c9de089c-2483-4f5a-85d9-fde8bd9f8b8b",
+  "dct_identifier_sm": [
+    "c9de089c-2483-4f5a-85d9-fde8bd9f8b8b"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

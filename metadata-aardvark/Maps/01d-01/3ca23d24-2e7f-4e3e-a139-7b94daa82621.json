@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Map of Muncie, Indiana: made especially for the Emerson directory, 1895-6",
+  "dct_description_sm": [
+    "Includes numbered index to businesses and other points of interest.; Shows street railways and steam railroads. Scale not given."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Hefel, Toney C., cartographer."
+  ],
+  "dct_publisher_sm": [
+    "C. Emerson"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Railroads"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "gbl_indexYear_im": [
+    "1895"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--City of Muncie"
+  ],
+  "locn_geometry": "POLYGON((-85.450 40.230, -85.310 40.230, -85.310 40.130, -85.450 40.130, -85.450 40.230))",
+  "dcat_bbox": "ENVELOPE(-85.450,-85.310,40.230,40.130)",
+  "dcat_centroid": "40.18,-85.38",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00422\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074563/LARGE\",\"label\":\"JPEG\"}]}",
+  "id": "3ca23d24-2e7f-4e3e-a139-7b94daa82621",
+  "dct_identifier_sm": [
+    "3ca23d24-2e7f-4e3e-a139-7b94daa82621"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

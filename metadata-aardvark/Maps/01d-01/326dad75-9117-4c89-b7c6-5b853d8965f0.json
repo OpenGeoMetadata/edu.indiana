@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Map of the city of Fort Wayne, Indiana",
+  "dct_description_sm": [
+    "Partial cadastral map showing landowners. Scale 1:4,800. 400 feet to 1 inch."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Huntoon, L. P., cartographer."
+  ],
+  "dct_publisher_sm": [
+    "L.P. Huntoon"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dcat_keyword_sm": [
+    "Cadastral",
+    "Landowners",
+    "Land ownership",
+    "Real property"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "gbl_indexYear_im": [
+    "1889"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Fort Wayne",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-85.300 41.180, -84.980 41.180, -84.980 40.950, -85.300 40.950, -85.300 41.180))",
+  "dcat_bbox": "ENVELOPE(-85.300,-84.980,41.180,40.950)",
+  "dcat_centroid": "41.065,-85.14",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00330\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00330\",\"label\":\"JPEG\"}]}",
+  "id": "326dad75-9117-4c89-b7c6-5b853d8965f0",
+  "dct_identifier_sm": [
+    "326dad75-9117-4c89-b7c6-5b853d8965f0"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

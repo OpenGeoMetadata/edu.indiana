@@ -1,0 +1,41 @@
+{
+  "dct_title_s": "Map showing location of sand and gravel pits in Indiana",
+  "dct_description_sm": [
+    "Black and white map. \"Base from map of Indiana, 1950 edition, published by U.S. Geological Survey. Minor revisions and additions made from Indiana Department of Conservation, Geological Survey, county base maps, \"Industrial Minerals Atlas Map No. 2\".",
+    "Imprint: [Bloomington, In.:] Indiana Department of Conservation, Geological Survey, 1952."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "J. B. Patton and Ned M. Smith."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Geological maps"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "cv43pz86r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00167\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/cv43pz86r/manifest\"}",
+  "id": "VAC3073-M-00167",
+  "dct_identifier_sm": [
+    "0.00E+00"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

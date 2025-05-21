@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Don't let construction make you a wreck!: 1997 Indiana road construction map.",
+  "dct_description_sm": [
+    "Please note ... only major highway and interstate improvement projects are included in this brochure. Information is accurate as of February 1, 1997 and is subject to change.; Includes text. Scale not given."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Indiana Dept. of Transportation"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps",
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Thematic maps",
+    "Roads"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "gbl_indexYear_im": [
+    "1997"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1997 TO 1997]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.08 41.75, -84.78 41.75, -84.78 37.76, -88.08 37.76, -88.08 41.75))",
+  "dcat_bbox": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "dcat_centroid": "39.754999999999995,-86.43",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00089\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1559725/LARGE\",\"label\":\"JPEG\"}]}",
+  "id": "34536141-3117-496b-90d3-38089aff5ffd",
+  "dct_identifier_sm": [
+    "34536141-3117-496b-90d3-38089aff5ffd"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

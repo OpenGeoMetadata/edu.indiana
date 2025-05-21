@@ -1,0 +1,43 @@
+{
+  "dct_title_s": "Montgomery Co. Ind.",
+  "dct_description_sm": [
+    "Scale approximately 1:80,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Scarborough Co."
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Montgomery County",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-87.1 40.21, -86.7 40.21, -86.7 39.86, -87.1 39.86, -87.1 40.21))",
+  "dcat_bbox": "ENVELOPE(-87.1,-86.7,40.21,39.86)",
+  "dcat_centroid": "40.035,-86.9",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00102\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074187/LARGE\",\"label\":\"JPEG\"}]}",
+  "id": "4f03816d-6179-479f-845f-612f4e2a59c0",
+  "dct_identifier_sm": [
+    "4f03816d-6179-479f-845f-612f4e2a59c0"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

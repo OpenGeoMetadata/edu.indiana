@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Drainage map, Noble County Indiana: prepared from 1938 AAA aerial photographs",
+  "dct_description_sm": [
+    "Blue line print.; 1953.; Prepared by L.R. Magnusson.; Drawn by R.C. Cordero. Scale approximately 1:63,360.; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Joint Highway Research Project, Purdue University"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Drainage"
+  ],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    "1953"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1953]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana--Noble County",
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-85.65 41.56, -85.2 41.56, -85.2 41.26, -85.65 41.26, -85.65 41.56))",
+  "dcat_bbox": "ENVELOPE(-85.65,-85.2,41.56,41.26)",
+  "dcat_centroid": "41.41,-85.42500000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00582\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00582\",\"label\":\"JPEG\"}]}",
+  "id": "0c2f1aaa-b4f2-45e5-88c5-6d8041487284",
+  "dct_identifier_sm": [
+    "0c2f1aaa-b4f2-45e5-88c5-6d8041487284"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

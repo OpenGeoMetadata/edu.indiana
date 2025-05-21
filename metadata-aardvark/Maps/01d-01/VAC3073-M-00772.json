@@ -1,0 +1,38 @@
+{
+  "dct_title_s": "Geology of Indiana",
+  "dct_description_sm": [
+    "Patton and Gray described as follows: \"A small-scale map of Indiana was preapred in 1886 by J. C. Branner, apparently in conformity with a classifcation and coloring scheme devised by an International Geological Congres.",
+    "Imprint: Bloomington, IN: Indiana University, 1886"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "J. C. Branner"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "locn_geometry": "POLYGON((-88.100 41.761, -84.785 41.761, -84.785 37.772, -88.100 37.772, -88.100 41.761))",
+  "dcat_bbox": "ENVELOPE(-88.100,-84.785,41.761,37.772)",
+  "dcat_centroid": "39.7665,-86.4425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "gbl_wxsIdentifier_s": "v979w6536",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00772\",\"http://iiif.io/api/presentation#manifest\":\"https://digitalcollections.iu.edu/concern/images/v979w6536/manifest\"}",
+  "id": "VAC3073-M-00772",
+  "dct_identifier_sm": [
+    "Not owned?"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

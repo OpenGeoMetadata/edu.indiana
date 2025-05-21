@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "General highway and transportation map, Owen County, Indiana",
+  "dct_description_sm": [
+    "Blueline.; State roads revised to January 1, 1949.; 1937.; Data obtained from State-wide Highway Planning Survey.; Includes location map, chart of Culture in unincorporated places.; 60. Scale 1:130,000. not 1 inch =1 mile; Polyconic projection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "State Highway Commission of Indiana"
+  ],
+  "schema_provider_s": "Indiana University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads"
+  ],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    "1949"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana--Owen County"
+  ],
+  "locn_geometry": "POLYGON((-87.05 39.46, -86.63 39.46, -86.63 39.16, -87.05 39.16, -87.05 39.46))",
+  "dcat_bbox": "ENVELOPE(-87.05,-86.63,39.46,39.16)",
+  "dcat_centroid": "39.31,-86.84",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00310\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00310\",\"label\":\"JPEG\"}]}",
+  "id": "493f406d-6d34-4f88-9c96-3c40e52a61e4",
+  "dct_identifier_sm": [
+    "493f406d-6d34-4f88-9c96-3c40e52a61e4"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}
